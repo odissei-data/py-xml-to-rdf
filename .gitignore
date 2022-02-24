@@ -20,3 +20,4 @@ __pycache__/
 RDF-store*
 *.pl
 *.html
+*.ipynb_checkpoints
