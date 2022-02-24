@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:58585</identifier>
+    <datestamp>2021-04-15T21:07:19Z</datestamp>
+    <setSpec>driver</setSpec>
+    <setSpec>D20000:D24000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Practice accreditation to improve cardiovascular risk management in general practice - a cluster randomized trial</ddi:titl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:58585</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-xep-4qfg</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Scientific Institute for Quality of Healthcare (IQ healthcare), Radboud University Medical Centre">Wensing, Prof.dr. M.</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Scientific Institute for Quality of Healthcare (IQ healthcare), Radboud University Medical Centre">Lieshout, J. van</ddi:AuthEnty>
+            <ddi:othId xml:lang="en" role="contributor">Funding Agency: ZonMW, projectnumber 170883001</ddi:othId>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="2014-08-22"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">primary medical care</ddi:keyword>
+            <ddi:keyword xml:lang="en">cardiovascular disease</ddi:keyword>
+            <ddi:keyword xml:lang="en">cluster randomised trial</ddi:keyword>
+            <ddi:keyword xml:lang="en">national programme for accreditation and improvement of general practice</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Health sciences</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">This dataset contains the result of a cluster randomized trial in general practice (primary medical care) in the Netherlands (registered under: NCT00791362). This study aims to determine the effectiveness and efficiency of a national accreditation and improvement programme for general practice, focusing on patients with established cardiovascular diseases.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">2008-2012</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:conditions xml:lang="en">License: http://creativecommons.org/publicdomain/zero/1.0</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:190294</identifier>
+    <datestamp>2021-04-15T21:08:16Z</datestamp>
+    <setSpec>D20000:D24000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Hand hygiene compliance in 14 Dutch long-term care facilities</ddi:titl>
+            <ddi:parTitl xml:lang="en">2017-2019</ddi:parTitl>
+            <ddi:parTitl xml:lang="en">2017-2019</ddi:parTitl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-z7e-kh44</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:190294</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University">Haenen, A.P.J. DAI=info:eu-repo/dai/nl/426307712</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University">Teerenstra, dr. S. DAI=info:eu-repo/dai/nl/263474879</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University">Liefers, drs. J. DAI=info:eu-repo/dai/nl/298204886</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University">Huis, dr. A.M.P. DAI=info:eu-repo/dai/nl/314278842</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University">Hulscher, prof. dr. M.E.J.L. DAI=info:eu-repo/dai/nl/168875608</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt/>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">Hand hygiene</ddi:keyword>
+            <ddi:keyword xml:lang="en">Compliance</ddi:keyword>
+            <ddi:keyword xml:lang="en">Nursing homes</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Health sciences</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">The datasets contains all cleaned-up data used for analyses in the research described in the manuscript by Haenen and Colleagues (in progress). The paper addresses the hand hygiene compliance of employees from 14 Nursing homes (25 wards). Hand hygiene is regarded as the most effective means of reducing healthcare related infections and is easy to perform, despite this the hand hygiene compliance of healthcare workers in divers healthcare settings is low. We designed a tailored intervention strategy to improve hand hygiene in Dutch nursing homes. we tested our implementation strategy  (CHANGE) in a stepped wedge cluster randomized trial which is based on a random sequential roll-out of the CHANGE implementation strategy to all participating LTCF wards (n=25) for comparison. A full description of the program as well as all measures is given in the method file (method-change-concept.docx). In this file you can also find a description of  the process of data collection. The syntax file contains the syntax to the ITT analysis.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">Collection period: start=2017-03-01; end=2019-03-31;</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">OPEN_ACCESS_FOR_REGISTERED_USERS</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="English"/>
+   </ddi:fileDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="Dutch"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

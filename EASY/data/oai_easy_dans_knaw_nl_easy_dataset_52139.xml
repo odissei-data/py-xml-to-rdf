@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:52139</identifier>
+    <datestamp>2021-04-15T21:06:54Z</datestamp>
+    <setSpec>driver</setSpec>
+    <setSpec>D40000:D41000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Evaluatie Bevordering Integriteitsbeoordelingen door het Openbaar Bestuur - BIBOB (projectnummer 01.018 )</ddi:titl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:52139</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-zqg-hahr</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="WODC - Wetenschappelijk Onderzoek- en Documentatiecentrum Ministerie van Justitie">Beijaard, dr. F.</ddi:AuthEnty>
+            <ddi:othId xml:lang="en" role="contributor">Organisatieadviesbureau Berenschot - Utrecht</ddi:othId>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="2012-11-14"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">Integriteitsbeoordelingen</ddi:keyword>
+            <ddi:keyword xml:lang="en">BIBOB</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Social sciences</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Science of law</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">The 'Promotion of Integrity Reviews by the Public Administration' (Bevordering Integriteitsbeoordelingen door het Openbaar Bestuur, henceforth 'BIBOB') Act will go into effect on 1 June 2003. This act will enable administrative authorities to refuse - under strict conditions - permits, subsidies or government contracts if there is a serious danger that the applicant is planning to commit punishable offences with them. Those bodies can request advice from the BIBOB Bureau as to the degree of the danger.To facilitate an evaluation of the 'BIBOB' Act - which will take place three years after the act goes into effect - a zero-measurement has been conducted. The results of that study will offer comparison material for the evaluation three years later. In preparation for the zero-measurement, an evaluative framework was set up.The zero-measurement was conducted by means of a written survey of 732 administrative authorities. In addition, there was a meeting of experts in order to test and supplement the results.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:nation abbr="NLD" xml:lang="en">The Netherlands</ddi:nation>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">OPEN_ACCESS_FOR_REGISTERED_USERS</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="nl"/>
+   </ddi:fileDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="English"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

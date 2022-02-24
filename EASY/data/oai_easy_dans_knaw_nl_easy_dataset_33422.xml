@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:33422</identifier>
+    <datestamp>2021-04-15T21:06:36Z</datestamp>
+    <setSpec>D60000:D61000</setSpec>
+    <setSpec>driver</setSpec>
+    <setSpec>D50000:D52000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Loopbaanwensen en arbeidsmobiliteit van leraren in het voortgezet onderwijs 1992</ddi:titl>
+            <ddi:parTitl xml:lang="en">Career preferences and labour mobility of teachers from schools for secondary education 1992</ddi:parTitl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:33422</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-xzt-ghx8</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en">Gennip, J.W.M.G. van, Pouwels, J.P.A., Instituut voor toegepaste sociologie, ITS * Nijmegen (primary investigator)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">J. van Gennip, ITS (depositor)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Instituut voor onderzoek van het onderwijs ( SVO ) * Den Haag
+Commissie Toekomst Leraarschap ( CTL ) * Den Haag (research initiator) </ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Instituut voor toegepaste sociale wetenschappen ( ITS ) * Nijmegen (data collector) </ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="1993-01-01"/>
+            <ddi:distDate xml:lang="en" date="2007-07-20"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">education</ddi:keyword>
+            <ddi:keyword xml:lang="en">education, secondary</ddi:keyword>
+            <ddi:keyword xml:lang="en">employment</ddi:keyword>
+            <ddi:keyword xml:lang="en">occupation</ddi:keyword>
+            <ddi:keyword xml:lang="en">work</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Educational theory</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Sociology</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Investigation into the causes of low occupational mobility of teachers in secondary education Occupational career, teaching task, legal position at school, teaching degree / job security / looking for other job / motives to throw up job at school / internal occupational mobility, wish for non-teaching tasks at school, actual non-teaching tasks done by respondent / wishes regarding r.'s career in the long run, feasibility of these wishes / experience of obstacles regarding terms of employment, internal situation at school, the labour market and personal circumstances / assessment of possible measures to create better opportunities for teachers / progress made last year in terms of job quality / r.'s readiness to make efforts / job satisfaction / importance of better opportunities. Background variables: basic characteristics/ household characteristics/ place of work/ occupation/employment</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1992 * 1992</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">OPEN_ACCESS_FOR_REGISTERED_USERS</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

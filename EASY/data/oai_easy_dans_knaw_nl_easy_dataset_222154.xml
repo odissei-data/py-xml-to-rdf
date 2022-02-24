@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:222154</identifier>
+    <datestamp>2021-10-23T05:44:56Z</datestamp>
+    <setSpec>driver</setSpec>
+    <setSpec>D50000:D53000</setSpec>
+    <setSpec>D20000:D24000</setSpec>
+    <setSpec>D60000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Dementia Friendly Initiatives: outcomes for people with dementia and their caregivers</ddi:titl>
+            <ddi:parTitl xml:lang="en">Rapid realist review</ddi:parTitl>
+            <ddi:parTitl xml:lang="en">Rapid realist review</ddi:parTitl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-x3z-8m2z</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:222154</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University">Thijssen, drs. M.C.E. DAI=info:eu-repo/dai/nl/321597621</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Daniels, R.</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Lexis, M.</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Jansens, R.</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Peeters, J.</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Chadborn, N.</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Nijhuis-vanderSanden, M.</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University">Kuijer-Siebelink, dr. W.</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University">Graff, prof. dr. M.J.L. DAI=info:eu-repo/dai/nl/30315425X</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt/>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">dementia</ddi:keyword>
+            <ddi:keyword xml:lang="en">dementia friendly initiatives</ddi:keyword>
+            <ddi:keyword xml:lang="en">dementia friendly communities</ddi:keyword>
+            <ddi:keyword xml:lang="en">realist review</ddi:keyword>
+            <ddi:keyword xml:lang="en">outcomes</ddi:keyword>
+            <ddi:keyword xml:lang="en">caregivers</ddi:keyword>
+            <ddi:keyword xml:lang="en">social participation</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Health sciences</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Gerontology</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Social sciences</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">The dataset contains all data extractions (CMO configurations) and following data analysis used for the research described by Thijssen and collegues.
+The paper describes and explains the outcomes of community dementia friendly initiatives (DFIs) for people with dementia and their caregivers to inform the development and tailoring of DFIs. DFIs are activities that aim to promote dignity, empowerment, engagement and autonomy to enable the wellbeing of people with dementia and the needs of their caregivers throughout the dementia trajectory. A rapid realist review review was conducted between April 2018 and November 2019. The description of the methodology reports the data extraction and data synthesis. The first file of each category presents an overview of the data extraction (all CMO configurations) The next files of each category are numbered referring to the steps of the data synthesis.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">Collection period: start=2018-04-01; end=2019-11-30;</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">OPEN_ACCESS_FOR_REGISTERED_USERS</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="English"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

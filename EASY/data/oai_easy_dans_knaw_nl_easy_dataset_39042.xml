@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:39042</identifier>
+    <datestamp>2021-07-27T12:54:08Z</datestamp>
+    <setSpec>driver</setSpec>
+    <setSpec>D70000</setSpec>
+    <setSpec>D50000:D52000</setSpec>
+    <setSpec>D60000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Brabantse zesdeklassers, 1952-2010</ddi:titl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-zu9-2g9w</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:39042</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en">Prof Dr J.S. Cramer</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Fac. Economie en Bedrijfskunde - Universiteit van Amsterdam</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Prof Dr C.M. van Praag</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Fac. Economie en Bedrijfskunde - Universiteit van Amsterdam</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Prof Dr J.Hartog</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Fac. Economie en Bedrijfskunde - Universiteit van Amsterdam</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Prof Dr J. Hartog</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Fac. Economie en Bedrijfskunde - Universiteit van Amsterdam</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt/>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">education</ddi:keyword>
+            <ddi:keyword xml:lang="en">school careers</ddi:keyword>
+            <ddi:keyword xml:lang="en">labour market</ddi:keyword>
+            <ddi:keyword xml:lang="en">entrepreneurship</ddi:keyword>
+            <ddi:keyword xml:lang="en">longevity</ddi:keyword>
+            <ddi:keyword xml:lang="en">onderwijs</ddi:keyword>
+            <ddi:keyword xml:lang="en">schoolloopbanen</ddi:keyword>
+            <ddi:keyword xml:lang="en">arbeidsmarkt</ddi:keyword>
+            <ddi:keyword xml:lang="en">zelfstandigen</ddi:keyword>
+            <ddi:keyword xml:lang="en">levensduur</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Social sciences</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Economics and Business Administration</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Behavioural and educational sciences</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Educational theory</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">In 1952, data about the scholastic achievements were collected for a large sample of sixth form pupils of primary schools in the Province of Noord Brabant. In 1983 and 1993, the same sample was used anew for postal surveys about further educational careers, labour market experience, and variables related to entrepreneurship. In 2000 and 2010, mortality data from public records for the period after 1994 were added.        
+To analyse the dataset on longevity aspects it is necessary to use the related dataset 'Brabantse zesdeklassers, peroonsgegevens, 1994-2010.       
+       
+Of course there has been a considerable wastage in the process: while the initial 1952 sample consisted of about 5800 individuals they could not all be located in 1983 or 1993, and moreover there was sizable nonresponse in the postal surveys. As a result, the databases of 1994 and later years refer to a reduced sample of about 3000 individuals who all participated in the 1952 survey and at least one of the 1983 and 1993 surveys.                    
+                  
+It concerns an updated and extended datacollection with complete documentation of the following 'Brabant Surveys':                    
+- Prof.Dr.J.Hartog, Universiteit van Amsterdam, Fac. Economische Wetenschappen, Vervolgonderzoek Noord-Brabantse zesde-klassers 1983                    
+- Prof.Dr.J. Hartog, Universiteit van Amsterdam, Fac. Economische Wetenschappen,                    
+Tweede Vervolgonderzoek Mathijssen-Sonnemans cohort, 1952-1993: Brabant-data                    
+- Prof.Dr. J.Dronkers - SISWO Amsterdam, M.Meester - Centraal Bureau voor de Statistiek, CBS  Voorburg, H. Schijf, Universiteit van Amsterdam, Sociologisch instituut, Veranderingen in individuele schoolloopbanen tussen 1952 en 1977 in de provincie Noord-Brabant, 1982' .</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1952-2010</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">OPEN_ACCESS_FOR_REGISTERED_USERS</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="nl"/>
+   </ddi:fileDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

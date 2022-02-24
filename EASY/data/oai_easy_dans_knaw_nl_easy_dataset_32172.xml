@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:32172</identifier>
+    <datestamp>2021-04-15T21:05:35Z</datestamp>
+    <setSpec>D50000:D52000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Opleidingsvisies in een sociale academie 1972</ddi:titl>
+            <ddi:parTitl xml:lang="en">Educational theory in schools for social work 1972</ddi:parTitl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:32172</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-xtn-6zx2</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en">Prein, H.C.M., Rijksuniversiteit Utrecht * Utrecht, Instituut voor sociale psychologie (primary investigator)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Instituut voor sociale psychologie, RUU;: Bos, W.;: Voorthuizen, H. van * Utrecht (data collector) </ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="1978-01-01"/>
+            <ddi:distDate xml:lang="en" date="2007-06-15"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">education</ddi:keyword>
+            <ddi:keyword xml:lang="en">higher education</ddi:keyword>
+            <ddi:keyword xml:lang="en">students</ddi:keyword>
+            <ddi:keyword xml:lang="en">participation</ddi:keyword>
+            <ddi:keyword xml:lang="en">curriculum</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Educational theory</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Factors of influence on academy affairs / function of social academy / educational principles / contents of educational program / organizational structure / organizational section importance of, interest in, information about, efficiency of democracy / influence on decisions / teachers consultation of students and other teachers / freedom / influence on study program / aims of certain parts of study program / role of teacher / way of judging parts of study / attitude towards many aspects of academy / motivation. Background variables: basic characteristics/ occupation/employment/ education</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1972</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">REQUEST_PERMISSION</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

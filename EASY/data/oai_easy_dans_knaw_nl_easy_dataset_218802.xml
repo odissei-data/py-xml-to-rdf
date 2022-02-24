@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:218802</identifier>
+    <datestamp>2021-08-31T15:34:49Z</datestamp>
+    <setSpec>D30000:D35000</setSpec>
+    <setSpec>easy-collection:1</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Interview Flavio Pons on Grenzeloze Inhoud</ddi:titl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-zfs-ezwu</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:218802</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="University of Amsterdam">Soulioti, BA A.S., Researcher</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="University of Amsterdam">Ducimetière, BA M.D., Researcher</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Cultural Heritage Agency of the Netherlands (RCE)">Kievits, R.K., HostingInstitution</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt/>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">Conservation and restoration of cultural heritage</ddi:keyword>
+            <ddi:keyword xml:lang="en">Oral history</ddi:keyword>
+            <ddi:keyword xml:lang="en">Artist Interview</ddi:keyword>
+            <ddi:keyword xml:lang="en">De Reis</ddi:keyword>
+            <ddi:keyword xml:lang="en">Grenzeloze Inhoud</ddi:keyword>
+            <ddi:keyword xml:lang="en">Verhalen uit een Bagagedepot</ddi:keyword>
+            <ddi:keyword xml:lang="en">Flavio Pons</ddi:keyword>
+            <ddi:keyword xml:lang="en">suitcase</ddi:keyword>
+            <ddi:keyword xml:lang="en">koffer</ddi:keyword>
+            <ddi:keyword xml:lang="en">traveling exhibition</ddi:keyword>
+            <ddi:keyword xml:lang="en">Nederlandse Kunststichting</ddi:keyword>
+            <ddi:keyword xml:lang="en">Rijkscollectie</ddi:keyword>
+            <ddi:keyword xml:lang="en">State collection</ddi:keyword>
+            <ddi:keyword xml:lang="en">contemporary art</ddi:keyword>
+            <ddi:keyword xml:lang="en">hedendaagse kunst</ddi:keyword>
+            <ddi:keyword xml:lang="en">Rijksdienst Beeldende Kunst (RBK)</ddi:keyword>
+            <ddi:keyword xml:lang="en">Rijksdienst voor het Cultureel Erfgoed (RCE)</ddi:keyword>
+            <ddi:keyword xml:lang="en">Cultural Heritage Agency of the Netherlands</ddi:keyword>
+            <ddi:keyword xml:lang="en">Materials and Technique</ddi:keyword>
+            <ddi:keyword xml:lang="en">Materiaal en techniek</ddi:keyword>
+            <ddi:keyword xml:lang="en">making process</ddi:keyword>
+            <ddi:keyword xml:lang="en">maakproces</ddi:keyword>
+            <ddi:keyword xml:lang="en">plastics</ddi:keyword>
+            <ddi:keyword xml:lang="en">University of Amsterdam</ddi:keyword>
+            <ddi:keyword xml:lang="en">Egypt</ddi:keyword>
+            <ddi:keyword xml:lang="en">Arthur Rimbaud</ddi:keyword>
+            <ddi:keyword xml:lang="en">Havana Biennale</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Humanities</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Arts and culture</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Visual artist Flavio Pons provides information regarding his artwork "Voyage a l'�tranger", which was part of the traveling exhibition Grenzeloze Inhoud of the Nederlandse Kunststichting in 1983. It comprised 12 artworks in total, each framed in a similar transparent suitcase, and is now part of the collection of the Cultural Heritage Agency of the Netherlands. Research into the material composition of the work in light of their preservation and a conservation treatment is the main focus, carried out in the context of University of Amsterdam's Master's in Conservation and Restoration of Cultural Heritage, specialization Contemporary Art. Additional information about subsequent exhibitions that Flavio Pons participated in is offered during the last part of the interview.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1983-2020</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">REQUEST_PERMISSION</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="nl"/>
+   </ddi:fileDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:32267</identifier>
+    <datestamp>2021-04-15T21:05:39Z</datestamp>
+    <setSpec>driver</setSpec>
+    <setSpec>D60000:D66000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Mediagedrag etnische groepen in Nederland 1986</ddi:titl>
+            <ddi:parTitl xml:lang="en">Media usage of ethnic minorities in the Netherlands 1986</ddi:parTitl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:32267</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-zgd-74z7</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en">Bronner, A.E., Schothorst, Y.C., Veldkamp marktonderzoek bv * Amsterdam (primary investigator)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">KIJK- EN LUISTERONDERZOEK NOS (depositor)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">NOS * Hilversum (research initiator) </ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Veldkamp marktonderzoek bv * Amsterdam (data collector) </ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="1990-01-01"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">masscommunication</ddi:keyword>
+            <ddi:keyword xml:lang="en">massmedia</ddi:keyword>
+            <ddi:keyword xml:lang="en">minorities, ethnic</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Communication sciences</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Exposure to radio and tv of ethnic minorities in the Netherlands / exposure to special ethnic programmes / reasons respondent don`t watch or listen / comments / exposure to ethnic programmes on foreign or local tv or radio / items respondent would like to see on ( ethnic ) tv or radio or in brochures / Dutch and own language papers and magazines they read, how many, how often, how well / how ethnic minorities keep informed about: own country, the Netherlands and own group in the Netherlands / possession frequency of buying video films or recording from tv / integration / orientation on own country and on the Netherlands / knowledge of Dutch / basic questions on education and work / basic test of knowledge of the Netherlands. Background variables: basic characteristics/ place of birth/ residence/ household characteristics/ occupation/employment/ education/ politics/ consumption of durables/ readership, mass media, and 'cultural' exposure</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1986</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">OPEN_ACCESS_FOR_REGISTERED_USERS</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

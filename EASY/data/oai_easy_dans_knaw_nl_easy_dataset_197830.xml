@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:197830</identifier>
+    <datestamp>2021-04-15T21:08:20Z</datestamp>
+    <setSpec>D70000</setSpec>
+    <setSpec>D60000:D62000</setSpec>
+    <setSpec>D60000:D64000</setSpec>
+    <setSpec>D30000:D34000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">European urban population, 700 - 2000</ddi:titl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-xzy-u62q</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:197830</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Utrecht University">Buringh, Dr. Dr. Ir. E.</ddi:AuthEnty>
+            <ddi:othId xml:lang="en" role="RightsHolder" affiliation="Utrecht University">Buringh, Dr. Dr. Ir. E., RightsHolder</ddi:othId>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="2021-01-12"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">Urban population</ddi:keyword>
+            <ddi:keyword xml:lang="en">City sizes</ddi:keyword>
+            <ddi:keyword xml:lang="en">Historical demography</ddi:keyword>
+            <ddi:keyword xml:lang="en">First nature geography</ddi:keyword>
+            <ddi:keyword xml:lang="en">Second nature geography</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">History</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Economics and Business Administration</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Demography</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Social geography</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">This dataset contains estimates of the urban population (in thousands of inhabitants) between the years 700 and 2000 in 2,262 European settlements. It is based on previous historical demographic sources that have been critically assessed and systematically complemented with new population estimates for additional time windows, deriving from either quantitative sources or proxies. Missing data are covered by city-specific imputations. It contains European cities with more than 100,000 inhabitants. Furthermore medieval first and second nature geographical data for all cities have been added, as well as their historical names.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">700 to 2000</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:conditions>http://creativecommons.org/publicdomain/zero/1.0</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:33122</identifier>
+    <datestamp>2021-05-10T14:35:49Z</datestamp>
+    <setSpec>D60000:D61000</setSpec>
+    <setSpec>driver</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Sociaal-culturele ontwikkelingen in Nederland, 2000 - SOCON 2000</ddi:titl>
+            <ddi:parTitl xml:lang="en">Religion in Dutch society, 2000 - SOCON 2000</ddi:parTitl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-zz9-abbc</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:33122</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud Universiteit Nijmegen, vakgroep Maatschappijwetenschappen">Eisinga, R.N. DAI=info:eu-repo/dai/nl/074277707</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud Universiteit Nijmegen, vakgroep Maatschappijwetenschappen">Coenders, M.T.A. DAI=info:eu-repo/dai/nl/229501982</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud Universiteit Nijmegen, vakgroep Maatschappijwetenschappen">Felling, A.J.A. DAI=info:eu-repo/dai/nl/069463409</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud Universiteit Nijmegen, vakgroep Maatschappijwetenschappen">Grotenhuis, M. te</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud Universiteit Nijmegen, vakgroep Maatschappijwetenschappen">Oomens, S.</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud Universiteit Nijmegen, vakgroep Maatschappijwetenschappen">Scheepers, P.L.H. DAI=info:eu-repo/dai/nl/072162090</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">R.N. Eisinga, Maatschappijwetenschappen, Radboud Universiteit Nijmegen, Methoden en Technieken (fsw) (depositor)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">ITS, Wetenschap voor beleid en samenleving, Nijmegen (data collector)</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt/>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">gender roles</ddi:keyword>
+            <ddi:keyword xml:lang="en">interpersonal relations</ddi:keyword>
+            <ddi:keyword xml:lang="en">mental health</ddi:keyword>
+            <ddi:keyword xml:lang="en">minorities</ddi:keyword>
+            <ddi:keyword xml:lang="en">occupation</ddi:keyword>
+            <ddi:keyword xml:lang="en">politics</ddi:keyword>
+            <ddi:keyword xml:lang="en">religion</ddi:keyword>
+            <ddi:keyword xml:lang="en">church</ddi:keyword>
+            <ddi:keyword xml:lang="en">christianity</ddi:keyword>
+            <ddi:keyword xml:lang="en">values and beliefs</ddi:keyword>
+            <ddi:keyword xml:lang="en">political awareness</ddi:keyword>
+            <ddi:keyword xml:lang="en">conservation</ddi:keyword>
+            <ddi:keyword xml:lang="en">childhood</ddi:keyword>
+            <ddi:keyword xml:lang="en">education</ddi:keyword>
+            <ddi:keyword xml:lang="en">Gebruikersreview</ddi:keyword>
+            <ddi:keyword xml:lang="en">SOCON</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Social sciences</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Sociology</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Social relevance of Christian religion in the Netherlands.
+
+Social characteristics / intimate relationships / division of care and household work / education / employment / social integration / intra-generational occupational mobility / intergenerational educational and occupational mobility / educational and occupational homogamy / traditional achievement values / traditional family values / social criticism / hedonistic values / r.' s past and present church membership / r'.s past and present church attendance / r'.s religious upbringing / membership non-Christian religious group / parents' past and present church membership / partners past and present church membership / past and present church membership of best friends and family / Christian, transcendental and world-directed interpretation and denial existence ultimate reality Christian and world-directed interpretation and denial of meaning of life, suffering and death / Christian and world-directed interpretation of good and evil / salience of religion and world view / religious surroundings / anthropomorphic and non-anthropomorphic images of God, theism, and individual, social and cosmic panentheism / external, internal and quest religious orientation / religious and mystic experiences and prayer / economic and cultural conservatism / political party preference, (post)materialism, political orientation, interest in politics / legitimacy of government decisions / primary relationship / attitudes towards homosexuality / attitude towards ethnic minorities / subjectively perceived threat / ethnic distance / ethnic discrimination / authoritarianism / anomie / utilitarian individualism / social trust individual and group deprivation / policy matters with regard to ethnic minorities / exposure to ethnic minorities / received and given help behaviour / financial help behaviour / pro-social orientation / attitude towards relationship men and nature / interaction with nature / proximity of nature / action willingness for nature / physical and mental illness / perception of chronic stress / acute negative life-events / stressful events during childhood and adolescence / physical family history mental health / social functioning.
+    
+The data- and documentation files of this dataset can be downloaded via the option Data Files.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">2000 and 2001</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">OPEN_ACCESS_FOR_REGISTERED_USERS</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

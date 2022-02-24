@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:64264</identifier>
+    <datestamp>2021-04-15T21:07:28Z</datestamp>
+    <setSpec>driver</setSpec>
+    <setSpec>D70000</setSpec>
+    <setSpec>D60000:D66000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Investigating the effects of location-based advertising in the supermarket: Does goal congruence trump location congruence?</ddi:titl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-xby-t8zx</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:64264</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University">Riet, dr. J.P. van 't DAI=info:eu-repo/dai/nl/322598850</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University">Ketelaar, dr. P.E. DAI=info:eu-repo/dai/nl/298380056</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University">Konig, dr. R.P. DAI=info:eu-repo/dai/nl/159621259</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="2016-04-01"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">Location-based advertising</ddi:keyword>
+            <ddi:keyword xml:lang="en">interactive advertising</ddi:keyword>
+            <ddi:keyword xml:lang="en">digital communication</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Communication sciences</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Economics and Business Administration</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Advertising professionals have great expectations of Location-Based Advertising (LBA). The present study therefore set out to investigate whether ads that are tailored to consumers’ location are indeed more effective than ads that are not. In addition it was investigated whether LBA is particularly likely to be effective when the ad is not only location-congruent, but also relevant to
+consumers’ goals. Therefore, a 2 (location congruence) X 2 (goal relevance) experimental design was employed. These expectations were borne out: the location-congruent ad resulted in more purchases than the location-incongruent ad, but only when the ad was high in goal relevance. These results suggest that it is only profitable for advertisers to send ‘local’ messages when these messages are relevant.
+
+Participants were 139 Dutch adults, who were recruited through a market-research company. Of all participants, 65 (46.8%) were women, 60 participants (43.2%) had finished tertiary education, and the mean age was M(SD) = 38.9(15.0).  The research setting was a Virtual Supermarket (VSM), where participants received a short grocery list with the instruction to purchase the listed products. The following variables were assessed: manipulation checks of goal relevance, manipulation checks of location congruence, purchase behaviour, presence, perceived ad intrusiveness, ad receptiveness, ad attitude. Furthermore, perceived entertainment value of the app, and irritation, value, informativeness, ease of use, credibility with regards to the app were assessed. Finally, the following stable individual differences were assessed: product involvement, privacy concerns, attitude towards advertising in general, and personal innovativeness.
+
+The dataset contains the following files:
+- Mother (raw) data: 2016_Vantriet_Investigating the effects of location-based_mother data (including a portable file)
+- Edited data including recodes and constructed scale: 2016_Vantriet_Investigating the effects of location-based_edited_data (including a portable file)
+- Syntax for scale construction and analyses: 2016_Vantriet_Investigating the effects of location-based_syntax from mother to edited
+- Questionnaire: 2016_Vantriet_Investigating the effects of location-based_questions
+- Codebook containing details on the dataset: 2016_Vantriet_Investigating the effects of location-based_codebook</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">start=2013-08-01; end=2013-10-01;</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">OPEN_ACCESS_FOR_REGISTERED_USERS</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="English"/>
+   </ddi:fileDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="Dutch"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

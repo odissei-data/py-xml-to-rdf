@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:34131</identifier>
+    <datestamp>2021-04-15T21:06:39Z</datestamp>
+    <setSpec>D40000:D42000:D42100</setSpec>
+    <setSpec>D60000:D61000</setSpec>
+    <setSpec>D70000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Verwijzing naar de data van: Database Developing World - DDW</ddi:titl>
+            <ddi:parTitl xml:lang="en">Data Infrastructure for Research and Policy Analysis</ddi:parTitl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:34131</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-28t-84c5</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en">Jeroen Smits - Radboud University Nijmegen - Department of Economics</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt/>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">Developing countries</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Economics and Business Administration</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Political science</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Social sciences</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Sociology</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">In the last decades, many large-scale representative household surveys have been conducted in developing countries. In these surveys, for millions of individuals, demographic, socio-economic, health and other information has been collected. At this moment, the data from these surveys cover over 100 countries in all regions of the developing world.           
+          
+In the Database Developing World (DDW) these datasets are brought together, made comparable, and enriched with contextual data at the subnational and national level. In this way, a unique window to the developing world is created that makes it possible to study important processes taking place there on a scale and with a degree of detail that has never been possible before.</ddi:abstract>
+         <ddi:sumDscr/>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">NO_ACCESS</ddi:restrctn>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

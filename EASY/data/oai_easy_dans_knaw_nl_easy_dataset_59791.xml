@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:59791</identifier>
+    <datestamp>2021-04-15T21:07:19Z</datestamp>
+    <setSpec>D50000:D52000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Longitudinal data (2010-2012) on the effectiveness of mathematics mini-games in Dutch primary schools, collected in the BRXXX project</ddi:titl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:59791</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-xda-bn9c</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Freudenthal Institute, Faculty of Science &amp; Faculty of Social and Behavioural Sciences, Utrecht University">Heuvel-Panhuizen, Prof. Dr. M.H.A.M. van den DAI=info:eu-repo/dai/nl/069266255</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University Nijmegen; previously Freudenthal Institute, Utrecht University">Bakker, Dr. M. DAI=info:eu-repo/dai/nl/355337770</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Federal Institute for Education Research, Innovation and Development of the Austrian School System, Salzburg, Austria">Robitzsch, Dipl.Math. A.</ddi:AuthEnty>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Freudenthal Institute, Utrecht University">Borkulo, Dr. S.P. van DAI=info:eu-repo/dai/nl/297554727</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Freudenthal Institute, Utrecht University; OBS de Koekoek, Utrecht">Loomans, J.M.M.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor">OnderwijsBewijs, Ministry of Education, the Netherlands (funder of the research)</ddi:othId>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="2014-11-11"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">mathematics education</ddi:keyword>
+            <ddi:keyword xml:lang="en">educational computer games</ddi:keyword>
+            <ddi:keyword xml:lang="en">game-based learning</ddi:keyword>
+            <ddi:keyword xml:lang="en">multiplication and division</ddi:keyword>
+            <ddi:keyword xml:lang="en">primary education</ddi:keyword>
+            <ddi:keyword xml:lang="en">effect study</ddi:keyword>
+            <ddi:keyword xml:lang="en">longitudinal study</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Educational theory</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">This dataset consisting of longitudinal data gathered in the BRXXX project, which aimed at investigating the effectiveness of online mathematics mini-games in enhancing primary school students’ multiplicative reasoning ability. The dataset includes data of 719 students from 35 primary schools in the Netherlands, who were followed from end Grade 1 (Dutch “groep 3”) to end Grade 3 (Dutch “groep 5”. Participating schools were randomly divided over three experimental conditions (playing at school, at home, or at home with debriefing at school) and a control group. Tests of multiplicative ability were administered at the end of Grade 1 (pretest) and the end of Grade 2 and Grade 3 (posttests), measuring students’ knowledge of multiplication number facts, their skills in calculating multiplicative problems, and their insight in multiplicative number relations. In addition to the scores on these tests, the dataset includes measures of gameplay behavior, i.e. the time and effort students put in the games, and some student background variables.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">2010-2012</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">REQUEST_PERMISSION</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

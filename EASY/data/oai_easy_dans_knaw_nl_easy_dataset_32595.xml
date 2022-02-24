@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:32595</identifier>
+    <datestamp>2021-04-15T21:05:56Z</datestamp>
+    <setSpec>driver</setSpec>
+    <setSpec>D40000:D42000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">European Communities Studies, 1970-1992, cumulative file</ddi:titl>
+            <ddi:parTitl xml:lang="en">European Communities Studies, 1970-1992, cumulative file</ddi:parTitl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-xt6-h28h</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:32595</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en">Inglehart, R., University of Michigan * Ann Arbor, MI., USA, Center for political studies, Reif, K., Melich, A., Commission of the European Communities * Brussels, Belgium (primary investigator)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Dimarso * Brussels, Belgium
+Marketing Unit * Belgium
+Gallup marked analyse * Copenhagen, Denmark
+GFK Danmark * Denmark
+Emnid Institut * Bielefeld, Germany
+Sample Institut * Germany
+ICAP sa * Athens, Greece
+KEME * Athens, Greece
+Gallup sa * Madrid, Spain
+CIMEI * Madrid, Spain
+Institut de Sondages lavialle * France
+TMO Consultants * France
+Irish Marketing Surveys ltd * Dublin, Ireland
+Lansdowne Market Research * Ireland
+Doxa * Milan, Italy
+Pragma * Italy
+ILRES * Luxembourg
+NIPO * Amsterdam, the Netherlands
+NORMA * Lisbon, Portugal
+Social Surveys ( Gallup Poll ) ltd. * London, Great Britain
+NOP Corporate and Financial * London, Great Britain
+Ulster Marketing Services * Northern Ireland (data collector) </ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="1995-01-01"/>
+            <ddi:distDate xml:lang="en" date="2007-07-02"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">political science</ddi:keyword>
+            <ddi:keyword xml:lang="en">european community</ddi:keyword>
+            <ddi:keyword xml:lang="en">politics, internal</ddi:keyword>
+            <ddi:keyword xml:lang="en">politics, international</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Political and administrative sciences</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Regular monitoring of social and political attitudes of residents of the member nations of the European Community are cumulated in one file. Satisfaction with democracy / overall life satisfaction / desired social change / first and second most important national political goal / European unification / support of the common market / life expectations / danger of war, nuclear energy, income inequality, terrorism, government management, military defence, environmental pollution / materialist/post-materialist values index / cognitive mobilization index. Background variables: basic characteristics/ residence/ housing situation/ household characteristics/ occupation/employment/ education/ social class/ politics/ religion/ organizational membership</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1970 * 1992</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">OPEN_ACCESS_FOR_REGISTERED_USERS</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

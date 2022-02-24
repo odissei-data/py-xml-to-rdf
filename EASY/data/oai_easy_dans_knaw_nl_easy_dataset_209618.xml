@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:209618</identifier>
+    <datestamp>2021-08-05T05:45:04Z</datestamp>
+    <setSpec>driver</setSpec>
+    <setSpec>D60000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">A global analysis of the impact of COVID-19 stay at home restrictions on crime</ddi:titl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-xuf-a75p</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:209618</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Utrecht University">Nivette, Dr AE</ddi:AuthEnty>
+            <ddi:othId xml:lang="en" role="RightsHolder" affiliation="Utrecht University">Nivette, Dr AE, RightsHolder</ddi:othId>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="2021-05-04"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">COVID-19</ddi:keyword>
+            <ddi:keyword xml:lang="en">counts of crime</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Social sciences</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Abstract: The stay at home restrictions to control the spread of COVID-19 led to unparalleled sudden change in daily life, but it is unclear how they affected urban crime globally. We collected data on daily counts of crime in 26 cities across 22 countries in the Americas, Europe, the Middle East and Asia. We conducted interrupted time series analyses to assess the impact of stay at home restrictions on different types of crime in each city. Our findings show that the stay at home policies were associated with a considerable drop in urban crime, but with substantial variation across cities and types of crime. Meta-regression results showed that more stringent restrictions over movement in public space were predictive of larger declines in crime.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">2018-2020</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:conditions>http://creativecommons.org/licenses/by/4.0</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

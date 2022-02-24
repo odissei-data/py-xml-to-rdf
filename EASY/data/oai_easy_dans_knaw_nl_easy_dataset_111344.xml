@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:111344</identifier>
+    <datestamp>2021-04-15T21:07:51Z</datestamp>
+    <setSpec>D50000:D51000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Log-based behavoral and self-reported personal qualities in educational assessments</ddi:titl>
+            <ddi:parTitl xml:lang="en">Predictive Validity of Self-Reported Measures and Log-based Behavioral Measures of Personal Qualities in Large-Scale International Educational Surveys</ddi:parTitl>
+            <ddi:parTitl xml:lang="en">Predictive Validity of Self-Reported Measures and Log-based Behavioral Measures of Personal Qualities in Large-Scale International Educational Surveys</ddi:parTitl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-xgs-bdqt</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:111344</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="DIPF">He, DR J, ProjectLeader</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt/>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Psychology</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Personal qualities and skills such as perseverance and deep learning are important to assess and monitor for educational purposes, but their measurement in cross-cultural assessments is challenging. Conventional self-reported measures suffer from biases which can produce paradoxical results and pose difficulties to draw meaningful comparative inferences. We propose a new source of behavioral measures constructed unobtrusively from computer-generated logs in addition to self-reported measures. Using data from two large-scale educational surveys, we tested the convergent and predictive validity of self-reported and behavioral measures, and found that the behavioral measures are resistant to the self-presentation style or reference group effect, hence can compensate for the limitations of self-reports in cross-cultural analysis. We also illustrate the complementary nature of both measures, and encourage researchers to apply them integratively in educational evaluations.</ddi:abstract>
+         <ddi:sumDscr/>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">REQUEST_PERMISSION</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="nl"/>
+   </ddi:fileDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

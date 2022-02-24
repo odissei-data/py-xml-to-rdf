@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:33439</identifier>
+    <datestamp>2021-04-15T21:06:37Z</datestamp>
+    <setSpec>D60000:D61000</setSpec>
+    <setSpec>driver</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Culturele Veranderingen in Nederland 1986 - CV'86</ddi:titl>
+            <ddi:parTitl xml:lang="en">Cultural changes in the Netherlands 1986 - CV'86</ddi:parTitl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-znd-k7ek</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:33439</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Sociaal en Cultureel Planbureau, SCP * Den Haag">Becker, J.W. DAI=info:eu-repo/dai/nl/068364121</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Sociaal en Cultureel Planbureau, SCP * Den Haag (primary investigator)">Nauta, A.N.</ddi:AuthEnty>
+            <ddi:othId xml:lang="en" role="contributor">Sociaal en Cultureel Planbureau, SCP * Den Haag (research initiator)</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor">Nederlands Instituut voor de Publieke Opinie en het marktonderzoek, NIPO * Amsterdam (data collector)</ddi:othId>
+         </ddi:rspStmt>
+         <ddi:distStmt/>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">sociology</ddi:keyword>
+            <ddi:keyword xml:lang="en">welfare</ddi:keyword>
+            <ddi:keyword xml:lang="en">sexuality</ddi:keyword>
+            <ddi:keyword xml:lang="en">employment</ddi:keyword>
+            <ddi:keyword xml:lang="en">family life</ddi:keyword>
+            <ddi:keyword xml:lang="en">finance</ddi:keyword>
+            <ddi:keyword xml:lang="en">crime</ddi:keyword>
+            <ddi:keyword xml:lang="en">environment</ddi:keyword>
+            <ddi:keyword xml:lang="en">childrearing</ddi:keyword>
+            <ddi:keyword xml:lang="en">work</ddi:keyword>
+            <ddi:keyword xml:lang="en">massmedia</ddi:keyword>
+            <ddi:keyword xml:lang="en">religion</ddi:keyword>
+            <ddi:keyword xml:lang="en">politics, internal</ddi:keyword>
+            <ddi:keyword xml:lang="en">discrimination</ddi:keyword>
+            <ddi:keyword xml:lang="en">education</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Social sciences</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Sociology</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Trend study on changes in general opinions and attitudes of ( parts of ) the Dutch population.
+
+Work, income versus leisure / job satisfaction, pressure of work / satisfaction with life, prosperity / social contacts / mass-media, exposure to news and politics / prosperity, materialism / attitude towards consumer credit / expected developments in society / conservatism / need for higher tax-rates, higher public spendings / personal feelings, worries about life, health, politics, housing, family income / expected and desired development of personal incomes and social benefits / abuse of social securities / image of the unemployed and recipients of disablement insurance benefits, moonlighting / level of benefits, inequality of incomes / employee participation / fundamental rights of citizens / structure and aims of school system / freedom of speech, strike, demonstration etc. / religious dogmatism, conservatism, permissiveness / religion and politics, social life / perception of crime, alternative punishment / student participation / political left, right items, political efficacy, political interest, trust in politics / concern with environment, who is responsible / confidence in future of society / permissiveness towards various ways of social protest and counteractions from authorities / social contrasts / expected changes in society next 15 years / influence of unions and employers on national policy / doing domestic work, problems with it / perception of marriage: working women with young children, divorce, adoption, fidelity, education, standards and values / euthanasia / advices to friends with domestic problems / rights of homosexuals / equal rights for different social groups to housing, job, career / discrimination of ethnic groups / ( dis- )advantages of being unemployed / public versus individual spendings, responsibilities for education, social services, public transport. Museums, health services.
+
+Background variables: basic characteristics/ residence/ household characteristics/ characteristics of parental family/household/ occupation/employment/ income/capital assets/ education/ politics/ religion/ readership, mass media, and 'cultural' exposure/ organizational membership.
+
+Culturele veranderingen in Nederland 1985 - CV'85</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:nation abbr="NLD" xml:lang="en">The Netherlands</ddi:nation>
+            <ddi:collDate event="single">1986</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">OPEN_ACCESS_FOR_REGISTERED_USERS</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="nl"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

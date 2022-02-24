@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:32971</identifier>
+    <datestamp>2021-04-15T21:04:59Z</datestamp>
+    <setSpec>D60000:D61000</setSpec>
+    <setSpec>driver</setSpec>
+    <setSpec>D50000:D52000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Functionele ongeletterdheid in Nederland 1990</ddi:titl>
+            <ddi:parTitl xml:lang="en">Functional illiteracy in the Netherlands 1990</ddi:parTitl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:32971</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-xus-hpbw</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Landelijk studie- en ontwikkelingscentrum volwasseneneducatie, SVE  * Amersfoort">Doets, C. DAI=info:eu-repo/dai/nl/069143668</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Landelijk studie- en ontwikkelingscentrum volwasseneneducatie, SVE  * Amersfoort (primary investigator)">Groen, P. DAI=info:eu-repo/dai/nl/150818068</ddi:AuthEnty>
+            <ddi:othId xml:lang="en" role="contributor">Stuurgroep Internationaal Jaar van de Alfabetisering * Amersfoort (research initiator)</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor">SVE * Amersfoort (data collector)</ddi:othId>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="1993-01-01"/>
+            <ddi:distDate xml:lang="en" date="2007-07-20"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">education</ddi:keyword>
+            <ddi:keyword xml:lang="en">education, adult</ddi:keyword>
+            <ddi:keyword xml:lang="en">minorities, ethnic</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Educational theory</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Sociology</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Nature and extent of adult illiteracy among the Dutch, Moroccan, Surinam end Turkish population in the Netherlands. 1. Native country / age at which r. came to the Netherlands / whether r. ever went back to his-her native country for a period longer than 6 months / education in the Netherlands, Surinam, Morocco, Turkey / whether r. is attending any classes / 2. Speaking and understanding of the Dutch language: importance of speaking Dutch in different situations/ frequency and ability of speaking Dutch/ ability to understand Dutch / 3. Writing and reading: absenteeism at the elementary school in the Netherlands/ whether r. got extra lessons in reading/ satisfaction with reading lessons/ whether r. was a good, an average or a weak pupil / language in which r. learned to read and to write/ language r. is using most frequently for writing and reading/ following classes to improve writing in Dutch/ whether r. is familiar with the recently developed type of adult education: 'basic education' ( basis educatie ) / interest in this type of adult education / 4. Writing and reading skills ( readings tests ) / writing - and reading ability of figures and words: frequency and importance / writing - and reading ability of instructions for use: frequency and importance / reading ability of fiction and its importance / reading ability of short-extensive advertisements, short-extensive announcements, short-extensive official letters, and public information: importance and frequency / reading ability of tv - and film subtitles: frequency and importance.
+
+Background variables: basic characteristics/ place of birth/ residence/ housing situation/ occupation/employment/ education</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1990</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">OPEN_ACCESS_FOR_REGISTERED_USERS</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

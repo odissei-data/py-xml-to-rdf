@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:64209</identifier>
+    <datestamp>2021-04-15T21:07:27Z</datestamp>
+    <setSpec>driver</setSpec>
+    <setSpec>D30000:D31000</setSpec>
+    <setSpec>D10000:D16000:D16400</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Dissertations and Data</ddi:titl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-xg6-xnj4</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:64209</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="University of Lille 3">Schöpfel, Dr. J.</ddi:AuthEnty>
+            <ddi:othId xml:lang="en" role="contributor">GreyNet International, Grey Literature Network Service</ddi:othId>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="2016-03-24"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">open science</ddi:keyword>
+            <ddi:keyword xml:lang="en">open data</ddi:keyword>
+            <ddi:keyword xml:lang="en">open access</ddi:keyword>
+            <ddi:keyword xml:lang="en">institutional repository</ddi:keyword>
+            <ddi:keyword xml:lang="en">data repository</ddi:keyword>
+            <ddi:keyword xml:lang="en">research data</ddi:keyword>
+            <ddi:keyword xml:lang="en">research data management</ddi:keyword>
+            <ddi:keyword xml:lang="en">electronic theses and dissertations</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Paleography, bibliology, bibliography, library science</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Information systems, databases</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">We present the results of a quantitative assessment of research data produced and submitted with dissertations Special attention is paid to the size of the research data in appendices, to their presentation and link to the text, to their sources and typology, and to their potential for further research. The discussion puts the focus on legal aspects (database protection, intellectual property, privacy, third-party rights) and other barriers to data sharing, reuse and dissemination through open access.
+Another part adds insight into the potential handling of these data, in the framework of the French and Slovenian dissertation infrastructures. What could be done to valorize these data in a centralized system for electronic theses and dissertations (ETDs)? The topics are formats, metadata (including attribution of unique identifiers), submission/deposit, long-term preservation and dissemination. This part will also draw on experiences from other campuses and make use of results from surveys on data management at the Universities of Berlin and Lille.</ddi:abstract>
+         <ddi:sumDscr/>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:conditions xml:lang="en">License: http://creativecommons.org/publicdomain/zero/1.0</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="fr"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

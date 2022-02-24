@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:33309</identifier>
+    <datestamp>2021-04-15T21:05:00Z</datestamp>
+    <setSpec>D60000:D61000</setSpec>
+    <setSpec>driver</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Taakverdeling onder partners 1998</ddi:titl>
+            <ddi:parTitl xml:lang="en">Sharing domestic tasks by partners 1998</ddi:parTitl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:33309</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-xx2-k42r</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en">Keuzenkamp, S., Sociaal en cultureel planbureau, SCP * Den Haag (primary investigator)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">I.A.L. Stoop, SCP (depositor)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Sociaal en cultureel planbureau, SCP * Den Haag (research initiator) </ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">GfK Nederland BV (data collector) </ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="2000-01-01"/>
+            <ddi:distDate xml:lang="en" date="2007-07-25"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">family life</ddi:keyword>
+            <ddi:keyword xml:lang="en">gender roles</ddi:keyword>
+            <ddi:keyword xml:lang="en">interpersonal relations</ddi:keyword>
+            <ddi:keyword xml:lang="en">living conditions</ddi:keyword>
+            <ddi:keyword xml:lang="en">working women</ddi:keyword>
+            <ddi:keyword xml:lang="en">children</ddi:keyword>
+            <ddi:keyword xml:lang="en">gender</ddi:keyword>
+            <ddi:keyword xml:lang="en">domestic responsabilities</ddi:keyword>
+            <ddi:keyword xml:lang="en">time</ddi:keyword>
+            <ddi:keyword xml:lang="en">employment</ddi:keyword>
+            <ddi:keyword xml:lang="en">income</ddi:keyword>
+            <ddi:keyword xml:lang="en">finance</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Sociology</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Survey concerning sharing of domestic tasks by partners,  use of facilities, and division of responsibilities. Everyday life and daily activities / working situation / living conditions / income / support from family, friends and  neighbours / household composition / facilities to combine a job  with care for children / time-spending / dividing domestic tasks /  care for children / financial situation / family planning /  gender roles / attitudes towards women's liberation, childcare, and  work Background variables: basic characteristics/ housing situation/ household characteristics/ occupation/employment/ income/capital assets/ education/ consumption of durables</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1998</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">OPEN_ACCESS_FOR_REGISTERED_USERS</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

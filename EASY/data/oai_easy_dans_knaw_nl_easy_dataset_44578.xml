@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:44578</identifier>
+    <datestamp>2021-04-15T21:04:51Z</datestamp>
+    <setSpec>driver</setSpec>
+    <setSpec>D40000:D42000</setSpec>
+    <setSpec>D40000:D41000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">International Crime Victims Surveys - ICVS - 1989, 1992, 1996, 2000, 2005</ddi:titl>
+            <ddi:parTitl xml:lang="en">European Survey on Crime and Safety - EU ICS 2005</ddi:parTitl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:44578</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-xnj-rmb2</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en">Drs. J.N. van Kesteren</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Tilburg University - International Victimology Institute</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Marisca Brouwer - WODC - Ministerie van Justitie</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Sami Nevala</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt/>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">vandalism</ddi:keyword>
+            <ddi:keyword xml:lang="en">robbery</ddi:keyword>
+            <ddi:keyword xml:lang="en">pickpocketing</ddi:keyword>
+            <ddi:keyword xml:lang="en">thefts</ddi:keyword>
+            <ddi:keyword xml:lang="en">sexual harassement</ddi:keyword>
+            <ddi:keyword xml:lang="en">violence</ddi:keyword>
+            <ddi:keyword xml:lang="en">police behaviour</ddi:keyword>
+            <ddi:keyword xml:lang="en">punishment</ddi:keyword>
+            <ddi:keyword xml:lang="en">detention</ddi:keyword>
+            <ddi:keyword xml:lang="en">victimization</ddi:keyword>
+            <ddi:keyword xml:lang="en">crime</ddi:keyword>
+            <ddi:keyword xml:lang="en">safety</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Social sciences</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Political and administrative sciences</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Science of law</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Integrated Database from the International Crime Victims Survey - ICVS 1989-2005, and the European Survey on Crime and Safety - EU ICS 2005. The ICVS is a programme of standardised sample surveys  to look at householders’ experience with crime, policing, crime prevention and feelings of unsafety in a large number of countries.                   
+The ICVS became operational in 1989. The main object was to seek advancement in international comparative criminological research, beyond the constraints of officially recorded crime data. The next sweeps of the ICVS surveys took place in 1992, 1996 and 2000. With its fifth sweep in 2005 the initiative has developed into a truly unique global project. Over a time span of fifteen years more than 300,000  people were interviewed about their experiences with victimisation and related subjects in 78 different countries.  The ICVS is the most comprehensive instrument developed yet to monitor  and study volume crimes, perception of crime and attitudes towards the criminal justice system in a comparative, international perspective. The data are from surveys amongst the general public and therefore not influenced by political or ideological agendas of governments of individual countries. Standardisation of questionnaires used and other aspects of data collection assure that data can, within confidence margins, be reliably compared across countries.  
+
+The ICVS-2 (2010) is the responsibility of the Dutch WODC (Ministry of Justice) and the British Home Office.  The 2010 data (a pilot held in 6 countries) will probably become available  in 2012.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1989</ddi:collDate>
+            <ddi:collDate event="single">1992</ddi:collDate>
+            <ddi:collDate event="single">1996</ddi:collDate>
+            <ddi:collDate event="single">2000</ddi:collDate>
+            <ddi:collDate event="single">2005</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:conditions xml:lang="en">License: http://creativecommons.org/publicdomain/zero/1.0</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

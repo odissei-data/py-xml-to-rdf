@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:32169</identifier>
+    <datestamp>2021-04-15T21:05:35Z</datestamp>
+    <setSpec>driver</setSpec>
+    <setSpec>D60000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Publieke opinie over krijgsmacht en defensie 1982</ddi:titl>
+            <ddi:parTitl xml:lang="en">Military force and defense 1982</ddi:parTitl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:32169</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-zqp-htc9</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en">Meulen, J.S. van der, Stichting maatschappij en krijgsmacht * Den Haag (primary investigator)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Stichting maatschappij en krijgsmacht * Den Haag (research initiator)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Nederlands instituut voor de publieke opinie en het marktonderzoek, NIPO * Amsterdam (data collector)</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="1982-01-01"/>
+            <ddi:distDate xml:lang="en" date="2007-06-22"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">public opinion</ddi:keyword>
+            <ddi:keyword xml:lang="en">military affairs</ddi:keyword>
+            <ddi:keyword xml:lang="en">international relations</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Social sciences</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Study of public opinion concerning actual themes of military force and defense. Necessity and quality of army / war and peace / quality of soldiers / necessary freedom for soldiers / professional, voluntary and compulsory service / NATO and Warsaw- pact / East-West detente / arms reduction / nuclear weapons / neutron bomb / role United States in defense of Europe. Background variables: basic characteristics/ residence/ occupation/employment/ income/capital assets/ politics/ religion/ organizational membership</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1982</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">OPEN_ACCESS_FOR_REGISTERED_USERS</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

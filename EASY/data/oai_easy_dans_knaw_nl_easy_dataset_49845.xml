@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:49845</identifier>
+    <datestamp>2021-04-15T21:06:51Z</datestamp>
+    <setSpec>D30000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Digital history of neuromarketing</ddi:titl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:49845</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-zm8-547x</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en">Dr. Clement Levallois</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Erasmus Research Institute of Management</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Erasmus University Rotterdam</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Clement Levallois</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Ale Smidts</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Paul Wouters</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Nicoline Beun</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="2012-04-26"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">Neuromarketing</ddi:keyword>
+            <ddi:keyword xml:lang="en">Neuromarketing history</ddi:keyword>
+            <ddi:keyword xml:lang="en">Zotera Archive</ddi:keyword>
+            <ddi:keyword xml:lang="en">Online items</ddi:keyword>
+            <ddi:keyword xml:lang="en">Data visualization</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Humanities</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">History of neuromarketing through the collection of online items, archived in a Zotero archive.
+This project conducted in 2009 recorded all instances of webpages mentioning 'neuromarketing', with a Google search on this term, plus a search on the Lexis Nexis Database.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">From the origins of neuromarketing (2002) to 2008. 2009 is also covered, but not complete.</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">NO_ACCESS</ddi:restrctn>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

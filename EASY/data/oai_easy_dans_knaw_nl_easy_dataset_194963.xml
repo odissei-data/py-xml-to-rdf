@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:194963</identifier>
+    <datestamp>2021-04-15T21:08:19Z</datestamp>
+    <setSpec>D20000:D24000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Exploring infection prevention practices and its determinants in Dutch home-based nursing care, 2019-2020</ddi:titl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-zz3-aszh</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:194963</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University">Huis, dr. A.M.P. DAI=info:eu-repo/dai/nl/314278842</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University">Wendt, MSc B. DAI=info:eu-repo/dai/nl/426308956</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University">Hulscher, prof. dr. M. DAI=info:eu-repo/dai/nl/168875608</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University">Huisman-de Waal, dr. G.J. DAI=info:eu-repo/dai/nl/314280065</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University">Hautvast, dr. J.L.A. DAI=info:eu-repo/dai/nl/18650814X</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt/>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">Infection Control [Mesh]</ddi:keyword>
+            <ddi:keyword xml:lang="en">Hand Hygiene [Mesh]</ddi:keyword>
+            <ddi:keyword xml:lang="en">Home-based Nursing Care</ddi:keyword>
+            <ddi:keyword xml:lang="en">Barriers</ddi:keyword>
+            <ddi:keyword xml:lang="en">Facilitators</ddi:keyword>
+            <ddi:keyword xml:lang="en">Qualitative Research [Mesh]</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Health sciences</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Infection prevention and control in home-based nursing care (HBNC) is of paramount importance to prevent healthcare-associated infections. Unfortunately, little is known about infection prevention practices in Dutch home-based nursing care. To address this gap in knowledge, we explored infection prevention practices in HBNC and the associated determinants that influence these practices. 
+
+This study was performed in 3 Dutch home-based care organizations in 2018-2020. To enable a rich exploration within the specific HBNC context, we performed a qualitative study, combining non-participant ethnographic observations, individual in-depth interviews and group discussions. 
+
+A comprehensive observation list was developed based on standard Infection prevention Practices  and barriers and facilitators derived from literature and on expert advice. Field notes of the observations were typed and coded by the researchers following the observations to enable a rich and accurate overview that guides the next observation. 
+
+The group discussions and interviews were guided by a topic guide, recorded and transcribed verbatim by an independent transcriber. Two researchers independently coded the transcripts. 
+A constant comparative method was used for the analysis of the emerging themes from either the observations, the group discussions, and the interviews, until saturation was reached. Coding and analysis was conducted by using a qualitative software program (Atlas.ti).
+
+In this repository we provide the observation guide, the topic guide used in the focus groups, the anonymized transcripts of the focus groups, the codes derived from the transcripts, and the codes derived form the observations</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">Collection period: start=2019-01-16; end=2019-08-26;</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">REQUEST_PERMISSION</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="Dutch"/>
+   </ddi:fileDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="English"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

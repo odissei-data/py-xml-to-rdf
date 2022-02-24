@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:31725</identifier>
+    <datestamp>2021-04-15T21:05:14Z</datestamp>
+    <setSpec>D60000:D61000</setSpec>
+    <setSpec>driver</setSpec>
+    <setSpec>D50000:D52000</setSpec>
+    <setSpec>D50000:D54000</setSpec>
+    <setSpec>D20000:D24000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Kenmerken en ontwikkelingen van een MKD-populatie 1984</ddi:titl>
+            <ddi:parTitl xml:lang="en">Children treated at medical infant schools 1984</ddi:parTitl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:31725</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-xkj-2cvc</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en">Fenger-Hanemann, I., Roscher-Rosenstein, A.R., Veeneklaas, J.R., Stichting medisch kinderdagverblijf 't Kabouterhuis-zuid * Amsterdam (primary investigator)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Medisch kleuterdagverblijf 't kabouterhuis-zuid * Amsterdam (research initiator) </ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Medisch kinderdagverblijf 't kabouterhuis * Amsterdam (data collector) </ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="1989-01-01"/>
+            <ddi:distDate xml:lang="en" date="2007-07-09"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">sociology</ddi:keyword>
+            <ddi:keyword xml:lang="en">medicine</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Health sciences</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Pedagogics</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Educational theory</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Sociology</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">To find out what happened to children who have been treated at the medical infant school "Medisch Kleuterdagverblijf 't Kabouterhuis-Zuid": a day care institution for pre-schoolchildren with serious social, medical problems: generally a combination of mental and physical problems, retarded development, deviant behaviour and bad family relations including ill-treatment. Social-medical history of child and its living conditions data on subsequent observation points in time: pregnancy and birth, admission to medical infant school ( MKD ), treatment period, discharge from mkd, period of adaptation, actual situation / problems in parents' youth / problems around pregnancy and birth / first year of child's life: evaluation according to "Multi Axial Classification system" ( MAC ): clinical psychiatric syndrome specific development arrears, IQ, somatic symptoms, deviant psycho-social conditions / nr. of hospitalizations / reason for admission to MKD, who gave advice. MAC-rating when admitted to MKD / treatment at MKD, presence, changes in weight and length / discharge from MKD: advice for school and additional assistance to child and parents, realization of advices / follow-up survey: reaction of child to family, school and neighbourhood / reactions of parents / hospitalizations / effects of MKD treatment on child and family / appreciation of MKD, recommendation by parents / behaviour of child: scores of detailed questionnaires / problems in family: cultural differences, financial, social, problems with upbringing of child, role of partner, style of upbringing / questionnaire for teachers: performance and behaviour of child at school. Background variables: basic characteristics/ household characteristics/ characteristics of parental family/household/ occupation/employment/ education</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1978 * 1984</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">OPEN_ACCESS_FOR_REGISTERED_USERS</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

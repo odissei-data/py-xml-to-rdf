@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:56276</identifier>
+    <datestamp>2021-04-15T21:07:10Z</datestamp>
+    <setSpec>D40000:D44000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Values of time and reliability in passenger and freight transport in The Netherlands</ddi:titl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:56276</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-x8j-9vh6</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en">Jong, Prof.dr. G.C. de</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Significance</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Kennis Instituut voor Mobiliteitsbeleid (KiM) - Ministerie voor Infrastructuur en Milieu</ddi:AuthEnty>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Significance">Kouwenhoven, Dr. M.L.A.</ddi:othId>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="2013-12-10"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">Value of time</ddi:keyword>
+            <ddi:keyword xml:lang="en">Value of reliability</ddi:keyword>
+            <ddi:keyword xml:lang="en">Value of variability</ddi:keyword>
+            <ddi:keyword xml:lang="en">Passenger transport</ddi:keyword>
+            <ddi:keyword xml:lang="en">Freight transport</ddi:keyword>
+            <ddi:keyword xml:lang="en">Stated preference</ddi:keyword>
+            <ddi:keyword xml:lang="en">Stated choice</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Social sciences</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Traffic and transport studies</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">New values of time (VOTs) and of travel time reliability (VORs) for passenger and freight transport have been established for use in cost-benefit analysis (CBA) of transport projects in The Netherlands. This was the first national study in The Netherlands and one of the first world-wide that empirically investigated these topics in a joint framework. 
+
+Stated preference (SP) questionnaires were designed for interviewing travellers, shippers and carriers. The hypothetical alternatives were described in terms of travel time, travel costs and reliability, where reliability was presented to the respondents in the form of five possible travel times which are equally likely to happen. 
+
+For passenger transport (comprising car, train, bus/tram/metro, plane and recreational navigation), we first collected interviews using an existing internet panel. In an additional data collection, recruitment was done by asking travellers at petrol stations/service areas, parking garages, stations, bus stops, airports and ports to participate in the survey. One important conclusion is that the SP survey using members of an internet panel leads to substantially lower VOTs than the SP survey with en-route recruitment, because of self-selection bias in the internet panel. For freight transport, shippers and carriers were interviewed using computer-assisted personal interviews
+ 
+We estimated discrete choice models on the passenger SP data in which the values of time differ between trips with different time and costs levels, different time and costs changes offered in the SP, and different characteristics of the respondents (e.g. education, income, age, household composition). By using a panel latent class model, we also account for unobserved differences between respondents in the value of time and for repeated measurements/panel effects. The reference values of time and the reference reliability ratios were estimated on the 2011 sample only, but the effect of time and cost level, time and cost changes offered and socio-economic attributes was estimated on both the 2009 and 2011 samples. 
+
+For freight transport, we used relative models for rail, inland waterways, air and sea transport, in which the attributes are measured relative to the observed levels, and an absolute model for road transport.
+
+The final outcome of the project consists of recommended VOTs and VORs for use in cost-benefit analysis of transport projects in the Netherlands.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">2009 - 2011</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:conditions xml:lang="en">License: http://creativecommons.org/publicdomain/zero/1.0</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="nl"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

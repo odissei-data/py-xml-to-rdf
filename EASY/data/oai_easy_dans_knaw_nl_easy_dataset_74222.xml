@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:74222</identifier>
+    <datestamp>2021-04-15T21:07:42Z</datestamp>
+    <setSpec>driver</setSpec>
+    <setSpec>D20000:D24000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Beyond signal functions in global obstetric care:  Using a clinical cascade to measure emergency obstetric readiness</ddi:titl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-zgg-6wuj</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:74222</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Emory">Cranmer, DNP, MPH, MSN, ANP-BC JNC Dr.</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="2017-08-23"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">Basic Emergency Obstetric Care</ddi:keyword>
+            <ddi:keyword xml:lang="en">Signal Functions</ddi:keyword>
+            <ddi:keyword xml:lang="en">Emergency Capacity</ddi:keyword>
+            <ddi:keyword xml:lang="en">Maternal Mortality</ddi:keyword>
+            <ddi:keyword xml:lang="en">Global Health</ddi:keyword>
+            <ddi:keyword xml:lang="en">Low and Middle Income Countries</ddi:keyword>
+            <ddi:keyword xml:lang="en">Clinical Cascade</ddi:keyword>
+            <ddi:keyword xml:lang="en">Clinical Quality</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Health sciences</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">We compare emergency readiness using the signal functions model and a novel clinical cascade. The cascades model readiness as the proportion of facilities with resources to identify the emergency (stage 1), treat it (stage 2) and monitor-modify therapy (stage 3).  Data were collected from 44 Kenyan clinics as part of an implementation trial.
+
+Forthcoming publication: "Cranmer, J.N., et.al. Beyond Signal Functions in Global Obstetric Care:  Using a Clinical Cascade to Measure Emergency Obstetric Readiness. PLOSOne".</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">March 2013</ddi:collDate>
+            <ddi:collDate event="single">May 2013</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:conditions xml:lang="en">License: http://creativecommons.org/publicdomain/zero/1.0</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

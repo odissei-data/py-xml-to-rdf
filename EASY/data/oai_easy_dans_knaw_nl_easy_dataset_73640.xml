@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:73640</identifier>
+    <datestamp>2021-04-15T21:07:41Z</datestamp>
+    <setSpec>D50000:D51000</setSpec>
+    <setSpec>driver</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Sleep and Eyewitness Memory</ddi:titl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-x8e-m8cm</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:73640</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Michigan State University">Stepan, M.E.</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt/>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Psychology</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Inaccurate eyewitness identifications are the leading cause of known false convictions in the United States. Moreover, improving eyewitness memory is difficult and often unsuccessful. Sleep consistently strengthens and protects memory from interference, particularly when a recall test is used. However, the effect of sleep on recognition memory is more equivocal. Eyewitness identification tests are often recognition based, thus leaving open the question of how sleep affects recognition performance in an eyewitness context. In the current study, we investigated the effect of sleep on eyewitness memory. Participants watched a video of a mock-crime and attempted to identify the perpetrator from a simultaneous lineup after a 12-hour retention interval that either spanned a waking day or night of sleep. In Experiment 1, we used a target-present lineup and, in Experiment 2, we used a target-absent lineup in order to investigate correct and false identifications, respectively. Sleep reduced false identifications in the target-absent lineup (Experiment 2) but had no effect on correct identifications in the target-present lineup (Experiment 1). These results are discussed with respect to memory strength and decision making strategies.</ddi:abstract>
+         <ddi:sumDscr/>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:conditions xml:lang="en">License: http://creativecommons.org/publicdomain/zero/1.0</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:160948</identifier>
+    <datestamp>2021-04-15T21:08:07Z</datestamp>
+    <setSpec>D30000:D36000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Matthias Kramer: Grund-richtig-Volkommene, doch kurtz gefaßte Nider-Teutsch-, oder Holländische Grammatica (1716)</ddi:titl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-xdp-qbbk</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:160948</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en">Stichting Vrijwilligersnetwerk Nederlandse Taal (SVNT)</ddi:AuthEnty>
+            <ddi:othId xml:lang="en" role="ProjectLeader" affiliation="Radboud Universiteit, Nijmegen">Sijs, Prof. Dr. N. van der DAI=info:eu-repo/dai/nl/072728442, ProjectLeader</ddi:othId>
+            <ddi:othId xml:lang="en" role="ProjectLeader" affiliation="Carl von Ossietzky Universität Oldenburg (D)">Beelen, Drs. H., ProjectLeader</ddi:othId>
+            <ddi:othId xml:lang="en" role="RightsHolder">Stichting Vrijwilligersnetwerk Nederlandse Taal (SVNT)</ddi:othId>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="2020-03-18"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">Dutch as a foreign language</ddi:keyword>
+            <ddi:keyword xml:lang="en">grammar</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Language and literature studies</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Transcriptie van: Grund-richtig-Volkommene, doch kurtz gefaßte Nider-Teutsch-, oder Holländische GRAMMATICA, Für die jenige Hochteutsche Staats-, Handels- Kriegs- und andere Leute, welche diese, schöne, mit der unsern so genau verschwesterte Grund-Sprache, in kurtzer Zeit, mit leichter Mühe, und ohne mündlichen Lehr-Meister richtig lesen, verstehen, reden; wie auch darinnen schreiben, und correspondiren zu lernen, entweder vonnöhten, oder
+Lust und Lieb haben; Samt Anhang einer Alphabetischen Vorstellung aller Holländischen Grund- oder Stamm-Wörtern, auf Hochteutsch erkläret; Mit der Tractation, auf was Art dero Derivation, und Composition (Ableit- und Doppelung) (mit unserer Hochteutschen vergliechen) Regul-mäßig geschehen müsse. Aus viel jähriger Erfahrung, und fleißiger Observation der allerreinesten Modernen Holländischen Scribenten, auf Verlangen vieler Liebhabere ausgearbeitet, und in diese geschmeidige Form gebracht, Von MATTHIA Kramer, der Occidentalischen Sprachen Professore, und der Königl. Preußischen Societät der Wissenschaften Mit-glied. Nürnberg, Franckfurt, und Leipzig bey Johann Daniel Tauber eel. Erben; wie auch bey dem Autore zu finden. 1716.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">18th century</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">REQUEST_PERMISSION</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="de"/>
+   </ddi:fileDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="Dutch"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

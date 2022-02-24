@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:77158</identifier>
+    <datestamp>2021-04-15T21:07:44Z</datestamp>
+    <setSpec>D50000:D51000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Similarity to imagined interlocutor and integration of viewpoints in internal dialogues</ddi:titl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-zvt-hhpv</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:77158</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="John Paul II Catholic University of Lublin">Puchalska-Wasyl, dr hab. M. M.</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt/>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">Simulation of social relationships</ddi:keyword>
+            <ddi:keyword xml:lang="en">Integrative internal/imagined dialogue</ddi:keyword>
+            <ddi:keyword xml:lang="en">Plausibility</ddi:keyword>
+            <ddi:keyword xml:lang="en">Wishfulness</ddi:keyword>
+            <ddi:keyword xml:lang="en">Identification with interlocutor</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Psychology</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Numerous positive functions are ascribed to integrative internal dialogues (IDs). Additionally, IDs simulating social relationships are thought to serve as “prototypes” for interpersonal communication. Therefore, it would be useful to know how to increase the frequency of integrative IDs. Previous studies exploring the relationship between similarity to an imagined interlocutor and the integration in ID have produced inconsistent results. The aim of the present study was to examine the moderating and mediating factors in this relationship. Data from 119 people (mostly students) were analyzed. Before the participants conducted IDs, they had written down three characteristics common to them and to their interlocutor. Finally, the Integration-Confrontation questionnaire was completed. Plausibility of ID was a moderator of the relationship between similarity to imagined interlocutor and integration in IDs; this relationship was significantly positive at low plausibility, but non-significant at high plausibility. Perceived similarity in ID exerted an indirect effect on ID’s integration in two ways. The first pathway was through identifying with the interlocutor and the author’s integrative attitude, suggesting a mechanism in line with social identity theory. The second potential mechanism, which seems to be consistent with similarity-attraction theory, was connected with the wishfulness of IDs and the interlocutor integrative attitude.</ddi:abstract>
+         <ddi:sumDscr/>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">REQUEST_PERMISSION</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:31779</identifier>
+    <datestamp>2021-04-15T21:04:49Z</datestamp>
+    <setSpec>driver</setSpec>
+    <setSpec>D40000:D42000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Nationaal Kiezersonderzoek, NKO 1998 aanvullend onderzoek</ddi:titl>
+            <ddi:parTitl xml:lang="en">Dutch Parliamentary Election Study, 1998 non-response and stimulus project - DPES'98</ddi:parTitl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:31779</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-xvg-3yxf</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en">Kamp, M. (Universiteit Twente)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Universiteit Twente">Aarts, C.W.A.M. DAI=info:eu-repo/dai/nl/075024314</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Universiteit Twente">Kolk, H. van der DAI=info:eu-repo/dai/nl/15751627X</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Universiteit Twente">Thomassen (primary investigator), J.J.A. DAI=info:eu-repo/dai/nl/068893825</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Stichting Kiezersonderzoek Nederland (depositor)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Stichting Kiezersonderzoek NederlandSKON * Enschede (research initiator)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Instituut voor toegepaste sociale wetenschappenITS * Nijmegen (data collector)</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt/>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">neighbourhoods</ddi:keyword>
+            <ddi:keyword xml:lang="en">elections</ddi:keyword>
+            <ddi:keyword xml:lang="en">internal politics</ddi:keyword>
+            <ddi:keyword xml:lang="en">voting behaviour</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Political and administrative sciences</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Study to reveal the nature of non-response and to measure the effect of face-to-face interviews upon political interest and (reported) turnout, as an addition to	the Dutch National Election Survey 1998 (Steinmetz  Archive Studynr. P1415).
+
+Social and economic characteristics of r.'s residential  neighbourhood / political interest / voting behaviour  / sense of political efficacy / reasons for not intending  to vote / reasons for not willing to participate in  the Dutch Parliamentary Election Survey 1998 Background variables: basic characteristics / residence / household characteristics / income/capital assets / education/ politics. 
+   
+The data- and documentation files of this dataset can be downloaded via the option Data Files.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1998</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">OPEN_ACCESS_FOR_REGISTERED_USERS</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:56165</identifier>
+    <datestamp>2021-04-15T21:07:10Z</datestamp>
+    <setSpec>driver</setSpec>
+    <setSpec>D30000:D34000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Interactive visualization of a surveying instruction</ddi:titl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-xk8-5ag6</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:56165</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Wildcard">Nagel, D</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="HuygensING">Cocquyt, T.</ddi:AuthEnty>
+            <ddi:othId xml:lang="en" role="contributor">Brill</ddi:othId>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="2013-11-25"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">Surveying</ddi:keyword>
+            <ddi:keyword xml:lang="en">Cartography</ddi:keyword>
+            <ddi:keyword xml:lang="en">Geometry</ddi:keyword>
+            <ddi:keyword xml:lang="en">visualization</ddi:keyword>
+            <ddi:keyword xml:lang="en">dynamic drawings</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">History</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">This visualization presents the user with the subsequent steps required to solve a surveying problem, typical for 17th-century instruction books. The user is asked to determine the distance between two reference points that are inaccessible, on the other side of the 'river'. Only by following the correct procedure with angle measuring instrument, measuring chain, pencil, and paper, can the problem be solved.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">17th century, 1600-1700</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt/>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:31852</identifier>
+    <datestamp>2021-04-15T21:05:20Z</datestamp>
+    <setSpec>D60000:D61000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Stadspanelonderzoek Arnhem 1993 - VSO</ddi:titl>
+            <ddi:parTitl xml:lang="en">Panel survey city of Arnhem 1993 - VSO</ddi:parTitl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:31852</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-zpg-23dd</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en">Jong, P.H. de, Hoogervorst, C.F.M., Poelhekke, W.H.J., Kampen, C. van, Veld, J. in 't, Vijgh, H.J. van der, Bestuursdienst Gemeente Arnhem * Arnhem, Afd. Onderzoek en Statistiek (primary investigator)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Drs. P.H. de Jong, Bestuursdienst Gemeente Arnhem, Afd. Onderzoek en Statistiek (depositor)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Gemeente Arnhem * Arnhem (research initiator) </ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="1995-01-01"/>
+            <ddi:distDate xml:lang="en" date="2007-07-27"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">political science</ddi:keyword>
+            <ddi:keyword xml:lang="en">interpersonal relations</ddi:keyword>
+            <ddi:keyword xml:lang="en">internal politics</ddi:keyword>
+            <ddi:keyword xml:lang="en">government</ddi:keyword>
+            <ddi:keyword xml:lang="en">public transport</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Sociology</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">The focus of this survey is on the inhabitants' perception of the local government of the municipality of Arnhem. Attractive power of the city of Arnhem / report mark for Arnhem as residential community / influence of decisions of the municipal council on daily life and the inclusion of the preferences of the inhabitants / efficiency and correctness of the local authorities / contact with municipal councillors and the Mayor and Aldermen in the last 3 years/ satisfaction about contact / names of the Mayor and Aldermen / satisfaction with the achieved results of the municipal council / image of quarter supervision and community centre / satisfaction with local area: public transport, shops, traffic safety, infrastructure / interpersonal contacts with neighbours / ( ways of ) increasing the participation of the inhabitants in decisions of the municipal council / subjects for a referendum in Arnhem / usefulness of referendum and regular opinion polls / expenses on public services / contacts with municipal officials last year: subject/ satisfaction about contact / oral contact: reachable / written contact: answer was received within limited time period / report mark for provision of services of municipality / work: transport used for commuter traffic/ number of incomes in household. Background variables: basic characteristics/ residence/ housing situation/ place of work/ occupation/employment/ income/capital assets/ education/ politics</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1993</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">REQUEST_PERMISSION</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

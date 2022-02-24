@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:32477</identifier>
+    <datestamp>2021-04-15T21:05:49Z</datestamp>
+    <setSpec>D60000:D61000</setSpec>
+    <setSpec>driver</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Jongeren Stadspeiling Amersfoort 1996 - VSO</ddi:titl>
+            <ddi:parTitl xml:lang="en">Youth survey Amersfoort 1996 - VSO</ddi:parTitl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-xwu-zx9b</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:32477</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en">Rothuizen, C.E., Gemeente Amersfoort * Amersfoort, Bureau Onderzoek en Statistiek (primary investigator)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">M.J.M. Huurdeman, Gemeente Amersfoort, Bureau Onderzoek en Statistiek (depositor)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Gemeente Amersfoort (research initiator)</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="1997-01-01"/>
+            <ddi:distDate xml:lang="en" date="2007-08-03"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">education</ddi:keyword>
+            <ddi:keyword xml:lang="en">leisure time</ddi:keyword>
+            <ddi:keyword xml:lang="en">youth</ddi:keyword>
+            <ddi:keyword xml:lang="en">children</ddi:keyword>
+            <ddi:keyword xml:lang="en">employment</ddi:keyword>
+            <ddi:keyword xml:lang="en">culture</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Sociology</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Spending of leisure time by the youth in Amersfoort. Following day-time education / school year / ( dis- ) like school / own achievement in comparison to other pupils /  playing truant / plans when r. has finished school / receiving student finance, parental contribution / r. has a job after  school time / r. has finished school: causes for difficulties with  finding a job/ ( dis- ) like job/ following education / time  spending on numerous activities in leisure time: reading, music, sports, housekeeping, going out, volunteer work and other  activities / daily number of hours leisure time / being bored / satisfaction about time spending of leisure time / Amersfoort offers enough possibilities for leisure time / youth centres in  Amersfoort / playing music, singing and dancing: following  courses, using municipal facilities / creative hobby: following  courses, using municipal facilities / loaning books from public  library / doing types of sports, at clubs or sports schools /  frequency of going out / amount of money spent on one evening  going out / going out in Amersfoort: satisfied with the supply  of places of entertainment / frequency of going to the disco,  bar, coffee shop, snackbar, gambling hall, youth centre,  community centre, movie, houseparty, pop concert, classic concert, cabaret, museum, sports event, restaurant, theatrical  performance / place of meeting friends / use of alcohol and  drugs / which problems have been bothering r. last year/  contacts with organizations for assistance / most important  tasks of municipality / priority of spending extra municipal  money / sources of information about activities in Amersfoort /	member of social group / living with parents / ( dis- ) agreement with parents about spending money and leisure time, school,  going out, plans for future, appearance. Background variables: basic characteristics/ place of birth/ residence/ household characteristics/ occupation/employment/ income/capital assets/ education/ organizational membership</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1996</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">OPEN_ACCESS_FOR_REGISTERED_USERS</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

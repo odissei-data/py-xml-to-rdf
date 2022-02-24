@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:34333</identifier>
+    <datestamp>2021-04-15T21:06:40Z</datestamp>
+    <setSpec>D60000:D61000</setSpec>
+    <setSpec>D50000:D54000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Nijmegen School Study  2010 - TNSS 2010 - wave 1</ddi:titl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:34333</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-zwc-ducr</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en">Jochem Tolsma</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Radboud Universiteit Nijmegen</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Ioana Pop</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Radboud Universiteit Nijmegen</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt/>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">bullying</ddi:keyword>
+            <ddi:keyword xml:lang="en">pesten</ddi:keyword>
+            <ddi:keyword xml:lang="en">victimization</ddi:keyword>
+            <ddi:keyword xml:lang="en">slachtofferschap</ddi:keyword>
+            <ddi:keyword xml:lang="en">ethnicity</ddi:keyword>
+            <ddi:keyword xml:lang="en">etniciteit</ddi:keyword>
+            <ddi:keyword xml:lang="en">prejudice</ddi:keyword>
+            <ddi:keyword xml:lang="en">vooroordelen</ddi:keyword>
+            <ddi:keyword xml:lang="en">gender</ddi:keyword>
+            <ddi:keyword xml:lang="en">sexual haressment</ddi:keyword>
+            <ddi:keyword xml:lang="en">seksuele intimidatie</ddi:keyword>
+            <ddi:keyword xml:lang="en">inter-ethnisch pestgedrag</ddi:keyword>
+            <ddi:keyword xml:lang="en">inter-gender pestgedrag</ddi:keyword>
+            <ddi:keyword xml:lang="en">secondary school pupils</ddi:keyword>
+            <ddi:keyword xml:lang="en">leerlingen middelbare school</ddi:keyword>
+            <ddi:keyword xml:lang="en">inter-ethnic contact</ddi:keyword>
+            <ddi:keyword xml:lang="en">inter-ethnisch contact</ddi:keyword>
+            <ddi:keyword xml:lang="en">vriendschap</ddi:keyword>
+            <ddi:keyword xml:lang="en">friendships</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Behavioural and educational sciences</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Pedagogics</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Social sciences</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Sociology</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">In the Nijmegen School Study (TNSS) data is collected on bullying behavior, friendships, explicit prejudice, implicit prejudice, negative and positive forms of inter-ethnic contact, sexual harassment and gender explicit and implicit bias. The respondents of the first wave (TNSS wave 2010) are first and second year students in all levels of secondary education, within the same school located in a mid size city of the Netherlands. Following the bullying literature, different dimensions of bullying are distinguished (i.e. verbally, socially/relationally, physically and ethnic bullying). The data was collected assisted by computers, due to the nature of the state of the art instruments for measuring implicit biases. Several instruments were used: a main questionnaire and three Implicit Association tests for the student sample and a supplementary questionnaire for the mentors of the classes included in the study.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:nation abbr="NLD" xml:lang="en">The Netherlands</ddi:nation>
+            <ddi:collDate event="single">2010</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">REQUEST_PERMISSION</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="nl"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:32671</identifier>
+    <datestamp>2021-04-15T21:06:00Z</datestamp>
+    <setSpec>easy-collection:7</setSpec>
+    <setSpec>D40000:D41000:D41300</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Leefsituatie van de Nederlandse jeugd van 13-24 jaar, 1997- LSO'97</ddi:titl>
+            <ddi:parTitl xml:lang="en">Life situation survey of the Dutch youth 13-24 year, 1997 - LSO'97</ddi:parTitl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:32671</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-z9e-ced6</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en">Berg, E. van den, Spannenburg, P., Thijssen, L., Centraal Bureau voor de Statistiek, CBS * Voorburg (primary investigator)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Centraal Bureau voor de Statistiek, CBS * Voorburg (research initiator)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Centraal Bureau voor de Statistiek, CBS * Voorburg (data collector)</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="1984-01-01"/>
+            <ddi:distDate xml:lang="en" date="2007-06-25"/>
+            <ddi:distDate xml:lang="en" date="2007-08-06"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">youth</ddi:keyword>
+            <ddi:keyword xml:lang="en">living conditions</ddi:keyword>
+            <ddi:keyword xml:lang="en">interpersonal relations</ddi:keyword>
+            <ddi:keyword xml:lang="en">women</ddi:keyword>
+            <ddi:keyword xml:lang="en">family life</ddi:keyword>
+            <ddi:keyword xml:lang="en">health</ddi:keyword>
+            <ddi:keyword xml:lang="en">drugs</ddi:keyword>
+            <ddi:keyword xml:lang="en">sexuality</ddi:keyword>
+            <ddi:keyword xml:lang="en">CBS BMB</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Criminal (procedural) law and criminology</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">A description of the way of life of the Dutch youth, concerning work, education, income, social relations, sexuality leisure etc., school career and occupational career experiences, evaluation, plans for future, expectations about future / if r unemployed efforts and obstacles to get a job, causes and consequences of being unemployed / view on domestic work, sharing household work with partner / equal chances for women / attitude towards work in general / relation between efforts and success / leisure activities hobbies, holidays, trips / world problems, satisfaction with life, society, housing / contacts with institutions for social help / social life, friends, relations, problems with parents / health / use of alcohol, drugs, tobacco / anxiety / sexual life / use of contraceptives / preference for some legal status of cohabitation / wishes for future regarding marriage, children etc.. Background variables: basic characteristics/ residence/ housing situation/ household characteristics/ occupation/employment/ income/capital assets/ education/ politics/ religion/ organizational membership</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1980</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">REQUEST_PERMISSION</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

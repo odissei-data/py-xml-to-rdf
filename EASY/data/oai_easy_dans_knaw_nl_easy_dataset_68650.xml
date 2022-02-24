@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:68650</identifier>
+    <datestamp>2021-04-15T21:07:39Z</datestamp>
+    <setSpec>driver</setSpec>
+    <setSpec>D60000:D63000</setSpec>
+    <setSpec>D20000:D22000:D22600</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+    <setSpec>D20000:D22000:D22400</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Diet and Prey Selection by Reintroduced Tigers in Multiple-use Forests</ddi:titl>
+            <ddi:parTitl xml:lang="en">Wild versus Domestic Prey in the Diet of Reintroduced Tigers (Panthera tigris) in the Livestock-dominated Multiple-use Forests of Panna Tiger Reserve, India</ddi:parTitl>
+            <ddi:parTitl xml:lang="en">Wild versus Domestic Prey in the Diet of Reintroduced Tigers (Panthera tigris) in the Livestock-dominated Multiple-use Forests of Panna Tiger Reserve, India</ddi:parTitl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-xwd-g6dh</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:68650</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Leiden University">Kolipaka, S.S.</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="2017-04-01"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">Conservation Biology</ddi:keyword>
+            <ddi:keyword xml:lang="en">Ecology</ddi:keyword>
+            <ddi:keyword xml:lang="en">Cultural Anthropology</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Ecology</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Cultural anthropology</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Zoology</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Abstract
+Grazing livestock in openly accessible areas is a common practice in the multiple-use forests of India; however, its compatibility with the reintroduction of tigers to these areas requires examination. Here, we investigated the diet of tigers in a livestock-dominated multiple-use buffer zone of the Panna Tiger Reserve, India. We hypothesised that the presence of feral cattle, along with open-access grazing practices in multiple-use forests, would increase the incidence of predation on livestock by tigers, even when wild prey are available. We used generalised linear models to test whether predation of livestock versus wild animals was influenced by (1) the sex and age class of tigers, (2) season, and (3) the distance of prey from the core-zone boundary of the reserve. Overall, sub-adult tigers and male tigers killed more livestock than wild prey, even when wild prey was available. In the winter and rainy seasons livestock were killed in higher numbers in the buffer zone than in summers, this may be because of the seasonally changing livestock herding patterns in the area. Further, with increasing distance from the core-zone boundary, all tigers killed more livestock, possibly because livestock were more easily accessible than wild prey. Our results show that open-access and unregulated livestock grazing is not currently compatible with large carnivore conservation in the same landscape. Such practices will lead to an increase in negative tiger-human-livestock interactions. In conclusion, we suggest the need to encourage locals to corral valuable cattle, leaving feral/unwanted livestock for tigers. This simple strategy would benefit both local inhabitants and tiger conservation in the multiple-use forests of India. 
+
+Data can be accessed and used and should acknowledge
+PANNA TIGER RESERVE, MADHYA PRADESH, INDIA</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">2009 to 2013</ddi:collDate>
+            <dc:coverage>northlimit=24.905; eastlimit=80.273; southlimit=24.274; westlimit=79.556; units=degrees;</dc:coverage>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">OPEN_ACCESS_FOR_REGISTERED_USERS</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

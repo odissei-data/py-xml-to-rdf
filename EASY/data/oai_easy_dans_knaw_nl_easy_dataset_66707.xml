@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:66707</identifier>
+    <datestamp>2021-04-15T21:07:33Z</datestamp>
+    <setSpec>D30000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Arab-West Report 2001, Weeks 01-51: Coptic Affairs, War on Terrorism, Ibn Khaldun Center and Media Criticism</ddi:titl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-xnk-34e2</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:66707</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Center for Intercultural Dialogue and Translation (CIDT)">Hulsman, Drs. C.</ddi:AuthEnty>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Center for Intercultural Dialogue and Translation (CIDT)">Sparks, MA M.R.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Jehovah's Witnesses">Leitch, Dr. G.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Coptic Church Review">Yanni, Dr. R.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Religious News Service from the Arab World (RNSAW)">Watson, J.H.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor">Jensen, Dr. J.J.G.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Religious News Service from the Arab-World (RNSAW)">Spencer, K.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor">Munīr, M.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Monastery of Makarios, Egypt">al-Maqari, Fr. Y.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor">Nakhlah, M.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Religious News Service from the Arab-World (RNSAW)">van Nispen, Dr.Fr. C.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Ibn Khaldun Center">Ibrahim, Dr. S. E.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Episcopal Church, Egypt">Hanna Anis Armanius, Bishop M.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Monastery of Makarios, Egypt">al-Maqari, Fr. B.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Coptic Orthodox Church">Ghubriyal, Bishop G.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Religious News Service from the Arab-World (RNSAW)">Gavlak, D.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor">Newman, M.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Leiden University">Abū Zayd, Dr. N.Ḥ.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="World Council of Churches">Mitri, Prof.Dr. T.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor">Reiss, Rev.Dr. W.</ddi:othId>
+         </ddi:rspStmt>
+         <ddi:distStmt/>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">Coptic Affairs, War on Terrorism, Ibn Khaldun Center and Media Criticism</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Humanities</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">This  dataset contains the Arab-West Report special reports that were published in 2001.  It should be noted that at the time the articles were published, Arab-West Report did not exist. Religious News Service from the Arab World, the organization which would ultimately become Arab-West Report, originally published the following documents. 
+
+The dataset contains primarily the writings of Cornelis Hulsman, Drs., reporting on the affairs of Coptic Christians in Egypt, and subjects related to the Copts in the US and the west in general.  A number of articles serve as a media critique of Coptic organizations’ (namely, the US Coptic Association) press releases issued abroad which present biased information on certain incidents that took place in Egypt.In addition to the reports and journalistic work of Hulsman, the dataset also contains commentary from RSNAW on published material from other sources (reviews/critique of articles). 
+
+Some of the themes that characterized this dataset includes:
+
+-	An article about H.H. Pope Shenouda and Father Matta el-Meskeen, two major reformers in the contemporary Coptic Orthodox Church in addition to the Ubur-city church incident. The dataset also includes interviews conducted by RNSAW with the governor and the Bishop of the church.
+
+-	Articles refuting claims by a number of Coptic organizations abroad through collecting testimonials from local Bishop and Officials. These reports denied false and inaccurate claims and criticized the press releases that lead to confusion, negatively impacting the Copts in Egypt. 
+
+-	An interview conducted by RNSAW with Bishop Marcos and highlighted his remarks on the war against terrorism led by the United States following September 11 events and the war on Afghanistan which broke out subsequently. 
+
+-	A report written by Dr. Naṣr Ḥāmid Abū Zayd shed light on the media debate on Islam in the West, and his criticism of the widespread views in the western media that Islam should be held responsible for terrorist attacks.
+
+-	The RNSAW database also included highlights of an interview with  Cornelis Hulsman, Drs., by the by Egyptian TV where he concluded from the questions directed at him that there is a deep mistrust of western reporting about the Arab and Islamic world.
+
+-	Other editorials by Hulsman criticized the adoption of a resolution by the Anglican General Synod of Australia addressing the persecution of Christians in Egypt, without consulting the Anglican Bishop in Cairo or Anglican experts in England who are well acquainted with the church in Egypt.
+
+-	The reports also highlighted the issue of conversions from Christianity to Islam in Egypt. The reports refuted claims by Coptic activists in the US that two Christian were abducted by the Egyptian Government from their own mother, who then handed them over to strangers, under the name of Islam. One of the articles highlighted a film script entitled: “Hurghada...the Magic of Love" which deals with the issue of mixed marriages between Muslim men and Christian women which is a sensitive and painful matter for Christians. 
+
+-	Coverage of Coptic feasts in Egypt, such as Palm Sunday and the Coptic Christmas celebration which was broadcast on the National Egyptian TV and showed senior officials attending the ceremony in the Cathedral. 
+
+-	Additionally, some of the reports included an update on the trial of the renowned human rights activist Dr. Saad Eddin Ibrahim. In line with the aforementioned, this dataset contained an article penned by Saad Eddin Ibrahim explaining his motive behind declining to attend a meeting with members of the US Commission on International Religious Freedom as advised by his defense lawyer. Ibrahim was being tried at the time before the Higher State Security Court on charges made against his lectures and writings on religious freedom and minority rights, including those of Egyptian Copts. 
+
+The authors of this material include Cornelis Hulsman, Drs., Dr. Graham Leitch, Dr. Rudolph Yanni, John H. Watson, Dr. J. J. G. Jensen, Katherin Spencer, Michael Munīr, Monk Father Yuhanna al-Maqari, Monk Basilius al-Maqari, Mamdūh Nakhlah, Fr. Dr. Christiaan van Nispen, Saad al-Din Ibrahim, Munir Hanna Anis Armanius, Bishop Ghubriyal, Dale Gavlak, Mike Newton, Dr. Naṣr Ḥāmid Abū Zayd, CAIR-NET, Tareq Mitri (Prof. Dr.), Wolfram Reiss (Rev., Dr.) among others.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">2001</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">REQUEST_PERMISSION</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

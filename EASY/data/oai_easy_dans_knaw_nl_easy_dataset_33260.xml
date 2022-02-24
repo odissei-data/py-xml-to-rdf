@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:33260</identifier>
+    <datestamp>2021-04-15T21:04:50Z</datestamp>
+    <setSpec>driver</setSpec>
+    <setSpec>D40000:D42000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Nationaal Kiezersonderzoek, NKO 1971</ddi:titl>
+            <ddi:parTitl xml:lang="en">Dutch parliamentary election study - DPES 1971</ddi:parTitl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:33260</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-x3j-3a4m</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en">Werkgroep nationaal kiezersonderzoek (primary investigator)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">NSS nv v/h Nederlandse stichting voor de statistiek  (depositor)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Workgroup national election study 1971 (research initiator)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">NSS, nv v/h Nederlandse stichting voor de statistiek, Den Haag (data collector)</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="1973-01-01"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">political science</ddi:keyword>
+            <ddi:keyword xml:lang="en">elections</ddi:keyword>
+            <ddi:keyword xml:lang="en">politics, internal</ddi:keyword>
+            <ddi:keyword xml:lang="en">international relations</ddi:keyword>
+            <ddi:keyword xml:lang="en">massmedia</ddi:keyword>
+            <ddi:keyword xml:lang="en">environment</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Political and administrative sciences</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">This is the first of the series of National Election Studies. The study was designed as a two wave panel study: the first wave was carried out during the campaign, the two months preceding the election day, april 28, 1971. The second wave was conducted after the election. Data from these waves were combined into one SPSS-file. Exposure to mass-media / opinion on leadership / evaluation of local national government / most important local, national world problems / sense of political efficacy / political interest / attitude to democracy, political freedom of speech, egalitarian attitude / democratic attitude / perception of political party / position on government interference regarding inflation / pollution / opinions on voting decision-making / opinion on party policy and coalition formation coalition preferences / political partisanship / attitude to change and perception of parties / attitude to change voting, motivations / political participation / attitude to common market ( European Community ) / political satisfaction / perception of welfare and welfare policy by government and political parties / perception of educational possibilities / experienced and educational policy by government and political parties / housing need / inflation / pollution / attitude to aid to developing countries / perception of government spending / liberals versus labour in government versus own preferences / perception of social conflicts ( antagonism ) between groups, categories / misanthropy / attitude to pillarization - compartmentalization / relation politics, religion / sense of political efficacy / opinions on issues of reform of political system / internationalism / cosmopolitanism / evaluation of common market / perception of political situation in Holland, United States, Soviet Union ( civil rights and liberties ) / tendency to take political actions / perception of efficacy of certain actions / actually taken such action / tolerance regarding political activism / demonstrations / strikes and police action/attitude to law and order / perception and norms regarding political power / structure attitude to NATO and foreign policy, international cooperation, social problems. Background variables: basic characteristics/ place of birth/ residence/ housing situation/ household characteristics/ place of work/ occupation/employment/ income/capital assets/ education/ social class/ politics/ religion/ readership, mass media, and 'cultural' exposure/ organizational membership</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1971</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">OPEN_ACCESS_FOR_REGISTERED_USERS</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:32665</identifier>
+    <datestamp>2021-04-15T21:04:59Z</datestamp>
+    <setSpec>driver</setSpec>
+    <setSpec>D50000:D52000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Monitor Hoger Beroepsonderwijs, HBO Monitor 2001</ddi:titl>
+            <ddi:parTitl xml:lang="en">Annual survey of higher professional education graduates - HBO Monitor 2001</ddi:parTitl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:32665</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-xjq-dayy</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en">ROA Researchinstituut voor Onderwijs en Arbeidsmarkt Universiteit Maastricht</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">ROA, Researchcentrum voor Onderwijs en Arbeidsmarkt, Universiteit Maastricht (depositor)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">HBO Raad (research initiator) </ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">DESAN Research Solutions (data collector) </ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="2003-04-02"/>
+            <ddi:distDate xml:lang="en" date="2007-08-17"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">higher education</ddi:keyword>
+            <ddi:keyword xml:lang="en">employment</ddi:keyword>
+            <ddi:keyword xml:lang="en">occupational status</ddi:keyword>
+            <ddi:keyword xml:lang="en">labour market</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Educational theory</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Labour market position of graduates from the various types of Higher Professional Education. Graduates from Colleges of Higher Agricultural Education and Elementary School Teacher Training Colleges received a separate questionnaire. Preliminary training /  type of Higher Professional Education / working - and administrative experience / activities after graduation / experiences with entering the labour market / present labour market position / characteristics of present job / additional courses of study / transition from education to present employment / background characteristics of respondent. Data are part of the School-leavers Information System (SIS - Schoolverlaters Informatie Systeem). See also the  ROA website</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">2001</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">OPEN_ACCESS_FOR_REGISTERED_USERS</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

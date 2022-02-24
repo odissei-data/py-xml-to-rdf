@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:40609</identifier>
+    <datestamp>2021-04-15T21:06:43Z</datestamp>
+    <setSpec>D30000:D34000:D34300</setSpec>
+    <setSpec>driver</setSpec>
+    <setSpec>D30000:D35000:D35300</setSpec>
+    <setSpec>D30000:D35000:D35200</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Eighteenth-Century Music and theatre advertisements from the 's-Gravenhaagsche Courant and Gazette de La Haye (in the Netherlands)</ddi:titl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-2bt-y638</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:40609</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en">Aldo Lieffering</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Aldo Lieffering</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Elke Ebbers</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="2010-09-23"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">Theater</ddi:keyword>
+            <ddi:keyword xml:lang="en">Music</ddi:keyword>
+            <ddi:keyword xml:lang="en">Concerts</ddi:keyword>
+            <ddi:keyword xml:lang="en">Kermesse</ddi:keyword>
+            <ddi:keyword xml:lang="en">Toneel</ddi:keyword>
+            <ddi:keyword xml:lang="en">Opera</ddi:keyword>
+            <ddi:keyword xml:lang="en">Muziek</ddi:keyword>
+            <ddi:keyword xml:lang="en">Concerten</ddi:keyword>
+            <ddi:keyword xml:lang="en">Kermis</ddi:keyword>
+            <ddi:keyword xml:lang="en">Comedie Française</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Dramaturgy</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Musicology</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Modern and contemporary history</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Extensive excerpting of 's Gravenhaagse Courant and Gazette de La Haye 1750-1795 with additional data from 1725 on concerning Theater and Music (theatrical representations, concerts, editions of plays and music) and misc.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1724-1795</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:conditions xml:lang="en">License: http://creativecommons.org/publicdomain/zero/1.0</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="nl"/>
+   </ddi:fileDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="fr"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

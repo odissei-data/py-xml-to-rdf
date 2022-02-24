@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:31785</identifier>
+    <datestamp>2021-04-15T21:05:16Z</datestamp>
+    <setSpec>D60000:D68000</setSpec>
+    <setSpec>D60000:D61000</setSpec>
+    <setSpec>driver</setSpec>
+    <setSpec>D20000:D24000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Terugdringing niet-gebruik Bijzondere Bijstand chronisch zieken, gehandicapten en ouderen met zorgbehoefte (czho) - 2004</ddi:titl>
+            <ddi:parTitl xml:lang="en">Driving back non-use of special income support for chronic patients, handicapped persons and elderly persons who need care, 2004</ddi:parTitl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:31785</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-xcs-5qxk</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en">CEBEON, Centrum beleidsadviserend onderzoek bv (primary investigator)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">P.C.M. Huigsloot, CEBEON, Centrum beleidsadviserend onderzoek bv (depositor)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Ministerie van Sociale Zaken en Werkgelegenheid (research initiator) </ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">CEBEON, Centrum beleidsadviserend onderzoek bv (data collector) </ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="2004-12-17"/>
+            <ddi:distDate xml:lang="en" date="2007-07-09"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">income distribution</ddi:keyword>
+            <ddi:keyword xml:lang="en">elderly</ddi:keyword>
+            <ddi:keyword xml:lang="en">municipal policy</ddi:keyword>
+            <ddi:keyword xml:lang="en">patients</ddi:keyword>
+            <ddi:keyword xml:lang="en">disabled persons</ddi:keyword>
+            <ddi:keyword xml:lang="en">medical insurance</ddi:keyword>
+            <ddi:keyword xml:lang="en">financial support</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Health sciences</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Social security studies</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Sociology</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Survey among municipalities in the Netherlands in order to obtain information about driving back non-use of special income support (Bijzondere Bijstand) for chronic patients, handicapped - and elderly persons. Policy driving back non-use of special income support (Bijzondere Bijstand) / demarcation target group / removal of barriers via target group policy /  removal of barriers via  collective additional  medical insurance / used instruments to optimize use of special income support (Bijzondere Bijstand) / scope of  target group and  accessibility / administrative variables  In order to prevent that individual municipalties should become identifiable CEBEON removed the CBS code of municipality. Use of non-anominyzed data is possible upon special request as long as promises towards municipalities are kept.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">2004</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">OPEN_ACCESS_FOR_REGISTERED_USERS</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

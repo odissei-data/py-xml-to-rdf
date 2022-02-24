@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:32195</identifier>
+    <datestamp>2021-04-15T21:05:36Z</datestamp>
+    <setSpec>D60000:D68000</setSpec>
+    <setSpec>D40000:D42000:D42200</setSpec>
+    <setSpec>D70000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Dutch Collective Labour Agreements Database and Monitoring 2003 - DUCADAM 2003</ddi:titl>
+            <ddi:parTitl xml:lang="en">Dutch Collective Labour Agreements Database and Monitoring 2003 - DUCADAM 2003</ddi:parTitl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:32195</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-xmy-n7sp</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en">Dr. K.G. Tijdens, Drs. K.P.A.B. Schreuder, AIAS, Universiteit van Amsterdam (primary investigator)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Universiteit van Amsterdam, AIAS (research initiator) </ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Universiteit van Amsterdam, AIAS (data collector) </ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="2004-11-03"/>
+            <ddi:distDate xml:lang="en" date="2007-07-09"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">economics</ddi:keyword>
+            <ddi:keyword xml:lang="en">work</ddi:keyword>
+            <ddi:keyword xml:lang="en">occupations</ddi:keyword>
+            <ddi:keyword xml:lang="en">trade union</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Economics and Business Administration</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Social and public administration</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Social security studies</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Characteristics of almost four thousand collective labour agreement contracts (CAO's) signed by the FNV union,  concerning the period 1995 until 2004.    The DUCADAM dataset contains more than thousand variables  which can be divided into the following main categories:   income and function, working hours and time-tables,  pensions, various kinds of leave conditions, provisions for young employees, working conditions,  environmental issues,  education,  social security, participation, quality of contracts, international issues, and meta cao characteristics.  </ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1995-2003</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">REQUEST_PERMISSION</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

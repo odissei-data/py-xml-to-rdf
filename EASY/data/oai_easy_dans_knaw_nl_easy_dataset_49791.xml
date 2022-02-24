@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:49791</identifier>
+    <datestamp>2021-04-15T21:06:51Z</datestamp>
+    <setSpec>driver</setSpec>
+    <setSpec>D30000:D31000</setSpec>
+    <setSpec>D10000:D15000:D15700</setSpec>
+    <setSpec>D50000</setSpec>
+    <setSpec>D60000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+    <setSpec>D20000</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Visual exploration of the attribute space of DANS EASY metadata</ddi:titl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-zeq-q3b7</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:49791</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en">Olav ten Bosch</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">DrasticData</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Andrea Scharnhorst</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Data Archiving and Networked Services</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Peter Doorn</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Data Archiving and Networked Services</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Henk Koning</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Data Archiving and Networked Services</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="2012-04-17"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">visualization</ddi:keyword>
+            <ddi:keyword xml:lang="en">collection</ddi:keyword>
+            <ddi:keyword xml:lang="en">interface</ddi:keyword>
+            <ddi:keyword xml:lang="en">visual faceted browsing</ddi:keyword>
+            <ddi:keyword xml:lang="en">structure of a collection</ddi:keyword>
+            <ddi:keyword xml:lang="en">knowledge space</ddi:keyword>
+            <ddi:keyword xml:lang="en">data collections</ddi:keyword>
+            <ddi:keyword xml:lang="en">digital research data archive</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Paleography, bibliology, bibliography, library science</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Humanities</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Behavioural and educational sciences</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Social sciences</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Life sciences, medicine and health care </ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Geodesy, physical geography</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Study of the metadata of the Electronic Archiving System (EASY) of Data Archiving and Networked Services (DANS) for the purpose of getting insight in the internal structure of the collection. The visualization contains a dump of the EASY metadata set and all important data files that were generated during this analysis and used for the interactive website. It contains metadata extracted from EASY version I (before January 1, 2012) and from EASY II (extracted January 20th, 2012).</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1960-2012</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:conditions xml:lang="en">License: http://creativecommons.org/publicdomain/zero/1.0</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

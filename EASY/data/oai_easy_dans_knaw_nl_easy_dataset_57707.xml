@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:57707</identifier>
+    <datestamp>2021-04-15T21:07:16Z</datestamp>
+    <setSpec>D50000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Sample size requirements with unbalanced subgroups in latent growth models</ddi:titl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:57707</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-zd4-qmcs</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Utrecht University">Zondervan-Zwijnenburg, M. A. J.</ddi:AuthEnty>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Utrecht University">Zondervan-Zwijnenburg, M. A. J.</ddi:othId>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="2014-05-05"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">Latent growth modeling, small samples, unbalanced samples, Bayesian estimation, prior information</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Behavioural and educational sciences</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Syntax to replicate the simulation study that is described by the following abstract:
+In the social and behavioral sciences, a general interest exists in the comparison of development between groups, especially when one of the groups is exceptional and abnormal development is expected. Multiple group latent growth models enable these comparisons. However, the combination of a smaller subgroup with a larger reference group has been shown to cause issues with power and Type I errors. The current study explores the limits of the subsample sizes in latent growth modeling (LGM) that can and cannot be analyzed with Maximum Likelihood and Bayesian estimation, where Bayesian estimation was examined not only with uninformed, but also with informed priors. The results show that Bayesian estimation resolves computational issues that occur with ML estimation, and that the addition of prior information can be the key to achieving sufficient power to detect a small growth difference between groups. Prior information has to be acquired, especially with respect to the exceptional group, to promote statistical power.</ddi:abstract>
+         <ddi:sumDscr/>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">REQUEST_PERMISSION</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

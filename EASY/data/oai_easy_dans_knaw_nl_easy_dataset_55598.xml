@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:55598</identifier>
+    <datestamp>2021-04-15T21:07:06Z</datestamp>
+    <setSpec>D30000</setSpec>
+    <setSpec>driver</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Questionnaire NARCIS Notification app</ddi:titl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:55598</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-xdb-2eaj</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Utrecht University">Snijders, T.</ddi:AuthEnty>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Utrecht University">Pouw, BSc E.J.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Utrecht University">Lammertink, J.P.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Utrecht University">Zijdemans, A.H.</ddi:othId>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="2013-09-25"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">scientific practice</ddi:keyword>
+            <ddi:keyword xml:lang="en">research process</ddi:keyword>
+            <ddi:keyword xml:lang="en">publishing</ddi:keyword>
+            <ddi:keyword xml:lang="en">searching process</ddi:keyword>
+            <ddi:keyword xml:lang="en">search system usage</ddi:keyword>
+            <ddi:keyword xml:lang="en">database usage</ddi:keyword>
+            <ddi:keyword xml:lang="en">sources</ddi:keyword>
+            <ddi:keyword xml:lang="en">used searchterms</ddi:keyword>
+            <ddi:keyword xml:lang="en">research behavior</ddi:keyword>
+            <ddi:keyword xml:lang="en">opinion on NARCIS Notification app</ddi:keyword>
+            <ddi:keyword xml:lang="en">satisfaction current possibilities</ddi:keyword>
+            <ddi:keyword xml:lang="en">preferred subscriptions</ddi:keyword>
+            <ddi:keyword xml:lang="en">publications</ddi:keyword>
+            <ddi:keyword xml:lang="en">application</ddi:keyword>
+            <ddi:keyword xml:lang="en">datasets</ddi:keyword>
+            <ddi:keyword xml:lang="en">percentage of publications found on the internet</ddi:keyword>
+            <ddi:keyword xml:lang="en">amount of publications searched for per week</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Humanities</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">This dataset contains the raw data and data comparisons based on the results of a questionnaire held in 2013. The total amount of 322 respondents consists of both student and scientists. The questionnaire was made up of fourteen questions about the background of the respondents (age, field of study, academic position, etc.), the way they collect scientific material, and how the respondents would evaluate the NARCIS Notification application and its functions.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">Start: 2013-03-28</ddi:collDate>
+            <ddi:collDate event="single">End: 2013-05-13</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:conditions xml:lang="en">License: http://creativecommons.org/publicdomain/zero/1.0</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

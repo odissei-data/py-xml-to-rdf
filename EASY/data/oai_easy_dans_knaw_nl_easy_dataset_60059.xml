@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:60059</identifier>
+    <datestamp>2021-04-15T21:07:20Z</datestamp>
+    <setSpec>driver</setSpec>
+    <setSpec>D60000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Balancing men, morals and money: Women's agency between HIV and security in a Malawi village</ddi:titl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:60059</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-zef-y3fd</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en">Verheijen, Dr. J.P.E.</ddi:AuthEnty>
+            <ddi:othId xml:lang="en" role="contributor">Funding Agency: IS-Academy programme on HIV/AIDS</ddi:othId>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="2014-12-09"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">Transactional sex paradigm</ddi:keyword>
+            <ddi:keyword xml:lang="en">HIV risk</ddi:keyword>
+            <ddi:keyword xml:lang="en">poverty</ddi:keyword>
+            <ddi:keyword xml:lang="en">social capital</ddi:keyword>
+            <ddi:keyword xml:lang="en">female empowerment</ddi:keyword>
+            <ddi:keyword xml:lang="en">vulnerability paradigm</ddi:keyword>
+            <ddi:keyword xml:lang="en">agency</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Social sciences</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">This dataset consists of ethnographic fieldnotes collected between August 2008 and July 2009 in a southern Malawian village as part of the PhD research of Dutch anthropologist Janneke Verheijen. The PhD dissertation itself is included as well, hence Verheijen's analysis of these data. In the dissertation all arguments are hyperlinked to the fragments in the raw data set on which these arguments build. The raw data consist of fieldnotes (including interview transcripts) of both Verheijen and her Malawian research assistant Gertrude Finyiza.
+
+The research took a close look at the widely presumed causality between poverty and risky sexual behaviour. The assumption that poverty and gender inequality push women to exchange sex for material support is increasingly used to explain the continued spread of HIV throughout sub-Saharan Africa and consequently to inform policy. Based on one year of anthropological field research, this case study from rural Malawi draws different conclusions. 
+
+In the field, the researchers soon found that interviewing did not provide them with sufficiently reliable data. Fortunately, many of the village women liked to spend their afternoons knitting with the researchers, and while chatting provided great insights into their life worlds. 
+
+The raw data exist of many of these ‘knitting’ conversations (not tape-recorded, but recalled on hindsight by the researchers), the researchers’ observations while participating in village life, various interviews with all adult village women, interviews with women working at three nearby markets, and interviews with health workers in two nearby clinics. All data have been anonymized by changing the names of places and persons. In a few cases, the researcher decided this was insufficient to protect an informant against potential harm. In these cases minor details have been changed so as to avert recognition. The researcher can be contacted about this (and other questions) at jpeverheijen@gmail.com.
+ 
+The rich insights gained through this study confirm that the sexual and relationship choices of the village women put them at increased risk of contracting HIV. These choices are not, however,  forced upon them by acute destitution – as commonly assumed by development professionals. Rather, they result from women’s careful balancing of personal wants and community rules. Among the factors that impact on this ‘balancing act’ are the strict (but not necessarily unequal) division of gender roles, the vital importance of conforming to cultural norms, and suspicion towards women’s independence. Related factors are the patterns of matrilineal and matrilocal organization, the outmigration of men, the traditional valuation of sex, and fatalistic attitudes towards HIV and AIDS. In conclusion, this study argues that the ‘transactional sex paradigm’ fails to acknowledge the major role played by cultural conventions, the complexity of women’s economic survival strategies, and the agency that women exert in upholding the prevalent gender norms.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">August 2008 to July 2009</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:conditions xml:lang="en">License: http://creativecommons.org/publicdomain/zero/1.0</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

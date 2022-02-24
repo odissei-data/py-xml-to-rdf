@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:57620</identifier>
+    <datestamp>2021-04-15T21:07:15Z</datestamp>
+    <setSpec>D30000:D34000:D34300</setSpec>
+    <setSpec>driver</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Dutch Ships and Sailors - Dutch-Asiatic Shipping as RDF</ddi:titl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:57620</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-xnv-wcyf</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Huygens ING">Heerma van Voss, Prof.Dr. L.</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="VU University Amsterdam">Boer, Dr. V. de</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="VU University Amsterdam">Rossum, Dr. M. van</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Huygens ING">Leinenga, Dr. J.</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="VU University Amsterdam">Davids, Prof.Dr. C.A. DAI=info:eu-repo/dai/nl/071885390</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="International Institute of Social History (IISH) / VU University Amsterdam">Lucassen, Prof.Dr. J. DAI=info:eu-repo/dai/nl/070063958</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="The National Maritime Museum">Schokkenbroek, Prof.Dr. J.C.A. DAI=info:eu-repo/dai/nl/120425823</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Huygens ING">Hoekstra, Dr. R.</ddi:AuthEnty>
+            <ddi:othId xml:lang="en" role="contributor">Funding Agency: CLARIN</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor">Funding Agency: DANS</ddi:othId>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="2014-04-23"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">Dutch Asiatic Shipping as RDF (Dutch Ships and Sailors)</ddi:keyword>
+            <ddi:keyword xml:lang="en">linked data</ddi:keyword>
+            <ddi:keyword xml:lang="en">Dutch-Asiatic Shipping (DAS)</ddi:keyword>
+            <ddi:keyword xml:lang="en">voyages</ddi:keyword>
+            <ddi:keyword xml:lang="en">trade</ddi:keyword>
+            <ddi:keyword xml:lang="en">Dutch East India Company (VOC)</ddi:keyword>
+            <ddi:keyword xml:lang="en">logbooks</ddi:keyword>
+            <ddi:keyword xml:lang="en">VOC archive</ddi:keyword>
+            <ddi:keyword xml:lang="en">voyagers</ddi:keyword>
+            <ddi:keyword xml:lang="en">ships</ddi:keyword>
+            <ddi:keyword xml:lang="en">sailors</ddi:keyword>
+            <ddi:keyword xml:lang="en">digital history</ddi:keyword>
+            <ddi:keyword xml:lang="en">maritime data</ddi:keyword>
+            <ddi:keyword xml:lang="en">semantic web</ddi:keyword>
+            <ddi:keyword xml:lang="en">heterogeneous data cloud</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Modern and contemporary history</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Dutch Ships and Sailors is a project that aims to provide an infrastructure for maritime historical datasets, linking correlating data through semantic web technology. It brings together datasets related to recruitment and shipping in the East-India trade (mainly 18th century) and in the shipping of the northern provinces of the Netherlands (mainly 19th century). For the northern provinces, the database contains data on the personnel recruited, the ships, and other variables (Monsterrollen Noordelijke Nederlanden). 
+			
+Dutch Ships and Sailors is a CLARIN-IV-project, hosted by Huygens ING in collaboration with VU University Amsterdam, the International Institute of Social History and Scheepvaartmuseum Amsterdam.
+
+The data from this project are divided over 5 datasets. See the ‘Thematic collection: Dutch Ships and Sailors’ dataset for a full overview.
+
+Between 1595 and 1795 the Dutch East India Company (VOC) and its predecessors before 1602 equipped more than 4,700 ships to sail from the shores of the Netherlands bound for Asia. More than 3,400 ships made the return voyage home. The reference work, ‘Dutch-Asiatic Shipping in the 17th and 18th centuries’ from 1987, by J. R. Bruijn, F. S. Gaastra and I. Schöffer with assistance from A.C.J. Vermeulen, has classified these voyages on which Dutch trade between Europe and Asia was founded in a systematic survey. This dataset is a conversion to Linked Data, to RDF/Turtle, of the digitized version of this publication, the Dutch-Asiatic Shipping (DAS) dataset hosted at Huygens ING, http://resources.huygens.knaw.nl/das/index_html_en.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1595-1795</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:conditions xml:lang="en">License: http://creativecommons.org/publicdomain/zero/1.0</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="nl"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

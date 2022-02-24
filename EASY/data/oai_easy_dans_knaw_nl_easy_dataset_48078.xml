@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:48078</identifier>
+    <datestamp>2021-04-15T21:05:02Z</datestamp>
+    <setSpec>D30000:D34000:D34300</setSpec>
+    <setSpec>driver</setSpec>
+    <setSpec>D60000:D64000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Leiden Historical Population Databank 1700-1850, Kohier 1748</ddi:titl>
+            <ddi:parTitl xml:lang="en">Provisioneel Middel 1748 n.a.v. de afgeschafte verpachte imposten</ddi:parTitl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-23u-3exj</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:48078</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Universiteit Leiden">Diederiks, dr. H.A. DAI=info:eu-repo/dai/nl/068394322</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Tjalsma, drs. H.D. DAI=info:eu-repo/dai/nl/304080179</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">dr. H.A. Diederiks</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">drs. H.D. Tjalsma (editor, since 1995)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">drs. F. van Deijk (streetnames)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">drs. H. Laloli (conversion into MS Access)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">drs. R. Zeedijk (conversion into MS Access)</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="2011-12-16"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">social history</ddi:keyword>
+            <ddi:keyword xml:lang="en">historical demography</ddi:keyword>
+            <ddi:keyword xml:lang="en">economic history</ddi:keyword>
+            <ddi:keyword xml:lang="en">local census data</ddi:keyword>
+            <ddi:keyword xml:lang="en">tax register</ddi:keyword>
+            <ddi:keyword xml:lang="en">property tax register</ddi:keyword>
+            <ddi:keyword xml:lang="en">sociale geschiedenis</ddi:keyword>
+            <ddi:keyword xml:lang="en">historische demografie</ddi:keyword>
+            <ddi:keyword xml:lang="en">economische geschiedenis</ddi:keyword>
+            <ddi:keyword xml:lang="en">volkstelling</ddi:keyword>
+            <ddi:keyword xml:lang="en">belastingregister</ddi:keyword>
+            <ddi:keyword xml:lang="en">verponding</ddi:keyword>
+            <ddi:keyword xml:lang="en">afgeschafte pachten</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Modern and contemporary history</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Demography</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">The MS-Access database KOHIER1748 is almost completely based on the archival source of the "Kohier van het Provisioneel Middel tot remplacant der afgeschafte pagten van 1748" (Regionaal Archief Leiden) of the city of Leiden made up in 1748.
+
+This tax assessment register contains data on the almost total population of Leiden in that year, including information on occupation, taxation, family composition, domestic servants, location in the city and poverty, on the level of all the heads of households. In fact, it can therefore be considered as one of the very rare local census registers of the city before 1800. The information from this source has been combined with that from the property tax register, "het verpondingskohier" of 1749.
+
+This dataset has been initiated by and created under the supervision of the late dr. H.A. Diederiks (Leiden University) starting in 1972. It has been modified later on several times. The original ASCII file (on punched cards) has been converted into a SPSS system file and in the late nineties into a MS Access file. During these transformations those fields which were originally coded have been "decoded". Those fields (like occupation) are now available in both coded and uncoded form.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1748</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:conditions xml:lang="en">License: http://creativecommons.org/publicdomain/zero/1.0</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="nl"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

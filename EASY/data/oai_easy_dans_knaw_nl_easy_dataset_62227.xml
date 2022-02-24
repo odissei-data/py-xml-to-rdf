@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:62227</identifier>
+    <datestamp>2021-04-15T21:07:26Z</datestamp>
+    <setSpec>D30000:D34000:D34300</setSpec>
+    <setSpec>D30000:D36000</setSpec>
+    <setSpec>D30000:D35000:D35400</setSpec>
+    <setSpec>driver</setSpec>
+    <setSpec>D60000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Talk of Europe - The debates of the European Parliament as Linked Open Data</ddi:titl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-2xg-umq8</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:62227</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="CWI">Hollink, Dr L.H.</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="VU University Amsterdam">Aggelen, MSc A.V.A. van</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Erasmus University Rotterdam">Beunders, Prof H.B.</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="VU University Amsterdam">Kleppe, Dr M.K.</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="University of Luxembourg">Kemman, MSc M.K.</ddi:AuthEnty>
+            <ddi:othId xml:lang="en" role="" affiliation="University of Oslo">Høyland, Prof. B.H.</ddi:othId>
+            <ddi:othId xml:lang="en" role="" affiliation="University of Amsterdam">Marx, Dr. M.</ddi:othId>
+            <ddi:othId xml:lang="en" role="" affiliation="Università degli studi di Bari Aldo Moro">Giannini, MSc S.G.</ddi:othId>
+            <ddi:othId xml:lang="en" role="">Funding Agency: Clarin ERIC and Clarin-NL.</ddi:othId>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="2015-10-14"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">European Parliament</ddi:keyword>
+            <ddi:keyword xml:lang="en">Linked Open Data</ddi:keyword>
+            <ddi:keyword xml:lang="en">Open Government Data</ddi:keyword>
+            <ddi:keyword xml:lang="en">multilingual data</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Social sciences</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Modern and contemporary history</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Language and literature studies</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Media sciences</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">--- Please note: this dataset is replaced by a new version. A link to the new version is provided under 'Relation'. ---
+
+The Talk of Europe (TOE) project has curated the proceedings of the European Parliament (EP) from 1999 onwards, including all available translations in other EU languages, and converted these to RDF. Moreover, the data are enriched with biographical and political information on the speakers. Since the data are available in multilingual form, this dataset lends itself to be linked with resources in other European countries, such as parliamentary records or news reports.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1999-2014</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:conditions xml:lang="en">License: http://creativecommons.org/publicdomain/zero/1.0</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="nl"/>
+   </ddi:fileDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="de"/>
+   </ddi:fileDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="fr"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:53734</identifier>
+    <datestamp>2021-04-15T21:07:01Z</datestamp>
+    <setSpec>easy-collection:7</setSpec>
+    <setSpec>D40000:D41000:D41300</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Verwijzing naar de data van: Public opinion on suspended sentences</ddi:titl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:53734</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-x9m-mddy</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="NSCR - Nederlands Studiecentrum Criminaliteit en Rechtshandhaving">Gelder, J.L. van</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="NSCR - Nederlands Studiecentrum Criminaliteit en Rechtshandhaving">Aarten, P.</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="NSCR - Nederlands Studiecentrum Criminaliteit en Rechtshandhaving">Lamet, W.</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="NSCR - Nederlands Studiecentrum Criminaliteit en Rechtshandhaving">Laan, P. van der</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="2013-03-01"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">suspended sentences</ddi:keyword>
+            <ddi:keyword xml:lang="en">public opinion</ddi:keyword>
+            <ddi:keyword xml:lang="en">punishment goals</ddi:keyword>
+            <ddi:keyword xml:lang="en">attitudes</ddi:keyword>
+            <ddi:keyword xml:lang="en">beliefs</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Criminal (procedural) law and criminology</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">In two studies among representative samples of the Dutch population we examine public opinion about and knowledge of suspended sentences in The Netherlands. Findings suggest that knowledge of suspended sentences is positively related to their perceived punitiveness and beliefs in their effectiveness. Furthermore, opinions about suspended sentences are related to general penal attitudes. More punitive attitudes translate into less favorable opinions. Finally, providing information about suspended sentences can lead to more positive attitudes and a greater belief in their effectiveness. Examine public opinion (e.g. attitudes, beliefs, etc.) towards suspended sentences and its relation with punishment goals.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">2010</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">NO_ACCESS</ddi:restrctn>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="nl"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

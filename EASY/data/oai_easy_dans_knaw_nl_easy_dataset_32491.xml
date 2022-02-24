@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:32491</identifier>
+    <datestamp>2021-04-15T21:05:50Z</datestamp>
+    <setSpec>driver</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+    <setSpec>D40000:D41000:D41300</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Meningen van de Nederlandse bevolking over criminaliteit, 1990</ddi:titl>
+            <ddi:parTitl xml:lang="en">Opinions of the Dutch population on criminality, 1990</ddi:parTitl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:32491</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-x62-bu7k</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en">Terlouw, G.J., Ministerie van justitie * Den Haag, Wetenschappelijk onderzoek- en documentatiecentrum, WODC (primary investigator)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Wetenschappelijk Onderzoek en Documentatiecentrum, Ministerie van Justitie * Den Haag (research initiator) </ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Nederlands instituut voor de publieke opinie en het marktonderzoek, NIPO * Amsterdam (data collector) </ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="1992-01-01"/>
+            <ddi:distDate xml:lang="en" date="2007-07-16"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">criminology</ddi:keyword>
+            <ddi:keyword xml:lang="en">crime</ddi:keyword>
+            <ddi:keyword xml:lang="en">law</ddi:keyword>
+            <ddi:keyword xml:lang="en">values and beliefs</ddi:keyword>
+            <ddi:keyword xml:lang="en">safety</ddi:keyword>
+            <ddi:keyword xml:lang="en">violence</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Criminal (procedural) law and criminology</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Gaining insight in the ( change of ) opinions of the Dutch population regarding ( fighting ) crime. Going out on weekend-nights when aged 17 / Importance of social problems: unemployment, economic situation, environmental problems, traffic, criminality, health-care, ethnic minorities, agricultural problems, soccer-vandalism / Estimated level of criminality compared to neighbouring countries ( Belgium, West-Germany, France, Great Britain ) / Government-spending on fighting crime sufficient? Special criminality-tax desirable? Victimization: bicycle theft, burglary, pickpockets, vandalism, assault ( bodily harm ) / Factors explaining juvenile delinquency: lack of parental attention or control, lack of social control, lack of leisure facilities, unemployment / Preference regarding methods fighting juvenile delinquency / Relative importance of various forms of fraud and opinions on methods to fight it / Attitude towards police incitement of criminal acts, attitude towards buying presumably stolen goods / Alternative ways of punishment / Methods of crime-prevention / Own role in crime-prevention in neighbourhood / Attitude towards city guards ( stadswacht ) like operating in Amsterdam / Should city guards have the authority to make arrests, carry arms? Background variables: basic characteristics/ residence/ occupation/employment/ education/ politics/ religion/ readership, mass media, and 'cultural' exposure</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1990</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">OPEN_ACCESS_FOR_REGISTERED_USERS</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

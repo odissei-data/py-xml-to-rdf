@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:40826</identifier>
+    <datestamp>2021-04-15T21:04:51Z</datestamp>
+    <setSpec>D30000:D34000:D34300</setSpec>
+    <setSpec>driver</setSpec>
+    <setSpec>E10000:E15000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">CLIWOC - Climatological Database for the World's Oceans 1750-1850 (release 2.1)</ddi:titl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:40826</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-2bx-dutg</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en">ing. F.B. Koek</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">ing. Frits B. Koek (KNMI; NL)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Dr. Günther Können (KNMI; NL)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Dr. Clive Wilkinson (Univ. East Anglia; GB)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Dr. Dennis Wheeler (Univ. of Sunderland; GB)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Dr. Ricardo Garcia-Herrera (Univ. Computense Madrid; ES)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Dr. Maria Rosario Prieto (Inst. de Argentino de Galciologia y Nivologia; AR)</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt/>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">ancient meteorology</ddi:keyword>
+            <ddi:keyword xml:lang="en">naval history</ddi:keyword>
+            <ddi:keyword xml:lang="en">geography</ddi:keyword>
+            <ddi:keyword xml:lang="en">history of trade</ddi:keyword>
+            <ddi:keyword xml:lang="en">economic history</ddi:keyword>
+            <ddi:keyword xml:lang="en">military history</ddi:keyword>
+            <ddi:keyword xml:lang="en">transport studies</ddi:keyword>
+            <ddi:keyword xml:lang="en">sailing ship records</ddi:keyword>
+            <ddi:keyword xml:lang="en">weather observations</ddi:keyword>
+            <ddi:keyword xml:lang="en">nautical weather vocabularies</ddi:keyword>
+            <ddi:keyword xml:lang="en">historical marine data</ddi:keyword>
+            <ddi:keyword xml:lang="en">geographic mobility</ddi:keyword>
+            <ddi:keyword xml:lang="en">colonial trade</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Modern and contemporary history</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Environmental studies</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">The principal objective of the CLIWOC project was to realise the scientific potential of logbook climatic data and to produce a database of daily weather observations for the world's oceans between 1750 and 1850. Another objective was to provide a comprehensive understanding of the nature of climatic change over the oceans for the century after 1750 when logbooks became abundant and to link with existing databases such as the I-COADS dataset (International Comprehensive Ocean-Atmosphere Data Set). The study period is also significant because it marks a period when climatic change cannot be seen as a consequence of world-wide industrialization and the release of greenhouse gases into the atmosphere. One of the project's main achievements was the preparation of a database drawing on British, Dutch, French and Spanish naval logbook records for the immediate pre-instrumental period (1750-1853). This database is freely available on the KNMI website &lt;http://www.knmi.nl/cliwoc/download/cliwoc21.htm>.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1750-1855</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:conditions xml:lang="en">License: http://creativecommons.org/publicdomain/zero/1.0</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="nl"/>
+   </ddi:fileDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="fr"/>
+   </ddi:fileDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="Spanish"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

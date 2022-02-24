@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:67353</identifier>
+    <datestamp>2021-04-15T21:07:33Z</datestamp>
+    <setSpec>driver</setSpec>
+    <setSpec>D40000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">A Multilateral Agreement for International Taxation: Designing an instrument to modernise international tax law</ddi:titl>
+            <ddi:parTitl xml:lang="en">Appendix A - analysis of dates of conclusion and amendment of tax treaties of OECD member states</ddi:parTitl>
+            <ddi:parTitl xml:lang="en">Appendix B - tax treaty case law analysis on the 'status' of the OECD Commentary</ddi:parTitl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-x22-k8wh</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:67353</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Leiden University">Broekhuijsen, LLM D.M.</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt/>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">tax treaties</ddi:keyword>
+            <ddi:keyword xml:lang="en">international tax law</ddi:keyword>
+            <ddi:keyword xml:lang="en">tax treaty case law</ddi:keyword>
+            <ddi:keyword xml:lang="en">OECD Commentary</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Law and public administration </ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Appendix A includes an analysis of conclusion and amendment dates of tax treaties. It is part of the thesis  "A Multilateral Agreement for International Taxation: Designing an instrument to modernise international tax law.'
+
+The point of Appendix A is to calculate the average time tax treaties are updated. Data from the IBFD’s tax treaty database on tax treaties, in force on 1 January 2013,  was used to calculate the average time (i.e., the ‘estimated mean’) in which an OECD-member country’s tax treaty was updated. In the database, the date of conclusion of each selected tax treaty was coded, as well as the date of: (1) any new bilateral tax treaty concluded within the same tax treaty relationship; (2) a protocol to a treaty or (3) an exchange of notes or any other mutual agreement, provided that this agreement changed the wording of the tax treaty in question.
+Only the treaties of the founding states of the OECD were taken into account. These are: the Republic of Austria, the Kingdom of Belgium, the Dominion of Canada, the Kingdom of Denmark, the French Republic, the Federal Republic of Germany, the Kingdom of Greece, the Republic of Iceland, the Republic of Ireland, the Italian Republic, the Grand Duchy of Luxembourg, the Kingdom of the Netherlands, the Kingdom of Norway, the Portuguese Republic, the Kingdom of Spain, the Kingdom of Sweden, the Swiss Confederation, the Turkish Republic, the United Kingdom of Great Britain and Northern Ireland, and the United States of America. The count includes tax treaties of these countries with non-OECD member countries. In counting the amendments to tax treaties in force, terminated treaties which have not been followed up by a new treaty, abandoned treaties as well as treaties that were not ratified before 1-1-2013, were excluded. Moreover, all pre-war (1940) treaties were not considered. 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Appendix B includes the tax treaty case law analysis to the thesis "A Multilateral Agreement for International Taxation, Designing an instrument to modernise international tax law". Appendix B consists of a code book (description of coding per case) as well as a summary Excel file.
+
+Appendix B comprises an analysis of relevant case law decided by courts in OECD member countries. The point of the analysis is to provide some (factual) insight in the way the OECD Commentary is used to ‘modernise’ the terms of a tax treaty through interpretive rule-stretching. To circumvent discussions about the ‘status’ of the OECD Commentary under international law and in the process of tax treaty interpretation – this issue is still under debate in tax law doctrine –the reasoning of the courts as to the interpretive relevance of the OECD Commentary was not considered in the analysis. Instead, it focuses on the Commentary’s effects under five different groups of circumstances. The selection of cases as well as the relevant circumstances can be described as follows:
+
+Case selection
+First, a group of relevant cases, all settled within the jurisdiction of OECD member countries, was selected by using a specific search query within the database of the International Tax Law Reports.  The search function was applied on 1 January 2013 and brought up about 150 judgements in which the word ‘interpretation’ was found within the same paragraph  as the words ‘tax treaty’, ‘tax agreement’ or ‘tax convention’.  
+If a case included more than one interpretative issue, each issue was assessed as if it were an individual case. This was for instance the case when a judge clearly interpreted two distinct treaty terms, or when a judgement dealt with the application of more than one tax treaty. 
+From these ‘cases’, an additional selection excluded those which clearly fell outside the ambit of this research. Cases deselected were those in which the Commentary could clearly not have played a role, i.e.,(1) those that dealt with the interpretation of domestic tax law rather than the term of a tax treaty; (2) those not related to a tax treaty on income and capital, but e.g., to inheritance tax treaties; (3) those that dealt with tax treaty provisions that were clearly not in conformity with the OECD MTC  and (4) those that dealt with the interpretation of treaty terms such as ‘profits’,  ‘income’ or ‘gains’, which require domestic law rules to be calculated or determined, rather than the interpretative rules of the OECD Commentary.  
+The use of the search function, in combination with the additional selection, resulted in a sample of ‘neutral’ cases (i.e., cases on tax treaty interpretation in which the Commentary could have been, but also in which it could not have been, of relevance). This allowed for the generalisation of the Commentary’s relevance under a set of varying circumstances. 
+
+Coding and grouping of circumstances
+In accordance with the facts of a case, each case first coded on and then grouped within five categories of circumstances. The circumstances, here formulated in the form of questions, are: 
+1.	Was a reservation on the provisions of the OECD MTC or an observation on the Commentary submitted?
+2.	Was the relevant treaty term not defined in the treaty?
+3.	Was one of the treaty parties not a member of the OECD?
+4.	Did the Commentary exist before the conclusion of the relevant bilateral tax treaty? 
+5.	If question 4 was answered with no (i.e. the commentary was adopted after the conclusion of the relevant bilateral tax treaty), was that Commentary:
+a.	similar to; 
+b.	expounding on;
+c.	gap-filling in relation to;
+d.	or contradictory to Commentary existing at the time of conclusion of a treaty? 
+For each case, questions 1 to 4 were answered with either ‘yes’ or ‘no’, question 5 with ‘a’; ‘b’; ‘c’ and ‘d’. The answers were coded per case in a codebook and its related Excel database, which can be found in Appendix B. If a question could be answered with ‘yes’, that case was placed in that group. If a case could be placed in more than one group, it was. 
+
+Analysis
+Subsequently, the influence of the Commentaries in all of the cases selected was determined, distinguishing between three possible entries: either the Commentary was used by the court, and therefore of relevance, or it was not used or disregarded by the court, and therefore not of relevance. In some cases, the Commentary’s influence could not be determined or established. These cases were coded ‘N.A (‘not applicable’). For each circumstance, this then resulted in a list of cases in which the Commentary was of relevance, a list of cases in which the Commentary was not of relevance, and a list of cases in which the relevance of the Commentary could not be determined.
+The gradual normative influence of the Commentary on each decision (e.g., decisive, supplementary, etc.) was not considered: coding the relative influence of the Commentary proved too problematic (one of the problems was that in most decisions, courts do not give explicit reasons for their use of Commentary).
+
+
+The research setup is also included in a separate PDF file.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1940 - 2013</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:conditions xml:lang="en">License: http://creativecommons.org/publicdomain/zero/1.0</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

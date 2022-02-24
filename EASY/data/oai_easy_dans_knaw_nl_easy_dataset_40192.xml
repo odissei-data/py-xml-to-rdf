@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:40192</identifier>
+    <datestamp>2021-04-15T21:06:43Z</datestamp>
+    <setSpec>D30000:D34000:D34300</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Diary of Paulus Gevers of his journey to Batavia and Bantam, 1776-1777</ddi:titl>
+            <ddi:parTitl xml:lang="en">Reisjournaal van Paulus Gevers naar Batavia en Bantam, 1776-1777</ddi:parTitl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-zhy-e6p2</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:40192</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en">dr Els S. van Eyck van Heslinga, Universiteit Leiden</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">dr Jan P. van de Voort</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt/>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">history</ddi:keyword>
+            <ddi:keyword xml:lang="en">Dutch East India Company (VOC)</ddi:keyword>
+            <ddi:keyword xml:lang="en">shipping</ddi:keyword>
+            <ddi:keyword xml:lang="en">travel</ddi:keyword>
+            <ddi:keyword xml:lang="en">travels</ddi:keyword>
+            <ddi:keyword xml:lang="en">voc</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Modern and contemporary history</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">The Rotterdam Patriot Paulus Gevers (1741-1797), sets sail on the 8th of December 1776 on the ship of Captain Adrianus Frederik de Graaff, 'De Jonge Lieve', as junior merchant of the 'Kamer Amsterdam' of the Dutch East India Company. He gives an almost daily account of life on board of the ship. On the 30th of March they reach the Cape of Good Hope. On the 14th of April they leave the Cape and arrive in Batavia on the 18th of June 1777. Paulus Gevers is a member of a delegation going to Bantam for the coronation of the new Sultan. He also gives an account of this journey and of the visit (August 22nd – September 14th 1777).</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1776 - 1777</ddi:collDate>
+            <ddi:collDate event="single">1777 - 1777</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">REQUEST_PERMISSION</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="nl"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

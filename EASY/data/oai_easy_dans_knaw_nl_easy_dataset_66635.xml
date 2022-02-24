@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:66635</identifier>
+    <datestamp>2021-04-15T21:07:33Z</datestamp>
+    <setSpec>D50000:D51000</setSpec>
+    <setSpec>driver</setSpec>
+    <setSpec>D20000:D22000</setSpec>
+    <setSpec>D20000:D24000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Cannabinoid antagonist SLV326 induces convulsive seizures and changes in the interictal EEG in rats</ddi:titl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-zss-9ams</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:66635</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University">Perescis, drs. M.F.J. DAI=info:eu-repo/dai/nl/316042234</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Bruin, dr. N de</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Heijink, dr. L</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Kruse, prof. dr. C</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University">Vinogradova, PhD L.V. DAI=info:eu-repo/dai/nl/258679859</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University">Luttjohann, dr. A.K. DAI=info:eu-repo/dai/nl/316290351</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University">Luijtelaar, prof. dr. E.L.J.M. van DAI=info:eu-repo/dai/nl/071899855</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University">Rijn, dr. C.M. van DAI=info:eu-repo/dai/nl/074256122</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt/>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">cannabinoid</ddi:keyword>
+            <ddi:keyword xml:lang="en">endocannabinoid system</ddi:keyword>
+            <ddi:keyword xml:lang="en">epilepsy</ddi:keyword>
+            <ddi:keyword xml:lang="en">convulsions</ddi:keyword>
+            <ddi:keyword xml:lang="en">rat</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Life sciences, medicine and health care </ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Biology</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Health sciences</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Psychology</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Cannabinoid CB1 antagonists have been investigated for possible treatment of e.g. obesity-related disorders. However, clinical application was halted due to their symptoms of anxiety and depression. In addition to these adverse effects, we have shown earlier that chronic treatment with the CB1 antagonist rimonabant may induce EEG-confirmed convulsive seizures. 
+In a regulatory repeat-dose toxicity study “muscle spasms” were observed in Wistar rats, daily dosed with the CB1 receptor antagonist SLV326 during 5 months. The aim of the present follow-up study was to investigate whether these spasms were of an epileptic origin.
+In selected SLV326-treated and control animals, EEG and behavior were monitored for 24 hours.  25% of SLV326 treated animals showed 1 to 21 EEG-confirmed generalized convulsive seizures, whereas controls were seizure-free. The behavioral seizures were typical for a limbic origin. Moreover, interictal spikes were found in 38% of treated animals. The frequency spectrum of the interictal EEG of the treated rats showed a lower theta peak frequency, as well as lower gamma power compared to the controls. These frequency changes were state-dependent: they were only found during high locomotor activity.
+It is concluded that long term blockade of the endogenous cannabinoid system can provoke limbic seizures in otherwise healthy rats. Additionally, SLV326 alters the frequency spectrum of the EEG when rats are highly active, suggesting effects on complex behavior and cognition.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">start=2007-09-26; end=2007-10-16;</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">OPEN_ACCESS_FOR_REGISTERED_USERS</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

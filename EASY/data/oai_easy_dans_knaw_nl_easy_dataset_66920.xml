@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:66920</identifier>
+    <datestamp>2021-04-15T21:07:33Z</datestamp>
+    <setSpec>D30000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Arab West Report 2000, Weeks 01-51: Coptic Affairs, Media Critique, Saad Eddin Ibrahim Controversy, and Palestinian Christianity</ddi:titl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-x8d-unt8</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:66920</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Center for Intercultural Dialogue and Translation (CIDT)">Hulsman, Drs. C.</ddi:AuthEnty>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Center for Intercultural Dialogue and Translation (CIDT)">Sparks, MA M.R.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Religious News Service from the Arab-World (RNSAW)">Nispen, Dr. Fr. C. van</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="British Coptic Association">Girgis, H.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Religious News Service from the Arab-World (RNSAW)">Watson, Dr. J.H.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="University of Nottingham">Goddard, Dr. H.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor">Jawdat, H.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Religious News Service from the Arab-World (RNSAW)">Ghali, W.F.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="California Coptic Association">Bishay, M.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Anglican Church, UK">Francis, J.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Leiden University">Abū Zayd, Dr. N.Ḥ.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Olive Branch,  Jerusalem">Abusahlia, R.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Religious News Service from the Arab-World (RNSAW)">Fawzī, N.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Religious News Service from the Arab-World (RNSAW)">Bayyūmī, Dr. A.M.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor">Vatican Press Office</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor">News from Free_Saadeddin_Ibrahim</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor">European Commission</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor">News from Democracy Egypt</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor">Egyptian Organization for Human Rights</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor">Pax Christi International</ddi:othId>
+         </ddi:rspStmt>
+         <ddi:distStmt/>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">RNSAW in-depth coverage of Coptic Affairs</ddi:keyword>
+            <ddi:keyword xml:lang="en">Media Critique</ddi:keyword>
+            <ddi:keyword xml:lang="en">Saad Eddin Ibrahim Controversy</ddi:keyword>
+            <ddi:keyword xml:lang="en">Palestinian Christianity</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Humanities</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">This  dataset contains the Arab-West Report special reports that were published in 2000. At the time the articles were published, Arab-West Report did not exist. Religious News Service from the Arab World, the organization which would ultimately become Arab-West Report, published the following documents. The dataset contains primarily the writings of Cornelis Hulsman (Drs.) reporting on incidents of Muslim-Christian violence or tensions in Egypt. In addition to the reports and journalistic work of Hulsman, the dataset also contains commentary from RSNAW on press conferences and published material from other sources (reviews/critique of articles, books, etc). Of special note, this dataset contains a series of documents on  the Saad Eddin Ebrahim controversy, a series of articles on Palestinian Christianity, and recommendations/praise for the work of RNSAW. Authors featured in this dataset include: Cornelis Hulsman, Drs., Rev. Dr. Christiaan van Nispen, Egyptian Organization for Human Rights, Hilmi Girgis, John H. Watson, Dr., Hugh Goddard, Dr., Husam Jawdat, Wael Farouk Ghaly, Munir Bishay John Francis, Naṣr Ḥāmid Abū Zayd, Dr., Raed Abusahlia, Nirmīn Fawzī, and ‘Abd al-Mu‘tī Bayyūmī. Institutional authors featured in this dataset include the Vatican, the RNSAW Editorial Board, News from Free_Saadeddin_Ibrahim, European Commission, News from Democracy Egypt, and Pax Christi International.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">2000</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">REQUEST_PERMISSION</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

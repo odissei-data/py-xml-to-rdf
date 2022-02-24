@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:32484</identifier>
+    <datestamp>2021-04-15T21:05:50Z</datestamp>
+    <setSpec>D60000:D67000</setSpec>
+    <setSpec>D60000:D61000</setSpec>
+    <setSpec>driver</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Tijdsbestedingsonderzoek 1985 - TBO 1985</ddi:titl>
+            <ddi:parTitl xml:lang="en">Time-budget survey 1985 - TBO 1985</ddi:parTitl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-zn6-z9nw</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:32484</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en">Knulst, W., Beek, P. van, Sociaal en cultureel planbureau, SCP * Den Haag, Centraal Bureau voor de Statistiek, CBS * Voorburg, CEBUCO , IVVS , Nederlandse onderneming voor uitgevers marktonderzoek, NOVUM * Haarlem, Stichting wetenschappelijk onderzoek konsumenten aangelegenheden, SWOKA * Den Haag, TELEAC * Utrecht, Intomart bv * Hilversum, Nederlandse omroep stichting, NOS * Hilversum (primary investigator)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Sociaal en Cultureel Planbureau (depositor)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Sociaal en cultureel planbureau, SCP * Den HaagCentraal Bureau voor de Statistiek, CBS * VoorburgCEBUCO * AmsterdamIVVSNOVUM bv * AmsterdamSWOKA * Den HaagTELEAC * UtrechtIntomart bv * HilversumNOS * Hilversum (research initiator)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Intomart * Hilversum (data collector)</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt/>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">mass media</ddi:keyword>
+            <ddi:keyword xml:lang="en">leisure</ddi:keyword>
+            <ddi:keyword xml:lang="en">consumption</ddi:keyword>
+            <ddi:keyword xml:lang="en">sports</ddi:keyword>
+            <ddi:keyword xml:lang="en">time budget</ddi:keyword>
+            <ddi:keyword xml:lang="en">family life</ddi:keyword>
+            <ddi:keyword xml:lang="en">employment</ddi:keyword>
+            <ddi:keyword xml:lang="en">hobbies</ddi:keyword>
+            <ddi:keyword xml:lang="en">reading behaviour</ddi:keyword>
+            <ddi:keyword xml:lang="en">massamedia</ddi:keyword>
+            <ddi:keyword xml:lang="en">vrije tijd</ddi:keyword>
+            <ddi:keyword xml:lang="en">consumptie</ddi:keyword>
+            <ddi:keyword xml:lang="en">sport</ddi:keyword>
+            <ddi:keyword xml:lang="en">tijdsbesteding</ddi:keyword>
+            <ddi:keyword xml:lang="en">gezinsleven</ddi:keyword>
+            <ddi:keyword xml:lang="en">werk</ddi:keyword>
+            <ddi:keyword xml:lang="en">hobby</ddi:keyword>
+            <ddi:keyword xml:lang="en">leesgedrag</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Social sciences</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Sociology</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Leisure and recreation studies</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Gaining insight into the way the Dutch population, over 12 year old, spends its time. For a one week period respondents reported in a diary the time spent ( in units of 15 minutes ) on 238 separate activities, grouped in these categories: work, job, professional activities ( including necessary travelling, commuting ) / domestic work ( including gardening, repairs ) / child care and companionship / shopping ( including visits to hairdresser, GP general practitioner, post office, bank ) / personal needs / schools, courses, education / church attendance, social and political participation / leisure, social and cultural life / sports and other active leisure spending, hobbies / radio and tv exposure, computer use, reading books, newspapers, magazines, talking. Pre-diary questionnaire items: use of tv sets / teletext / viditel / reception of foreign tv stations / current affairs programs on radio and tv / shopping habits / readership magazines, weeklies, newspapers / membership library, books club / book reading / frequency of going out to dancing, movies etc. / eating outdoors / sports / lotteries / musical instruments / hobbies / political interest and participation / volunteer work / garden / pets / family composition / child care / role patterns / work situation / following education / situation partner. Post-diary questionnaire: special circumstances / illness / domestic help / consumerism / video / computer ( micro, home- ) / vehicles / political preference / income. Background variables: basic characteristics/ housing situation/ household characteristics/ place of work/ occupation/employment/ education/ politics/ religion/ consumption of durables/ readership, mass media, and 'cultural' exposure/ organizational membership.
+    
+The data- and documentation files of this dataset can be downloaded via the option Data Files.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1985</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">OPEN_ACCESS_FOR_REGISTERED_USERS</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

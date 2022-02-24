@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:67378</identifier>
+    <datestamp>2021-04-15T21:07:34Z</datestamp>
+    <setSpec>D30000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Arab West Report 2006, Weeks 01-53: Muslim–Christian Dialogue and Christianity in Egypt</ddi:titl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-zj3-cmpd</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:67378</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Center for Intercultural Dialogue and Translation (CIDT)">Hulsman, Drs. C.</ddi:AuthEnty>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Center for Intercultural Dialogue and Translation (CIDT)">Sparks, MA M.R.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Center for Arab West Understanding (CAWU)">Grosfield, N.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Center for Arab West Understanding (CAWU)">Tolino, S.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor">Veen, H. van</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Arab-West Foundation">Mus‘ad, 'A.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Episcopal Church">Hannā Anīs Armanius, Bishop M.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Maadi Community Church">Petrescue, D.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Center for Intercultural Dialogue and Translation (CIDT)">Yell, E.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Azhar University">al-Zifzāf, Sheikh F.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor">Māhir, A.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Dutch Embassy, Cairo, Egypt">Zwaan, T. de</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Norwegian Embassy, Cairo, Egypt">Seim, L.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Bahrain Embassy, Cairo, Egypt">al-Thawārdī, K.I.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Azhar University">Wajīh, Dr. H.M.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Episcopal Church">Carey, Archbishop Ld. G.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Center for Arab-West Understanding (CAWU)">Roeder, M.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor">Slomp, Dr. Rev. J.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Center for Intercultural Dialogue and Translation (CIDT)">Bihman, N.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor">al-Sharqāwī, R.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Center for Arab-West Understanding (CAWU)">Kohn, S.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Reformatorisch Dagblad">Donk, R.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Katholiek Nieuwsblad">van de Venn, B.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Center for Arab-West Understanding (CAWU)">Ulvgraven, M.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Center for Arab-West Understanding (CAWU)">Muḥammad-ʿAwalā, F.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor">Dalrymple, W.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Kerk in Actie">Haagsma, S.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Center for Intercultural Dialogue and Translation (CIDT)">Erlebach, M.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Center for Arab-West Understanding (CAWU)">Muhammad al-Duwīnī, W.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor">Picard, M.</ddi:othId>
+         </ddi:rspStmt>
+         <ddi:distStmt/>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">Muslim–Christian Dialogue and Christianity in Egypt</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Humanities</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">This dataset contains the Arab-West Report special reports that were published in 2006.
+
+This dataset mainly contains the writings of Cornelis Hulsman, Drs., among other authors on topics related to Muslim-Christian relations and interfaith dialogue. The writings in this dataset are mostly reports concerning Coptic Christian culture, Muslim-Christian dialogue, and the state of the Christian faith in Egypt. 
+
+Some of the articles address the controversial book "The Da Vinci Code" and the debates that ensued after its publication surrounding its historicity and freedom of expression. 
+
+Additionally this dataset contains recommendation for the work of Arab-West Report by other social figures and the development of its affiliated NGO, the Center for  Arab West Understanding. Furthermore, this dataset contains commentary and critique on published material from other sources (media critique).
+
+Some of the themes that characterize this dataset:
+
+Development of the  Center for Arab West Understanding (CAWU) and recommendations of the work of Arab West Report:
+
+- Recommendation for Arab-West Report and the Center for Arab-West Understanding from Dutch musician and entertainer, Herman van Veen, Pastor Dave Petrescue ( Maadi Community Church in Cairo, Egypt) and Lord Carey of Clifton, former archbishop of Canterbury. Additionally, this dataset contains special recommendations of the work of Corneliss 'Kees' Hulsman and Sawsan Gabra by Dr. Jan Slomp, member of the Advisory Editorial Board of the Journal of Muslim Minority Affairs in Jeddah. Dr. Slomp acknowledges that Arab West Report’s use of reliable information is working towards strengthening Muslim-Christian relations by providing source material for cultural, educational and religious dialogue and cooperation. 
+
+-Another report mentioned that the Former Dutch Prime Minister Andreas van Agt visited Egypt to support the foundation of the Center for Arab-West Understanding.
+
+-A report about NGO Status of CAWU, “After Three Years of Struggle”. This report came as a result of the February 18 ruling of the Egyptian Council of State that granted the Center recognition as an NGO under Egyptian law. 
+
+-Annual report: Arab-West Report presents the annual report for 2005.
+
+-Arab West Report’s American intern writes about 220 years of religious freedom in the U.S., arguing that one standard must be applied to all.
+
+-A discussion of homosexuality and Egyptian law taken from a bachelor’s thesis on Egyptian law.
+
+-Book review of Jamal Al-Banna’s "My Coptic Brethren".
+
+-“Christian Minorities in the Islamic World, an Egyptian Perspective”: A paper presented at the annual interfaith dialogue meeting of the Anglican Communion and the Permanent Committee of the Azhar al-Sharif for Dialogue with the Monotheistic Religions. This paper prompted criticism from Metropolitan Seraphim for the portrayal of Muslim-Christian relations in Egypt.
+
+Media Critique: 
+
+-An author criticizes an article by the German magazine Der Spiegel about Christians in the Middle East. She claims that the article distorts the reality of the situation in the declining Christian communities in the region.
+
+- Interview with Egyptian artist Farid Fadil, , including discussion of his views on Muslim-Christian relations in Egypt, ’Christian art’,  Leonardo da Vinci and the controversial book, The Da Vinci Code.
+
+-Excerpts from the speeches of  Mr. Ahmad Māhir, former foreign minister of Egypt, Sir Derek Plumbly, British ambassador to Egypt , Mr. Tjeerd de Zwaan, Dutch ambassador to Egypt, Mr. Lasse Seim, Norwegian ambassador to Egypt, and Cornelis Hulsman, Drs., director of the Center for Arab-West Understanding,  on ’Freedom of expression and respect for the other. How to respond if one is offended.’
+
+- Highlights of the meeting held at El-Sawy Culture Wheel on May 7, 2006, to launch the CAWU website. Highlights include a welcome address by Mr. Muhammad al-Sāwī, comments from former ministers Dr. Mamdouh al-Biltājī, Mr. Ahmed Māhir, Dr. Ahmad Juwaylī, head of the Protestant Community Council, Dr. Safwat al Bayādī, and former prime minister of the Netherlands, Prof. Van Agt.
+
+- Aran West Report asked our former intern Maria Roeder, a student of media science at the University of Jena in Germany, to summarize a study commissioned by the Austrian Federal Ministry of Interior. This study is a comparative study concerning Austrian media reporting on Muslims and media from countries with Muslim majorities reporting about the integration of Muslims in Europe.
+
+-A review of the media coverage following the Alexandria church stabbings concludes that both Muslims and Christians condemned the attacks and spoke of the need for change in the citizenship rights of Christians.
+
+-Apostolic Nuncio to Egypt, Archbishop Fitzgerald, responds to polarization following the Regensburg lecture of H.H. Pope Benedict XVI.
+
+-Cornelis Hulsman, Drs., presented a text at the recent roundtable discussions of the European Institute of the Mediterranean, concerning “Journalism and freedom of expression in the Mediterranean; responsibilities and limits.”
+
+-Coptic Orthodox Church member and businessman Kamāl Zākhir Mūsā speaks out about internal problems in the Egyptian Coptic Orthodox Church.
+
+-“Disappearing Christianity in the Middle East”; transcripts of a lecture at the American University in Cairo.
+
+-Hulsman, Drs., provides a detailed description of Muslim-Christian relations in Egypt, and a history of Coptic problems, stemming from their own actions and outside influences.
+
+The authors featured in the dataset are: 
+
+Cornelis Hulsman, Drs., Nikolas Grosfield , Serena Tolino , Herman van Veen,ʿAyyād Musʿad, Munir Hanna Anis Armanius, Dave Petrescue , Elizabeth Yell, Fawzī Fādil al-Zifzāf , Ahmad Māhir , Tjeerd de Zwaan, Lasse Seim, Khalīl Ibrāhīm al-Thawārdī, Hasan Muhammad Wajīh, Dr., Lord George Carey of Clifton, Maria Roeder, Naji Bihman, Jan Slomp, Rev. Dr., Rāʿid al-Sharqāwī, Sebastian Kohn, Richard Donk, Ben van de Venn, Mia Ulvgraven, Farshād Muḥammad-ʿAwalā, William Dalrymple, Amīn Makram ‘Ubayd, Muhammad Hasan, Sjoerd Haagsma, Melanie Erlebach, Wisām Muhammad al-Duwīnī, and Mary Picard.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">2006</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">REQUEST_PERMISSION</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

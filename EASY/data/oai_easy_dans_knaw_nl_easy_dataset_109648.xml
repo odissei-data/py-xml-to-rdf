@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:109648</identifier>
+    <datestamp>2021-04-15T21:07:49Z</datestamp>
+    <setSpec>D50000:D51000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Ambivalence over expression of anger and sadness mediates  gender differences in depressive symptoms</ddi:titl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-zdq-tb68</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:109648</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Leiden University/Tilburg University">Kunst, MSc L. E., Researcher</ddi:AuthEnty>
+            <ddi:othId xml:lang="en" role="ProjectLeader" affiliation="Leiden University">Does, Prof. dr. A. J. W. van der, ProjectLeader</ddi:othId>
+            <ddi:othId xml:lang="en" role="DataCollector" affiliation="Leiden University">Groot, MSc J. de, DataCollector</ddi:othId>
+         </ddi:rspStmt>
+         <ddi:distStmt/>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Psychology</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">The gender difference in the prevalence of depression is well-documented, poorly understood and multifactorial. Considering that gender differences exist in the expression of emotions, we hypothesized that ambivalence over the expression of sadness and anger contributes to the difference in depression scores between men and women. Questionnaires on depressive symptoms and ambivalence regarding sadness and anger expression were completed by 550 respondents (66.9% women, average age 27.8 years). Women reported more depressive symptoms and were more ambivalent over the expression of both sadness and anger than men. Ambivalence over sadness and – to a lesser extent – anger mediated the relationship between gender and depressive symptoms. We conclude that ambivalence over emotion expression may partly explain why depression occurs more frequently in women than men.</ddi:abstract>
+         <ddi:sumDscr/>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">REQUEST_PERMISSION</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="nl"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

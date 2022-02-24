@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:32879</identifier>
+    <datestamp>2021-04-15T21:06:10Z</datestamp>
+    <setSpec>D60000:D61000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Vrijwilligerswerk en informele hulp in Nederland 1988</ddi:titl>
+            <ddi:parTitl xml:lang="en">Voluntary work and informal aid in the Netherlands 1988</ddi:parTitl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:32879</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-2cs-dj8s</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en">Daal, H.J. van, Nederlands instituut voor maatschappelijk werk onderzoek, NIMAWO * Den Haag (primary investigator)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Prof.Dr. J.C.J. Bontelier, H. Verwey Jonker Instituut (depositor)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Programmeringscollege Onderzoek Maatschappelijke Dienstverlening (research initiator) </ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Nederlands instituut voor de publieke opinie en het marktonderzoek, NIPO * Amsterdam (data collector) </ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="1990-01-01"/>
+            <ddi:distDate xml:lang="en" date="2007-07-13"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">sociology</ddi:keyword>
+            <ddi:keyword xml:lang="en">work</ddi:keyword>
+            <ddi:keyword xml:lang="en">leisure</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Sociology</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">This study contains two phases. Phase 1 was aimed at assessing the incidence and nature of voluntary work and informal aid in the Dutch population. The second phase consisted of an in depth survey of the respondents who reported to be engaged in these activities in phase 1. The second phase had different questionnaires for organized and non-organized helpers or volunteers. P1017A: Time spend on unpaid work / type of organizations connected with / frequency of unpaid work / help / aid / assistance given to whom / helping persons in own household. P1017B: Paid versus unpaid work / religious background / political background / target persons of help / kind of help or assistance given / detailed data on family situation / relation with and backing of help organizations / relations with other helpers / payment for expenses / tax deduction / guidance needed / expectations / ( change in ) motives / looking for paid job in this field / case history / wish to stop / pro's and con's / problems / general evaluation of activities / domestic work / gender roles / loneliness. Background variables: basic characteristics/ residence/ housing situation/ household characteristics/ occupation/employment/ income/capital assets/ education/ social class/ politics/ religion/ consumption of durables/ organizational membership</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1988</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">REQUEST_PERMISSION</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:35666</identifier>
+    <datestamp>2021-04-15T21:04:52Z</datestamp>
+    <setSpec>D30000:D34000:D34300</setSpec>
+    <setSpec>D30000:D34000:D34200</setSpec>
+    <setSpec>driver</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">WaterstaatsArchieven Databestand (WAD), 1255-1980</ddi:titl>
+            <ddi:parTitl xml:lang="en">Archives of the Water Board Districts, 1255-1980</ddi:parTitl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-zwr-5g9n</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:35666</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en">Giebels, L.A.M.</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="1996-06-01"/>
+            <ddi:distDate xml:lang="en" date="2007-01-31"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">economic history</ddi:keyword>
+            <ddi:keyword xml:lang="en">archives</ddi:keyword>
+            <ddi:keyword xml:lang="en">district water boards</ddi:keyword>
+            <ddi:keyword xml:lang="en">records</ddi:keyword>
+            <ddi:keyword xml:lang="en">Waterstaatsarchieven</ddi:keyword>
+            <ddi:keyword xml:lang="en">Economische geschiedenis</ddi:keyword>
+            <ddi:keyword xml:lang="en">Waterstaat</ddi:keyword>
+            <ddi:keyword xml:lang="en">Waterschap</ddi:keyword>
+            <ddi:keyword xml:lang="en">Waterschappen</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Humanities</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">History</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Middle Ages</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Modern and contemporary history</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Data on the history of water board districts in The Netherlands during the period 1255-1980. The data set includes year of foundation and liquidation of water board districts, and information on the archives (name of archive, size in metres, available inventories).</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:nation abbr="NLD" xml:lang="en">The Netherlands</ddi:nation>
+            <ddi:collDate event="single">1255 - 1980</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">OPEN_ACCESS_FOR_REGISTERED_USERS</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="nl"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

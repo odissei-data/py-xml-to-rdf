@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:31777</identifier>
+    <datestamp>2021-04-15T21:05:16Z</datestamp>
+    <setSpec>driver</setSpec>
+    <setSpec>D50000:D52000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Leraren over de eerste fase van het voortgezet onderwijs 1984-1985</ddi:titl>
+            <ddi:parTitl xml:lang="en">Teachers on the first phase of secondary education 1984-1985</ddi:parTitl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:31777</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-x3h-ev2d</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en">Smeets, E.F.L., Buis, Th.J.M.N., Instituut voor toegepaste sociologie, ITS * Nijmegen (primary investigator)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Wetenschappelijke raad voor het regeringsbeleid, WRR * Den Haag (research initiator) </ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Instituut voor toegepaste sociologie * Nijmegen (data collector) </ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="1987-01-01"/>
+            <ddi:distDate xml:lang="en" date="2007-08-10"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">education</ddi:keyword>
+            <ddi:keyword xml:lang="en">secondary education</ddi:keyword>
+            <ddi:keyword xml:lang="en">employment</ddi:keyword>
+            <ddi:keyword xml:lang="en">teaching</ddi:keyword>
+            <ddi:keyword xml:lang="en">learning</ddi:keyword>
+            <ddi:keyword xml:lang="en">youth</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Educational theory</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Measuring attitudes of teachers, in the first phase of secondary education, towards their job, educational innovations and the concept of extended primary ( i.e. basic ) education and its implementation. Teachers / teaching experience / working hours / school subjects / non-teaching functions / type of school / satisfaction with job / work load / educational innovation opinions, attitudes, expectations, motivation to participate / influence of pupils on teacher's job / influence of external factors on educational innovation ( proneness ) school management, board, parents, colleagues etc. / evaluation of structural aspects of extended primary education ( Voortgezet Basisonderwijs VBAO ) broad input of pupils, heterogeneous groups of pupils, integration of subjects, minimum output levels, broader scope of subjects / expectations regarding effects on delay of job choice, boys, girls differentiation in subject choice, influence of social background / preferred organizational structure of secondary education / individual differentiation of pupils / experience with innovation projects ( + evaluation ) / experience with working with heterogenous groups ( + evaluation ) / subjects in minimal basic education package and their relative weight / consequences of broader scope of subjects induced by integration of lower vocational and general secondary education / setting / streaming / subject choice / testing / obligatory languages. Background variables: basic characteristics/ politics/ organizational membership</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1984 * 1985</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">OPEN_ACCESS_FOR_REGISTERED_USERS</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

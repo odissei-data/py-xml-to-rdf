@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:32863</identifier>
+    <datestamp>2021-04-15T21:06:09Z</datestamp>
+    <setSpec>D60000:D61000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Maatschappelijke participatie alleenstaanden 1993</ddi:titl>
+            <ddi:parTitl xml:lang="en">Social participation of single persons 1993</ddi:parTitl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:32863</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-29n-caqt</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en">Vries, H.H. de, Dijk, H.M.L. van, Kuiper, N.Y., Instituut voor Strategisch Consumentenonderzoek, SWOKA * Leiden (primary investigator)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">L.H. Dekker, Research voor Beleid (depositor)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Platform van Organisaties voor AlleenstaandenPLOA (research initiator) </ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Instituut voor ConsumentenonderzoekSWOKA * LeidenStichting Telepanel * Amsterdam (data collector) </ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="1995-01-01"/>
+            <ddi:distDate xml:lang="en" date="2007-07-27"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">interpersonal relations</ddi:keyword>
+            <ddi:keyword xml:lang="en">living conditions</ddi:keyword>
+            <ddi:keyword xml:lang="en">social participation</ddi:keyword>
+            <ddi:keyword xml:lang="en">life styles</ddi:keyword>
+            <ddi:keyword xml:lang="en">social networks</ddi:keyword>
+            <ddi:keyword xml:lang="en">employment</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Sociology</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Social and occupational participation and living conditions of adults living in one-person households or single-parent households. Living without partner / relationships with colleagues / position on the labour-market / housekeeping / child care / membership of and activity in social organizations / voluntary work / personal contacts / satisfaction with life Background variables: basic characteristics/ residence/ household characteristics/ occupation/employment/ income/capital assets/ education/ consumption of durables/ organizational membership</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1993</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">REQUEST_PERMISSION</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

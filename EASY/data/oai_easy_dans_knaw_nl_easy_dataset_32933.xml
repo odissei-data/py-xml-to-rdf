@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:32933</identifier>
+    <datestamp>2021-04-15T21:06:13Z</datestamp>
+    <setSpec>driver</setSpec>
+    <setSpec>D50000:D52000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Basiseducatie naar behoefte 1992</ddi:titl>
+            <ddi:parTitl xml:lang="en">Need for basic education 1992</ddi:parTitl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:32933</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-263-eqph</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Landelijk studie- en ontwikkelingscentrum volwasseneneducatie, SVE * Amersfoort">Doets, C. DAI=info:eu-repo/dai/nl/069143668</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Landelijk studie- en ontwikkelingscentrum volwasseneneducatie, SVE * Amersfoort">Groen, P. DAI=info:eu-repo/dai/nl/150818068</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Landelijk studie- en ontwikkelingscentrum volwasseneneducatie, SVE * Amersfoort">Huisman, A.M. DAI=info:eu-repo/dai/nl/073378038</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Landelijk studie- en ontwikkelingscentrum volwasseneneducatie, SVE * Amersfoort (primary investigator)">Merkies, R. DAI=info:eu-repo/dai/nl/073881228</ddi:AuthEnty>
+            <ddi:othId xml:lang="en" role="contributor">Ministerie van onderwijs en wetenschappen * Zoetermeer (research initiator)</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor">Landelijk studie- en ontwikkelingscentrum volwasseneneducatie ( SVE ) * Amersfoort (data collector)</ddi:othId>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="1993-01-01"/>
+            <ddi:distDate xml:lang="en" date="2007-07-20"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">education</ddi:keyword>
+            <ddi:keyword xml:lang="en">education, adult</ddi:keyword>
+            <ddi:keyword xml:lang="en">minorities, ethnic</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Educational theory</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">First year pupils at institutions for basic adult education have been questioned about their skills, competence with respect to various aspects of social intercourse Motive to participate in course / command of the Dutch and English language / figuring and social skill / wish to improve knowledge and skill / for each subject of the course, pupils have been judged by their teachers. 
+
+Background variables: basic characteristics/ place of birth/ residence/ household characteristics/ characteristics of parental family/household/ occupation/employment/ education</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1992</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">OPEN_ACCESS_FOR_REGISTERED_USERS</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

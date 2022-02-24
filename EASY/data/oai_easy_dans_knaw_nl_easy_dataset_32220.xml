@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:32220</identifier>
+    <datestamp>2021-04-15T21:05:37Z</datestamp>
+    <setSpec>driver</setSpec>
+    <setSpec>D50000:D52000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Lts'er van scholier tot werknemer 1974-1975</ddi:titl>
+            <ddi:parTitl xml:lang="en">From school to occupation, pupils from lower technical schools 1974-1975</ddi:parTitl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:32220</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-xqz-h8qt</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en">Stroink, P.L., Andries, F., Nederlands instituut voor praeventieve geneeskunde, NIPG TNO * Leiden (primary investigator)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Nipg / tno * Leiden (research initiator) </ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Nederlands instituut voor praeventieve geneeskunde, NIPG * Leiden (data collector) </ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="1982-01-01"/>
+            <ddi:distDate xml:lang="en" date="2007-06-11"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">education</ddi:keyword>
+            <ddi:keyword xml:lang="en">education, secondary</ddi:keyword>
+            <ddi:keyword xml:lang="en">work</ddi:keyword>
+            <ddi:keyword xml:lang="en">social mobility</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Educational theory</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">A study on the difficulties that young employees meet in their first job, after leaving a technical school ( first wave pupils in final year ) motivations for going on to university, career possibilities, leisure, interest in learning etc. / motivations to take on a job: independency, salary, dissatisfaction with school etc. / influence of parents and friends on choice. ( second wave pupils who did not continue full-time education ) opinion on school / satisfaction with occupation / ease in finding first job / additional schooling / change in occupation. Background variables: basic characteristics/ residence/ place of work/ occupation/employment/ income/capital assets/ education/ religion</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1974 * 1975</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">OPEN_ACCESS_FOR_REGISTERED_USERS</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

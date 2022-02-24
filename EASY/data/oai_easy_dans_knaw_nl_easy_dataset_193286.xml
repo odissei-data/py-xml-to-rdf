@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:193286</identifier>
+    <datestamp>2021-04-15T21:08:19Z</datestamp>
+    <setSpec>driver</setSpec>
+    <setSpec>D20000:D24000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Home-EEG assessment of possible compensatory mechanisms for sleep disruption in highly irregular shift workers</ddi:titl>
+            <ddi:parTitl xml:lang="en">The ANCHOR study</ddi:parTitl>
+            <ddi:parTitl xml:lang="en">The ANCHOR study</ddi:parTitl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-x6b-km62</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:193286</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University">Mentink, MSc L.J. DAI=info:eu-repo/dai/nl/426266005</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University">Thomas, MSc J. DAI=info:eu-repo/dai/nl/426266129</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University">Melis, dr. R.J.F. DAI=info:eu-repo/dai/nl/306071177</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University">Olde Rikkert, prof. dr. M.G.M. DAI=info:eu-repo/dai/nl/167212737</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University">Overeem, dr. S. DAI=info:eu-repo/dai/nl/217839940</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University">Claassen, dr. J.A.H.R. DAI=info:eu-repo/dai/nl/298975831</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt/>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">Rebound sleep</ddi:keyword>
+            <ddi:keyword xml:lang="en">slow-wave sleep</ddi:keyword>
+            <ddi:keyword xml:lang="en">sleep architecture</ddi:keyword>
+            <ddi:keyword xml:lang="en">shift work</ddi:keyword>
+            <ddi:keyword xml:lang="en">amyloid-β</ddi:keyword>
+            <ddi:keyword xml:lang="en">Alzheimer’s disease</ddi:keyword>
+            <ddi:keyword xml:lang="en">wearable electronic devices</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Life sciences, medicine and health care </ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Health sciences</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">While poor sleep quality has been related to increased risk of Alzheimer’s disease, long-time shift workers (maritime pilots) did not manifest evidence of early Alzheimer’s disease in a recent study. We explored two hypotheses of possible compensatory mechanisms for sleep disruption. We used data from ten male maritime pilots with a history of approximately 18 years of irregular shift work. Subjective sleep quality was assessed with the Pittsburgh Sleep Quality Index (PSQI). A single lead EEG-device was used to investigate sleep in the home/work environment. Using multilevel models, we studied the sleep architecture of maritime pilots over time, at the transition of a workweek to a rest week. Descriptive analyses and multilevel models were analysed using SPSS and R.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">Collection period: start=2019-01-01; end=2019-07-01;</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">OPEN_ACCESS_FOR_REGISTERED_USERS</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="English"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

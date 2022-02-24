@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:53033</identifier>
+    <datestamp>2021-04-15T21:06:59Z</datestamp>
+    <setSpec>D50000</setSpec>
+    <setSpec>D60000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Theme questionnaire: Living in the Netherlands</ddi:titl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:53033</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-xf9-9rkx</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en">Das, CentERdata - Institute for data collection and research - Tilburg University M.</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="2013-01-24"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">Communication, language and media</ddi:keyword>
+            <ddi:keyword xml:lang="en">Economic conditions and indicators</ddi:keyword>
+            <ddi:keyword xml:lang="en">Education</ddi:keyword>
+            <ddi:keyword xml:lang="en">Employment, labor and retirement</ddi:keyword>
+            <ddi:keyword xml:lang="en">Environment</ddi:keyword>
+            <ddi:keyword xml:lang="en">Health and well-being</ddi:keyword>
+            <ddi:keyword xml:lang="en">Housing and household</ddi:keyword>
+            <ddi:keyword xml:lang="en">Income, property and investment</ddi:keyword>
+            <ddi:keyword xml:lang="en">Law, crime and legal systems</ddi:keyword>
+            <ddi:keyword xml:lang="en">Leisure, recreation and culture</ddi:keyword>
+            <ddi:keyword xml:lang="en">Politics</ddi:keyword>
+            <ddi:keyword xml:lang="en">Psychology</ddi:keyword>
+            <ddi:keyword xml:lang="en">Religion</ddi:keyword>
+            <ddi:keyword xml:lang="en">Social attitudes and values</ddi:keyword>
+            <ddi:keyword xml:lang="en">Social behavior</ddi:keyword>
+            <ddi:keyword xml:lang="en">Social stratification and grouping</ddi:keyword>
+            <ddi:keyword xml:lang="en">Society and social systems</ddi:keyword>
+            <ddi:keyword xml:lang="en">Sustainability</ddi:keyword>
+            <ddi:keyword xml:lang="en">Travel and transport</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Behavioural and educational sciences</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Social sciences</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">In 2011 CentERdata started the Theme questionnaire. The questionnaire is repeated regularly and each time consists of a number of questions about various themes that relate to residing in the Netherlands. The themes are repeated or other themes may be included. Examples of themes addressed are:  
+
+· Food
+· Climate
+· People
+· Nature
+· Politics
+· Language
+· Freedom
+· Work
+· Domestic living
+
+The various measurements serve to compile a comprehensive picture of how immigrants experience living in the Netherlands.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">2011</ddi:collDate>
+            <ddi:collDate event="single">2012</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">NO_ACCESS</ddi:restrctn>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="nl"/>
+   </ddi:fileDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

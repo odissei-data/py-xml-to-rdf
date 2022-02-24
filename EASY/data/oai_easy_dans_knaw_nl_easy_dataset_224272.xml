@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:224272</identifier>
+    <datestamp>2021-10-23T05:44:57Z</datestamp>
+    <setSpec>D30000:D34000:D34300</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Slavery Emancipation Dataset of St. Eustatius, 1863</ddi:titl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-x27-fnye</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:224272</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University">Raaijmakers, BA W.</ddi:AuthEnty>
+            <ddi:othId xml:lang="en" role="RightsHolder" affiliation="Radboud University">Raaijmakers, BA W., RightsHolder</ddi:othId>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="01-09-2020 - 15-01-2021 (data collection)"/>
+            <ddi:distDate xml:lang="en" date="2021-02-01"/>
+            <ddi:distDate xml:lang="en" date="2021-10-12"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">Slavery demography</ddi:keyword>
+            <ddi:keyword xml:lang="en">St. Eustatius</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Modern and contemporary history</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">While the borderellen and emancipation registers of St. Eustatius from 1863 provide insights into most curious histories in themselves, it is by combining both sources that a true overview of the island its slavery demographic emerges, entailing plenty of information on slaveowners and comprehensive information on enslaved. The dataset is structured in a threefold manner, that is, following the numbering of the emancipation registers, the borderellen, and the dataset itself, all of which are rearranged on the premise of the (formerly) enslaved individual. Such a framework aligns with the registers but required a deconstruction of the borderellen, which were initially grouped per borderel, i.e., per slaveowner. It furthermore allows users to come even closer to the 1,107 (formerly) enslaved than the source material. Linking both sources was done by hand, leaving room for a human margin of error, perhaps leaving persons unlinked. Sections of the emancipation registers referred to specific borderellen, and both sources provided the name and year of birth per (formerly) enslaved, ultimately allowing for a success rate of 92.2%, resulting in the Slavery Emancipation Dataset of St. Eustatius, 1863. The remaining 7.8% of 94 individuals begs the question of possible undercount, non-registration, and overall missing data.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1863</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">REQUEST_PERMISSION</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

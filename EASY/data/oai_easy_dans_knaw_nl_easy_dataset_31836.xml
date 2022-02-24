@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:31836</identifier>
+    <datestamp>2021-04-15T21:05:19Z</datestamp>
+    <setSpec>D50000:D51000</setSpec>
+    <setSpec>driver</setSpec>
+    <setSpec>D50000:D54000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Begeleiding van ouders van geestelijk gehandicapte kinderen 1976</ddi:titl>
+            <ddi:parTitl xml:lang="en">Counselling of parents of mentally retarded children 1976</ddi:parTitl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:31836</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-xz5-nyvv</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en">Janssens, J.M.A.M., Katholieke Hogeschool Tilburg * Tilburg, Instituut voor sociaal-wetenschappelijk onderzoek, IVA * Tilburg (primary investigator)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Instituut voor arbeidsvraagstukken * Tilburg (research initiator) </ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Students of katholieke hogeschool * Tilburg
+Students of rijksuniversiteit * Groningen
+Students of sociale academie * Enschede (data collector) </ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="1977-01-01"/>
+            <ddi:distDate xml:lang="en" date="2007-06-07"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">psychology</ddi:keyword>
+            <ddi:keyword xml:lang="en">handicapped</ddi:keyword>
+            <ddi:keyword xml:lang="en">childrearing</ddi:keyword>
+            <ddi:keyword xml:lang="en">family life</ddi:keyword>
+            <ddi:keyword xml:lang="en">education, primary</ddi:keyword>
+            <ddi:keyword xml:lang="en">welfare</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Pedagogics</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Psychology</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Reaction of parents upon discovery that child was mentally handicapped / contacts with institutes / how were parents, mother informed / content of first talk about child's condition / advice / different sets of questions for different categories of children / children on special school for children with learning problems / children in day centre / day centre for older children / children in social workshop, in psychiatric hospital or in a special home which replaces the family / all questions deal with the way the parents are informed and consulted / opinions on the institute / talk about other problems of the child / contact with child about institute / contact with institute / some specific questions for every single category are included ( in particular for the social workshop ) opinions working hours of boss, colleagues / transportation / income / educational courses and hospital / domestic decision-making, visits / general contact with social workers of the socio-pedagogical bureau / contacts with socio-psychiatric bureau / other contacts with institutes, family, friends, neighbours / questions about upbringing / styles of upbringing / expectations / actual behaviour of the child at several age-levels. Background variables: basic characteristics/ residence/ housing situation/ household characteristics/ characteristics of parental family/household/ occupation/employment/ education</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1976</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">OPEN_ACCESS_FOR_REGISTERED_USERS</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

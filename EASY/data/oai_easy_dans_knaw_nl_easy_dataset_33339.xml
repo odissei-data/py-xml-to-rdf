@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:33339</identifier>
+    <datestamp>2021-04-15T21:06:32Z</datestamp>
+    <setSpec>D60000:D61000</setSpec>
+    <setSpec>driver</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Sociaal-culturele ontwikkelingen in Nijmegen 2002</ddi:titl>
+            <ddi:parTitl xml:lang="en">Social-cultural developments in Nijmegen 2002</ddi:parTitl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:33339</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-xrx-wp9b</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Katholieke Universiteit Nijmegen, FSW, sectie Sociologie">Graaf, P.M. de DAI=info:eu-repo/dai/nl/073063045</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Katholieke Universiteit Nijmegen, FSW, sectie Sociologie">Gelissen, J.</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Katholieke Universiteit Nijmegen, FSW, sectie Sociologie">Hello, E.</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Katholieke Universiteit Nijmegen, FSW, sectie Sociologie">Monden, C. DAI=info:eu-repo/dai/nl/327780444</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Katholieke Universiteit Nijmegen, FSW, sectie Sociologie">Vries, J. de</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Dr P.M. de Graaf, Sectie Sociologie, Radboud Universiteit Nijmegen (depositor)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">K.U. Nijmegen, Communicatiewetenschap/Sociologie (research initiator)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">K.U. Nijmegen, Communicatiewetenschap/Sociologie (data collector)</ddi:AuthEnty>
+            <ddi:othId xml:lang="en" role="contributor">Radboud Universiteit Nijmegen</ddi:othId>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="2003-07-23"/>
+            <ddi:distDate xml:lang="en" date="2007-07-10"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">culture</ddi:keyword>
+            <ddi:keyword xml:lang="en">occupational status</ddi:keyword>
+            <ddi:keyword xml:lang="en">gender roles</ddi:keyword>
+            <ddi:keyword xml:lang="en">health</ddi:keyword>
+            <ddi:keyword xml:lang="en">politics</ddi:keyword>
+            <ddi:keyword xml:lang="en">religion</ddi:keyword>
+            <ddi:keyword xml:lang="en">working time</ddi:keyword>
+            <ddi:keyword xml:lang="en">education</ddi:keyword>
+            <ddi:keyword xml:lang="en">living conditions</ddi:keyword>
+            <ddi:keyword xml:lang="en">life styles</ddi:keyword>
+            <ddi:keyword xml:lang="en">mass media</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Social sciences</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Sociology</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Survey among the inhabitants of Nijmegen. Sex and age of respondent, whether respondent and-or respondent's parents were born in the Netherlands / duration  of living in Nijmegen / occupation and occupational history / education / relationships(s) / religious matters / health matters / watching tv / reading books and newspapers / living situation when respondent was between 12 and 15 years old , background variables of parents / present contacts with parents /  political preference /  local politics / income / use of car /  outlook on thinking /  philosophy of life / feeling attracked to eastern  philosophies /  respondents' moods during the last few weeks /  influence of partner on a persons life /  effects of watching tv on children  / attitude towards a refugee centre in r.'s neighbourhood  / attitude towards a mosque in r.'s neighbourhood / attutide towards schools with predominantly children from ethnic minorities /  political priorities / opinion about gender roles / social security</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">2002</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:conditions xml:lang="en">License: http://creativecommons.org/publicdomain/zero/1.0</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

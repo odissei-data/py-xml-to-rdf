@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:33235</identifier>
+    <datestamp>2021-04-15T21:06:28Z</datestamp>
+    <setSpec>driver</setSpec>
+    <setSpec>D40000:D42000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Political action 1973-1976 : An eight nation study</ddi:titl>
+            <ddi:parTitl xml:lang="en">Political action, an eight nation study, 1973-1976</ddi:parTitl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:33235</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-2z6-tq52</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en">Abrams, M., Marsh, A., Allerbeck, K.R., Kaase, M., Klingemann, H.D., Stouthard, P.C., Heunks, F.J., Graaf, C. de, Rosenmayr, L., Eder, A., Findl, I., Stoffl, K., Urbas, E., Barnes, S.H., Inglehart, R., Kent Jennings, M., Farah, B., Sartori, G., Marradi, A., Sani, G., Kerr, H.H., Handley, C., Roig, S., Pesonen, P., Matheson, D.K., Saenkiaho, R. (primary investigator)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Mary Agar Fieldwork Services ltd. * Great Britain
+Getas, Gesellschaft fuer angewandte sozialpsychologie mbh * Bremen
+Students * Netherlands
+IFES * Austria
+Survey research center of ISR * Ann Arbor, Mi, USA
+Fieldwork srl * Milano, italy
+Unknown * Switzerland
+Finnish gallup institute * Finland (data collector) </ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="1985-01-01"/>
+            <ddi:distDate xml:lang="en" date="2007-06-29"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">political science</ddi:keyword>
+            <ddi:keyword xml:lang="en">politics, internal</ddi:keyword>
+            <ddi:keyword xml:lang="en">participation</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Political and administrative sciences</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Cross-national study of conventional and unconventional forms of political participation. Personal satisfaction and deprivation / interest in politics / perception of over- and underprivileged groups / left, right placement / materialistic, post-materialistic value orientation / issue importance and policy dissatisfaction / good and bad sides of major political parties / "feeling thermometer" for social groups / protest approval / protest effectiveness / protest activity / approval of repressive government action / partisan preference / voting behaviour / conventional political participation / occupational value orientation / political efficacy and system responsiveness / attitudes towards young people / trust in politics / organizational membership. Background variables: basic characteristics/ residence/ characteristics of parental family/household/ occupation/employment/ income/capital assets/ education/ social class/ politics/ religion/ organizational membership</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1973 * 1976</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">OPEN_ACCESS_FOR_REGISTERED_USERS</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

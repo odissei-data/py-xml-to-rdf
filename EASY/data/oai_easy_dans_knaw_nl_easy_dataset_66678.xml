@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:66678</identifier>
+    <datestamp>2021-04-15T21:07:33Z</datestamp>
+    <setSpec>D30000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Arab-West Report 2012, Weeks 01-31: Social and Political Issues in Post-Revolutionary Egypt</ddi:titl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-25n-7unp</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:66678</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Center for Intercultural Dialogue and Translation (CIDT)">Hulsman, Drs. C.</ddi:AuthEnty>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Center for Intercultural Dialogue and Translation (CIDT)">Sparks, MA M.R.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor">Ḥassan, W.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Center for Arab-West Understanding (CAWU)">Yahyá, L.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Center for Intercultural Dialogue and Translation (CIDT)">Casper, J.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Center for Intercultural Dialogue and Translation (CIDT)">Ferrecchia, J.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Moral Rearmament Association">Abdelmogney Said, Dr. N.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Center for Intercultural Dialogue and Translation (CIDT)">Saweres, N.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Dar Camboni">Scattolin, J.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor">Weixler, J.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor">Weixler, R.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Center for Intercultural Dialogue and Translation (CIDT)">May, D.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Center for Intercultural Dialogue and Translation (CIDT)">Labīb, H.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Coptic Orthodox Church">Pachomius, Bishop P.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor">Podertschnig, D.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor">Bokern, F.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="University of Vienna">Feulner, H.J.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="University of Vienna">Prokschi, R.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Center for Arab-West Understanding (CAWU)">Nielsen, M.T.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Center for Arab-West Understanding (CAWU)">Stoop, J.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Center for Arab-West Understanding (CAWU)">Kim, H.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Center for Intercultural Dialogue and Translation (CIDT)">Hulsman, Drs. C.</ddi:othId>
+         </ddi:rspStmt>
+         <ddi:distStmt/>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">Social and Political Issues in Post-Revolutionary Egypt</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Humanities</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">This dataset contains 73 Arab-West Report special reports that were published in 2012. These reports are mostly commentary on the political and social developments following the January 25th revolution in Egypt. 
+
+The reports consist of editorials, analyses, media critiques and Interviews conducted by Arab-West Report with religious clerics and political figures. 
+Thematically, the reports revolve around:
+
+•	The post-revolutionary parliament which was predominantly controlled by Islamists.
+
+•	The dissolution of the parliament by the Supreme Constitutional Court and its later reinstatement by the former President Mursī.
+
+•	 The reports also discuss the controversies surrounding the 2012 Presidential elections between  Aḥmed Shafīq (A former Prime Minister in Mubarak`s last formed government) and Muhammad Mursī, a member of the Muslim Brotherhood group.
+
+•	 The concerns of Copts who feared the rising influence of Islamist political powers and the infamous Maspero incident. The reports also highlighted the death of the prominent Coptic Pope Shenouda and the subsequent election of the successive Coptic Pope.
+ 
+•	The disputed statistics and claims about the alleged influx of Coptic Christian Immigration to the West in the post-revolutionary period, as a result of their concerns over the possibility of an Islamist rule. 
+
+•	The debates that followed the predominant monopoly of Islamists over the Constitutional Assembly that was in charge of drafting Egypt’s first constitution since 1971, which brought to the table the concerns of liberal, Azhar and Church leaders and possibly the Supreme Council of the Armed forces, all of whom saw a great need to be represented in the composition of an assembly. 
+
+•	Articles shedding light on the controversial Article 2 of the Egyptian constitution which states that Islamic the Principles of Islamic Shar’ia law is the principal source of legislation in the Egyptian Republic. 
+
+•	A few documents addressing the Coptic youth protests’ movements that followed a number of sectarian incidents. 
+
+•	 Interviews conducted by AWR with Presidential hopefuls such as Dr. ʿAbd al-Munʿim Abū al-Futūḥ.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">2012</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">REQUEST_PERMISSION</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="Arabic"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

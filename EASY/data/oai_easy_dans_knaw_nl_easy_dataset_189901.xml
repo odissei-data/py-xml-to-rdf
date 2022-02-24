@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:189901</identifier>
+    <datestamp>2021-04-15T21:08:15Z</datestamp>
+    <setSpec>D50000:D51000</setSpec>
+    <setSpec>driver</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Data belonging to: The oxytocin effect on empathy and emotion recognition in residential youth: A randomized, within-subjects trial.</ddi:titl>
+            <ddi:parTitl xml:lang="en">The study examined the effect of oxytocin administration on empathy and emotion recognition in male adolescents living in residential youth care facilities in the Netherlands from March 2017 to July 2018</ddi:parTitl>
+            <ddi:parTitl xml:lang="en">The study examined the effect of oxytocin administration on empathy and emotion recognition in male adolescents living in residential youth care facilities in the Netherlands from March 2017 to July 2018</ddi:parTitl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-xgy-4dyj</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:189901</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University">Fragkaki, dr. I. DAI=info:eu-repo/dai/nl/395525144</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University">Cima, prof. dr. M.J. DAI=info:eu-repo/dai/nl/250127814</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt/>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">oxytocin</ddi:keyword>
+            <ddi:keyword xml:lang="en">empathy</ddi:keyword>
+            <ddi:keyword xml:lang="en">emotion recognition</ddi:keyword>
+            <ddi:keyword xml:lang="en">antisocial behavior</ddi:keyword>
+            <ddi:keyword xml:lang="en">adolescence</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Psychology</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">The dataset contains the files (DARE_Workfile, Empathy_Workfile) used for the analyses of the study published by Fragkaki and Cima (2019) in Psychoneuroendocrinology. The study examined the effect of oxytocin administration on empathy and emotion recognition in 100 male adolescents living in residential youth care facilities. The study had a randomized, double-blind, placebo-controlled, within-subject design. The study included 3 sessions: screening session and two experimental sessions. In the experimental sessions, the participants received oxytocin in one session and placebo in the other session and performed the same experimental tasks on empathy and emotion recognition 30 min after administration. The order of the sprays as well as the order of the tasks were randomized using computer randomization. We performed mixed modeling to examined the effect of oxytocin on the outcome variables. The file “Documentation-ReadMe” describes the trial information, methodology, and the variables included in the datasets. The file "icu_dutch" is the Dutch version of the Inventory of callous-unemotional traits, the file ctq_dutch" is the Dutch version of the Childhood trauma questionnaire", and the file "ades_dutch" is the Dutch version of the Adolescent dissociative experiences scale.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">Collection period: start=2017-03-01; end=2018-07-30;</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">OPEN_ACCESS_FOR_REGISTERED_USERS</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="English"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

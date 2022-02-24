@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:33311</identifier>
+    <datestamp>2021-04-15T21:06:31Z</datestamp>
+    <setSpec>D60000:D61000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Leefsituatie onderzoek, 1980 - SCP versie - LSO'80</ddi:titl>
+            <ddi:parTitl xml:lang="en">Life-situation survey, 1980 - SCP version - LSO'80</ddi:parTitl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:33311</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-26q-ncb5</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en">Bakker, B.F.M., Jol, C., Peeters, W., Centraal Bureau voor de Statistiek, CBS * Heerlen (primary investigator)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Centraal Bureau voor de Statistiek (depositor)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Centraal Bureau voor de Statistiek, CBS * Voorburg (data collector)</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="1983-01-01"/>
+            <ddi:distDate xml:lang="en" date="2007-07-06"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">sociology</ddi:keyword>
+            <ddi:keyword xml:lang="en">living conditions</ddi:keyword>
+            <ddi:keyword xml:lang="en">family life</ddi:keyword>
+            <ddi:keyword xml:lang="en">housing</ddi:keyword>
+            <ddi:keyword xml:lang="en">environment</ddi:keyword>
+            <ddi:keyword xml:lang="en">work</ddi:keyword>
+            <ddi:keyword xml:lang="en">health</ddi:keyword>
+            <ddi:keyword xml:lang="en">finance</ddi:keyword>
+            <ddi:keyword xml:lang="en">CBS BMB</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Sociology</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Description of the life situation of the Dutch population in 1980/ as well as the conditions as the experience of life. Family situation and planning / details about and satisfaction with housing situation and environment, pollution, feelings of unsafety / job, working conditions, unemployment / leisure activities, social participation / income / health, contacts with medical and social aid institutions, risky habits / general feelings of well-being financial and social position / family-life, happiness, satisfaction with life. Background variables: basic characteristics/ residence/ housing situation/ household characteristics/ place of work/ occupation/employment/ income/capital assets/ social class/ politics/ religion/ consumption of durables/ readership, mass media, and 'cultural' exposure/ organizational membership. Other available Life Situation Surveys: Quality of Life Survey 1997-continuous - POLS'97-continuous - P1665  Life Situation Survey 1986 P1454  Life Situation Survey 1983 P0761  Life Situation Survey 1980 P0655 (CBS)  Life Situation Survey 1977 P0328  Life Situation Survey 1974 P0210</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1980</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">REQUEST_PERMISSION</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

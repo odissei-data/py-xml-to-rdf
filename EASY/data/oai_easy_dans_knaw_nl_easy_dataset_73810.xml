@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:73810</identifier>
+    <datestamp>2021-04-15T21:07:42Z</datestamp>
+    <setSpec>driver</setSpec>
+    <setSpec>D60000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">HISCO - OCC1950 CROSSWALK</ddi:titl>
+            <ddi:parTitl xml:lang="en">A conversion table between the Historical International Standard Classification of Occupations and the U.S. Bureau of the Census 1950 Standard</ddi:parTitl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-zap-qxmc</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:73810</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University">Mourits, MSc R.J. DAI=info:eu-repo/dai/nl/375810773</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt/>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">IPUMS</ddi:keyword>
+            <ddi:keyword xml:lang="en">HISCO</ddi:keyword>
+            <ddi:keyword xml:lang="en">Occ1950</ddi:keyword>
+            <ddi:keyword xml:lang="en">SES</ddi:keyword>
+            <ddi:keyword xml:lang="en">Occupational codings</ddi:keyword>
+            <ddi:keyword xml:lang="en">Occupations</ddi:keyword>
+            <ddi:keyword xml:lang="en">US Census</ddi:keyword>
+            <ddi:keyword xml:lang="en">crosswalk</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Social sciences</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">The study of social class and corresponding measurement schemes has evolved separately in Europe and the US. On both continents a standardized occupational coding system exists that can be transferred into a wide scala of measures of socioeconomic status. This dataset contains a crosswalk between the two standardized historical occupational coding schemes: HISCO and Occ1950. 
+
+The Historical International Standardized Classification of Occupations (HISCO) is the European standard for occupational coding and can be used to generate social class schemes, such as HISCLASS, SOCPO, and HISCAM. The U.S. Bureau of the Census' 1950 standard (Occ1950) is the U.S. standard for occupational coding and can be used to generate social class schemes, like NPBOSS, OCCSCORE, PRESGL, and SEI. With the crosswalk, HISCO can be converted to the American class coding schemes and Occ1950 into the European class coding schemes.
+
+Occupational categories were linked between HISCO and Occ1950 on the underlying occupations. Both HISCO and Occ1950 consist of multiple layers of occupational groups. HISCO is divided in 7 major, 76 minor,  296 unit, and 1,675 micro groups, which roughly correspond with: social classes, sectors, occupational groups, and occupational subgroups. Occ1950 on the other hand is divided in 10 social classes and 269 occupational groups. HISCO’s micro groups and Occ1950’s occupational subgroups are based on a well-documented number of occupations, which can easily be compared and matched between both occupational coding schemes. 
+
+In the translation from HISCO to Occ1950 1,675 occupational categories were collapsed into 229 Occ1950 unique occupational groups. Although 40 occupational groups in Occ1950 could not be retrieved from HISCO, all occupations were successfully attributed to the right social class. Vice versa, 269 occupational groups in Occ1950 were recoded into 227 HISCO micro groups. Together these 227 unique codes are well-spread over the different branches of the HISCO tree, as they cover most of the unit groups. 
+
+
+#Please note that this is not the crosswalk from Occ1950 to the intermediate HISCO used by the NAPP project, also known as OCCHISCO or NAPPHISCO. This crosswalk can be retrieved from: https://github.com/rlzijdeman/o-clack/tree/master/crosswalks/occhisco_to_hisco
+
+#HISCO is the European standard for occupational coding and can be used to generate HISCLASS, SOCPO and HISCAM classifications. The necessary conversion table has been made available by Mandemakers et al. and is available on: https://socialhistory.org/en/hsn/hsn-standardized-hisco-coded-and-classified-occupational-titles-release-201301?language=en
+
+#Occ1950 is the US standard for occupational coding. The occupational coding system is based on the US Census of 1950 and can be transferred into OCCSCORE, PRESGL, SEI, and Nam-Powers-Boyd. Crosswalks are available on request: https://usa.ipums.org/usa/vols_4_5_index.shtml</ddi:abstract>
+         <ddi:sumDscr/>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">OPEN_ACCESS_FOR_REGISTERED_USERS</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang=""/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:33182</identifier>
+    <datestamp>2021-04-15T21:06:25Z</datestamp>
+    <setSpec>D60000:D61000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Gemeente-enquete Ede 1993 - VSO</ddi:titl>
+            <ddi:parTitl xml:lang="en">Municipal survey city of Ede 1993 - VSO</ddi:parTitl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-zuz-r687</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:33182</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en">Molenaar, G., Palstra, F., Gemeente Ede * Ede, Afd. Beleid, Onderzoek en Statistiek (primary investigator)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Dr. G. Molenaar, Gemeente Ede, Afd. Onderzoek, Ontwikkeling en Statistiek (depositor)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Gemeente Ede, afdeling Beleid, Onderzoek en Statistiek (research initiator)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Gemeente Ede, afdeling Beleid, Onderzoek en Statistiek (data collector)</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="1996-01-01"/>
+            <ddi:distDate xml:lang="en" date="2007-08-10"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">leisure time</ddi:keyword>
+            <ddi:keyword xml:lang="en">safety</ddi:keyword>
+            <ddi:keyword xml:lang="en">social service</ddi:keyword>
+            <ddi:keyword xml:lang="en">public transport</ddi:keyword>
+            <ddi:keyword xml:lang="en">government</ddi:keyword>
+            <ddi:keyword xml:lang="en">crime</ddi:keyword>
+            <ddi:keyword xml:lang="en">housing</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Sociology</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Er is een nieuwe versie van deze dataset beschikbaar, zie het veld 'Relations'. De bestanden van de verouderde versie zijn niet meer te downloaden.
+
+Opinion of the inhabitants of Ede about various aspects of living in Ede: municipal service, safety, traffic and transport, leisure time spending, time budgeting. Contacted the citizen service of the town hall during last year / ( satisfied with ) opening hours / alternative opening hours / desirability of availability of citizen service in sub-areas of Ede/ criteria for those service: housing, costs, ready-while-you-wait service / citizen service compared to service of post office / victimization in the last 12 months, informing of those crimes / perceived number of crimes in own quarter / perceived chance to become victim of crime in own quarter / measures to protect oneself against crimes / more-less attention should be paid to specific sorts of crime / number of cars in household / drivers licence, seasons-ticket for public transport / use of public transport / kind of transport used in daily life / decrease of car-use, willing to not using a car in certain daily life circumstances / measures to decrease own use of car / municipal measures to decrease use of cars / improvements on public transport and use of bicycle / quarter without cars / parking in the centre of Ede / last visit in Ede: time spend on finding a parking place / parking problems are cause of less visits to Ede centre / influence of raising parking taxes / number of leisure time activities in the last 12 months/ on which location / hindrances to participate in leisure time activities / enough possibilities for leisure time spending, time budgeting. Background variables: basic characteristics/ residence/ housing situation/ household characteristics/ place of work/ occupation/employment/ income/capital assets/ education/ politics/ religion/ consumption of durables</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1993</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">REQUEST_PERMISSION</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:33075</identifier>
+    <datestamp>2021-04-15T21:06:20Z</datestamp>
+    <setSpec>D60000:D61000</setSpec>
+    <setSpec>driver</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Culturele Veranderingen in Nederland 1994 - CV'94</ddi:titl>
+            <ddi:parTitl xml:lang="en">Cultural changes in the Netherlands 1994 - CV'94</ddi:parTitl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-xmn-d4k6</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:33075</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Sociaal en Cultureel Planbureau (SCP) (primary investigator)">Becker, J.W. DAI=info:eu-repo/dai/nl/068409176</ddi:AuthEnty>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Sociaal en Cultureel Planbureau, SCP * Den Haag (depositor)">Stoop, I.A.L.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor">Sociaal en Cultureel Planbureau, SCP * Den Haag (research initiator)</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor">Nederlands Instituut voor Publieke Opinie en marktonderzoek, NIPO * Amsterdam (data collector)</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor">Radboud Universiteit Nijmegen</ddi:othId>
+         </ddi:rspStmt>
+         <ddi:distStmt/>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">employment</ddi:keyword>
+            <ddi:keyword xml:lang="en">conservatism</ddi:keyword>
+            <ddi:keyword xml:lang="en">economics</ddi:keyword>
+            <ddi:keyword xml:lang="en">family life</ddi:keyword>
+            <ddi:keyword xml:lang="en">gender roles</ddi:keyword>
+            <ddi:keyword xml:lang="en">values and beliefs</ddi:keyword>
+            <ddi:keyword xml:lang="en">politics</ddi:keyword>
+            <ddi:keyword xml:lang="en">social welfare</ddi:keyword>
+            <ddi:keyword xml:lang="en">crime</ddi:keyword>
+            <ddi:keyword xml:lang="en">ethnic minorities</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Social sciences</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Sociology</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Trend study on changes in general opinions and attitudes of the Dutch population regarding a wide range of topics. The international part of the survey is part of the International Social Survey Programme (ISSP).
+
+National part (oral interview): time spent on voluntary work or helping sick, handicapped / social contacts / egoism - altruism / life satisfaction / prosperity: in this country, in own family, in future, government cares enough / economic change / unemployment change / economic crisis / most important political issues / role of government: economic planning, government intervention, public services / tax system / level of government spending / evaluation of private income / expected and preferred changes in levels of income and of social benefits /satisfaction with social benefits system / evaluation of laws regarding welfare provisions: AOW, ABW, WW, AWW, WAO, AAW, ZW / abuse of social benefits / differences in income, ownership / religious beliefs / role of religion / knowledge of and affinity with several religious-philosophic movements / opinions on: working mothers, divorce, ideal number of children, intentional childlessness / single parenthood, unmarried parenthood, in vitro fertilisation, parent-child relations, permissiveness / advice in case of problems of friend or neighbours / alternative medical treatment / superstition / alternative spiritual movements / criminality / justice / safety / victim of vandalism, theft, assault / fear / punishment / opinions on: punishment versus re-socialization, social benefits, gender roles, treatment of drug addicts, social equality, soft drugs, death penalty, women's emancipation, income differences / left-right self rating / conservatism versus progressiveness / sense of political efficacy / political activities, protest / opinion leadership / environment / pollution / separate collection of waste / ecology / environment mindedness / role of industry, agriculture, private households and government in ecological problems / discrimination / foreigners / immigrants / racism /immigrants / asylum seekers / social integration of foreigners / evaluation of importance of public services / evaluation of several domains of government policy / satisfaction with government / most important domestic problems. International part ( self administered questionnaire ): women, work and children / gender roles within the family / marriage /parenthood / maternity leave / day-care / legal abortion / sexuality: premarital, extramarital, at young age, homosexuality, sexual harassment at work.
+
+The data- and documentation files of this dataset can be downloaded via the option Data Files.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:nation abbr="NLD" xml:lang="en">The Netherlands</ddi:nation>
+            <ddi:collDate event="single">1994</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">OPEN_ACCESS_FOR_REGISTERED_USERS</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="nl"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

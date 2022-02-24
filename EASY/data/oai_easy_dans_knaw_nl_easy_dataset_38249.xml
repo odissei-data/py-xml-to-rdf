@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:38249</identifier>
+    <datestamp>2021-04-15T21:06:42Z</datestamp>
+    <setSpec>D30000:D34000:D34300</setSpec>
+    <setSpec>D30000:D34000:D34200</setSpec>
+    <setSpec>driver</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Hospitallers of St John in the Netherlands, 14th-18th century</ddi:titl>
+            <ddi:parTitl xml:lang="en">De Johanniter Orde in Nederland</ddi:parTitl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-28c-pd6d</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:38249</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Universiteit Utrecht">Winter, Prof.dr. J.M. van</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt/>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">social history</ddi:keyword>
+            <ddi:keyword xml:lang="en">knights of St John</ddi:keyword>
+            <ddi:keyword xml:lang="en">Johanniter Orde</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Middle Ages</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Modern and contemporary history</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Records concerning the Dutch commanderies of the Order of the Hospital of St. John or of Malta and their place within the Order's international organization.         
+       
+CONTENTS        
+             
+A. Bulls and letters to and from the Grand Master and the Prior of Germany, ranging from 1319 to 1797;              
+B. Rent-roll of the St Catharine's Convent in Utrecht of 1386;              
+C. Visitation acts and inquiries from one, some or all of the Dutch preceptories from 1495, 1540, 1603, 1700, 1704, 1719 and 1732, and the visitation acts of Utrecht and Arnhem with their membra from 1594;              
+D. Titles of pamphlets, printed or written in the sixteenth, seventeenth and eighteenth centuries, concerning the Order's expropriated goods and its attempts to recover them.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1122 - 1795</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">OPEN_ACCESS_FOR_REGISTERED_USERS</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="nl"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

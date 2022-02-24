@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:179270</identifier>
+    <datestamp>2021-04-15T21:08:13Z</datestamp>
+    <setSpec>D60000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Alcohol expectancies change in early to middle adolescence as a function of the exposure to parental alcohol use</ddi:titl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-xqh-bsyj</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:179270</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University">Smit, MSc K. DAI=info:eu-repo/dai/nl/382033256</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University">Voogt, dr. C.V. DAI=info:eu-repo/dai/nl/323568335</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University">Otten, prof. dr. R. DAI=info:eu-repo/dai/nl/298978458</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University">Kleinjan, prof. dr. M. DAI=info:eu-repo/dai/nl/298201879</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University">Kuntsche, prof. dr. E.N. DAI=info:eu-repo/dai/nl/31875164X</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt/>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">Alcohol expectancies</ddi:keyword>
+            <ddi:keyword xml:lang="en">Exposure to alcohol use</ddi:keyword>
+            <ddi:keyword xml:lang="en">Parenting</ddi:keyword>
+            <ddi:keyword xml:lang="en">Longitudinal</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Social sciences</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">In short: the current study exists of a three-year longitudinal study, involving multiple data acquisition waves among multiple informants, i.e., adolescents and their mothers. Questionnaires were produced in Qualtrics for both. Starting in May 2015 (cohort 1) and November 2015 (cohort 2), over a period of 36 months, young adolescents are asked to complete questionnaires every six months (seven times in total) and the mothers are asked to complete questionnaires online annually (four times in total).
+
+For this study, we used the adolescent's data only (n=765) focusing on alcohol expectancies, parental alcohol use exposure and alcohol use. We changed the structure of the dataset from having a wide dataset with separate variables for each wave (i.e., t0-t6), we would end up with a long dataset with all the waves in one variable. In other words, to test the hypothesis that whenever alcohol exposure occurs within the three-year follow-up period changes in the offspring’s AE would be observed six months later, we restructured the dataset to obtain up to six time pairs for each participant (Figure 1 in paper). Out of 4590 potential data points (N=765*6 waves), 4288 data points (93.4%) were available.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">Collection period: start=2015-01-01; end=2018-12-31;</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">REQUEST_PERMISSION</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="English"/>
+   </ddi:fileDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="Dutch"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

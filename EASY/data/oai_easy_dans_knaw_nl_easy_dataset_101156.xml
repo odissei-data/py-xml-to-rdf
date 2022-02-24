@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:101156</identifier>
+    <datestamp>2021-10-26T06:21:45Z</datestamp>
+    <setSpec>D40000:D42000:D42100</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Dutch Parliamentary Election Study 2017 (DPES/NKO 2017)</ddi:titl>
+            <ddi:parTitl xml:lang="en">Nationaal Kiezersonderzoek 2017 (NKO 2017)</ddi:parTitl>
+            <ddi:parTitl xml:lang="en">Nationaal Kiezersonderzoek 2017 (NKO 2017)</ddi:parTitl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-xby-5dhs</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:101156</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="University of Amsterdam">Meer, prof. dr. T.W.G. van der, ProjectLeader</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="University of Twente">Kolk, dr. H. van der, ProjectLeader</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="University of Amsterdam">Rekker, dr. R., ProjectMember</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt/>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">Elections</ddi:keyword>
+            <ddi:keyword xml:lang="en">Voting behaviour</ddi:keyword>
+            <ddi:keyword xml:lang="en">Political participation</ddi:keyword>
+            <ddi:keyword xml:lang="en">Politicians</ddi:keyword>
+            <ddi:keyword xml:lang="en">Politics</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Political science</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">The Dutch Parliamentary Election Study 2017 has been an enterprise of the Foundation of Electoral Studies in The Netherlands (Stichting Kiezers Onderzoek Nederland; SKON) and Statistics Netherlands (CBS).
+
+The Dutch Parliamentary Election Studies (DPES) are a series of national surveys carried out under the auspices of the Dutch Electoral Research Foundation (SKON). These surveys have been conducted since 1970. Many questions are replicated across studies, although each has questions not asked in the others. The major substantive areas consistently covered include the respondents' attitudes toward and expectations of the government and its effectiveness in both domestic and foreign policy, the most important problems facing the people of the Netherlands, the respondents' voting behavior and participation history, and his/her knowledge of and faith in the nation's political leaders.
+
+Data collection was in three distinct ways.
+1. A first round of face to face interviews (CAPI) followed by a self-completion questionnaire (PAPI), executed by Kantar, based on a new sample drawn by Statistics Netherlands (CBS). 
+2. A web-based questionnaire (CAWI) without a second questionnaire, executed by Kantar, based on a new sample drawn by Statistics Netherlands (CBS).
+3. A web-based questionnaire (CAWI) including a second web-based questionnaire, executed by CentERdata, in the LISS-panel, which is based on a sample drawn and refreshed by Statistics Netherlands (CBS).
+
+As in 2012, data collection was exlusively after the elections.
+
+Several variables have been excluded from the public data file in order to protect the privacy of individual respondents. Examples are municipality, zip code and information that identifies the respondent or their region in the open answers. These variables are available for scientific purposes only at CentERdata.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">2017</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">REQUEST_PERMISSION</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="nl"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

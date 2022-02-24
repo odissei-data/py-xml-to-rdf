@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:66991</identifier>
+    <datestamp>2021-04-15T21:07:33Z</datestamp>
+    <setSpec>D60000:D61000</setSpec>
+    <setSpec>D30000:D33000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Thriving Evangelical Congregations in The Netherlands</ddi:titl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-xdh-6gb3</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:66991</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University">Vermeer, Dr. P.A.D.M. DAI=info:eu-repo/dai/nl/187439435</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University">Scheepers, Prof. dr. P.L.H. DAI=info:eu-repo/dai/nl/072162090</ddi:AuthEnty>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Kaski - Radboud University">Kregting, Drs J.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor">Vis, Drs E.</ddi:othId>
+         </ddi:rspStmt>
+         <ddi:distStmt/>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">Dutch evangelicalism</ddi:keyword>
+            <ddi:keyword xml:lang="en">secularisation</ddi:keyword>
+            <ddi:keyword xml:lang="en">secularization</ddi:keyword>
+            <ddi:keyword xml:lang="en">DANS Data Guide 14</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Theology and religious studies</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Sociology</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">This dataset contains information on 584 visitors of six thriving evangelical congregations in the Netherlands as well as on 336 non-evangelicals of 18 years or older. In the winter of 2014-2015 an online questionnaire was administered to these respondents and information was gathered regarding several background characteristics of the respondents as well as their level of civic engagement, their value orientations, their religious background, their religious practices, their religious beliefs and their religious experiences. On the basis of this information, the research project aims to offer a description of the religious history and social background of the visitors of several thriving evangelical congregations in the Netherlands, to offer a description of the most typical organizational characteristics of these thriving evangelical congregations and to offer a sociological explanation for the rise and growth of these thriving evangelical congregations in the context of secular Dutch society.
+
+This dataset contains the underlaying data for DANS Data Guide 14.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">2014-2015</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">REQUEST_PERMISSION</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="nl"/>
+   </ddi:fileDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

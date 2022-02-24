@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:78293</identifier>
+    <datestamp>2021-04-15T21:07:45Z</datestamp>
+    <setSpec>driver</setSpec>
+    <setSpec>D30000:D31000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Data Visualization of a GL Community: A Cooperative Project</ddi:titl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-x3b-fvyj</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:78293</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Istituto di Linguistica Computazionale, ILC-CNR">Bartolini, Dr. R., Researcher</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Institute for  Computational Linguistics, ILC-CNR">Goggi, Dr. S., Researcher</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Institute for  Computational Linguistics, ILC-CNR">Pardelli, Dr. G., Researcher</ddi:AuthEnty>
+            <ddi:othId xml:lang="en" role="Researcher" affiliation="Istituto di Linguistica Computazionale, ILC-CNR">Russo, Dr. I., Researcher</ddi:othId>
+            <ddi:othId xml:lang="en" role="DataCollector" affiliation="GreyNet International">Farace, Dr. D., DataCollector</ddi:othId>
+            <ddi:othId xml:lang="en" role="RelatedPerson" affiliation="GreyNet International">Frantzen, J., RelatedPerson</ddi:othId>
+         </ddi:rspStmt>
+         <ddi:distStmt/>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">Grey Literature</ddi:keyword>
+            <ddi:keyword xml:lang="en">Data Visualization</ddi:keyword>
+            <ddi:keyword xml:lang="en">Research Community</ddi:keyword>
+            <ddi:keyword xml:lang="en">Public Awareness</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Paleography, bibliology, bibliography, library science</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">In 2012, GreyNet published a page on its website and made accessible the first edition of IDGL, International Directory of Organizations in Grey Literature .  The latest update of this PDF publication was in August 2016, providing a list of some 280 organizations in 40 countries worldwide that have contact  with the Grey Literature Network Service. The listing appears by country followed by the names of the organizations in alphabetical order, which are then linked to a URL. 
+This year GreyNet International marks its Twenty Fifth Anniversary and seeks to more fully showcase organizations, whose involvement in grey literature is in one or more ways linked to GreyNet.org. Examples of which include: members, partners, conference hosts, sponsors, authors, service providers, committee members, associate editors, etc. 
+This revised and updated edition of IDGL will benefit from the use of visualization software mapping the cities in which GreyNet’s contacts are located. Behind each point of contact are a number of fields that can be grouped and cross-tabulated for further data analysis. Such fields include the source, name of organization, acronym, affiliate’s job title, sector of information, subject/discipline,  city, state, country, ISO code, continent, and URL. Eight of the twelve fields require input, while the other four fields do not. 
+The population of the study was derived by extracting records from GreyNet’s in-house, administrative file. Only recipients on GreyNet’s Distribution List as of February 2017 were included. The records were then further filtered and only those that allowed for completion of the required fields remained. This set of records was then converted  to Excel format, duplications were removed, and further normalization of field entries took place. In fine, 510 records form the corpus of this study. In the coming months, an in-depth analysis of the data will be carried out - the results of which will be recorded and made visually accessible.
+The expected outcome of the project will not only produce a revised, expanded, and updated publication of IDGL, but will also provide a visual overview of GreyNet as an international organization serving diverse communities with shared interests in grey literature. It will be a demonstration of GreyNet’s commitment to research, publication, open access, education, and public awareness in this field of library and information science. Finally, this study will serve to pinpoint geographic and subject based areas currently within as well as outside of GreyNet’s catchment.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">2003 - 2016</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:conditions xml:lang="en">License: http://creativecommons.org/publicdomain/zero/1.0</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

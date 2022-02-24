@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:49481</identifier>
+    <datestamp>2021-07-13T08:15:50Z</datestamp>
+    <setSpec>D40000:D42000:D42100</setSpec>
+    <setSpec>D60000:D61000</setSpec>
+    <setSpec>D60000:D62000</setSpec>
+    <setSpec>D50000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Belgium General Election Study 2003</ddi:titl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-z2x-hfdx</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:49481</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en">Swyngedouw, Prof. dr. M. (Institute of Social and Political Opinion Research ISPO - KU Leuven</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Billiet, Prof. dr. J.</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Frognier, Prof.dr. A.P.</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Winter, Prof.dr. L. de</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Goeminne, B</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Baudewyns, P.</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="2012-03-30"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">Belgium Election Study</ddi:keyword>
+            <ddi:keyword xml:lang="en">voting behaviour</ddi:keyword>
+            <ddi:keyword xml:lang="en">political attitudes</ddi:keyword>
+            <ddi:keyword xml:lang="en">political identity</ddi:keyword>
+            <ddi:keyword xml:lang="en">CSES questions</ddi:keyword>
+            <ddi:keyword xml:lang="en">social demographic variables</ddi:keyword>
+            <ddi:keyword xml:lang="en">political participation</ddi:keyword>
+            <ddi:keyword xml:lang="en">party identification</ddi:keyword>
+            <ddi:keyword xml:lang="en">women</ddi:keyword>
+            <ddi:keyword xml:lang="en">associational membership</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Political science</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Behavioural and educational sciences</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Social sciences</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Sociology</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Social geography</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Post-electoral Belgium General Election Study 2003. A random probability sample of voters of both communities (Francophone and Flemish Belgian) has been interviewed face to face in the months following up the federal elections of May 18, 2003. Sample size: 1213 in Flanders / 777 in Francophone Belgium with RR1 response rate of 64.5%
+
+Following the first three Belgium National Election Studies, which were held after the General Election of November 24th, 1991, May 21st, 1995 and June 13th 1999, a fourth,and similar study was set up in connection with the General Election of May 18th, 2003.The Study was supported financially by the Belgium Federal Science Policy Office, under the National Ministry of Science. 
+The Flemish part of the survey was conducted by the Institute of Social and Political Opinion Research at the Department of Sociology,Catholic University of Leuven. PIOP, Point d'appui Interuniversitaire sur l'Opinion Publique et la Politique at the Department of Political and Social Sciences, Catholic University of Louvain-La-Neuve, was responsible for the Francophone part of the study.Both research centres are supervised by a Steering Committee consisting of professors from the political research units of various Belgium universities.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">2003 - 2004</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">REQUEST_PERMISSION</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="nl"/>
+   </ddi:fileDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="fr"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

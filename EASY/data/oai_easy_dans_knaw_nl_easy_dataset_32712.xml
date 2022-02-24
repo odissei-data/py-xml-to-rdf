@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:32712</identifier>
+    <datestamp>2021-04-15T21:06:02Z</datestamp>
+    <setSpec>D60000:D67000</setSpec>
+    <setSpec>D60000:D61000</setSpec>
+    <setSpec>driver</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Tijdsbestedingsonderzoek 1995 - TBO 1995</ddi:titl>
+            <ddi:parTitl xml:lang="en">Time-budget survey 1995 - TBO 1995</ddi:parTitl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-zj4-ermt</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:32712</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en">Broek, A. van der, Breedveld, K., Sociaal en cultureel planbureau, SCP * Den Haag (primary investigator)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Sociaal en Cultureel Planbureau (depositor)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Sociaal en Cultureel Planbureau * Den Haag (research initiator)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Intomart * Hilversum (data collector)</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt/>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">mass media</ddi:keyword>
+            <ddi:keyword xml:lang="en">leisure</ddi:keyword>
+            <ddi:keyword xml:lang="en">consumption</ddi:keyword>
+            <ddi:keyword xml:lang="en">sports</ddi:keyword>
+            <ddi:keyword xml:lang="en">time budget</ddi:keyword>
+            <ddi:keyword xml:lang="en">family life</ddi:keyword>
+            <ddi:keyword xml:lang="en">employment</ddi:keyword>
+            <ddi:keyword xml:lang="en">hobbies</ddi:keyword>
+            <ddi:keyword xml:lang="en">reading behaviour</ddi:keyword>
+            <ddi:keyword xml:lang="en">massamedia</ddi:keyword>
+            <ddi:keyword xml:lang="en">vrije tijd</ddi:keyword>
+            <ddi:keyword xml:lang="en">consumptie</ddi:keyword>
+            <ddi:keyword xml:lang="en">sport</ddi:keyword>
+            <ddi:keyword xml:lang="en">tijdsbesteding</ddi:keyword>
+            <ddi:keyword xml:lang="en">gezinsleven</ddi:keyword>
+            <ddi:keyword xml:lang="en">werk</ddi:keyword>
+            <ddi:keyword xml:lang="en">hobby</ddi:keyword>
+            <ddi:keyword xml:lang="en">leesgedrag</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Social sciences</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Sociology</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Leisure and recreation studies</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Way in which the Dutch population, from the age of twelve  years and older, are spending their time. The data were collected by means of an interview and the distribution of time budget diaries among the same  respondents. During one week respondents had to use the time budget diary to  report about the time spent at the following types of activities: work (travelling time included), domestic work, taking care of children, shopping (visits to haircutter, doctor, post-office, bank etc. included),  personal needs, education, religious and political activities, leisure,  social and cultural life, sports, listening to the radio, watching tv,  computer activities, talking, and reading. The interview is covering the same activities/ some specific questions:  teleshopping, use of air miles, membership public library and-or book club, Internet connection. Background variables: basic characteristics/ housing situation/ household characteristics/ occupation/employment/ income/capital assets/ education/ politics/ religion/ readership, mass media, and 'cultural' exposure</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1995</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">OPEN_ACCESS_FOR_REGISTERED_USERS</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

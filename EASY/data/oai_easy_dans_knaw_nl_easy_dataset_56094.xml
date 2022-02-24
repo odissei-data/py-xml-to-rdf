@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:56094</identifier>
+    <datestamp>2021-04-15T21:07:09Z</datestamp>
+    <setSpec>D40000:D41000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Gedragsbeïnvloeding van jeugdigen in een strafrechtelijk kader</ddi:titl>
+            <ddi:parTitl xml:lang="en">Evaluation of the GBM Behaviour Modification Measure</ddi:parTitl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:56094</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-x7m-zz7r</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en">Ministerie van Veiligheid en Justitite - Wetenschappelijk Onderzoek en Documentatiecentrum - WODC</ddi:AuthEnty>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="PI Research">Bijl, dr. B.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor">Noom, dr. M.</ddi:othId>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="2013-11-14"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Social sciences</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Science of law</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">The Behaviour Modification (Young People) Act (Wet gedragsbeïnvloeding jeugdigen) entered into effect on 1 February 2008. A number of changes were made to the youth justice system in this context (Staatsblad 2007, 575). The purpose of these changes was to increase the possibilities for modifying the behaviour of young persons, among other things by means of the Behaviour Modification Measure (Gedrags Beïnvloedende Maatregel - GBM). The changes to the law are intended to ensure that the courts have more and better instruments available to them to influence the behaviour of young persons and their situation in society in a positive way.
+
+This document reports on an investigation into the implementation of the abovementioned criminal law innovations. This is a means of implementing the wishes of the legislators to have these innovations evaluated, three years after they entered into force.
+
+Data in Dutch, summary in English.</ddi:abstract>
+         <ddi:sumDscr/>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">REQUEST_PERMISSION</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="nl"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

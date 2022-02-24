@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:216597</identifier>
+    <datestamp>2021-09-19T05:27:10Z</datestamp>
+    <setSpec>D30000:D36000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Information structure and historical English OV/VO variation</ddi:titl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-2z6-67z4</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:216597</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University">Struik, MA T. DAI=info:eu-repo/dai/nl/407606025</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt/>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">Old English</ddi:keyword>
+            <ddi:keyword xml:lang="en">Middle english</ddi:keyword>
+            <ddi:keyword xml:lang="en">information structure</ddi:keyword>
+            <ddi:keyword xml:lang="en">word order</ddi:keyword>
+            <ddi:keyword xml:lang="en">ov/vo variation</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Humanities</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Language and literature studies</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">This dataset contains the data that is used in:
+
+Struik, Tara and Ans van Kemenade. Information structure and OV word order in Old and Middle English: a phase-based approach. To appear in Journal of Comparative Germanic Linguistics
+
+The history of English is characterised by variation in the position of the object with the regard to the verb. Where Present-day English only allows VO word orders, earlier stages display a significant number of OV structures as well, which are lost after the 13th century. It has frequently been suggested that this variation is influenced by information structure. We test the hypothesis that OV orders are the result of the discourse-givenness of the object. Our understanding of what fuels this variation feeds the formal analysis that is proposed; OV orders are derived from a VO base. The syntactic trigger to move objects leftward is lost.
+
+The hypothesis was tested by retrieving subclauses with a finite verb, a non-finite verb and a direct object from historical English corpora (850-1570). The objects in the Old English and early Middle English period were subsequently annotated for information structure and length. This dataset contains the  datafiles, divided by period. Translations are included in separate datafiles. Non-referential objects are included in separate datafiles. This dataset also contains the data on quantified and negated objects and the (non-annotated) data from the late Middle English and early Modern English period.
+
+Structure of this dataset:
+The data collection procedure and codebook is described in datacollection.pdf
+The annotation scheme is that used to annotate the Old English and early Middle English data is described in annotation.pdf
+The source materials that are included in the study textsincluded.pdf</ddi:abstract>
+         <ddi:sumDscr/>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">OPEN_ACCESS_FOR_REGISTERED_USERS</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

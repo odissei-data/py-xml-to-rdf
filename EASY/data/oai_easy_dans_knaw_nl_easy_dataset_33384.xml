@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:33384</identifier>
+    <datestamp>2021-04-15T21:04:57Z</datestamp>
+    <setSpec>D60000:D61000</setSpec>
+    <setSpec>driver</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Panel Study of Social Integration in the Netherlands 1987-1995 - PSIN8795</ddi:titl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-x3w-z5et</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:33384</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Vrije Universiteit Amsterdam">Dijkstra, W. DAI=info:eu-repo/dai/nl/069198756</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Vrije Universiteit Amsterdam">Feij, J.A. DAI=info:eu-repo/dai/nl/068626649</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Nederlands Interdisciplinair Demografisch Instituut (NIDI)">Gierveld, J. DAI=info:eu-repo/dai/nl/069443807</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Nederlands Interdisciplinair Demografisch Instituut (NIDI)">Liefbroer, A.C. DAI=info:eu-repo/dai/nl/071385487</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Rijksuniversiteit Utrecht">Kalmijn, M. DAI=info:eu-repo/dai/nl/073933082</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Rijksuniversiteit Utrecht">Weesie (primary investigator), H.M. DAI=info:eu-repo/dai/nl/073597422</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Minsterie van OC&amp;W * Den Haag</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Vrije Universiteit * Amsterdam</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Universiteit Utrecht - ICS * Utrecht (research initiator)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">NSS Marktonderzoek BV * Den Haag (data collector)</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="1997-01-01"/>
+            <ddi:distDate xml:lang="en" date="2007-08-10"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">family life</ddi:keyword>
+            <ddi:keyword xml:lang="en">gender roles</ddi:keyword>
+            <ddi:keyword xml:lang="en">health</ddi:keyword>
+            <ddi:keyword xml:lang="en">housing</ddi:keyword>
+            <ddi:keyword xml:lang="en">interpersonal relations</ddi:keyword>
+            <ddi:keyword xml:lang="en">living conditions</ddi:keyword>
+            <ddi:keyword xml:lang="en">values and beliefs</ddi:keyword>
+            <ddi:keyword xml:lang="en">personality</ddi:keyword>
+            <ddi:keyword xml:lang="en">sexuality</ddi:keyword>
+            <ddi:keyword xml:lang="en">social mobility</ddi:keyword>
+            <ddi:keyword xml:lang="en">youth</ddi:keyword>
+            <ddi:keyword xml:lang="en">employment</ddi:keyword>
+            <ddi:keyword xml:lang="en">education</ddi:keyword>
+            <ddi:keyword xml:lang="en">children</ddi:keyword>
+            <ddi:keyword xml:lang="en">work</ddi:keyword>
+            <ddi:keyword xml:lang="en">social integration</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Sociology</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Detailed data on the process of social integration of  young adults within the crucially important life domains of  living arrangements and family formation on the one  hand and education and occupation on the other hand. Education and training / occupational careers / income	and savings / family business / dating / relationship  history / marriage and cohabitation / housing careers  / fertility history / investments in children / cohabitation  contracts / prenuptial agreement / wills and life insurance  / relationship quality / money management / leisure  / contacts with parents and inlaws / family background  / social networks / health / family attitudes / religion / social psychological tests scales and experiments Background variables: basic characteristics/ residence/ household characteristics/ characteristics of parental family/household/ occupation/employment/ income/capital assets/ education/ politics/ religion/ consumption of durables/ readership, mass media, and 'cultural' exposure. Fieldwork years: 1987 (wave 1), 1989 (wave 2), 1991 (wave 3), 1995 (wave 4).</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1987 * 1995</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">OPEN_ACCESS_FOR_REGISTERED_USERS</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:33297</identifier>
+    <datestamp>2021-04-15T21:06:30Z</datestamp>
+    <setSpec>driver</setSpec>
+    <setSpec>D40000:D42000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Omnibus survey Almelo 1996 - VSO</ddi:titl>
+            <ddi:parTitl xml:lang="en">Omnibus-enquete Gemeente Almelo 1996 - VSO</ddi:parTitl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:33297</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-z2q-amrp</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en">Gemeente Almelo * Almelo (primary investigator)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Gemeente Almelo * Almelo (research initiator) </ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Gemeente Almelo * Almelo
+Bureau Onderzoek en Statistiek (data collector) </ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="1998-10-05"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">sociology</ddi:keyword>
+            <ddi:keyword xml:lang="en">living conditions</ddi:keyword>
+            <ddi:keyword xml:lang="en">sport</ddi:keyword>
+            <ddi:keyword xml:lang="en">elderly</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Social sciences</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Political and administrative sciences</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Survey among the inhabitants of Almelo R. satisfied with neighbourhood, house, shopping, sports  facilities and sports clubs / all members of household:  which sports, how often /  R.'s opinions on, demand for, child-care.  R.'s opinion on traffic, safety, cleanliness, FC Heracles /	r.'s opinion on and satisfaction with playgrounds, bottlebanks. Issues concerning the elderly: house, neighbourhood  suitable for elderly. Use of public transport / shopping,  distance to shops Background variables: basic characteristics/ residence/ housing situation/ household characteristics/ occupation/employment/ income/capital assets/ education/ religion/ organizational membership</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1996</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">OPEN_ACCESS_FOR_REGISTERED_USERS</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

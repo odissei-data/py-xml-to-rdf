@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:33116</identifier>
+    <datestamp>2021-04-15T21:06:22Z</datestamp>
+    <setSpec>D60000:D61000</setSpec>
+    <setSpec>driver</setSpec>
+    <setSpec>D50000:D54000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Alleen zorgen 1984 : Functioneren van alleenstaande ouders en hun gezinnen</ddi:titl>
+            <ddi:parTitl xml:lang="en">Single watch, functioning of single parents and their families 1984</ddi:parTitl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:33116</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-x7x-qveh</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en">Gelder, K. van, Nederlands instituut voor maatschappelijk werk onderzoek, NIMAWO * Den Haag (primary investigator)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Nederlandse Gezinsraad * Den Haag
+FIOM * Den Bosch
+Centrale Raad voor Gezinsverzorging * Bunnik (research initiator) </ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Nederlands instituut voor de publieke opinie en het marktonderzoek, NIPO * Amsterdam (data collector) </ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="1990-01-01"/>
+            <ddi:distDate xml:lang="en" date="2007-07-13"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">sociology</ddi:keyword>
+            <ddi:keyword xml:lang="en">living conditions</ddi:keyword>
+            <ddi:keyword xml:lang="en">family life</ddi:keyword>
+            <ddi:keyword xml:lang="en">childrearing</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Pedagogics</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Sociology</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Choke points in functioning of single parents. Family composition/ placement of children by intervention of Child Welfare Council / come into being and history of single parent family / attitude towards a ( possible ) new partner / employment and profession / contacts and satisfaction about the contacts with Employment Exchange and local social services / relief of children / availability labour market / day nursery with: employment/ volunteer work/ study/ leisure activities/ visits / income and expenditure / social security / alimony / housing situation / child rearing / day nurse centre / school/ take and get children / social contacts / contacts between child and second parent / house keeping and help with house keeping/ time spending on house keeping / holidays / lack of time, strain and stress / ( problems with ) illness, medical treatment, handicaps / organizations for information, advice or moral support / scale of: self appreciation, physical and mental symptoms, positive and negative feelings / perception of attractiveness of several forms of cohabitation. Background variables: basic characteristics/ household characteristics/ place of work/ occupation/employment/ income/capital assets/ education/ readership, mass media, and 'cultural' exposure</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1984</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">OPEN_ACCESS_FOR_REGISTERED_USERS</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

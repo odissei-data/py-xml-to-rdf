@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:65203</identifier>
+    <datestamp>2021-04-15T21:07:31Z</datestamp>
+    <setSpec>D60000:D66000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Voting Engagement Tools as Political Decision Aids</ddi:titl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-zyu-63jp</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:65203</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Utrecht Institute of Linguistics/Onderzoekinstituut voor Taal en Spraak (UiL OTS) - Utrecht University">Holleman, dr. B.C. DAI=info:eu-repo/dai/nl/304825670</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="The Amsterdam School of Communication Research (ASCoR) - University of Amsterdam (UvA)">Vreese, prof. dr. C.H. de DAI=info:eu-repo/dai/nl/238009904</ddi:AuthEnty>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Tilburg University">Kamoen, dr. N.</ddi:othId>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="2016-06-22"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">question framing in VAAs</ddi:keyword>
+            <ddi:keyword xml:lang="en">Voting Advice Applications</ddi:keyword>
+            <ddi:keyword xml:lang="en">political preferences</ddi:keyword>
+            <ddi:keyword xml:lang="en">question polarity</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Communication sciences</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">In this project we investigate the effects of the use of VAAs on people's answers and attitudes, and on their political understanding (efficacy, knowledge). We also distinguish between different user types. In this specific subproject, we investigated the effect of valence framing in a VAA developed for the local elections in the city of Utrecht 2014 on the answers. We also investigated the rol of political sophistication as a moderator. We have presented these data at a number of conferences (ICA2015, ECPR2014) and hope to publish about these data in 2016, PLOS ONE. The first author can be reached through b.holleman@uu.nl</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">March 2014</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">REQUEST_PERMISSION</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="nl"/>
+   </ddi:fileDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

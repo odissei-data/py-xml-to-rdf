@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:77633</identifier>
+    <datestamp>2021-04-15T21:07:44Z</datestamp>
+    <setSpec>D20000:D24000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">ART Adherence Behaviour and Practices Among HIV Positives in Kolkata, India</ddi:titl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-zk9-azdj</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:77633</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="University of California, Los Angeles">Swendeman, Dr. D., ProjectLeader</ddi:AuthEnty>
+            <ddi:othId xml:lang="en" role="Researcher" affiliation="University of California, Los Angeles">Fehrenbacher, Dr. A. E., Researcher</ddi:othId>
+         </ddi:rspStmt>
+         <ddi:distStmt/>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">Gender Differences</ddi:keyword>
+            <ddi:keyword xml:lang="en">Depression</ddi:keyword>
+            <ddi:keyword xml:lang="en">HIV/AIDS</ddi:keyword>
+            <ddi:keyword xml:lang="en">Social support</ddi:keyword>
+            <ddi:keyword xml:lang="en">HIV-status disclosures</ddi:keyword>
+            <ddi:keyword xml:lang="en">Sexual behaviors</ddi:keyword>
+            <ddi:keyword xml:lang="en">Alcohol use</ddi:keyword>
+            <ddi:keyword xml:lang="en">HIV/AIDS stigma</ddi:keyword>
+            <ddi:keyword xml:lang="en">Coping</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Health sciences</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Antiretroviral therapy patients in Kolkata, India (n=362) were randomized in one of two conditions: 1) twice-daily IVR calls with messaging, plus a weekly IVR assessment call or 2) an attention control, with only a weekly IVR assessment call. Messages focused on three domains: medically-related, health promotion, and mental health messages. Participants completed assessments at baseline, two-, four-, and six-months.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">April 2014 - July 2014</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">REQUEST_PERMISSION</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

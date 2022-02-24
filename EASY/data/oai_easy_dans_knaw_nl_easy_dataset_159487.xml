@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:159487</identifier>
+    <datestamp>2021-08-31T15:34:49Z</datestamp>
+    <setSpec>D50000:D51000</setSpec>
+    <setSpec>driver</setSpec>
+    <setSpec>D50000:D52000</setSpec>
+    <setSpec>D50000:D54000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Fostering students' creative thinking skills by means of a one-year  creativity training program</ddi:titl>
+            <ddi:parTitl xml:lang="en">Fostering Students' Creative Thinking Skills</ddi:parTitl>
+            <ddi:parTitl xml:lang="en">Fostering Students' Creative Thinking Skills</ddi:parTitl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-zuz-q6zd</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:159487</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University">Ritter, dr. S.M. DAI=info:eu-repo/dai/nl/316290513</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University">Gu, MSc X. DAI=info:eu-repo/dai/nl/424956713</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Crijns, MSc M.</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Biekens, MSc P.</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt/>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">creativity</ddi:keyword>
+            <ddi:keyword xml:lang="en">training</ddi:keyword>
+            <ddi:keyword xml:lang="en">creative thinking</ddi:keyword>
+            <ddi:keyword xml:lang="en">divergent thinking</ddi:keyword>
+            <ddi:keyword xml:lang="en">convergent thinking</ddi:keyword>
+            <ddi:keyword xml:lang="en">higher education</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Behavioural and educational sciences</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Psychology</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Educational theory</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Pedagogics</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">The datasets contains all raw and analyzed data in the research described in the research paper by Gu and Colleagues. The paper aimed to test the effectiveness of a one-year creativity training program for higher education. The creativity of students following the training is measured before, halfway, and after the training. In addition to the within-subjects comparison across time, performance is compared to a matched control group. At each of the measurement points, different versions of seven well-validated creativity tasks (capturing divergent and convergent creative thinking skills) are employed. After data collection, * only students who take the three creativity tests; and those who take the training > 9 times, are included into final data analysis. The training were carried out in the school class as a course. Data were collected online via Qualtrics. A methodology section and a codebook are provided below, which explains in detail how the raw data were recoded into final scores/analyzed data. For more information or questions, please contact the authors. The raw and analyzed data are provided in SPSS. The syntax files contain all steps of data analyses that are performed in order to get to the results as described in the paper.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">Collection period: start=2017-09-18; end=2018-05-14;</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">OPEN_ACCESS_FOR_REGISTERED_USERS</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="English"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

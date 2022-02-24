@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:32152</identifier>
+    <datestamp>2021-04-15T21:05:34Z</datestamp>
+    <setSpec>D60000:D61000</setSpec>
+    <setSpec>driver</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Meningen over homosexualiteit III 1970-1971</ddi:titl>
+            <ddi:parTitl xml:lang="en">Homosexulaity III, opinions of people in education and public service 1970-1971</ddi:parTitl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:32152</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-29s-khqp</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en">Boer, J. de, Kroode, H. ten, Manschot, B., Universiteit van Amsterdam * Amsterdam, Baschwitz instituut (primary investigator)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Stichting tot bevordering sociaal onderzoek minderheden * Amsterdam (research initiator) </ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Baschwitz instituut, UvA * Amsterdam (data collector) </ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="1975-01-01"/>
+            <ddi:distDate xml:lang="en" date="2007-06-01"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">sociology</ddi:keyword>
+            <ddi:keyword xml:lang="en">sexuality</ddi:keyword>
+            <ddi:keyword xml:lang="en">work</ddi:keyword>
+            <ddi:keyword xml:lang="en">discrimination</ddi:keyword>
+            <ddi:keyword xml:lang="en">education</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Sociology</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Problems of homosexuals in their occupational situation / heads of gab's ( regional labour exchange ) were asked about their experiences with attitude and behaviour of companies towards homosexuals / letters of application were sent to test their actual behaviour / personnel managers of companies, nursing and municipal services were interviewed on experience with homosexuals / their fitness for different functions and departments / scales of accepting homosexuals in general / homosexuality as a threat / factual and fancied experience / negative stereotypes / heads of primary, secondary and lower vocational schools were furthermore asked about sex education: in schools and difficulties they would expect with a homosexual teacher ( whether applying or working ) from parents committee and other teachers. Background variables: basic characteristics/ place of work/ education/ religion</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1970 * 1971</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">OPEN_ACCESS_FOR_REGISTERED_USERS</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

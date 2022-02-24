@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:216188</identifier>
+    <datestamp>2021-09-07T05:23:21Z</datestamp>
+    <setSpec>driver</setSpec>
+    <setSpec>D30000:D33000</setSpec>
+    <setSpec>D30000:D34000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Comparison of the traditions concerning the Unwritten Document of the Prophet Muhammad</ddi:titl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-xsv-bg4x</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:216188</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University">Boekhoff-van der Voort, dr. N.A. DAI=info:eu-repo/dai/nl/323841244</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt/>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">Islam</ddi:keyword>
+            <ddi:keyword xml:lang="en">Prophet Muhammad</ddi:keyword>
+            <ddi:keyword xml:lang="en">Sira</ddi:keyword>
+            <ddi:keyword xml:lang="en">Hadith transmission</ddi:keyword>
+            <ddi:keyword xml:lang="en">isnad-cum-matn analysis</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Theology and religious studies</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">History</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">This dataset contains the results of my literature study on the traditions relating the instruction of the Prophet Muḥammad, on his deathbed, to bring him writing materials so that he could prepare a document for his community.  The traditions, found in Classical Arabic Muslim ḥadīth collections in the field of history, Sīra, Qur'anic exegesis, jurisprudence, among others, have been studied with the isnād-cum-matn analysis. 
+The accompanying article “Untangling the “Unwritten Documents” of the Prophet Muḥammad. An Isnād-cum-Matn Analysis of Interwoven Traditions”, Religions (12: xxx) explores the document motif, that appears in a number of accounts with different settings, characters and details on the nature of the document itself. This article examines whether there exists a direct relationship between the different accounts and, if so, what does this mean. It will show that additional motifs have been added to this tradition during its transmission process and that some of these motifs can be attributed to regionalisation or specific transmitters.
+This dataset contains the following documents:
+1. “Group1_IA_isnad_bundle_IbnAbbas_traditions_simplified”. This diagram is a simplified representation of the chains of transmission showing only the earliest generations of transmitters of all the traditions attributed to the Medinan Quran scholar `Abd Allah b. `Abbas (d. 67/686-7).
+2. “Group1a_IA1-3_isnad_bundle_IbnAbbas_SaidbJubayr1”. The first part of the detailed diagram with the chains of transmission of all Ibn `Abbas traditions attributed to the Kufan scholar Sa`id b. Jubayr (d. 94/714).
+3. “Group1b_IA1-3_isnad_bundle_IbnAbbas_SaidbJubayr2”. The second part of the detailed diagram with the chains of transmission of all Ibn `Abbas traditions attributed to the Kufan scholar Sa`id b. Jubayr (d. 94/714).
+4. “Group1a_IA1-3_matn_IbnAbbas_SaidbJubayr” gives an overview of all differences between the traditions of Sa`id b. Jubayr from Ibn `Abbas.
+5. “Group1c_IA4_isnad_bundle_IbnAbbas_alZuhri”. The detailed diagram with the chains of transmission of all Ibn `Abbas traditions attributed to the Medinan scholar Ibn Shihab al-Zuhri (d. 124/742).
+6. “Group1c_IA4_matn_IbnAbbas_alZuhri” gives an overview of all differences between the traditions of al-Zuhri from Ibn `Abbas.
+7. “Group1d_IA5_isnad_bundle_IbnAbbas_Layth”. The detailed diagram with the chains of transmission of all Ibn `Abbas traditions attributed to the Kufan traditionist Layth b. Abi Sulaym (d. 138/755 or 143/761).
+8. “Group2_isnad_bundle_Jabir_AbulZubayr”. The detailed diagram with the chains of transmission of all Jabir b. `Abd Allah traditions attributed to the Meccan traditionist Abu l-Zubayr Muhammad b. Muslim (d. 128/746).
+9. “Group2_matn_Jabir_AbulZubayr” gives an overview of all differences between the traditions of Abu l-Zubayr Muhammad b. Muslim from Jabir b. `Abd Allah.
+10. “Group3_isnad_bundle_Umar_HishambSad”. The detailed diagram with the chains of transmission of the two `Umar b. al-Khattab traditions attributed to the Medinan traditionist Hisham b. Sa`d (d. 160/776-7).
+11. “Group3_matn_Umar_HishambSad” gives an overview of all differences between the two traditions of Hisham b. Sa`d from `Umar b. al-Khattab.
+12. “Group4_isnad_bundle_Ali_UmarbalFadl”. The detailed diagram with the chains of transmission of the `Ali b. Abi Talib traditions attributed to the Basran traditionist `Umar b. al-Fadl (n.d.).
+13. “Group4_matn_Ali_UmarbalFadl” gives an overview of all differences between the traditions of `Umar b. al-Fadl from `Ali b. Abi Talib.
+14. “Group5_isnad_bundle_Aisha_IbnAbiMulayka”. The detailed diagram with the chains of transmission of the `A’isha traditions attributed to the Meccan traditionist Ibn Abi Mulayka (d. 117/735).
+15. “Group5_matn_Aisha_IbnAbiMulayka” gives an overview of all differences between the traditions of Ibn Abi Mulayka from `A’isha.
+
+Codes in the tables with the equations of the traditions (documents 4, 6, 9, 11, 13, 15):
+•	The combination of letters and numbers in the top row of these documents are the codes of the individual traditions, which can be found in the corresponding diagrams of the chains of transmissions 
+o	document 4 -> see documents 1-3.
+o	document 6 -> see document 5.
+o	document 9 -> see document 8.
+o	document 11 -> see document 10.
+o	document 13 -> see document 12.
+o	document 15 -> see document 14.
+•	Red = an error (grammatical error or a transmission error)
+•	Words of the same color as a transmitter are peculiarities of that transmitter.
+•	Beige/white in one row = variant formulations that cannot be attributed to a specific transmitter and may be variations of the text of common link of the traditions.</ddi:abstract>
+         <ddi:sumDscr/>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">OPEN_ACCESS_FOR_REGISTERED_USERS</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="English"/>
+   </ddi:fileDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="Arabic"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

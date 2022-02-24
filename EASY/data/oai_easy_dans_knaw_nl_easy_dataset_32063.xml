@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:32063</identifier>
+    <datestamp>2021-04-15T21:05:30Z</datestamp>
+    <setSpec>driver</setSpec>
+    <setSpec>D40000:D42000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Nationaal Kiezersonderzoek, NKO 1986 fresh sample</ddi:titl>
+            <ddi:parTitl xml:lang="en">Dutch parliamentary election study, 1986 - DPES'86 Fresh sample</ddi:parTitl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:32063</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-zek-cq5a</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en">Eijk, C. van der, Irwin, G.A., Niemoeller, B.,  (primary investigator)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Dutch inter-university election study workgroup  (depositor)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Dutch interuniversity election study workgroup * Amsterdam (research initiator)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Interview bv * Amsterdam (data collector)</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt/>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">political science</ddi:keyword>
+            <ddi:keyword xml:lang="en">elections</ddi:keyword>
+            <ddi:keyword xml:lang="en">politics, internal</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Political and administrative sciences</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Systematic analysis of change in political opinions and behaviour of the Dutch electorate. Pre-election wave: involvement in national and foreign political issues / political interest / reading of newspapers / tv newscast exposure / most important national problems / party identification and membership / evaluation of government policy on economic situation, labour market, personal income situation / political issues ( perception of main parties standpoint, own stand ): abortion, nuclear plants, differences in income / voting in last municipal elections / voting intention / important aspects for party choice / sympathy rating of parties and leading politicians / coalition preference / exposure to and opinion on election polls / expected election results. Post-election wave, additional variables: exposure to mass-media coverage of elections / voting behaviour / time of vote decision / voting stability / partner's voting behaviour / vote recall 1982 general elections / political issues ( perception of main parties stand, own stand ): euthanasia, income differences, nuclear plants, NATO nuclear arms on Dutch territory / expectations regarding own income situation, general prosperity and influence of coalition on that / prevalence of reduction of unemployment versus reduction of government debts / opinion on revision of social security system / knowledge of, opinions on leading politicians / left, right rating of political parties / sense of political efficacy / political cynicism / civic competence, participation / party campaign activities / membership of and participation in extra-parliamentary organizations / voting stability / characteristics of leading politicians / influence of religion / pillarization - compartmentalization / confessionalism / secularism. Background variables: basic characteristics/ residence/ housing situation/ household characteristics/ occupation/employment/ income/capital assets/ education/ social class/ politics/ religion/ readership, mass media, and 'cultural' exposure/ organizational membership.     
+The data- and documentation files of this dataset can be downloaded via the option Data Files.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1986</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">OPEN_ACCESS_FOR_REGISTERED_USERS</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

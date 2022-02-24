@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:38788</identifier>
+    <datestamp>2021-08-03T18:28:17Z</datestamp>
+    <setSpec>D60000:D61000</setSpec>
+    <setSpec>D70000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">DNB Household Survey (DHS) | 1993 - present</ddi:titl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-xzu-sp9h</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:38788</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="CentERdata - Tilburg University">Streefkerk, drs. M.IJ.C.</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">CentERdata, Tilburg University</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="2012-07-03"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">saving behavior</ddi:keyword>
+            <ddi:keyword xml:lang="en">household</ddi:keyword>
+            <ddi:keyword xml:lang="en">work</ddi:keyword>
+            <ddi:keyword xml:lang="en">accommodation</ddi:keyword>
+            <ddi:keyword xml:lang="en">mortgages</ddi:keyword>
+            <ddi:keyword xml:lang="en">health</ddi:keyword>
+            <ddi:keyword xml:lang="en">income</ddi:keyword>
+            <ddi:keyword xml:lang="en">assets</ddi:keyword>
+            <ddi:keyword xml:lang="en">liabilities</ddi:keyword>
+            <ddi:keyword xml:lang="en">economic concepts</ddi:keyword>
+            <ddi:keyword xml:lang="en">psychological concepts</ddi:keyword>
+            <ddi:keyword xml:lang="en">Internet</ddi:keyword>
+            <ddi:keyword xml:lang="en">longitudinal study</ddi:keyword>
+            <ddi:keyword xml:lang="en">sparen</ddi:keyword>
+            <ddi:keyword xml:lang="en">huishouden</ddi:keyword>
+            <ddi:keyword xml:lang="en">werk</ddi:keyword>
+            <ddi:keyword xml:lang="en">wonen</ddi:keyword>
+            <ddi:keyword xml:lang="en">hypotheek</ddi:keyword>
+            <ddi:keyword xml:lang="en">gezondheid</ddi:keyword>
+            <ddi:keyword xml:lang="en">inkomen</ddi:keyword>
+            <ddi:keyword xml:lang="en">bezit</ddi:keyword>
+            <ddi:keyword xml:lang="en">schulden</ddi:keyword>
+            <ddi:keyword xml:lang="en">psychologische schalen</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Economics and Business Administration</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Social sciences</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Sociology</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Since 1993, CentERdata annually collects economic data through a panel that consists of some two thousand households. The purpose of this DNB Household Survey (formerly known as CentER Savings Survey) is to study the economic and psychological determinants of the saving behavior of households. The data are collected through the CentERpanel, which collects data every week on various topics.
+Not all Dutch people have computers with Internet access, nor do the panel members. Households without a computer and/or Internet access are given the use of a simple computer and Internet access.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1993 - present</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">NO_ACCESS</ddi:restrctn>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="nl"/>
+   </ddi:fileDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

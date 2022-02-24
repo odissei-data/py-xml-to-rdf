@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:57591</identifier>
+    <datestamp>2021-04-15T21:07:15Z</datestamp>
+    <setSpec>D50000:D51000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Guilt in Bereavement: The Role of Self-Blame and Regret in Coping with Loss</ddi:titl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-ztf-t2vt</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:57591</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Department of Psychology, Utrecht University, Utrecht, The Netherlands &amp; Department of  Psychology, University of Groningen, Groningen, The Netherlands">Stroebe, prof.dr. M. DAI=info:eu-repo/dai/nl/074176773</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Department of Psychology, Utrecht University, Utrecht, The Netherlands &amp; Department of  Psychology, University of Groningen, Groningen, The Netherlands">Stroebe, prof.dr. W. DAI=info:eu-repo/dai/nl/068167903</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Department of Methods and Statistics, Utrecht University, Utrecht, The Netherlands &amp; Optentia Research Program, Faculty of Humanities, North-West University, South Africa">Schoot, R. van de</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Department of Early Childhood Education, University of Thessaly, Volos, Greece">Abakoumkin, G.</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Department of Psychology, Renmin University of China, Beijing, China">Li, J.</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="2014-04-22"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">bereavement</ddi:keyword>
+            <ddi:keyword xml:lang="en">grief</ddi:keyword>
+            <ddi:keyword xml:lang="en">guilt</ddi:keyword>
+            <ddi:keyword xml:lang="en">self-blame</ddi:keyword>
+            <ddi:keyword xml:lang="en">regret</ddi:keyword>
+            <ddi:keyword xml:lang="en">loss</ddi:keyword>
+            <ddi:keyword xml:lang="en">coping</ddi:keyword>
+            <ddi:keyword xml:lang="en">latent growth modelling</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Behavioural and educational sciences</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Psychology</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Despite the apparent centrality of guilt in complicating reactions following bereavement, scientific investigation has been limited. Establishing the impact of specific components associated with guilt could enhance understanding. The aim of this study was to examine the relationships between two guilt-related manifestations, namely self-blame and regret, with grief and depression. 
+
+A longitudinal investigation was conducted 4-7 months, 14 months and 2 years post-loss. Participants were bereaved spouses (30 widows; 30 widowers); their mean age was 53.05 years. Results showed that self-blame was associated with grief at the initial time-point and with its decline over time. Such associations were not found for depression. Initial levels of regret were neither associated with initial levels of grief and depression, nor were they related to the decline over time in either outcome variable. These results demonstrate the importance of examining guilt-related manifestations independently, over time, and with respect to both generic and grief-specific outcome variables. A main conclusion is that self-blame (but not regret) is a powerful determinant of grief- specific difficulties following the loss of a loved one. Implications for intervention are considered.
+
+For guilt and grief, scale scores were calculated by adding the respective single items.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1983-1985</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">REQUEST_PERMISSION</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

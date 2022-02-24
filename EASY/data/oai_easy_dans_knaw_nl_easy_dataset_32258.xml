@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:32258</identifier>
+    <datestamp>2021-04-15T21:05:39Z</datestamp>
+    <setSpec>D60000:D61000</setSpec>
+    <setSpec>driver</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Social networks and intergroup conflict 2000</ddi:titl>
+            <ddi:parTitl xml:lang="en">Social networks and intergroup conflict 2000</ddi:parTitl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:32258</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-x6t-uh3y</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en">K. Takacs, ICS, R.U. Groningen (primary investigator)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">ICS, Fac. Sociale Wetenschappen, R.U. Groningen (depositor)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">ICS, Fac. Sociale Wetenschappen (data collector) </ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="2003-11-01"/>
+            <ddi:distDate xml:lang="en" date="2007-07-10"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">interpersonal relations</ddi:keyword>
+            <ddi:keyword xml:lang="en">conflict resolution</ddi:keyword>
+            <ddi:keyword xml:lang="en">social psychologie</ddi:keyword>
+            <ddi:keyword xml:lang="en">social networks</ddi:keyword>
+            <ddi:keyword xml:lang="en">intergroup relations</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Sociology</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Conflicts between groups are among the most challenging problems of mankind. They arise as groups compete for the possession of certain scarce resources. Under what conditions does such competition lead to conflict or to a peaceful coexistence? Why do individual group members, despite the likelihood of being harmed, voluntarily become involved in conflicts? Social Networks and Intergroup Conflict explores how decisions of individuals in competitive intergroup relations are influenced by their social network and by a common past and future. Social network effects are studied with a specific focus on the segregation effect. It is shown how these effects arise from individual actions that are constrained by social control which takes place in the individuals network neighborhood. The study reveals conditions under which social control has positive or negative effects on individual participation in conflict. It shows the mechanisms through which social control operates and affects intergroup relations. In repeated interactions it is analyzed how and to what extent individuals apply behavioral heuristics that are driven by past experience or are based on future expectations. This study examines these questions using analytical, computer simulation and experimental tools in order to promote methods of conflict resolution.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">2000</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">OPEN_ACCESS_FOR_REGISTERED_USERS</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

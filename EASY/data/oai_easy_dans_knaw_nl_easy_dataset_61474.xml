@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:61474</identifier>
+    <datestamp>2021-04-15T21:07:24Z</datestamp>
+    <setSpec>driver</setSpec>
+    <setSpec>D30000:D31000</setSpec>
+    <setSpec>D60000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Degrees of Openness: Grey Literature in Institutional Repositories</ddi:titl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:61474</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-22x-72g3</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="University of Lille 3">Schöpfel, Dr. J.</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Inist-CNRS">Prost, H.</ddi:AuthEnty>
+            <ddi:othId xml:lang="en" role="contributor">GreyNet International, Grey Literature Network Service</ddi:othId>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="2015-06-08"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">Grey Literature</ddi:keyword>
+            <ddi:keyword xml:lang="en">Institutional Repositories</ddi:keyword>
+            <ddi:keyword xml:lang="en">Open Access</ddi:keyword>
+            <ddi:keyword xml:lang="en">OpenDOAR</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Social sciences</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Paleography, bibliology, bibliography, library science</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">In spite of the growing success of the open access initiative, a significant part of scientific and technical information remains unavailable on the web or circulates with restrictions. Even in institutional repositories created to disseminate the scientific production of an academic institution, broad and open access to more or less important sectors of the scientific production is restricted. In order to provide new empirical evidence, 25 large institutional repositories from different continents were selected in the international directory OpenDOAR. For each repository, the access to the full text for different document types was evaluated, and the statistics were analysed for each site and cumulated. Building on our past work and new empirical data from large institutional repositories on different continents, we distinguish between different degrees of openness. Which are the main reasons, which are the stabilizing functions of this situation? The communication tries to provide some elements of understanding, together with good practices and recommendations.</ddi:abstract>
+         <ddi:sumDscr/>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:conditions xml:lang="en">License: http://creativecommons.org/publicdomain/zero/1.0</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

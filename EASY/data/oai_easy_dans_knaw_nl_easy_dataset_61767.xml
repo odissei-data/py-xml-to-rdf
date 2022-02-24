@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:61767</identifier>
+    <datestamp>2021-04-15T21:07:24Z</datestamp>
+    <setSpec>driver</setSpec>
+    <setSpec>D60000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Research on motions as dealt with in Dutch Parliament 2009-2011</ddi:titl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-28a-3hna</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:61767</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="University of Groningen">Popping, R. DAI=info:eu-repo/dai/nl/069589097</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="2015-07-22"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">Dutch House of Representatives</ddi:keyword>
+            <ddi:keyword xml:lang="en">motion</ddi:keyword>
+            <ddi:keyword xml:lang="en">government</ddi:keyword>
+            <ddi:keyword xml:lang="en">Balkenende IV cabinet</ddi:keyword>
+            <ddi:keyword xml:lang="en">Rutte I cabinet</ddi:keyword>
+            <ddi:keyword xml:lang="en">Tweede Kamer der Staten Generaal</ddi:keyword>
+            <ddi:keyword xml:lang="en">motie</ddi:keyword>
+            <ddi:keyword xml:lang="en">regering</ddi:keyword>
+            <ddi:keyword xml:lang="en">motions</ddi:keyword>
+            <ddi:keyword xml:lang="en">coding</ddi:keyword>
+            <ddi:keyword xml:lang="en">text analysis</ddi:keyword>
+            <ddi:keyword xml:lang="en">content analysis</ddi:keyword>
+            <ddi:keyword xml:lang="en">kabinet</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Social sciences</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">This dataset contains the data used in the following articles:
+
+- Popping, Roel (2013). "Coding issues in cognitive mapping of games." Open Journal of Political Science, 3 (1): 16-23, doi:  10.4236/ojps.2013.31003
+- Goeree, Mariska &amp; Popping, Roel (2014). “Types of motions as proposed in the Dutch House of Representatives.” Quality and Quantity, 48 (6): 3253-3269, doi: 10.1007/s11135-013-9954-x.
+- Popping, Roel &amp; Wittek, Rafael (2015). “Success and failure of parliamentary motions - A social dilemma approach.” PLoS ONE, 10 (8): e0133510. doi:10.1371/journal.pone.0133510.
+
+The articles use motions as have been proposed in the Dutch House of Representatives (De Tweede Kamer van de Staten Generaal). The first and last study use data based on a stratified random sample drawn from all motions that have been proposed between September 2009 and February 2010 or between September 2010 and February 2011. The second study uses only motions about two specific issues, so this is a restriction. However the motions have to cover two governments Balkenende IV (February 22, 2007 until October 14, 2010, which means including caretaker period) and Rutte I (October 14, 2010 until April 23, 2012, this excludes the caretaker period). For this reason the time period is slightly different.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:nation abbr="NLD" xml:lang="en">The Netherlands</ddi:nation>
+            <ddi:collDate event="single">February 22, 2007 until April 23, 2012</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:conditions xml:lang="en">License: http://creativecommons.org/publicdomain/zero/1.0</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

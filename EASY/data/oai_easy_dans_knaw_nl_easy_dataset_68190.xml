@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:68190</identifier>
+    <datestamp>2021-04-15T21:07:39Z</datestamp>
+    <setSpec>driver</setSpec>
+    <setSpec>D20000:D23000</setSpec>
+    <setSpec>D20000:D24000</setSpec>
+    <setSpec>D50000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Improving Professional Attitude through Addiction Medicine Education among Medical Students in Jakarta, Indonesia</ddi:titl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-ztg-whpz</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:68190</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University">Ayu, MSc A.P. DAI=info:eu-repo/dai/nl/402490967</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University">Ven, M. van de DAI=info:eu-repo/dai/nl/408788666</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University">Schellekens, dr. A.F.A. DAI=info:eu-repo/dai/nl/298208946</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University">Jong, prof. dr. C.A.J. de DAI=info:eu-repo/dai/nl/108070530</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt/>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">attitude</ddi:keyword>
+            <ddi:keyword xml:lang="en">illness perception</ddi:keyword>
+            <ddi:keyword xml:lang="en">addiction medicine education</ddi:keyword>
+            <ddi:keyword xml:lang="en">medical students</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Medicine</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Health sciences</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Behavioural and educational sciences</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">This is the dataset of a prospective experimental case-control study. The purpose of this study was to evaluate the effect of addiction medicine training on medical students’ attitude towards addiction and perception of addiction. Participants were fourth-year medical students of Atma Jaya Catholic University of Indonesia. They were recruited in 2014 from three elective blocks: addiction medicine (n=40), healthcare entrepreneurship (n=35) and palliative care (n=33). The addiction medicine block was the intervention and the other two blocks (healthcare entrepreneurship and palliative care) formed the control condition. Participants were not randomly distributed because they could enrol in the block of their preference.
+The dataset consists of the score of attitude and perception related with addiction of participants from the intervention and control group. The data was collected from two measurements, before (baseline) and after (follow-up) the elective blocks (five weeks of duration). All participants were asked to fill in two questionnaires, the medical condition regard scale (MCRS) and the illness perception questionnaire addiction version (IPQ-A). The MCRS was used to measure the attitude towards addiction among participants. This instrument consists of 11 items on a six-point Likert’s scale (1: strongly disagree to 6: strongly agree). The MCRS produces a one-dimensional scale, named regard scale, which reflects the attitude towards medical condition (addiction). The IPQ-A was used to measure perceptions of addiction. The IPQ-A consists of two domains: perception (37 items) and attribution (15 items). A five-point Likert scale (1: strongly disagree to 5: strongly agree) is used for each item. The IPQ-A has eight subscales for the perception domain and four subscales for the attribution domain. The perception subscales are: emotional representations, demoralization, illness coherence, consequences, timeline chronic, personal control, timeline cyclical, and treatment control. The attribution subscales are psychological attribution, risk factors, smoking/alcohol, and overwork. 
+The effect of addiction medicine training on attitude and perceptions of addiction was evaluated using the repeated measures multivariate analysis of variances. The relationship between the development in attitude towards addiction and the change of illness perceptions of addiction within the intervention group were evaluated using Pearson's correlation analysis.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">start=2014-09-15; end=2014-10-17</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">OPEN_ACCESS_FOR_REGISTERED_USERS</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

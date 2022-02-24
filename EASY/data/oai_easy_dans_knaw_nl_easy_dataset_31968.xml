@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:31968</identifier>
+    <datestamp>2021-04-15T21:05:26Z</datestamp>
+    <setSpec>D60000:D61000</setSpec>
+    <setSpec>D40000:D42000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Gemeente-enquete Ede 1994 - VSO</ddi:titl>
+            <ddi:parTitl xml:lang="en">Municipal survey city of Ede 1994 - VSO</ddi:parTitl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-xs2-cfra</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:31968</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en">Molenaar, G., Palstra, F., Gemeente Ede * Ede, Afd. Beleid, Onderzoek en Statistiek (primary investigator)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Dr. G. Molenaar, Gemeente Ede, Afd. Onderzoek, Ontwikkeling en Statistiek (depositor)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Gemeente Ede, afdeling Beleid, Onderzoek en Statistiek (research initiator)</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="1996-01-01"/>
+            <ddi:distDate xml:lang="en" date="2007-08-10"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">mass media</ddi:keyword>
+            <ddi:keyword xml:lang="en">safety</ddi:keyword>
+            <ddi:keyword xml:lang="en">social service</ddi:keyword>
+            <ddi:keyword xml:lang="en">government</ddi:keyword>
+            <ddi:keyword xml:lang="en">information sources</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Political and administrative sciences</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Sociology</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Er is een nieuwe versie van deze dataset beschikbaar, zie het veld 'Relations'. De bestanden van de verouderde versie zijn niet meer te downloaden.
+
+Opinion of the inhabitants of Ede about various aspects of living in Ede: municipal Information Service, contingency plan education, municipal taxes, local broadcasting companies. Frequency of reading newspapers / ( preference of ) sources of information about town council orders, municipal affairs / reading the municipal information pages in the local door-to-door newspaper/ frequency of reading about specific subjects in the municipal information pages and evaluation of quality / read-heard about several municipal subjects / contents, availability and presentation of municipal information / frequency of listening-watching radio and television, especially the local broadcasting companies and their municipal information / respondent took note about the information of the contingency plan / actions performed in case of alarm, knowledge of what to do / it is worthwhile to exercise the contingency plan / ( quality of ) information about municipal taxes, availability / payment of taxes / preparedness to pay more taxes for better social services. Background variables: basic characteristics/ residence/ household characteristics/ occupation/employment/ income/capital assets/ education/ politics/ religion/ readership, mass media, and 'cultural' exposure</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1994</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">REQUEST_PERMISSION</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

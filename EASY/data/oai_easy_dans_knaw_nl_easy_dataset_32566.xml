@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:32566</identifier>
+    <datestamp>2021-04-15T21:05:54Z</datestamp>
+    <setSpec>D40000:D42000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Gemeente-enquete Ede 1997 - VSO</ddi:titl>
+            <ddi:parTitl xml:lang="en">Municipal survey Ede 1997 - VSO</ddi:parTitl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-zzh-t6tz</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:32566</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en">Molenaar, G., Palstra, F., Korterik, M.H., Gemeente Ede * Ede, Afd. Onderzoek, Ontwikkeling en Statistiek (primary investigator)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Dr. G. Molenaar, Gemeente Ede, Afd. Onderzoek, Ontwikkeling en Statistiek (depositor)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Gemeente Ede (research initiator)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Gemeente EdeAfdeling Beleid, Onderzoek en Statistiek (data collector)</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="1998-01-01"/>
+            <ddi:distDate xml:lang="en" date="2007-08-09"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">culture</ddi:keyword>
+            <ddi:keyword xml:lang="en">crime</ddi:keyword>
+            <ddi:keyword xml:lang="en">environment</ddi:keyword>
+            <ddi:keyword xml:lang="en">living conditions</ddi:keyword>
+            <ddi:keyword xml:lang="en">participation</ddi:keyword>
+            <ddi:keyword xml:lang="en">safety</ddi:keyword>
+            <ddi:keyword xml:lang="en">government</ddi:keyword>
+            <ddi:keyword xml:lang="en">development areas</ddi:keyword>
+            <ddi:keyword xml:lang="en">politics</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Political and administrative sciences</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Er is een nieuwe versie van deze dataset beschikbaar, zie het veld 'Relations'. De bestanden van de verouderde versie zijn niet meer te downloaden.
+
+Opinion of inhabitants of Ede about various aspects of  living in Ede, the municipal policy and municipal facilities Crime, insecurity, and inconveniences in neighbourhood	where respondent is living  / quality of life / community  centres / participation in arts and culture / information  and involvement concerning town and country planning  by the municipality / opinion about the 'Information  Guide Municipality Ede 1997/1998' / environmental issues  / suggestion for questions in next survey Background variables: basic characteristics/ residence/ housing situation/ household characteristics/ occupation/employment/ income/capital assets/ education/ politics/ religion</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1997</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">REQUEST_PERMISSION</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

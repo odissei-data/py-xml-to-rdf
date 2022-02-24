@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:213016</identifier>
+    <datestamp>2021-08-05T05:45:05Z</datestamp>
+    <setSpec>D60000:D62000</setSpec>
+    <setSpec>D10000:D16000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="eng">its4land UAV data acqusition workflows</ddi:titl>
+            <ddi:parTitl xml:lang="eng">its4land</ddi:parTitl>
+            <ddi:parTitl xml:lang="en">its4land</ddi:parTitl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-xhz-uqct</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:213016</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Faculty of Geo-Information Science and Earth Observation (ITC), University of Twente">Stöcker, MSc EC ORCID=0000-0002-3063-0797</ddi:AuthEnty>
+            <ddi:othId xml:lang="en" role="ResearchGroup" affiliation="Faculty of Geo-Information Science and Earth Observation (ITC), University of Twente">Nex, Dr. F ORCID=0000-0002-5712-6902, ResearchGroup</ddi:othId>
+            <ddi:othId xml:lang="en" role="ProjectLeader" affiliation="Faculty of Geo-Information Science and Earth Observation (ITC), University of Twente">Koeva, Dr. MN ORCID=0000-0001-7612-5270, ProjectLeader</ddi:othId>
+            <ddi:othId xml:lang="en" role="ResearchGroup" affiliation="Universität Braunschweig">Gerke, Prof. Dr. M ORCID=0000-0002-2221-6182, ResearchGroup</ddi:othId>
+            <ddi:othId xml:lang="en" role="ResearchGroup" affiliation="Swinburne University of Technology">Bennett, Dr. RM ORCID=0000-0002-1200-2068, ResearchGroup</ddi:othId>
+            <ddi:othId xml:lang="en" role="ResearchGroup" affiliation="Faculty of Geo-Information Science and Earth Observation (ITC), University of Twente">Zevenbergen, Prof. Dr. JA ORCID=0000-0003-2319-5720, ResearchGroup</ddi:othId>
+            <ddi:othId xml:lang="en" role="DataCollector" affiliation="Technical University of Kenya">Odwe, P, DataCollector</ddi:othId>
+            <ddi:othId xml:lang="en" role="DataCollector" affiliation="ESRI Rwanda">Schmidt-Kundert, C, DataCollector</ddi:othId>
+            <ddi:othId xml:lang="en" role="DataCollector" affiliation="INES Ruhengeri">Nkerabigwi, MSc P, DataCollector</ddi:othId>
+            <ddi:othId xml:lang="en" role="RightsHolder" affiliation="Faculty of Geo-Information Science and Earth Observation (ITC), University of Twente">Koeva, Dr. MN, RightsHolder</ddi:othId>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="2021-05-14"/>
+            <ddi:distDate xml:lang="en" date="2021-06-11"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="eng">Land Administration</ddi:keyword>
+            <ddi:keyword xml:lang="eng">Geomatics</ddi:keyword>
+            <ddi:keyword xml:lang="eng">Social Sciences</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Social geography</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Computer science</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="eng">The dataset includes UAV images, spatial data as well as qualitative data of my PhD research aiming to analyze UAV-based workflows for cadastral mapping. Data has been collected at different fieldwork locations in Rwanda, Kenya and Zanzibar as well as at two locations in Germany and in the Netherlands. Several UAV test flights were carried out with different flight configurations (various sensors, flight heights, image overlap, land use contexts). These UAV files include (raw) aerial images, ground control measurements and the final orthomosaic. To support the findings, additional qualitative data was collected. This covers results of a participatory mapping campaign in Rwanda (2019), results of an interactive workshop in Kenya (2018) as well as transcripts of expert interviews (2020/2021). The data have been published in several research articles and conference proceedings.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">2017</ddi:collDate>
+            <ddi:collDate event="single">2018</ddi:collDate>
+            <ddi:collDate event="single">2019</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">REQUEST_PERMISSION</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

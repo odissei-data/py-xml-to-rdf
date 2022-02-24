@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:59831</identifier>
+    <datestamp>2021-04-15T21:07:20Z</datestamp>
+    <setSpec>D60000:D61000</setSpec>
+    <setSpec>driver</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Netherlands Longitudinal Lifecourse Study - NELLS Panel Wave 1 2009 and Wave 2 2013 - versie 1.2</ddi:titl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-25n-2xjv</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:59831</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University Nijmegen">Tolsma, Dr. J. DAI=info:eu-repo/dai/nl/298981769</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University Nijmegen">Kraaykamp, Prof. dr. G.L.M. DAI=info:eu-repo/dai/nl/102045836</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Universiteit Tilburg">Graaf, Prof. dr. P.M. de DAI=info:eu-repo/dai/nl/073063045</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Universiteit van Amsterdam">Kalmijn, Prof. dr. M. DAI=info:eu-repo/dai/nl/073933082</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Oxford University">Monden, dr. C.M.</ddi:AuthEnty>
+            <ddi:othId xml:lang="en" role="">Funding agency: NWO</ddi:othId>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="2014-11-17"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">Social cohesion</ddi:keyword>
+            <ddi:keyword xml:lang="en">Norms and values</ddi:keyword>
+            <ddi:keyword xml:lang="en">Inequality</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Social sciences</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Sociology</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Wave 1 and 2 of a panel study on an initial sample of 5312 inhabitants of the Netherlands, age group 15-45, with oversamples of the Moroccan and Turkish minorities. Data for Wave 1 have been collected in a mixed mode of face-to-face interviews and self-completion questionnaires. Data for Wave 2 have been collected in a mixed mode of face-to-face interviews and websurvey questionnaires. 
+
+The variables include family background indicators, socio-demographic and socio-economic background variables, social inequality, social cohesion and integration, a large set of values, norms and attitudes, and leisure time items.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">2013</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:conditions xml:lang="en">License: http://creativecommons.org/publicdomain/zero/1.0</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="nl"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

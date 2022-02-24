@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:55962</identifier>
+    <datestamp>2021-04-15T21:07:09Z</datestamp>
+    <setSpec>D40000:D41000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Pardon? Evaluatie van de Regeling afwikkeling nalatenschap oude Vreemdelingenwet (projectnummer 1633)</ddi:titl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:55962</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-xdu-c3bg</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en">Ministerie van Veiligheid en Justitite - Wetenschappelijk Onderzoek en Documentatiecentrum - WODC</ddi:AuthEnty>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Regioplan">Welle, Dr. I.C. van der</ddi:othId>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="2013-11-01"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">Pardonregeling</ddi:keyword>
+            <ddi:keyword xml:lang="en">Vreemdelingenwet</ddi:keyword>
+            <ddi:keyword xml:lang="en">Asielzoekers</ddi:keyword>
+            <ddi:keyword xml:lang="en">Verblijfsvergunnngen</ddi:keyword>
+            <ddi:keyword xml:lang="en">Asielaanvragen</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Social sciences</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Science of law</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">During the second half of the Nineties, the Immigration and Naturalization Service(IND) and the immigrant chambers of The Hague court had started to fall behind insettling asylum procedures. At that time, many asylum seekers were staying in the Netherlands without a (permanent) residence permit. They ‘congested’ the asylumchain. After heated political and social debates, the decision was made to set up apardon regulation to settle the legacy of the old immigration law. This regulation,which took effect on 15 June 2007, meant that residence permits would be officially granted to a clearly delimited group of asylum seekers. It was coupled to basicprinciples and agreements laid down in an Administrative Agreement between thecentral government and municipalities. These related to, among other things, thehousing, civic integration and guidance toward the labour market of people who hadbeen pardoned, the departure of those who had been refused a permit, improvementsof the asylum procedure, the prevention of future arrears in deciding onasylum requests, as well as the financial compensation of municipalities by thestate. While the Administrative Agreement was being brought about, the parties agreed on an evaluation of the Pardon Regulation. The goal of the present study is to determine whether the execution of the Pardon Regulation has been consistent with the principles and preconditions formulated beforehand, and whether the results correspond to what was intended in advance.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:nation abbr="NLD" xml:lang="en">The Netherlands</ddi:nation>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">REQUEST_PERMISSION</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="nl"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

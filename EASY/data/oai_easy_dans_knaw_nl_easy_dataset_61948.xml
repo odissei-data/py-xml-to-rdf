@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:61948</identifier>
+    <datestamp>2021-04-15T21:07:25Z</datestamp>
+    <setSpec>driver</setSpec>
+    <setSpec>D50000:D52000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Noise in classrooms data set</ddi:titl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-x4j-p9zf</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:61948</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Open University of The Netherlands">Tabuenca, Dr. B.</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="2015-08-13"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">noise</ddi:keyword>
+            <ddi:keyword xml:lang="en">classroom</ddi:keyword>
+            <ddi:keyword xml:lang="en">sensor</ddi:keyword>
+            <ddi:keyword xml:lang="en">mobile technology</ddi:keyword>
+            <ddi:keyword xml:lang="en">secondary education</ddi:keyword>
+            <ddi:keyword xml:lang="en">performance</ddi:keyword>
+            <ddi:keyword xml:lang="en">speech perception</ddi:keyword>
+            <ddi:keyword xml:lang="en">listening comprehension</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Educational theory</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">We present a data set comprising noise samples collected during 26 sessions of the subject “Technology” of Secondary Education studies with a mobile device. The data set includes rich metadata with the aim to facilitate the correlation with further studies, namely, type of session (i.e. traditional face-to-face lecture, collaborative workshop session, individual computer session), the number of students participating in the session, the percentage of male/female students, the mean age of the students, timestamp when the sample was collected, language of the session, country, city and location where it took place. The data is shared in different format to facilitate its management across platforms.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">May 2015</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:conditions xml:lang="en">License: http://creativecommons.org/publicdomain/zero/1.0</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

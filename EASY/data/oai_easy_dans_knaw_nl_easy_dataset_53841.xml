@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:53841</identifier>
+    <datestamp>2021-04-15T21:07:02Z</datestamp>
+    <setSpec>easy-collection:7</setSpec>
+    <setSpec>D40000:D41000:D41300</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Verwijzing naar de data van: NSCR School project - longitudinal survey (Problem behavior of adolescents, network formation, and school interventions)</ddi:titl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-246-rqyj</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:53841</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="NSCR - Nederlands Studiecentrum Criminlaiteit en Rechtshandhaving">Weerman, F.</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="NSCR - Nederlands Studiecentrum Criminlaiteit en Rechtshandhaving">Smeenk, W.</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="NSCR - Nederlands Studiecentrum Criminlaiteit en Rechtshandhaving">Laan, P. van der</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="NSCR - Nederlands Studiecentrum Criminlaiteit en Rechtshandhaving">Bijleveld, C.</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="2013-03-12"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">juvenile delinquency</ddi:keyword>
+            <ddi:keyword xml:lang="en">problem behavior</ddi:keyword>
+            <ddi:keyword xml:lang="en">peers</ddi:keyword>
+            <ddi:keyword xml:lang="en">social network analysis</ddi:keyword>
+            <ddi:keyword xml:lang="en">schools</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Criminal (procedural) law and criminology</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Schoolproject is the umbrella for a research program with four partial studies, aimed at enhancing insights into the development of delinquency and other problem behavior of adolescents, and the role of peer network formation among students, psycho-social development, and reactions from the school on problem behavior. The NSCR Schoolproject aimed to enhance insights into the complicated relations between delinquency and other problem behaviors, psycho-social development, peer networks, and school informal interventions. This is the data from the longitudinal survey (3 waves) of the NSCR Schoolproject. This is one of the main data files for this study.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">2002 2004</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">NO_ACCESS</ddi:restrctn>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="nl"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

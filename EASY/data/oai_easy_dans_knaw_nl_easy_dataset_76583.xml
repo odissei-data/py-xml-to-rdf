@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:76583</identifier>
+    <datestamp>2021-04-15T21:07:44Z</datestamp>
+    <setSpec>D60000:D66000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">ReDefTie (Wave 5): Redefining tie strength – how social media (can) help us to get non-redundant useful information and emotional support (http://www.redeftie.eu/)</ddi:titl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-26u-fqa9</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:76583</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Leibniz-Institut für Wissensmedien / Tübingen University">Utz, Prof.dr. S., ProjectLeader</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt/>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">Dutch online users</ddi:keyword>
+            <ddi:keyword xml:lang="en">Social media use</ddi:keyword>
+            <ddi:keyword xml:lang="en">Social capital</ddi:keyword>
+            <ddi:keyword xml:lang="en">Well-being</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Social sciences</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Communication sciences</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Longitudinal study with a representative sample of adult Dutch online users on the effects of social media use on various indicators of social capital and well-being. Social media use covers the use of Facebook or other platforms mainly used for private purposes, LinkedIn or other platforms used for professional purposes and Twitter or other microblogging services.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">11-08-2015 - 31-08-2015</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">NO_ACCESS</ddi:restrctn>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="nl"/>
+   </ddi:fileDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="English translations available"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

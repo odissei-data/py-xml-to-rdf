@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:62402</identifier>
+    <datestamp>2021-04-15T21:07:26Z</datestamp>
+    <setSpec>D50000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Online Pestkoppenstoppen: development and evaluation of an online computer-tailored intervention for low-educated cyberbullying victims</ddi:titl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-xpd-b42w</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:62402</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Open University of the Netherlands">Völlink, dr T.</ddi:AuthEnty>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Open University of the Netherlands">Jacobs, Drs N.C.L</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Open University of the Netherlands">Dehue, Dr. F.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Open University of the Netherlands">Lechner, Prof. Dr. L.</ddi:othId>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="2015-11-04"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">cyberbullying</ddi:keyword>
+            <ddi:keyword xml:lang="en">coping strategies</ddi:keyword>
+            <ddi:keyword xml:lang="en">intervention Mapping</ddi:keyword>
+            <ddi:keyword xml:lang="en">stand alone online tailored advice</ddi:keyword>
+            <ddi:keyword xml:lang="en">victims</ddi:keyword>
+            <ddi:keyword xml:lang="en">bully-victims</ddi:keyword>
+            <ddi:keyword xml:lang="en">resilience</ddi:keyword>
+            <ddi:keyword xml:lang="en">self esteem</ddi:keyword>
+            <ddi:keyword xml:lang="en">pesten</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Behavioural and educational sciences</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Introduction
+
+In the Netherlands, about 20 % of the adolescents has been bullied online (Dehue, Bolman, &amp; Völlink, 2008). Science, practice and government have a need for effective interventions concerning the prevention of (cyber)bullying. However, existing interventions are aimed at traditional bullying and therefore the specific characteristics of cyberbullying are less targeted. In addition, they often miss a basis in theory and science and are seldom evaluated on efficacy. The aim of the current dissertation was to systematically develop and evaluate the efficacy of a theory-based online computer-tailored intervention for cyberbullying victims: Online Pestkoppenstoppen (OP). OP aims to reduce the number of cyberbullying victims and the number of experiences, depression, anxiety and problem behavior, and to increase self-esteem, self-efficacy, rational thoughts and effective coping. OP tries to achieve this by teaching adolescents how to cope more effectively with (cyber)bullying and its negative effects, and how to use the Internet in a safer way. OP is one of the first systematically developed and theory-based anti- (cyber)bullying interventions. A literature review, a needs assessment, a Delphi study and several focus group interviews were conducted for the development.
+
+Recruitment
+In order to enroll sufficient participants for the study, from February 2013 until February 2014, in two recruitment rounds, participants were recruited via schools in the Netherlands (Jacobs et al., 2015). Students were eligible for participation in this trial when they attended the first year of secondary vocational education (SVE). Students had to indicate on a selection questionnaire that, during the preceding six months, they experienced or both perpetrated and experienced at least three of 17 deviant cyber behaviors (see measurements) at least once a month, or that they experienced or both perpetrated and experienced at least one deviant cyber behavior at least twice or three times a month (Vandebosch et al., 2006). Students without any experiences and ‘pure’ bullies (i.e., perpetrators) were excluded from participation. In total 360 respondents passed the inclusion criteria. 
+
+To Conclude  
+This elaborate manner of preparing the intervention does not guarantee the success of an intervention. Due to high dropout rates, no conclusions could be drawn related to the effectiveness of OP in reducing (cyber)bullying and its negative effects. Recruitment, informed consent and continued participation proved to be problematic for this target group. 
+
+Recommendations
+In developing interventions that focus on combating and preventing (cyber)bullying, a better balance should be sought between the amount and length of information, the type of (personalized) information that is offered and in what way it is offered and the number of questions needed for tailoring and evaluation purposes: Adolescents need to learn as much as possible about effective coping with a minimal amount of information. Moreover, a less overloaded design should be used: It is highly likely that many participants dropped out during the intervention because of the associated research.</ddi:abstract>
+         <ddi:sumDscr/>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">REQUEST_PERMISSION</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="nl"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

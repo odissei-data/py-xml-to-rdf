@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:160440</identifier>
+    <datestamp>2021-04-15T21:08:07Z</datestamp>
+    <setSpec>D30000:D35000:D35100</setSpec>
+    <setSpec>easy-collection:1</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Interview Annie Fletcher on The Shortest Day at the Van Abbemuseum</ddi:titl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-xmy-qvbx</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:160440</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="University of Amsterdam">Stigter, Dr. S. DAI=info:eu-repo/dai/nl/32304512X, Researcher</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt/>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">Jan Dibbets</ddi:keyword>
+            <ddi:keyword xml:lang="en">The Shortest Day at the Van Abbemuseum</ddi:keyword>
+            <ddi:keyword xml:lang="en">Van Abbemuseum</ddi:keyword>
+            <ddi:keyword xml:lang="en">Chrisitiane Berndes</ddi:keyword>
+            <ddi:keyword xml:lang="en">Jean Leering</ddi:keyword>
+            <ddi:keyword xml:lang="en">Rudi Fuchs</ddi:keyword>
+            <ddi:keyword xml:lang="en">Louis Baltussen</ddi:keyword>
+            <ddi:keyword xml:lang="en">Jason Rhoades</ddi:keyword>
+            <ddi:keyword xml:lang="en">Joseph Beuys</ddi:keyword>
+            <ddi:keyword xml:lang="en">Michael Ascher</ddi:keyword>
+            <ddi:keyword xml:lang="en">Gerrit van Bakel</ddi:keyword>
+            <ddi:keyword xml:lang="en">Joost van Roojen</ddi:keyword>
+            <ddi:keyword xml:lang="en">Aldo van Eyck</ddi:keyword>
+            <ddi:keyword xml:lang="en">archive</ddi:keyword>
+            <ddi:keyword xml:lang="en">collection</ddi:keyword>
+            <ddi:keyword xml:lang="en">installation art</ddi:keyword>
+            <ddi:keyword xml:lang="en">slide-based art</ddi:keyword>
+            <ddi:keyword xml:lang="en">photowork</ddi:keyword>
+            <ddi:keyword xml:lang="en">Conceptual Art</ddi:keyword>
+            <ddi:keyword xml:lang="en">Museum and Collections</ddi:keyword>
+            <ddi:keyword xml:lang="en">NICAS Oral History Initiative</ddi:keyword>
+            <ddi:keyword xml:lang="en">Conservation and Restoration</ddi:keyword>
+            <ddi:keyword xml:lang="en">Materials and Techniques</ddi:keyword>
+            <ddi:keyword xml:lang="en">Oral History</ddi:keyword>
+            <ddi:keyword xml:lang="en">Kunst</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Humanities</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Arts and culture</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">History of arts and architecture</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Interview with Annie Fletcher, then curator of the Van Abbemuseum, about Jan Dibbets’ work The Shortest Day at the Van Abbemuseum (1970), possible ways of installing the work to explore its significance in various forms in relation to the idea of the collection, the museum and archive, ideas that also form the basis of the exhibition 'For Eindhoven'- The City as Muse as part of the exhibition series VANUIT HIER - OUT OF HERE.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1970-2011</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">REQUEST_PERMISSION</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

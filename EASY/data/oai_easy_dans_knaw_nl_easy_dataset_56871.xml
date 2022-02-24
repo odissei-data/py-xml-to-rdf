@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:56871</identifier>
+    <datestamp>2021-04-15T21:07:14Z</datestamp>
+    <setSpec>D70000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Traces Of Power 1969</ddi:titl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:56871</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-zgx-8u6b</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en">Helmers, M.H.</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Mokken, R.J.</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Plijter, R.C.</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Stokman, F.N.</ddi:AuthEnty>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="University of Amsterdam">Heemskerk, E.M.</ddi:othId>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="2014-01-30"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">Interlocking Directorates</ddi:keyword>
+            <ddi:keyword xml:lang="en">Social Networks</ddi:keyword>
+            <ddi:keyword xml:lang="en">Corporate Elite</ddi:keyword>
+            <ddi:keyword xml:lang="en">Corporate Governance</ddi:keyword>
+            <ddi:keyword xml:lang="en">Old Boys Network</ddi:keyword>
+            <ddi:keyword xml:lang="en">Dutch companies</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Social sciences</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Economics and Business Administration</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">In 1975, Helmers, Mokken, Plijter and Stokman conducted a reseach into the network of board interlocks among Dutch companies. They selected the largest production companies, financial companies and government agencies in the Netherlands for 1969. Their original database contains information about 64 production companies, 22 financial companies and government agencies. They used different selection criteria for these categories. The main sources for information about the production and financial companies are annual reports and for the government agencies they used the Staatsalmanak 1970. Based on the information in appendix B3 in the 1975 publication "Graven naar macht: op zoek naar de kern van de Nederlandse economie" by Helmers et al., Heemskerk reconstructed the original database. Appendix B3 contains only persons that occupy seats in at least two different companies. The reconstructed database contains information about 84 production and financial companies, and about 24 government agencies. The reconstructed database shows the names of 448 interlocking directors.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1969</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">REQUEST_PERMISSION</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="nl"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

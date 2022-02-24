@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:190152</identifier>
+    <datestamp>2021-09-19T05:27:10Z</datestamp>
+    <setSpec>driver</setSpec>
+    <setSpec>D40000:D41000:D41600</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="eng">Justice in ICC OTP Public Communications</ddi:titl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-x9n-xnm9</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:190152</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Leiden University">Davis, Mr CJ ORCID=0000-0001-9856-5795</ddi:AuthEnty>
+            <ddi:othId xml:lang="en" role="RightsHolder" affiliation="Leiden University">Davis, Mr CJ ORCID=0000-0001-9856-5795, RightsHolder</ddi:othId>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="2020-10-19"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="eng">International Criminal Court</ddi:keyword>
+            <ddi:keyword xml:lang="eng">Office of the Prosecutor</ddi:keyword>
+            <ddi:keyword xml:lang="eng">Public Communications</ddi:keyword>
+            <ddi:keyword xml:lang="eng">Press Releases</ddi:keyword>
+            <ddi:keyword xml:lang="eng">Speeches</ddi:keyword>
+            <ddi:keyword xml:lang="eng">Justice</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">International law</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="eng">This database contains all press releases and public statements placed on the ICC website's 'News' section and attributed to the Office of the Prosecutor between 24 April 2003 and 2 November 2018. 
+
+The ICC website is https://www.icc-cpi.int.
+
+The dataset allows:
+1. The user to see whether 'justice' refers to victims or a defendant; or whether it refers to doing 'justice' generally; or in other contexts (for example, in phrases 'peace versus justice', or 'transitional justice', or in titles of documents).
+
+2. The user to see the rationales that justify why justice should be done for the victims;
+
+3. The user to see whether, when 'justice' is referred to in the context of defendants, defendants are treated as being responsible, allegedly responsible, neutrally, or whether there is a recognition of their due process rights;
+
+4. The user to see uses of the word 'impartial' or 'impartially'.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">24-04-2003 - 02-11-2018</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:conditions>http://creativecommons.org/licenses/by/4.0</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

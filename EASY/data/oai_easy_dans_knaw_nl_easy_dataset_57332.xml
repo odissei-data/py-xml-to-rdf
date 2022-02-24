@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:57332</identifier>
+    <datestamp>2021-04-15T21:07:15Z</datestamp>
+    <setSpec>D30000:D34000:D34300</setSpec>
+    <setSpec>driver</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Szenci Molnár Albert elveszettnek hitt Igaz Vallás portréja (1606) avagy holland–lamand–magyar szellemi kapcsolatok a kora újkorban</ddi:titl>
+            <ddi:parTitl xml:lang="en">True Religion: a lost portrait by Albert Szenci Molnár (1606) or Dutch–Flemish–Hungarian intellectual relations in the early-modern period</ddi:parTitl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:57332</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-263-fhu6</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Eötvös Loránd University">Teszelszky, Dr. K.</ddi:AuthEnty>
+            <ddi:othId xml:lang="en" role="contributor">Funding Agency: Royal Dutch Embassy Hungary</ddi:othId>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="2014-03-25"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">Icon religionis</ddi:keyword>
+            <ddi:keyword xml:lang="en">Image of Religion</ddi:keyword>
+            <ddi:keyword xml:lang="en">Albert Szenci Molnár</ddi:keyword>
+            <ddi:keyword xml:lang="en">Dutch-Flemish-Hungarian intellectual relations</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Humanities</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">History</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Modern and contemporary history</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">This is the story of a work of one of the greatest early-modern humanists of Hungary, Albert Szenci Molnár, which had been lost for almost 400 years. The rediscovered Icon religionis or 'Image of Religion' is one of the oldest broadsheets printed in the Hungarian language. It was found in the collection of the Rijksmuseum Amsterdam on 30 October 2012. This study focuses on the history, the meaning and the Dutch background of this work. Furthermore, it devotes attention to Dutch-Flemish-Hungarian intellectual relations with regard to the author, the work and the time at which it was created.</ddi:abstract>
+         <ddi:sumDscr/>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:conditions xml:lang="en">License: http://creativecommons.org/publicdomain/zero/1.0</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="Hungarian"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

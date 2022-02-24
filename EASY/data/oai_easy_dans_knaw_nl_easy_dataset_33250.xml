@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:33250</identifier>
+    <datestamp>2021-04-15T21:06:28Z</datestamp>
+    <setSpec>D50000:D51000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Inventarisatie ernstig probleemgedrag bij geestelijk gehandicapten 1990</ddi:titl>
+            <ddi:parTitl xml:lang="en">Inventory of serious problematic behaviour with mentally handicapped 1990</ddi:parTitl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:33250</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-xvy-grp6</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en">Schuring, G., Kramer, G.J.A., Schoep, H.F., Barnhard, M.C., Nationaal ziekenhuisinstituut * Utrecht (primary investigator)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Nationaal Ziekenhuisinstituut (depositor)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Ministerie van WVC * Rijswijk (research initiator) </ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Nationaal Ziekenhuisinstituut * Utrecht (data collector) </ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="1991-01-01"/>
+            <ddi:distDate xml:lang="en" date="2007-07-13"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">handicapped</ddi:keyword>
+            <ddi:keyword xml:lang="en">health</ddi:keyword>
+            <ddi:keyword xml:lang="en">personality</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Psychology</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Inventory of magnitude of problematic behaviour and the applied corrective measures. classification of PIGG ( Patient registration Intramural Care of mentally handicapped ) * duration of residence of patient in several institutions * application for SGLGG ( Serious Behaviour disturbed Slightly Mentally Handicapped ) place * advice consultation teams * history of patient * number of several institutions * When has the serious problematic behaviour begun, and what are the causes: diagnose, neurological examination, neurological aberration, direct surrounding was cause of behaviour * theory of treatment * visits and contacts with parents * participation of parents in care for and treatment of patient * language concept, verbal communication * build, physical strength * additional problems: addiction to alcohol or drugs, blind, deaf, not mobile, epilepsy * medical intervention * seriousness of problems * pressure points of care for patient * change of problematic behaviour * used corrective measures will change, become intensified or decreased * effectiveness of corrective measures on problematic behaviour or on consequences of problematic behaviour * additional effects and the extent of consequences of corrective measures * direction of problematic behaviour: oneself, members of the group, group leaders, persons in general, objects * frequency of problematic behaviour * seriousness of problematic behaviour * detailed account of perceptible behaviour ( P1035c ) * detailed account of measures ( P1035d ): medication, living situation, therapy, protecting, fixation, separation, consultation * frequency and period of measures. Background variables: basic characteristics/ residence</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1990</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">REQUEST_PERMISSION</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

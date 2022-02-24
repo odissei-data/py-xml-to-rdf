@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:32235</identifier>
+    <datestamp>2021-04-15T21:05:38Z</datestamp>
+    <setSpec>D60000:D61000</setSpec>
+    <setSpec>driver</setSpec>
+    <setSpec>D40000:D42000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Stadspeiling Venlo 1995 - VSO</ddi:titl>
+            <ddi:parTitl xml:lang="en">Survey of Venlo 1995 - VSO</ddi:parTitl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:32235</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-xuv-p3ry</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en">Schoeber, J., Gemeente Venlo * Venlo (primary investigator)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Gemeente Venlo (research initiator) </ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">STOGO * Utrecht (data collector) </ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="1996-01-01"/>
+            <ddi:distDate xml:lang="en" date="2007-08-10"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">culture</ddi:keyword>
+            <ddi:keyword xml:lang="en">social welfare</ddi:keyword>
+            <ddi:keyword xml:lang="en">cultural facilities</ddi:keyword>
+            <ddi:keyword xml:lang="en">voluntary work</ddi:keyword>
+            <ddi:keyword xml:lang="en">social services</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Political and administrative sciences</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Sociology</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Survey among the inhabitants of Venlo, concerning cultural and welfare facilities. Use and appreciation of cultural facilities of Venlo, like: museums, school of music, ballet, art library, children's farm, adult education centre, carnival procession, summer festivals, feasts of St. Nicholas and St. Martin, regional cultural activities, theatre, public library, community centres / lack of certain cultural facilities / membership of clubs / r.'s opinion about the surveys held by the municipality and suggestions for questions to ask in next surveys / wishes with regard to policy of municipality / use and appreciation of welfare services of Venlo for various groups of inhabitants / participation in volunteer work, suggestions to encourage volunteer work / r.'s opinion about district level policy of the municipality. Background variables: basic characteristics/ place of birth/ residence/ household characteristics/ characteristics of parental family/household/ occupation/employment/ income/capital assets/ education/ politics/ religion</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1995</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">OPEN_ACCESS_FOR_REGISTERED_USERS</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

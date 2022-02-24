@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:53292</identifier>
+    <datestamp>2021-04-15T21:07:00Z</datestamp>
+    <setSpec>driver</setSpec>
+    <setSpec>D30000:D31000</setSpec>
+    <setSpec>D60000</setSpec>
+    <setSpec>E10000:E15000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Survey on CNR researchers' attitudes on data sharing in environmental sciences</ddi:titl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-zjm-rn7m</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:53292</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="National Research Council. Institute for Research on Population and Social Policies - CNR-IRPPS">Luzi, D.</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="2013-02-01"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">research data</ddi:keyword>
+            <ddi:keyword xml:lang="en">researchers' attitudes</ddi:keyword>
+            <ddi:keyword xml:lang="en">research practices</ddi:keyword>
+            <ddi:keyword xml:lang="en">data sharing</ddi:keyword>
+            <ddi:keyword xml:lang="en">data re-use</ddi:keyword>
+            <ddi:keyword xml:lang="en">environmental sciences</ddi:keyword>
+            <ddi:keyword xml:lang="en">Grey Literature</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Social sciences</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Humanities</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Paleography, bibliology, bibliography, library science</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Environmental studies</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Suvey on researchers' attitudes and practices of data sharing in the area of Environmental sciences. It is based on an online questionnaire submitted to CNR researchers belonging to the 13 Institutes of the Department of Earth and Environment. It is a semi- structured questionnaire of 40 questions that consists of two main parts. the first one aims to gain insight into research practices that may influence data sharing (research context, data acquisition, data managment, data re-use). The second part is focused on capturing perceived barriers and enablers that may motivate data sharing.This part contains also a selection of questions submitted in large-scale international survey, in order to explore commonalitiy and differences in attitudes. The survey survey period was June-September2012. The response rate reached 48%.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">June-September 2012</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:conditions xml:lang="en">License: http://creativecommons.org/publicdomain/zero/1.0</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="English"/>
+   </ddi:fileDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="Italian"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

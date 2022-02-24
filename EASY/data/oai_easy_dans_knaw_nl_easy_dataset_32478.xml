@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:32478</identifier>
+    <datestamp>2021-04-15T21:05:49Z</datestamp>
+    <setSpec>driver</setSpec>
+    <setSpec>E10000:E15000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Energy consumption in West-Friesland 1997 - VSO</ddi:titl>
+            <ddi:parTitl xml:lang="en">Energie-onderzoek Samenwerking Uitvoering Milieutaken 1997 - VSO</ddi:parTitl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:32478</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-zf7-x447</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en">Lukey, W.F.(primary investigator)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">J. Kerkhoff, Samenwerkingsorgaan West Friesland (depositor)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Sociaal-wetenschappelijk Bureau
+Samenwerkingsorgaan West-Friesland * Hoorn (research initiator) </ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Sociaal-wetenschappelijk Bureau Samenwerkingsorgaan West-Friesland * Hoorn (data collector) </ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="1998-10-08"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">environment studies</ddi:keyword>
+            <ddi:keyword xml:lang="en">energy</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Social sciences</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Environmental studies</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Knowledge, attitude and behaviour towards saving energy Use of energy / energy saving facilities in r.'s home	/ energy saving habits / knowledge of energy saving  measures / subsidy possibilities / public information  about energy saving Background variables: basic characteristics/ household characteristics/ income/capital assets</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1998</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">OPEN_ACCESS_FOR_REGISTERED_USERS</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

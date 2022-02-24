@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:62113</identifier>
+    <datestamp>2021-04-15T21:07:26Z</datestamp>
+    <setSpec>E10000:E13000</setSpec>
+    <setSpec>D50000:D51000</setSpec>
+    <setSpec>D60000:D61000</setSpec>
+    <setSpec>D20000:D24000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Tracking Adolescents' Individual Lives Survey ( TRAILS ) T3 Clinical Cohort</ddi:titl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-2zq-snag</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:62113</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="University Medical Center Groningen">Ormel, Prof. dr. J. DAI=info:eu-repo/dai/nl/068522169</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Erasmus Medical Center">Verhulst, Prof. dr. F.C. DAI=info:eu-repo/dai/nl/071180931</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="University Center Child and Adolescent Psychiatry Groningen">Minderaa, Prof. dr. R.B. DAI=info:eu-repo/dai/nl/07162256X</ddi:AuthEnty>
+            <ddi:othId xml:lang="en" role="contributor">Main contributor: Interdisciplinary Center for Psychiatric Epidemiology; UMCG</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor">Main contributor: Department of Child and Adolescent Psychiatry; ErasmusMC</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor">Main contributor: University Center Child and Adolescent Psychiatry Groningen; ACCARE</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor">Funding Agency: NWO (Gebiedsbestuur Medische Wetenschappen subsidie GB-MW 940-38-011; ZonMW Geestkrachtsubsidie 100-001-004; ZonMw Risicogedrag en Afhankelijkheid subsidie 60-60600-97-118; ZonMw Cultuur en Gezondheid subsidie 261-98-710; Maatschappij- en Gedragswetenschappen Investeringen-Middelgrootsubsidie GB-MaGW 480-01-006 en GB-MaGW 480-07-001, projectsubsidies GB-MaGW 452-04-314 en GB-MaGW 452-06-004; Investeringen-Grootsubsidie 175.010.2003.005; Veranderingsstudies subsidie 481-08-013; Vicisubsidie 016.130.002; Zwaartekrachtsubsidie 024.001.003)</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor">Funding Agency: Ministerie van Justitie - WODC</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor">Funding Agency: European Science Foundation (EuroSTRESS project FP-006)</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor">Funding Agency: Biobanking and Biomolecular Resources Research Infrastructure BBMRI-NL (CP 32)</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor">Funding Agency: Gratamastichting</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor">Funding Agency: Jan Dekkerstichting</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor">Funding Agency: Centrum voor Kinder- en Jeugdpsychiatrie Accare</ddi:othId>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="2015-09-01"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">Psychiatrie</ddi:keyword>
+            <ddi:keyword xml:lang="en">Jeugd</ddi:keyword>
+            <ddi:keyword xml:lang="en">Adolescenten</ddi:keyword>
+            <ddi:keyword xml:lang="en">Pubertijd</ddi:keyword>
+            <ddi:keyword xml:lang="en">Leefstijl</ddi:keyword>
+            <ddi:keyword xml:lang="en">Gezondheid</ddi:keyword>
+            <ddi:keyword xml:lang="en">Klinisch</ddi:keyword>
+            <ddi:keyword xml:lang="en">Psychiatry</ddi:keyword>
+            <ddi:keyword xml:lang="en">Youth</ddi:keyword>
+            <ddi:keyword xml:lang="en">Adolescents</ddi:keyword>
+            <ddi:keyword xml:lang="en">Puberty</ddi:keyword>
+            <ddi:keyword xml:lang="en">Lifestyle</ddi:keyword>
+            <ddi:keyword xml:lang="en">Health</ddi:keyword>
+            <ddi:keyword xml:lang="en">Clinical</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Psychology</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Development studies</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Sociology</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Health sciences</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">The overall objective of the study is to contribute to the understanding of the determinants of adolescents’ mental (ill-)health and social development during adolescence and young adulthood, as well as the mechanisms underlying the associations between determinants and these outcomes. A particular aim is to focus on the interplay between individual characteristics and environmental factors. In addition to this major objective, a number of participants investigate the course and determinants of somatic (ill-)health, covering topics such as overweight, lung disease, sports, physical activity, and more.
+
+The clinical cohort follows children who contacted specialty mental health services before the age of 10 years.
+It collects largely the same data at the same ages as the population cohort. Data collection of the clinical cohort began one assessment wave after the data collection of the population cohort.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">2009-2011</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">NO_ACCESS</ddi:restrctn>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="Dutch"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:31726</identifier>
+    <datestamp>2021-04-15T21:05:13Z</datestamp>
+    <setSpec>driver</setSpec>
+    <setSpec>D50000:D52000</setSpec>
+    <setSpec>D60000:D66000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Jeugdliteratuur op de basisschool 1990</ddi:titl>
+            <ddi:parTitl xml:lang="en">Juvenile literature on elementary schools 1990</ddi:parTitl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:31726</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-xhm-pbyw</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en">Blok, H., Stichting centrum voor onderwijsonderzoek, SCO * Amsterdam (primary investigator)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">H. Blok (depositor)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Instituut voor onderzoek van het onderwijs ( svo ) * Den Haag (research initiator) </ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Stichting centrum voor onderwijsonderzoek
+SCO * Amsterdam (data collector) </ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="1993-01-01"/>
+            <ddi:distDate xml:lang="en" date="2007-07-20"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">education</ddi:keyword>
+            <ddi:keyword xml:lang="en">children</ddi:keyword>
+            <ddi:keyword xml:lang="en">education, primary</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Educational theory</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Communication sciences</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Do pupils of the primary schools enjoy reading. pupils questionnaire ( P1133a ) : group, age, language used at home / statements about reading and books: enjoy reading, reading is boring ( after one hour ) , useless to read books, reading at school, educational value of books / aim of reading: to be at yourself, to get known something, to relax, nothing else to do / number of books and comic books / sources for books / heard of whom or where which book is nice to read / talk about read books with other people / read from a book chosen by respondent for someone / what and how often does respondent read for pleasure / time spend on reading at school and at home yesterday / facilities at school for reading for pleasure / which types of books does respondent like / if respondent likes a book: read read one more time, tell about it at school, make notes for him-her self or for other people, read from that book / preferred spending of leisure time / nicest book to read / like to read for pleasure. teachers questionnaire ( P1133b ) : school belongs to municipality of Amsterdam / number of years experience with group 7 or 8 and actual group / number of pupils in group / number of juvenile books and types of juvenile have been studied by respondent / sources to get actual information about juvenile books / documentation centre or library present at school / categorization of juvenile books at school / money spend for new books in school library / use of changing collections of the "Onderwijsmediatheekdienst" / aims for working with juvenile books / use of study method for reading juvenile books / time spend in school scheme for reading / activities to stimulate children to read / attention given to a book read by a pupil / use of juvenile books in several fields of education / structuring situation at school for working with juvenile books / assistance of institutions to stimulate children to read / activities for special for special week of juvenile books, the "Kinderboekenweek" / problems in working with juvenile literature. Background variables: basic characteristics/ readership, mass media, and 'cultural' exposure</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1990</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">OPEN_ACCESS_FOR_REGISTERED_USERS</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

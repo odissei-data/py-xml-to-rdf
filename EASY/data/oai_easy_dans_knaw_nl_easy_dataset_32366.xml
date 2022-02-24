@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:32366</identifier>
+    <datestamp>2021-04-15T21:05:44Z</datestamp>
+    <setSpec>D60000:D61000</setSpec>
+    <setSpec>driver</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Culturele Veranderingen in Nederland 2000 - CV'00</ddi:titl>
+            <ddi:parTitl xml:lang="en">Cultural changes in the Netherlands 2000 - CV'00</ddi:parTitl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-zw4-sphe</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:32366</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Sociaal en Cultureel Planbureau (SCP) (primary investigator)">Becker, J.W. DAI=info:eu-repo/dai/nl/068409176</ddi:AuthEnty>
+            <ddi:othId xml:lang="en" role="contributor">Sociaal en Cultureel Planbureau (depositor)</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor">Nederlands Instituut voor Publieke Opinie en marktonderzoek, NIPO * Amsterdam, the Netherlands (data collector)</ddi:othId>
+         </ddi:rspStmt>
+         <ddi:distStmt/>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">environment</ddi:keyword>
+            <ddi:keyword xml:lang="en">values and beliefs</ddi:keyword>
+            <ddi:keyword xml:lang="en">religion</ddi:keyword>
+            <ddi:keyword xml:lang="en">politics</ddi:keyword>
+            <ddi:keyword xml:lang="en">drugs</ddi:keyword>
+            <ddi:keyword xml:lang="en">education</ddi:keyword>
+            <ddi:keyword xml:lang="en">family life</ddi:keyword>
+            <ddi:keyword xml:lang="en">ethnic minorities</ddi:keyword>
+            <ddi:keyword xml:lang="en">government politics</ddi:keyword>
+            <ddi:keyword xml:lang="en">economic development</ddi:keyword>
+            <ddi:keyword xml:lang="en">living conditions</ddi:keyword>
+            <ddi:keyword xml:lang="en">health</ddi:keyword>
+            <ddi:keyword xml:lang="en">social issues</ddi:keyword>
+            <ddi:keyword xml:lang="en">social development</ddi:keyword>
+            <ddi:keyword xml:lang="en">parental role</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Social sciences</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Sociology</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Trend study on changes in general opinions and attitudes  of the Dutch population regarding a wide range of topics.
+
+r.'s opinion on the role of the government concerning redivision  of income, environment, trade and industry, housing, education,  arts, children's day-care centres, welfare / knowledge of basic  science / trust in science, traditional and alternative medicine / r.'s opinion on environmental protection, cars,  industry, chemicals, insecticides, nuclear plants, pollution of surface water, climate change, GM food in relation  to the environment / willingness to pay higher  prices or taxes, or lower standard of living to protect environment /  does the Dutch government, industry do enough to protect the environment / environment vs economic growth /  opinion on probability of major nuclear disaster in 5 years /  does r. recycle glass, metal, plastic paper etc. / does r. sometimes not use car to protect environment / concerning the environment: membership of organization, signed a  petition, donated money, participated in a demonstration / religiosity / destiny / inequality / r.'s opinion on economic situation, unemployment, government spending,  benefits / does r. worry about finance, politics, health,  family, the future / opinion on welfare provisions, income differences  / r.'s opinion on (employee, student) participation (medezeggenschap) at factories, universities, schools, municipality and province / should people be allowed to demonstrate, strike, occupy buildings /  freedom of speach, freedom to write, freedom of religion for different  groups / r.'s religion, how often visit church, church member, how strict  / most important in life / r.'s opinion on immigrants, working mothers,  crime and punishment, soft drugs, capital punishment, forced treatment  of drug addicts, free hard drugs for addicts, treatment of sex offenders,  immigrants / r.'s opinion on people and society in general, leadership /  would vote if elections now / political affiliation / interested, trust in politics / member of political party / most  important issues in politics / opinion on  government Netherlands and	many of its policy issues / income / type of household / education /  work, how many hours, unpaid work.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:nation abbr="NLD" xml:lang="en">The Netherlands</ddi:nation>
+            <ddi:collDate event="single">2000</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">OPEN_ACCESS_FOR_REGISTERED_USERS</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="nl"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

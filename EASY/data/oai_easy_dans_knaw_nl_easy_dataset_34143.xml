@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:34143</identifier>
+    <datestamp>2021-04-15T21:04:49Z</datestamp>
+    <setSpec>D30000:D34000:D34300</setSpec>
+    <setSpec>D40000:D42000:D42100</setSpec>
+    <setSpec>D40000:D42000:D42200</setSpec>
+    <setSpec>D50000:D51000</setSpec>
+    <setSpec>D60000:D61000</setSpec>
+    <setSpec>driver</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Nationaal Kiezersonderzoek, NKO 1971-2006 cumulatieve file</ddi:titl>
+            <ddi:parTitl xml:lang="en">Dutch Parliamentary Election Study DPES - cumulative dataset 1971-2006</ddi:parTitl>
+            <ddi:parTitl xml:lang="en">DANS Data Guide 7</ddi:parTitl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-zcz-csbx</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:34143</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="University of Twente">Aarts (Project leader), Prof.Dr. C.W.A.M. DAI=info:eu-repo/dai/nl/075024314</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="University of Twente">Todosijevic, Dr. B. DAI=info:eu-repo/dai/nl/314102523</ddi:AuthEnty>
+            <ddi:othId xml:lang="en" role="" affiliation="University of Twente">Kaap, Dr. H.G. van der DAI=info:eu-repo/dai/nl/297553046</ddi:othId>
+         </ddi:rspStmt>
+         <ddi:distStmt/>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">Elections</ddi:keyword>
+            <ddi:keyword xml:lang="en">Public opinion</ddi:keyword>
+            <ddi:keyword xml:lang="en">Political attitudes</ddi:keyword>
+            <ddi:keyword xml:lang="en">Mass political behaviour</ddi:keyword>
+            <ddi:keyword xml:lang="en">Political efficacy</ddi:keyword>
+            <ddi:keyword xml:lang="en">Social participation</ddi:keyword>
+            <ddi:keyword xml:lang="en">Voting behaviour</ddi:keyword>
+            <ddi:keyword xml:lang="en">Civic competence</ddi:keyword>
+            <ddi:keyword xml:lang="en">Civic political participation</ddi:keyword>
+            <ddi:keyword xml:lang="en">Political distrust</ddi:keyword>
+            <ddi:keyword xml:lang="en">Political cynicism</ddi:keyword>
+            <ddi:keyword xml:lang="en">Gebruikersreview</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Modern and contemporary history</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">History</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Political and administrative sciences</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Political science</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Social and public administration</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Behavioural and educational sciences</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Psychology</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Social sciences</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Sociology</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">The main purpose of this data collection was to provide directly accessible information on change and stability of electoral behavior and political orientation in the Netherlands.
+                                 
+This dataset is a compilation of common core variables included in the Dutch Parliamentary Election Studies of 1971, 1972, 1977, 1981, 1982, 1986, 1989, 1994, 1998, 2002, 2003, and 2006. However, several of the election studies consist of pre-election interviews as well as post-election interviews.
+                                          
+Hence, the criteria for selecting the waves and variables were:                              
+(1) The waves and variables included in the integrated dataset should be as representative as possible of the Dutch electorate,                                           
+(2) If a variable was not available in the first wave of a study, it was taken from the second wave or the third wave,                                           
+(3) All variables included at least four times in the 1971-2006 studies were included in the integrated dataset (albeit with some exceptions, documented below), and                                           
+(4) If necessary, selected variables were recoded and converted to facilitate longitudinal analyses.
+                                          
+The major areas of study focus on national problems, political efficacy, perceived stand of the main political parties on important political issues, view of religion in society, satisfaction with government, social participation, voting behavior in recent elections, left-right self-rating, left-right rating of political parties, sense of civic competence, civic political participation, legitimacy of social protest and government reaction, political distrust, and political cynicism. Respondents' views on other salient political and social issues, such as abortion, nuclear energy, differences in income, and nuclear armaments, were also elicited.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1971-2006</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:conditions xml:lang="en">License: http://creativecommons.org/publicdomain/zero/1.0</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="nl"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

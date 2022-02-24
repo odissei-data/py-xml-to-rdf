@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:32066</identifier>
+    <datestamp>2021-04-15T21:05:30Z</datestamp>
+    <setSpec>driver</setSpec>
+    <setSpec>D50000:D53000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Relatie tussen sociaal en psychisch isolement bij ouderen en mortaliteit. 1986-1989</ddi:titl>
+            <ddi:parTitl xml:lang="en">Relationship between social and psychological isolation at elderly people and mortality. 1986-1989</ddi:parTitl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:32066</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-xxc-xz3w</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en">Methorst, J, Stichting sociaal geriatrisch gerontologisch centrum * Rotterdam, Falger, P.R.J., Rijksuniversiteit Limburg * Maastricht, Vakgroep medische psychologie (primary investigator)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Ministerie van WVC * Rijswijk (research initiator) </ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="1990-01-01"/>
+            <ddi:distDate xml:lang="en" date="2007-07-13"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">sociology</ddi:keyword>
+            <ddi:keyword xml:lang="en">elderly</ddi:keyword>
+            <ddi:keyword xml:lang="en">health</ddi:keyword>
+            <ddi:keyword xml:lang="en">interpersonal relations</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Gerontology</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Influence of social and psychological isolation and other factors on mortality of elderly people. Request for place in a home for elderly people or a service house / mortality / accessibility of house in respect to stairs / stairs indoors / confinement to bed / need for help with personal care / sight / hearing / difficulties with: using the stairs/ walking/ shopping/ preparing meals/ making the bed/ cleaning the house/ care for heating/ care for laundry/ putting out rubbish bags / assistance / visitors / loneliness / afraid of being alone / help by district nurse / help by neighbours. Background variables: basic characteristics/ residence/ housing situation/ household characteristics</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1983 * 1985</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">OPEN_ACCESS_FOR_REGISTERED_USERS</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

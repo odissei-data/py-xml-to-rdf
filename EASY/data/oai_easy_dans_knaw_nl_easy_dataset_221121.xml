@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:221121</identifier>
+    <datestamp>2021-09-13T05:16:29Z</datestamp>
+    <setSpec>driver</setSpec>
+    <setSpec>D40000:D42000</setSpec>
+    <setSpec>D60000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Initiating formal investigations in the state aid regime</ddi:titl>
+            <ddi:parTitl xml:lang="en">Trends and characteristics of state aid measures in formal investigations</ddi:parTitl>
+            <ddi:parTitl xml:lang="en">Trends and characteristics of state aid measures in formal investigations</ddi:parTitl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-xf4-7pcq</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:221121</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University">Druenen, R.J. van DAI=info:eu-repo/dai/nl/419619402</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt/>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">initiating formal investigations</ddi:keyword>
+            <ddi:keyword xml:lang="en">consequences state aid reforms</ddi:keyword>
+            <ddi:keyword xml:lang="en">characteristics of state aid measures</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Political and administrative sciences</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Social sciences</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">The dataset consists of all state aid cases for which formal investigations were initiated between January 2004 and December 2018. The data have been derived from the European Commission's publicly accessible State Aid Register and include state aid case characteristics such as associated policy goals and policy instruments and the member state responsible for implementing these state aid cases.
+
+On the basis of this dataset, descriptive statistics were created for the following article: 
+Van Druenen, R. (2020). Commissiebesluiten tot het openen van de formele onderzoeksfase: trends en kenmerken van staatssteunmaatregelen in formele onderzoeken. Tijdschrift voor Staatssteun, 2020(2), 63-72.
+
+An English translation of this study has also been included as Chapter 3 in the following dissertation:
+Van Druenen, R. (forthcoming). Enforcing state aid rules in the EU: between law and politics. Radboud University
+
+Abstract article: This study maps the characteristics of the state aid measures for which the Commission initiated a formal investigation between 2004 and 2018 and assesses the consequences of the state aid reforms for these characteristics. The analysis shows that the reform of the Procedural Regulation in 2013 led to a decrease in the number of formal investigations initiated as a result of a formal complaint. Although this development is in line with expectations on the basis of the contents of this reform, this is not accompanied by an increase in the number of formal investigations initiated as a result of the Commission’s own investigations. Such an increase would have been expected on the basis of the 2013 reform, because of the Commission’s larger competences and increased capacity available for these investigations.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">Collection period: start=2004-01-01; end=2018-12-31;</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">OPEN_ACCESS_FOR_REGISTERED_USERS</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

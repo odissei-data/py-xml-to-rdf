@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:33109</identifier>
+    <datestamp>2021-04-15T21:06:21Z</datestamp>
+    <setSpec>D60000:D61000</setSpec>
+    <setSpec>driver</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Relatievormen in Nederland, 1984 ( ORIN )</ddi:titl>
+            <ddi:parTitl xml:lang="en">Ways of cohabitation in the Netherlands, 1984</ddi:parTitl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:33109</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-xvh-7eqd</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Nederlands interdisciplinair demografisch instituut, NIDI * Den Haag">Klijzing, F.K.H.</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Nederlands interdisciplinair demografisch instituut, NIDI * Den Haag">Kaa, D.J. van der</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Nederlands interdisciplinair demografisch instituut, NIDI * Den Haag">Keilman, N.W.</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Nederlands interdisciplinair demografisch instituut, NIDI * Den Haag">Moors, H.G.</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Universiteit van Amsterdam * Amsterdam, Planologisch demografisch instituut">Kuijsten, A.C.</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Landbouwuniversiteit Wageningen WUR * Wageningen">Leeuwen, L.TH. van</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Katholieke Universiteit Brabant * Tilburg (primary investigator)">Akker, P.A.M. van den</ddi:AuthEnty>
+            <ddi:othId xml:lang="en" role="contributor">Nederlands interuniversitair demografisch instituut, NIDI * Den Haag (research initiator)</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor">Ogilvie marktonderzoek bv * Amsterdam (data collector)</ddi:othId>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="1989-01-01"/>
+            <ddi:distDate xml:lang="en" date="2007-07-09"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">demography</ddi:keyword>
+            <ddi:keyword xml:lang="en">demography</ddi:keyword>
+            <ddi:keyword xml:lang="en">family life</ddi:keyword>
+            <ddi:keyword xml:lang="en">living conditions</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Sociology</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Background and characteristics of various ways of cohabitation in the Netherlands.
+
+R's nr. of marriages / having lived together with partner before marriage / nr. of times of having lived together with a partner / having an intimate relationship without living together / plans about going to live together or marriage / preferred way of cohabitation / nr. of own and or adopted children / nr. of children living with r at present and in the past / fertility and ( reasons of ) infertility / preferred nr. of children / used birth control methods at present and in the past / preferred age for men as well as for women to get the first child / age at which a man or a woman are considered too old to get a child / discussions with partner ( before or after marriage ) about having children / residence where r spent childhood / profession of father / whether r's mother had a ( part-time ) job during r's childhood / profession of mother / being raised according to christian or ideological principles / r's religious or ideological denomination at present / whether r joined the forces / temporarily leaving of parental home during childhood / age at which r left parental home for the first time / living conditions after having left the parental home / marital status, household composition and its changes / reasons for changes in way of cohabitation / r's education, work- experiences and source( s ) of income / education, work-situation and source( s ) of income of partner / housing situation and reasons for changes in housing situation / importance of religion in personal life / evaluation of personal and social consequences of an intimate relationship / various aspects of an intimate relationship: emotional meaning, anticipation of a divorce, financial responsibilities, responsibilities for housekeeping, meaning and aspects of parenthood / remarriage / having children and not being married / chances for lesbian couples to have children / sterilization / working outdoors of married women with children / homosexual life-style / extra-marital affairs / calling parents by their first name / being a virgin before marriage / being voluntarily childless / abortion / reasons for going to marry in the near future / whether getting children is a reason for marriage / important reasons for starting to live together or for marriage / causes of tensions in relationship / "quality" of relationship / thinking about separating from present partner / most important reasons for divorce or leaving the partner with which r was living together / favourite type of ( intimate ) relationship, lifestyle.
+
+Background variables: basic characteristics/ residence/ housing situation/ household characteristics/ occupation/employment/ income/capital assets/ education/ religion</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1977 * 1984</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">OPEN_ACCESS_FOR_REGISTERED_USERS</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

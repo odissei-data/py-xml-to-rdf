@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:32928</identifier>
+    <datestamp>2021-04-15T21:04:48Z</datestamp>
+    <setSpec>driver</setSpec>
+    <setSpec>D40000:D42000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Nationaal Kiezersonderzoek, NKO 1981-1986 panel</ddi:titl>
+            <ddi:parTitl xml:lang="en">Dutch parliamentary election, 1981-1986, panel-study - DPES '81-'86</ddi:parTitl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:32928</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-xtp-6gep</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en">Eijk, C. van der, Niemoeller, B., Eggen, A.Th.J., Koopman, M.J., Irwin, G.A., Nederlandse interuniversitaire studie werkgroep verkiezingen * Amsterdam (primary investigator)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Dutch inter-university election study workgroup  (depositor)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Dutch interuniversity election study workgroup * Amsterdam (research initiator)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Intomart * Hilversum (data collector)</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt/>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">political science</ddi:keyword>
+            <ddi:keyword xml:lang="en">elections</ddi:keyword>
+            <ddi:keyword xml:lang="en">politics, internal</ddi:keyword>
+            <ddi:keyword xml:lang="en">international relations</ddi:keyword>
+            <ddi:keyword xml:lang="en">participation</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Political and administrative sciences</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Assessing electoral change in the Netherlands. First wave: Political interest / national problems of importance to respondent / voting behaviour in the past / party identification and membership / vote intention / sense of political efficacy / left, right rating / expectations of election outcome. Second wave: Political interest / national problems / voting behaviour 1977 / party identification / vote intention / coalition preference / political knowledge ( identification of leading politicians and their function ) / faith in prospective premiers / political efficacy / left, right rating / expectations election outcome / political issues: economy ( unemployment, inflation ) / abortion / nuclear energy ( closing nuclear plants ) / income differences / which party offers best solution for solving: unemployment / crime / pollution / housing shortage / welfare fraud / evasion welfare levies ( tax ) / nuclear weapons / religion / confessionalism / satisfaction with government / social participation. Third wave: political interest / national problems / voting behaviour 1977 and 1981 / party identification / coalition preference / faith in prospective premiers / political efficacy / left, right rating / sense of civic competence / civic political participation / materialist values / women's emancipation ( liberation ) / legitimacy of social protest and government reaction / political distrust / political cynicism / religion / confessionalism. Fourth wave: Political interest / national problems / party identification and membership / left, right rating / voting behaviour 1981, 1982 / coalition preference / political issues: unemployment / income policy / women's emancipation / political knowledge / faith in prospective premiers / abortion / nuclear energy / income differences / nuclear arms ( weapons, armaments ) / party identification / political distrust and cynicism / social protest / effect of tv debates / future voting. Fifth wave: political interest / party identification / political efficacy / religion / confessionalism / left-right rating / effects of and satisfaction with government policy / voting behaviour 1986 / coalition preference / faith in prospective premiers / political issues: abortion / nuclear energy / differences in income / nuclear armaments / future voting probability / experience with unemployment. Background variables: basic characteristics/ residence/ housing situation/ household characteristics/ occupation/employment/ income/capital assets/ education/ social class/ politics/ religion/ organizational membership.       
+The data- and documentation files of this dataset can be downloaded via the option Data Files.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1981 * 1986</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">OPEN_ACCESS_FOR_REGISTERED_USERS</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

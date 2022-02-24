@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:32502</identifier>
+    <datestamp>2021-04-15T21:05:50Z</datestamp>
+    <setSpec>driver</setSpec>
+    <setSpec>D40000:D44000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Het effect van de woonomgeving op de mobiliteit en vervoerkeuze 2000</ddi:titl>
+            <ddi:parTitl xml:lang="en">Place of residence, choice of transport 2000</ddi:parTitl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:32502</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-237-pb67</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en">Meurs, H.J., Haaijer, R., MuConsult BV * Amersfoort (primary investigator)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Projectbureau IVVS * Den Haag (research initiator) </ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">MuConsult BV * Amersfoort (data collector) </ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="2000-01-01"/>
+            <ddi:distDate xml:lang="en" date="2007-07-30"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">public transport</ddi:keyword>
+            <ddi:keyword xml:lang="en">housing</ddi:keyword>
+            <ddi:keyword xml:lang="en">transport</ddi:keyword>
+            <ddi:keyword xml:lang="en">traffic</ddi:keyword>
+            <ddi:keyword xml:lang="en">residential mobility</ddi:keyword>
+            <ddi:keyword xml:lang="en">urban areas</ddi:keyword>
+            <ddi:keyword xml:lang="en">neighbourhoods</ddi:keyword>
+            <ddi:keyword xml:lang="en">employment</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Traffic and transport studies</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Survey on the effects of spatial structure around r.  to r.'s choices regarding means of transport. Respondents  are obtained from the "Time Budget Survey 1990" sample  (Steinmetz Archive Studynr, P1183). Persons who have  moved house after 1990 have been interviewed plus a	control group of non-movers. Movers: motives to move, choice of new residence /  commuter traffic / leisure activities outside the house  / detailed description of r.'s house and r.'s house  in 1990 (movers) / car parking facilities near r.'s  house, idem in 1990 (movers) / also storing of motor	bikes, moped bikes and bicycles / use of public transport,  distances to railway station, bus stop / shopping behaviour:  frequencies, distances, transport / transport of children  to school, transport to work, day-time courses, transport	regarding leisure activities / detailed description  of r.'s residential quarter obtained through observations  by interviewers / movers: also observation of former  residential quarter (1990) / non-movers: infrastructural  and spatial changes in neighbourhood / changes with  regard to r.'s house, accommodation since 1990. Background variables: basic characteristics/ residence/ housing situation/ household characteristics/ place of work/ occupation/employment/ income/capital assets/ education/ consumption of durables</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1990 * 1999</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">OPEN_ACCESS_FOR_REGISTERED_USERS</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

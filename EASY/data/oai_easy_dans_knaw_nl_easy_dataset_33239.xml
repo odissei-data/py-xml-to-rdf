@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:33239</identifier>
+    <datestamp>2021-04-15T21:06:28Z</datestamp>
+    <setSpec>D60000:D61000</setSpec>
+    <setSpec>driver</setSpec>
+    <setSpec>D40000:D42000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Stadspanel Delft 1988 - VSO</ddi:titl>
+            <ddi:parTitl xml:lang="en">Panel survey city of Delft 1988 - VSO</ddi:parTitl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:33239</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-27p-9534</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en">Andel, H.G. van, Severijnen, P.C.A., Gemeente Delft * Delft, Bestuursdienst, afd. onderzoek en statistiek (primary investigator)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Gemeente Delft, Afd. Onderzoek &amp; Statistiek (depositor)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Gemeente Delft (research initiator) </ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Veldkamp Marktonderzoek bv * Amsterdam (data collector) </ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="2007-08-10"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">emancipation</ddi:keyword>
+            <ddi:keyword xml:lang="en">housing</ddi:keyword>
+            <ddi:keyword xml:lang="en">leisure time</ddi:keyword>
+            <ddi:keyword xml:lang="en">internal politics</ddi:keyword>
+            <ddi:keyword xml:lang="en">gender roles</ddi:keyword>
+            <ddi:keyword xml:lang="en">satisfaction</ddi:keyword>
+            <ddi:keyword xml:lang="en">traffic</ddi:keyword>
+            <ddi:keyword xml:lang="en">public opinion</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Political and administrative sciences</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Sociology</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">To gather information on attitudes of the population of Delft, useful for local authorities with regard to the development, presentation and evaluation of policy. Detailed account of working situation of respondent / usage of car, bike and motorbike / quality of roads / parking facilities and their accessibility / attitude towards: pedestrian or car free town centre/ amount of rent for actual house/ officials of Delft/ local authority of Delft/ participation/ own influence on local politics/ comprehensibility of information and forms of the local authority/ responsibility of teenagers/ emancipation of woman/ environmental pollution / satisfaction with: housing situation ( detailed questions )/ contacts with municipal services / influence of local authority / participation of separate collection of garbage / the ins and outs of residential quarter ( facilities, activities ) / moving plans ( and reasons ) / who is responsible for livability in quarter / preparedness for actions if local authority has made adverse decisions about the quarter / victimization and report / recreative and leisure time activities / environmental problems in Delft Background variables: basic characteristics/ residence/ housing situation/ household characteristics/ place of work/ occupation/employment/ income/capital assets/ education/ politics/ religion/ readership, mass media, and 'cultural' exposure/ organizational membership</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1988</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">OPEN_ACCESS_FOR_REGISTERED_USERS</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

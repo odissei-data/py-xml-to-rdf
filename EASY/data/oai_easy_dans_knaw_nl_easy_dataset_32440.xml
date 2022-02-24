@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:32440</identifier>
+    <datestamp>2021-04-15T21:05:48Z</datestamp>
+    <setSpec>D60000:D61000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Arbeidsprojekten voor werkloze jongeren 1984 : Wat zeggen zij er zelf van</ddi:titl>
+            <ddi:parTitl xml:lang="en">Labour projects for unemployed youth 1984</ddi:parTitl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:32440</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-29n-n4f4</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en">Huurne, A.G. ter, Maas, A., Katholieke Hogeschool Tilburg * Tilburg, Instituut voor sociaal-wetenschappelijk onderzoek, IVA * Tilburg (primary investigator)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Jeugd- en jongerenraad Noord-Brabant
+Raad voor het jeugdbeleid Limburg (research initiator) </ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Instituut voor sociaal-wetenschappelijk onderzoek, IVA * Tilburg (data collector) </ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="1985-01-01"/>
+            <ddi:distDate xml:lang="en" date="2007-07-02"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">sociology</ddi:keyword>
+            <ddi:keyword xml:lang="en">youth</ddi:keyword>
+            <ddi:keyword xml:lang="en">employment</ddi:keyword>
+            <ddi:keyword xml:lang="en">participation</ddi:keyword>
+            <ddi:keyword xml:lang="en">occupation</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Sociology</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Finding the causes of low participation of poorly skilled unemployed youths in work projects in Noord-Brabant and Limburg. Employment history / educational history / motivation for, attitudes towards further education / job-seeking behaviour / contacts with employment bureau or social service / preferred job and working conditions / evaluation of chance on work / conditions for accepting a job / working-attitudes / evaluation of unemployment / attitudes towards society / personal feelings towards own unemployment / social contacts / role of unemployment in social contacts / ( social ) activities / reasons for, solutions for unemployment rate / evaluation of and participation in activities organized for unemployed socio-cultural activities, job orientation courses, voluntary jobs, work projects, apprenticeships, temporary jobs / starting own business / knowledge of, participation in and evaluation of municipality- organized unemployment projects / willingness to participate / opinions on working versus not working / future ideas on regular job, marriage, self-reliance, material prosperity / family situation / income situation / daily activities. Background variables: basic characteristics/ household characteristics/ occupation/employment/ income/capital assets/ education</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1984</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">REQUEST_PERMISSION</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:34349</identifier>
+    <datestamp>2021-09-28T14:17:24Z</datestamp>
+    <setSpec>D60000:D61000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">The Integration of the European Second Generation in Amsterdam and Rotterdam (TIES-NL), 2006-2007.</ddi:titl>
+            <ddi:parTitl xml:lang="en">DANS Data Guide 9</ddi:parTitl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-zkk-w38f</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:34349</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Netherlands Interdisciplinary Demographic Institute (NIDI)">Hornstra, N.E.</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Netherlands Interdisciplinary Demographic Institute (NIDI)">Groenewold, G.</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Netherlands Interdisciplinary Demographic Institute (NIDI)">Lessard-Phillips, L.</ddi:AuthEnty>
+            <ddi:othId xml:lang="en" role="">Institute for Migration and Ethnic Studies (IMES), University of Amsterdam</ddi:othId>
+            <ddi:othId xml:lang="en" role="">Funding Agency: NWO MAGW Middelgroot</ddi:othId>
+         </ddi:rspStmt>
+         <ddi:distStmt/>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">Turkish migrants</ddi:keyword>
+            <ddi:keyword xml:lang="en">Turkse allochtonen</ddi:keyword>
+            <ddi:keyword xml:lang="en">Moroccan migrants</ddi:keyword>
+            <ddi:keyword xml:lang="en">Marokkaanswe allochtonen</ddi:keyword>
+            <ddi:keyword xml:lang="en">second generation</ddi:keyword>
+            <ddi:keyword xml:lang="en">tweede generatie</ddi:keyword>
+            <ddi:keyword xml:lang="en">integration</ddi:keyword>
+            <ddi:keyword xml:lang="en">integratie</ddi:keyword>
+            <ddi:keyword xml:lang="en">ethnic minorities</ddi:keyword>
+            <ddi:keyword xml:lang="en">etnische minderheden</ddi:keyword>
+            <ddi:keyword xml:lang="en">jongeren</ddi:keyword>
+            <ddi:keyword xml:lang="en">youth</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Social sciences</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Sociology</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">The TIES-NL data, as part of the overall TIES Project (see also the TIES website),  surveyed respondents aged 18-35 who are native-born children of Turkish and Moroccan immigrants (the second generation) and their peers without an immigration background (the ‘comparison group’) in two main Dutch cities, Amsterdam and Rotterdam. The overall aim of the project is to collect valuable and comparable information on specific second-generation groups in 15 European cities, in order to measure their level of integration in many spheres (such as, but not limited to, education and the labour market) and the impact of context on integration.                       
+                      
+The survey comprises the following modules: education, labour market, partner, parents, housing and neighbourhood, social relations and political participation, gender roles and child care, identity, religion, income and psychosocial, personal relations. See also the file with the questionnaire for more details. Relevant data at neighbourhood and municipality level for Rotterdam and Amsterdam were collected from CBS Statline and added to the dataset. Note that the data is coded to fit the international questionnaire, in order to facilitate comparisons with the other TIES surveys.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">2006-06-01 through 2007-07-01</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">REQUEST_PERMISSION</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="English"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

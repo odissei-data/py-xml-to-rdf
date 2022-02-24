@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:78939</identifier>
+    <datestamp>2021-04-15T21:07:46Z</datestamp>
+    <setSpec>driver</setSpec>
+    <setSpec>D20000:D24000:D24300</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Linkage file: LAFA, NHANES, and FCID</ddi:titl>
+            <ddi:parTitl xml:lang="en">Relationship between food waste, diet quality, and environmental sustainability</ddi:parTitl>
+            <ddi:parTitl xml:lang="en">Relationship between food waste, diet quality, and environmental sustainability</ddi:parTitl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-x9y-879t</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:78939</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="US Department of Agriculture">Conrad, Dr. ZC, Researcher</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt/>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">food systems</ddi:keyword>
+            <ddi:keyword xml:lang="en">nutrition</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Nutrition</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Improving diet quality while simultaneously reducing environmental impact is a critical focus globally.  Metrics linking diet quality and sustainability have typically focused on a limited suite of indicators, and have not included food waste. To address this important research gap, we examine the relationship between food waste, diet quality, nutrient waste, and multiple measures of sustainability: use of cropland, irrigation water, pesticides, and fertilizers. Data on food intake, food waste, and application rates of agricultural amendments were collected from diverse US government sources. Diet quality was assessed using the Healthy Eating Index-2015. A biophysical simulation model was used to estimate the amount of cropland associated with wasted food. This analysis finds that US consumers wasted 422g of food per person daily, with 30 million acres of cropland used to produce this food every year. This accounts for 30% of daily calories available for consumption, one-quarter of daily food (by weight) available for consumption, and 7% of annual cropland acreage. Higher quality diets were associated with greater amounts of food waste and greater amounts of wasted irrigation water and pesticides, but less cropland waste. This is largely due to fruits and vegetables, which are health-promoting and require small amounts of cropland, but require substantial amounts of agricultural inputs. These results suggest that simultaneous efforts to improve diet quality and reduce food waste are necessary.. Increasing consumers’ knowledge about how to prepare and store fruits and vegetables will be one of the practical solutions to reducing food waste.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">2007-2014</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:conditions xml:lang="en">License: http://creativecommons.org/publicdomain/zero/1.0</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

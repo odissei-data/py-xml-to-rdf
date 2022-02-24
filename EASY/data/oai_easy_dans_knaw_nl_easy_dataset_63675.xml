@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:63675</identifier>
+    <datestamp>2021-04-15T21:07:27Z</datestamp>
+    <setSpec>D50000:D54000</setSpec>
+    <setSpec>D60000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Cognitive, socio-emotional, and attitudinal effects of an enrichment program for gifted children in the region of The Hague, The Netherlands</ddi:titl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-zms-hq22</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:63675</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud Universiteit Nijmegen">Gubbels, MSc J.C.G. DAI=info:eu-repo/dai/nl/401125882</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud Universiteit Nijmegen">Segers, dr. P.C.J. DAI=info:eu-repo/dai/nl/125448120</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud Universiteit Nijmegen">Verhoeven, prof. dr. L.T.W. DAI=info:eu-repo/dai/nl/072204753</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="2016-02-10"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">gifted children</ddi:keyword>
+            <ddi:keyword xml:lang="en">multiple intelligences</ddi:keyword>
+            <ddi:keyword xml:lang="en">enrichment program</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Social sciences</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Pedagogics</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">The datasets contains all raw data (mother_data) and corresponding sum scores (edited_data) used for analyses in the research described in the JEG-paper by Gubbels and Colleagues. The paper addresses the cognitive, socio-emotional, and attitudinal development of gifted children participating in a pull-out program. Children spent all of their time in the regular classroom, except for the morning of the week during which they participated in the pull-out program provided by a secondary school. The program comprised three successive 1-hr classes each week: robotics, mathematics, and research and design. Three qualified secondary schoolteachers with experience in teaching gifted children taught the successive classes. A full description of the program as well as all measures is given in the Methodology file. Data are collected in a pretest-posttest control group design via group administered tests and questionnaires. The codebook describes the process of data collection. The syntax file contains syntax to recode raw data into item scores and subsequently into sum scores. In addition, all steps of data analysis that are performed in order to get to the results as described in the paper are included.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">start=2011-09-01; end=2012-06-30</ddi:collDate>
+            <ddi:collDate event="single">September 2011; Februari 2012; June 2012</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">REQUEST_PERMISSION</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

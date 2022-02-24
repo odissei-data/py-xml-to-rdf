@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:57107</identifier>
+    <datestamp>2021-04-15T21:07:15Z</datestamp>
+    <setSpec>driver</setSpec>
+    <setSpec>D30000:D31000</setSpec>
+    <setSpec>D20000:D24000</setSpec>
+    <setSpec>D60000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Guiding the Grey: The Implementation and Evaluation of a Journal Club amongst a Librarian and Clinical Practice Guideline Developers – A Cancer Care Case Study</ddi:titl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:57107</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-xmp-ccjy</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Knowledge Resource Service (KRS), University of Calgary">Vaska, M.</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Guideline Utilization Resource Unit, Alberta Health Services, CancerControl Alberta">Kostaras, X.</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Population and Public Health, Research and Innovation, Alberta Health Services">Watson, L.</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">GreyNet, International Grey Literature Network Service</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="2014-02-25"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">Grey Literature</ddi:keyword>
+            <ddi:keyword xml:lang="en">Journal Club</ddi:keyword>
+            <ddi:keyword xml:lang="en">Clinical Practice</ddi:keyword>
+            <ddi:keyword xml:lang="en">Librarians</ddi:keyword>
+            <ddi:keyword xml:lang="en">Case Study</ddi:keyword>
+            <ddi:keyword xml:lang="en">Cancer Care</ddi:keyword>
+            <ddi:keyword xml:lang="en">interview</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Social sciences</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Paleography, bibliology, bibliography, library science</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Life sciences, medicine and health care </ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Health sciences</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">The Guideline Utilization Resource Unit (GURU) is composed of knowledge management specialists (KMS) and nurse facilitators (NF) who support multidisciplinary teams in developing, implementing, and evaluating provincial clinical practice guidelines (CPGs) for the diagnosis, staging, treatment and follow-up of cancer. These CPGs are evidence-based documents with consensus recommendations; they are freely available on a public website for access by practitioners and patients, and are a form of grey literature. Team members at GURU consult regularly with the librarian to ensure that the most accurate and comprehensive search strategy is used to develop CPGs.  The goal of this project is to describe the process of organizing and evaluating a journal club involving a unique collaboration between guideline developers and a librarian. 
+
+The journal club is comprised of three KMSs, two NFs, the GURU Manager and an embedded librarian. The group has been meeting once per month since April 2012. Each member takes turns selecting two articles related to CPG development or implementation, and is responsible for leading an informal discussion. To evaluate the usefulness of the journal club and the impact of grey literature on CPG development in Alberta, all members of the journal club (n=7) were interviewed in a focus group setting or a semi-structured interview. Transcripts of audio-recorded interviews will be qualitatively analyzed for repeated themes related to knowledge gained from, and perceived benefits of journal club meetings. This datasets contains these transcripts.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">2012-2013</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:conditions xml:lang="en">License: http://creativecommons.org/publicdomain/zero/1.0</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

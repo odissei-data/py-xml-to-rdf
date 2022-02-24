@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:32114</identifier>
+    <datestamp>2021-04-15T21:05:32Z</datestamp>
+    <setSpec>D40000:D42000:D42100</setSpec>
+    <setSpec>D60000:D61000</setSpec>
+    <setSpec>driver</setSpec>
+    <setSpec>D70000</setSpec>
+    <setSpec>D40000:D41000</setSpec>
+    <setSpec>D60000:D64000</setSpec>
+    <setSpec>D60000:D66000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">World handbook of political and social indicators III 1982</ddi:titl>
+            <ddi:parTitl xml:lang="en">World handbook of political and social indicators III 1982</ddi:parTitl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:32114</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-z9h-x7ky</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en">Taylor, C.L., Wissenschaftszentrum Berlin * Berlin (primary investigator)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Wissenschaftszentrum, C.L. Taylor * Berlin (data collector) </ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="1983-01-01"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">demography</ddi:keyword>
+            <ddi:keyword xml:lang="en">demography</ddi:keyword>
+            <ddi:keyword xml:lang="en">economy</ddi:keyword>
+            <ddi:keyword xml:lang="en">politics, internal</ddi:keyword>
+            <ddi:keyword xml:lang="en">violence</ddi:keyword>
+            <ddi:keyword xml:lang="en">military affairs</ddi:keyword>
+            <ddi:keyword xml:lang="en">law</ddi:keyword>
+            <ddi:keyword xml:lang="en">massmedia</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Economics and Business Administration</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Political science</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Science of law</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Social sciences</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Communication sciences</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Demography</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Sociology</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Indicators of 155 countries in the world from the fields of politics, economy, public finance, demography and society/ World Handbook III is a continuation for the years 1970 and 1975 of World Handbook II that covered 1950, 1955, 1960, and 1965/ for some selected variables the time-series were continued up to 1978. Revenues and expenditures of central government in percentage of Gross National Product ( GNP ) / tax revenues in percentage of public revenues / absolute level of military expenditures and share in GNP / public expenditures on education and health in percentage of GNP / number of soldiers / share of soldiers in labour force / total size of labour force / total population and number of adults / share of votes and of seats in parliament of 5 major parties / voting participation / civil rights, political rights, political and economic discrimination ( indices ) / ethnolinguistic groups / separatistic movements / size of total area / size of area used for agricultural purposes / density of population / absolute GNP / GNP per capita and growth rate of GNP / number of scientific authors / use of energy per capita / energy reserves and energy production / import, export and commerce in percentage of GNP / export concentrated on special countries or products / income distribution respectively concentration of income / food supply per capita / density of medical care / life expectations for men and women / infant mortality / birth-rate and death-rate / water supply by pipes / educational level of population / illiteracy / spread of newspapers, radios, tv sets, cinemas and telephones / foreign and domestic mail per capita / percentage of population in big cities / percentage of labour force in agriculture, industry and services / proportion of each single sector in GNP / private and public consumption in percentage of GNP / domestic investments / percentage of workers organized in unions / frequency of strikes and number of workers participating / loss of working days due to strikes. Daily events political events in 139 countries of the world / determining kind of political events, like demonstrations, police action, riot, strike, armed political conflict, political assassination, political strikes, irregular power transfers, elections, regular executive transfer / easing of censorship and political restrictions / date of events / question at issue and goal of political action / number of participators and wounded / damage / duration and spread of events / number of dead / agitating groups / source from which event was coded. Annual events political events in 136 countries on annual base/ consists of parts of the daily events data in aggregated form for single countries on annual base / the frequency of single political events is summarized in a time series for 30 years.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1948 * 1982</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">OPEN_ACCESS_FOR_REGISTERED_USERS</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

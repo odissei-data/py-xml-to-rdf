@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:223358</identifier>
+    <datestamp>2021-10-23T05:38:16Z</datestamp>
+    <setSpec>D60000:D61000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="eng">Data from: Samen aan zet in Harderwijk: Integraal werken met cliënt en omgeving om effectief om te gaan met multiproblematiek</ddi:titl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-xtk-yzqz</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:223358</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Wageningen University &amp; Research">Berkel, J. van ORCID=0000-0003-3400-9655</ddi:AuthEnty>
+            <ddi:othId xml:lang="en" role="ProjectMember" affiliation="Wageningen University &amp; Research">Haveman, A. ORCID=0000-0002-3391-295X, ProjectMember</ddi:othId>
+            <ddi:othId xml:lang="en" role="ProjectMember" affiliation="Wageningen University &amp; Research">Vet, E.W.M.L. de ORCID=0000-0002-4452-2367, ProjectMember</ddi:othId>
+            <ddi:othId xml:lang="en" role="RightsHolder">Wageningen University &amp; Research</ddi:othId>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="2021-10-07"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="eng">interprofessional collaboration</ddi:keyword>
+            <ddi:keyword xml:lang="eng">intersectoral collaboration</ddi:keyword>
+            <ddi:keyword xml:lang="eng">integral approaches</ddi:keyword>
+            <ddi:keyword xml:lang="eng">social care</ddi:keyword>
+            <ddi:keyword xml:lang="eng">multi-problem</ddi:keyword>
+            <ddi:keyword xml:lang="eng">social policy</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Sociology</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="eng">In this study, an intervention aiming to improve interprofessional collaboration, involving the social network, around citizens in multi-problem situations called "De Tafel Samen aan Zet" was investigated in the municipality of Harderwijk. Process and outcomes have been continuously monitored for two years (2018-2020) in a responsive evaluation.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">2018-2020</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:conditions>http://creativecommons.org/licenses/by/4.0</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:129121</identifier>
+    <datestamp>2021-04-15T21:08:00Z</datestamp>
+    <setSpec>D20000:D24000:D24300</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Associations of dairy and fiber intake with circulating odd-chain fatty acids in post-myocardial infarction patients</ddi:titl>
+            <ddi:parTitl xml:lang="en">Odd-chain fatty acids in relation to dairy and fiber intake</ddi:parTitl>
+            <ddi:parTitl xml:lang="en">Odd-chain fatty acids in relation to dairy and fiber intake</ddi:parTitl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-2a3-fg5q</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:129121</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Division of Human Nutrition and Health, Wageningen University">Pertiwi, K, Researcher</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Division of Human Nutrition and Health, Wageningen University">Geleijnse, Prof. Dr. J.M., ProjectLeader</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt/>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Nutrition</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">This project studies associations between circulating odd-chain fatty acids and dairy and fiber intake among post-MI Dutch patients. Circulating odd-chain fatty acids pentadecanoic (15:0) and heptadecanoic acid (17:0) are considered to reflect dairy intake. In cohort studies, higher circulating 15:0 and 17:0 were associated with lower type 2 diabetes risk. A recent randomized controlled trial in humans suggested that fiber intake also increased circulating 15:0 and 17:0, potentially resulting from fermentation by gut microbes. We performed cross-sectional analyses in a subsample of 869 Dutch post-MI patients of the Alpha Omega Cohort who had data on dietary intake and circulating fatty acids. Dietary intakes (g/d) were assessed using a 203-item food frequency questionnaire. Circulating 15:0 and 17:0 (as % of total fatty acids) were measured in plasma phospholipids (PL) and cholesteryl esters (CE). Spearman correlations (rs) were computed between intakes of total dairy, dairy fat, fiber, and circulating 15:0 and 17:0. Patients were on average 69 years old, 78% was male and 21% had diabetes. Total dairy intake comprised predominantly milk and yogurt (69%). Dairy fat was mainly derived from cheese (47%) and milk (15%), and fiber was mainly from grains (43%). Circulating 15:0 in PL was significantly correlated with total dairy and dairy fat intake (both rs=0.19, p&lt;0.001), but not with dietary fiber intake (rs=0.05, p=0.11). Circulating 17:0 in PL was correlated both with dairy intake (rs=0.14 for total dairy and 0.11 for dairy fat, p&lt;0.001), and fiber intake (rs=0.19, p&lt;0.001). Results in CE were roughly similar, except for a weaker correlation of CE 17:0 with fiber (rs=0.11, p=0.001). Circulating 15:0 was highest in those with high dairy intake irrespective of fiber intake, while circulating 17:0 was highest in those with high dairy and fiber intake. To conclude, in our cohort of post-MI patients, circulating 15:0 reflected dairy intake but not fiber intake, whereas circulating 17:0 reflected both dairy and fiber intake. These data suggest that cardiometabolic health benefits previously attributed to 17:0 as a biomarker of dairy intake may partly be explained by fiber intake.</ddi:abstract>
+         <ddi:sumDscr/>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">REQUEST_PERMISSION</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

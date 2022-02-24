@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:223072</identifier>
+    <datestamp>2021-10-23T05:38:16Z</datestamp>
+    <setSpec>D30000</setSpec>
+    <setSpec>driver</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="eng">An Evaluation of Dr. Ambedkar’s Economic Thought on Agriculture in the Context of Globalization</ddi:titl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-xx2-99sf</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:223072</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Late. Mansaramji Padole Arts College, Ganeshpur Bhandara">Bagde, Dr. RAKSHIT Madan ORCID=0000-0002-7507-0244</ddi:AuthEnty>
+            <ddi:othId xml:lang="en" role="RightsHolder" affiliation="Late. Mansaramji Padole Arts College, Ganeshpur Bhandara">Bagde, Dr. RAKSHIT Madan ORCID=0000-0002-7507-0244, RightsHolder</ddi:othId>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="2021-10-04"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="eng">Economics</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Humanities</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="eng">Bharat Ratna Dr. Babasaheb Ambedkar: an eminent socio-economic thinker and epoch-maker shaped the economic destiny of India by introducing many tenets of the State Socialism into the Constitution of free India.  He was a post-graduate of Columbia University (U.S.) and obtained his doctoral degree in economics from there in 1917 and D.Sc. degree in 1921 from the renowned London School of Economics. Abroad, he shared his thoughts with distinguished economists like Prof. Seligman and Prof. Cannon. He had a short stint with Sydenham College Bombay as a lecturer in economics during 1918 -20.  
+	His economic thoughts are spread over a plethora of pages, speeches, and statements made in various capacities. He was the first to co-relate the evils of untouchability and the caste system with the economic system. It was to his credit that financial and economic provisions were entered into the Law of the Land i.e. Constitution of India. 
+	Dr. Babasaheb Ambedkar was much more than a mere economic thinker. He was a philosopher, social thinker, a fantastic scholar, a leader, a political activist, an apostle, and a savior of millions – a true architect of an egalitarian society.  Such a person can only be a revolutionary at heart. Above all these attributes, he was the noble visionary aspiring for a peaceful and prosperous world without malice.
+	Agriculture is the backbone of the Indian economy many problems like land reforms, fragmentation, and subdivision of land were discussed by Dr. Ambedkar threadbare. The problems are still current and are further aggravated by the density of population and urbanization. The size of landholding is getting diminished day by day causing innumerable misery to the farmers. The marginalization of land is marginalizing the landholders on large scale. Dr. Ambedkar foresaw all this and emphasized the inability of consolidation and other means of increasing the size. He was aware that any system of equitable distribution of land and land reforms would be inadequate for the singular reason that there is no ample land relative to population. Therefore he felt that collectivism was the only answer for problems of agriculture.  This was in tune with the welfare State visualized then. Collective farming would reap the advantages of large-scale production which would increase labor productivity. He was for the growth and development of agro-based industries and the industrialization of the rural areas. This is his view would enhance employment of workers and the land-less. Dr. Ambedkar proposed collective farming in a slightly different way from communes. The proprietary rights would remain with respective farmers but they would not be permitted to cultivate lands unless they join with adjoining farms.  In case it was not done then the government should interfere and acquire lands after paying appropriate compensation. The land so acquired should be divided into equal holdings and should be given to the villagers for cultivation. Dr. Babasaheb Ambedkar justified the government interference saying that non-interference of government would mean private autocracy.</ddi:abstract>
+         <ddi:sumDscr/>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:conditions>http://creativecommons.org/publicdomain/zero/1.0</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:53488</identifier>
+    <datestamp>2021-04-15T21:07:00Z</datestamp>
+    <setSpec>driver</setSpec>
+    <setSpec>D30000:D31000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Grey communities: An empirical study on databases and repositories</ddi:titl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-xwt-w73f</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:53488</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="INIST-CNRS">Prost, H.</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Charles de Gaulle University Lille 3">Schöpfel, Dr. J.</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">GreyNet - Grey Literature Network Service</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="2013-02-13"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">Grey Literature</ddi:keyword>
+            <ddi:keyword xml:lang="en">LIS - Library and Information Science</ddi:keyword>
+            <ddi:keyword xml:lang="en">Databases</ddi:keyword>
+            <ddi:keyword xml:lang="en">Repositories</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Humanities</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Paleography, bibliology, bibliography, library science</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">The study explores grey communities outside the Grey Literature Network Service (GreyNet) and identifies potential members for GreyNet. GreyNet can be compared to a Learned Society specialised in grey literature as a particular field of library and information sciences (LIS). Its relevance is related to its capacity to enforce the terminology and definition of grey literature in LIS research and publications, and its impact and outreach can be assessed through the proportion of experts dealing with grey literature and connected with GreyNet. From five databases (Web of Science, Scopus, LISTA, Pascal and Francis) and from open repositories we selected 2,440 papers on grey literature published between 2000 and 2012 by 5,490 authors. Publishing features, preferred journals and the number of publications per author are described for the whole sample. For a subsample of 433 authors strongly committed to grey literature, we present data on geographic origins, place of work, scientific domain and profession. Researchers discuss the characteristics of grey communities in and outside of GreyNet and suggest strategies for the further development of the network.</ddi:abstract>
+         <ddi:sumDscr/>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:conditions xml:lang="en">License: http://creativecommons.org/publicdomain/zero/1.0</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

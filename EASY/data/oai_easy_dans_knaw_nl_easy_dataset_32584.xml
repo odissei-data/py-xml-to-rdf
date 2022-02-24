@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:32584</identifier>
+    <datestamp>2021-04-15T21:04:53Z</datestamp>
+    <setSpec>D50000:D52000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">PRIMA Cohorten Basisonderwijs - PRIMA VI - 2004-2005</ddi:titl>
+            <ddi:parTitl xml:lang="en">Longitudinal data collection primary education - PRIMA VI - 2004-2005</ddi:parTitl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-259-dpsh</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:32584</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en">ITS Nijmegen, SCO-Kohnstamm Instituut (primary investigator)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">ITS Nijmegen (depositor)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Ministerie OCW, Den Haag (research initiator)</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="2006-07-15"/>
+            <ddi:distDate xml:lang="en" date="2007-07-09"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">education</ddi:keyword>
+            <ddi:keyword xml:lang="en">education, primary</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Educational theory</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">The research program "Cohortonderzoek Primair Onderwijs" (PRIMA) (Longitudinal Data Collection Primary Education) describes and explains the development of cognitive and social skills as well as social behaviour of pupils in primary education. The most important perspective is the contribution of the school in this development. Since the 1994/1995 school year, biennial research has been performed with respect to pupils in groups 2, 4, 6, and 8 in some 600 schools for (special) primary education. In doing so, as many of the same pupils as possible are followed in their educational development. Information is not only collected regarding the pupils, as the program also collects extensive information from teachers, school boards and parents.  Against earlier PRIMA research, in PRIMA VI there are no data collected from special primary schools.  Sampling: National representative sample and an additional sample of schools with relatively many pupils from a lower social class, allochtonous as well as autochtonous  Special theme of PRIMA VI: pupils with learning disabilities in primary education.  Pupils group 2: CITO-LVS tests (LVS: Pupil Monitoring System - "Leerlingenvolgsysteem"): ordering / language skilles.  Pupils group 4, 6 and 8: CITO-LVS tests, and tests developed for PRIMA research: numerical skills, language skills / non-verbal intelligence tests / reading comprehension.  Pupils group 6 and 8: social well-being at school.  Parents: social, cultural and ethnic backgrounds of family / characteristics of pupils / characteristics of parents.  Teachers: educational provision / psycho-social characteristics of pupils / learning disabilities of pupils / intake-output- and transfer data of pupils.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">2004-2005</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">REQUEST_PERMISSION</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:32276</identifier>
+    <datestamp>2021-04-15T21:05:40Z</datestamp>
+    <setSpec>D60000:D61000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Stadspanel Delft 1992 - VSO</ddi:titl>
+            <ddi:parTitl xml:lang="en">Panel survey city of Delft 1992 - VSO</ddi:parTitl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:32276</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-xmf-86eu</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en">Rhee, M. van, Gemeente Delft * Delft (primary investigator)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">M. van Rhee, Gemeente Delft, Afd. CCO (depositor)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Gemeente Delft (research initiator) </ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">AGB Intomart * Hilversum (data collector) </ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="1997-01-01"/>
+            <ddi:distDate xml:lang="en" date="2007-08-10"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">environment</ddi:keyword>
+            <ddi:keyword xml:lang="en">housing</ddi:keyword>
+            <ddi:keyword xml:lang="en">leisure time</ddi:keyword>
+            <ddi:keyword xml:lang="en">mass media</ddi:keyword>
+            <ddi:keyword xml:lang="en">public transport</ddi:keyword>
+            <ddi:keyword xml:lang="en">information sources</ddi:keyword>
+            <ddi:keyword xml:lang="en">crime</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Sociology</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Opinion of the inhabitants of Delft about various aspects of living in Delft P1286A: Detailed information concerning r.'s residence /  satisfaction with housing situation and district where r. is living /  the new municipal housing distribution / neighbouring help / vandalism,  noise pollution and other sources of nuisance in neighbourhood /  speed checks / use of emergency number / maintenance of streets and green space, cleaning of the centre, cleaning of garbage cans,  collecting refuse / street furniture, pavement and parking in specific quarters / environmental issues/ separate collection of refuse, use  of energy / contacts with various kinds of service centres, satisfied  with contacts / contacts with Municipal Services, satisfied with  contacts / buying things on account / composition of income of household. P1286B: Use of bicycle, car, bus / attractive aspects of Delft / housing conditions / reading Municipal Messages in free local paper / use of local news media / sources of information about decissions of the local government / fear for crime and inconveniences by crime in neighbourhood, at bus stops, sports park / most important  tasks of police / social contacts / leisure time activities, visits cultural centres, parks, doing sports / r.'s contribution to a cleaner environment /  Social Improvement ( 'Sociale Vernieuwing' ) / r. is having debts. Background variables: basic characteristics/ place of birth/ housing situation/ household characteristics/ occupation/employment/ income/capital assets/ education/ readership, mass media, and 'cultural' exposure/ organizational membership</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1992</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">REQUEST_PERMISSION</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

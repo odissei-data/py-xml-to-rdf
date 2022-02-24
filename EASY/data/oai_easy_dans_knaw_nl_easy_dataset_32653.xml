@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:32653</identifier>
+    <datestamp>2021-04-15T21:05:58Z</datestamp>
+    <setSpec>driver</setSpec>
+    <setSpec>D50000:D54000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Opvoeding en gezin in Nederland - OGGIN 1990</ddi:titl>
+            <ddi:parTitl xml:lang="en">Child-rearing and family in the Netherlands, 1990</ddi:parTitl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:32653</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-xfw-w4t4</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Vakgroep Algemene Pedagogiek, KUN, Nijmegen">Gerris, J.R.M.</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Vakgroep Algemene Pedagogiek, KUN, Nijmegen">Vermulst, A.A.</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Vakgroep Algemene Pedagogiek, KUN, Nijmegen">Boxtel, D.A.A.M. van</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Vakgroep Algemene Pedagogiek, KUN, Nijmegen">Janssens, J.M.A.M.</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Vakgroep Algemene Pedagogiek, KUN, Nijmegen">Zutphen, R.A.H. van</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Vakgroep Algemene Pedagogiek, KUN, Nijmegen">Felling, A.</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Prof. dr. J.R.M. Gerris, KU Nijmegen, Vakgroep Algemene Pedagogiek, Gezinspedagogiek (depositor)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Instituut voor toegepaste sociale wetenschappen ( ITS ) * Nijmegen (data collector)</ddi:AuthEnty>
+            <ddi:othId xml:lang="en" role="contributor">Radboud Universiteit Nijmegen</ddi:othId>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="2003-03-24"/>
+            <ddi:distDate xml:lang="en" date="2007-07-20"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">sociology</ddi:keyword>
+            <ddi:keyword xml:lang="en">childrearing</ddi:keyword>
+            <ddi:keyword xml:lang="en">family life</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Pedagogics</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">National survey regarding the functioning of family relationships as the natural social context where childrearing and parent-child interactions are embedded. Subjective characteristics of primary relationships as they are actualized both in parent-child and parent-parent interactions are focused upon. Characteristics of the wider, social environment are measured both in their subjective and in their objective quality. The aim is to systematically relate societal characteristics with characteristics of the social network to the internal functioning of the family. The child- rearing strategies of parents were taken as central point of reference within the internal functioning of the family as a system. The survey used six separate questionnaires, of which five were to be completed by the parents and one by their child. Of the participating 788 families 681 completed all questionnaires ( 86 percent ) , the remainder completed 3 questionnaires. Themes: detailed demographic data / satisfaction with income / criteria for choice of school / time spent on tv watching, eating, going out, playing, hobbies and sports individually and together with child / family celebrations / importance of educational goals / satisfaction with neighbourhood / social contacts within neighbourhood / background data on parents' parental family / organizational activities / time spent on activities at school of children / baby-sitting / important events during child's life: divorce, death of parents, birth of siblings, adoption, death of sibling, marriage, cohabitation, new partner, foster child, moving in of family or relative or strangers, other changes in family, firing of parent, re-employment of parent, problems at work for parent, promotion of parent, studying of parent, change of job by parent, serious change in family income, financial problems, serious debts, miscarriage, alcohol or drugs problems, serious illness, hospitalization, accident, moving house, problems at school, problems with friends, problems with police or justice, death of relatives or friends, death of pets, family conflicts ( their incidence, frequency and influence ) / physically or mentally handicapped in family / religious background / importance of religion / satisfaction with formal education / occupation / work satisfaction / LIKERT scales: conformity / personal involvement / parental depression / attachment / parental role restrictions / sense of incompetence in parenting / social isolation / marital satisfaction / destructive communication / intimacy / health / adaptability / acceptability / child demanding / mood / distractibility /activity level / impulsiveness / child depression / aggression / reinforcement / reaction to child- rearing situation: authoritarian, inductive reasoning or undemanding and uninvolved / autonomy / restrictiveness / power assertion / induction / affection / love withdrawal / reward / responsiveness / parental goals for childrearing / order / family climate / intellectual and cultural orientation in family / social desirability / parent idealization / cognitive reasoning situations: egoistic orientation, conventional orientation or subjective-individualistic orientation / value orientation / world views / traditional work ethic / cultural conservatism / forms of intimate relationships / attitudes regarding relationships / traditional view on women / ideology of education / function of education / localism / political opinions / attitudes regarding local support / christian work ethic. Background variables: basic characteristics/ place of birth/ residence/ household characteristics/ characteristics of parental family/household/ occupation/employment/ income/capital assets/ education/ politics/ religion/ readership, mass media, and 'cultural' exposure/ organizational membership</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1990</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">OPEN_ACCESS_FOR_REGISTERED_USERS</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

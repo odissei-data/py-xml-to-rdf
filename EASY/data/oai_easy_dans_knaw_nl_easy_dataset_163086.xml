@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:163086</identifier>
+    <datestamp>2021-04-15T21:08:09Z</datestamp>
+    <setSpec>driver</setSpec>
+    <setSpec>D10000:D16000</setSpec>
+    <setSpec>D50000</setSpec>
+    <setSpec>D60000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="eng">Affective touch videos</ddi:titl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-z5z-5pg9</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:163086</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Amsterdam University of Applied Sciences">Huisman, Dr. G. ORCID=0000-0002-8029-5042</ddi:AuthEnty>
+            <ddi:othId xml:lang="en" role="Researcher" affiliation="Tilburg University">Jung, Dr. M.M. ORCID=0000-0002-3645-9425, Researcher</ddi:othId>
+            <ddi:othId xml:lang="en" role="Researcher">Willemse, Dr. C.J.A.M. ORCID=0000-0002-3863-2332, Researcher</ddi:othId>
+            <ddi:othId xml:lang="en" role="RightsHolder">Huisman, Dr. G. ORCID=0000-0002-8029-5042, RightsHolder</ddi:othId>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="2020-05-26"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="eng">affective touch; social touch; human-robot interaction</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Behavioural and educational sciences</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Social sciences</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Computer science</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="eng">A set of videos showing, from an egocentric perspective, affective touch (stroking touch) being applied to the dorsal side of a caucasian males' right forearm. Touches are applied by a caucasian female human, a Nao robot, a mannikin arm, and a plastic tube. Touches are applied at different velocities: 0.3cm/s, 1cm/s, 2cm/s,  3cm/s, 10cm/s, and 30cm/s. The 2cm/s video was originally intended as an example video. Video resolution is 1280 x 720 pixels. Video names include relevant stimuli description (e.g., H03 is human touch at 0.3cm/s).
+
+Videos were originally created for studying perceptions of affective touch in an online study. Please use the following reference when using these videos in your research:
+
+Willemse, C. J., Huisman, G., Jung, M. M., van Erp, J. B., &amp; Heylen, D. K. (2016). Observing touch from video: the influence of social cues on pleasantness perceptions. In International conference on human haptic sensing and touch enabled computer applications (pp. 196-205). Springer.</ddi:abstract>
+         <ddi:sumDscr/>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:conditions>http://creativecommons.org/licenses/by-sa/4.0/</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

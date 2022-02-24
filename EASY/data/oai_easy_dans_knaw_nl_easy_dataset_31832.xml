@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:31832</identifier>
+    <datestamp>2021-04-15T21:05:18Z</datestamp>
+    <setSpec>D60000:D61000</setSpec>
+    <setSpec>driver</setSpec>
+    <setSpec>D50000:D52000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Sociale en culturele situatie Nijmegen 1991-1993</ddi:titl>
+            <ddi:parTitl xml:lang="en">Social and cultural situation Nijmegen 1991-1993</ddi:parTitl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:31832</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-xv8-4c4t</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Katholieke Universiteit Nijmegen * Nijmegen, Vakgroep sociologie">Graaf, N.D. de</ddi:AuthEnty>
+            <ddi:othId xml:lang="en" role="contributor">Radboud Universiteit Nijmegen</ddi:othId>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="1994-01-01"/>
+            <ddi:distDate xml:lang="en" date="2007-07-23"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">sociology</ddi:keyword>
+            <ddi:keyword xml:lang="en">arts &amp; culture</ddi:keyword>
+            <ddi:keyword xml:lang="en">education</ddi:keyword>
+            <ddi:keyword xml:lang="en">employment</ddi:keyword>
+            <ddi:keyword xml:lang="en">interpersonal relations</ddi:keyword>
+            <ddi:keyword xml:lang="en">participation</ddi:keyword>
+            <ddi:keyword xml:lang="en">stereotypes</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Educational theory</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Sociology</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Three independent measurements of the social and cultural activities and situation of the population of Nijmegen. since when does respondent reside in Nijmegen / social status of residential quarter / several aspects of ( previous ) job / church membership, special task or function within church, active participation in groups or clubs of church / life after death, bible is gods' word, does heaven, hell purgatory and devil exist / nationality of ( parents of ) respondent / social inequality between ethnic minorities and Dutch people in general / political interest / educational career / membership of groups, organization, clubs, societies / number of hours per week spend on organizations etc. / organizations with social activities like helping aged people / respondent has been social supporting people during last half year, time spending, time-budgeting / number of days watching tv, not in weekend / average time spending, time budgeting watching tv, also on saturday and sunday / watching newsbulletins and news programs / frequency of watching several tv programs / visiting classical concerts, opera, ballet, musea, arts exposures, frequency of visiting last year and during whole life / readership of books and newspapers / education and occupation of spouse / social inequality between women and men / differences in income / financial expectations / differences between rich and poor people in our country / education and occupation of father / during respondents childhood: housing situation, readership of parents, visits of parents to opera, theatre music, musea, arts exposures / abortion, euthanasia, suicide / social network: three persons: age, sex, occupation, education, religion, political preference, relationship with respondent, frequency of contact / statements about: important things in life / personal qualities / most important Dutch political problem / religion / christianity existence of higher powers / good and evil in the world / suffering and dead / influence of philosophy of life on making decisions and daily life / reason for inequality between ethnic minorities and Dutch people / freedom of speech and demonstrations / view of humankind / political aims / traits of Dutch people / coping with emotions and problems / social supporting / ( traits of ) ethnic minorities / reason for watching television / importance of employment / gender roles / reason for inequality between women and men / importance of local news, clubs and organizations / satisfaction with residential quarter / reason for existence of poor and rich people / trade unions / divisions of housekeeping tasks in respondents' cohabitation or marriage / emotional balance of last few weeks special topics 1993: children at school in residential quarter / shops nearby / frequency of visiting community / relationship with neighbours / topics of conversation with people living in the neighbourhood / feelings of unsafety in quarter / victimization of theft, aggressiveness / political preference of father and mother / education and occupation of father-in-law/ education mother-in-law / political interest of spouse, party preference / division of childcare tasks in respondents' cohabitation or marriage centre / readership of quarter newsbulletins. Background variables: basic characteristics/ housing situation/ household characteristics/ occupation/employment/ income/capital assets/ education/ social class/ politics/ religion/ consumption of durables/ readership, mass media, and 'cultural' exposure/ organizational membership</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1991 * 1993</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">OPEN_ACCESS_FOR_REGISTERED_USERS</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

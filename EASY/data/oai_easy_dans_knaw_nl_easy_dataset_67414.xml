@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:67414</identifier>
+    <datestamp>2021-04-15T21:07:36Z</datestamp>
+    <setSpec>D30000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Arab West Report Full Transcript Interviews - guide document and articles not included in previous AWR datasets</ddi:titl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-zw6-xa5x</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:67414</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Center for Intercultural Dialogue and Translation (CIDT)">Hulsman, Drs. C.</ddi:AuthEnty>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Center for Intercultural Dialogue and Translation (CIDT)">Sparks, MA M.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Center for Intercultural Dialogue and Translation (CIDT)">Gavlak, D.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor">Esler, G.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Centre for Arab-West Understanding (CAWU)">Koehler, K.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="CAWU">Fastenrath, C.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="CAWU">Birk, A.S.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor">Lange, G.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor">Malangre, C.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor">Mutawi, H.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor">Casper, J.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor">Emmerich, A.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor">Kuschnitzki, J.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor">Serodio, D.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor">Stoop, J.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor">Basheer, S.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor">Schoorel, Dr. E.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor">Deiab, A.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor">De Maria, D.</ddi:othId>
+         </ddi:rspStmt>
+         <ddi:distStmt/>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">Arab West Report Full Transcript Interviews</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Humanities</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">This dataset contains a guide document for all of the Arab West Report Full Transcript Interviews which can be found in the Arab West Report Special Reports datasets according to year, and this dataset, which contains all of the 12 Arab West Report Full Transcript interviews that were not included as a part of other datasets. The interviews not uploaded as a part of this dataset can be located in other datasets using this directory.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1998-2016</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">REQUEST_PERMISSION</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

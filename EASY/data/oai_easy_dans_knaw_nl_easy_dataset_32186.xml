@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:32186</identifier>
+    <datestamp>2021-04-15T21:05:35Z</datestamp>
+    <setSpec>driver</setSpec>
+    <setSpec>D40000:D42000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Verkiezingsonderzoek Ouder-Amstel, 1986</ddi:titl>
+            <ddi:parTitl xml:lang="en">Election study Ouder-Amstel, 1986</ddi:parTitl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:32186</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-z6u-t7fu</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en">Praag, Ph. van, Universiteit van Amsterdam * Amsterdam, Vakgroep algemene politicologie (primary investigator)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Vakgroep algemene politicologie, Universiteit van Amsterdam * Amsterdam (data collector) </ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="1993-01-01"/>
+            <ddi:distDate xml:lang="en" date="2007-07-16"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">political science</ddi:keyword>
+            <ddi:keyword xml:lang="en">elections</ddi:keyword>
+            <ddi:keyword xml:lang="en">massmedia</ddi:keyword>
+            <ddi:keyword xml:lang="en">politics, internal</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Political and administrative sciences</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Two wave panel-survey before and during parliamentary elections of May 20, 1986 to study the effect of television debates by party leaders. Themes wave 1: left-right selfrating / left-right rating main political parties: PVDA, CDA, VVD, D'66 / characteristics of leaders of the parties / evaluation of party leaders / evaluation of cabinet policy regarding: unemployment, social security, economy, safety, nuclear plants, peace and security / personal financial situation, emancipation of women / evaluation of PVDA viewpoints on these matters / evaluation of four main parties. Wave 2: exposure to television debates / evaluation of performance of political leaders in final debate / cruise missiles / exposure to other massmedia information regarding the debate / influence of debate on voting or vote intention / nuclear plants at Dodewaard and Borssele / Tsjernobyl disaster / repeated measurement of evaluation of government policy, opposition viewpoints, party-leaders. Background variables: basic characteristics/ household characteristics/ occupation/employment/ education/ social class/ politics/ religion/ readership, mass media, and 'cultural' exposure</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1986</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">OPEN_ACCESS_FOR_REGISTERED_USERS</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

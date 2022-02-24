@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:110301</identifier>
+    <datestamp>2021-04-15T21:07:50Z</datestamp>
+    <setSpec>D50000:D51000</setSpec>
+    <setSpec>driver</setSpec>
+    <setSpec>D60000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Effects of partial sleep deprivation and threat manipulation on response inhibition, sleep and affect in healthy young adults in the region of Nijmegen, the Netherlands.</ddi:titl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-2cx-x5th</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:110301</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University">Peer, dr. J.M. van DAI=info:eu-repo/dai/nl/323243606</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Gladwin, dr. T.E. DAI=info:eu-repo/dai/nl/293105103</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University">Nieuwenhuys, dr. A. DAI=info:eu-repo/dai/nl/352179805</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt/>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">Threat</ddi:keyword>
+            <ddi:keyword xml:lang="en">partial sleep deprivation</ddi:keyword>
+            <ddi:keyword xml:lang="en">action</ddi:keyword>
+            <ddi:keyword xml:lang="en">response inhibition</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Psychology</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Social sciences</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">The datasets in this archive contain all processed data of which the results are described in ‘Effects of Threat and Sleep Deprivation on Action Tendencies and Response Inhibition’ (Van Peer, Gladwin, and Nieuwenhuys, 'Emotion', 2018, forthcoming). The paper addresses the question how partial sleep deprivation and acute threat affect the ability to control impulsive responses, in 52 healthy young adults (14M/38F, age M = 21.8, SD = 3.2) performing a simulated shooting task. Participants were screened for current depression and sleep problems (exclusion criteria). Sleep was manipulated between-subjects by means of a three-day partial sleep-deprivation protocol (i.e., five hours sleep [n=28] vs. eight hours sleep [n=24] per night, random assignment). Sleep protocol adherence was monitored with a sleep diary and by means of continuous Actiwatch recording (Actiwatch 2, Philips Respironics, Murrysville, USA). On the day after the third night of the sleep protocol, participants performed a simulated Go/NoGo shooting task with integrated stop-signal trials to directly measure inhibition of activated responses. During the task, threat was manipulated within-subjects by a cue that predicted the presentation of a quiet (low threat, 50 dB) or loud (high threat, 97 dB) white noise stimulus whenever participants made a response error. In addition to the task, questionnaires were administered to measure individual differences in relevant trait variables, and subjective responses to the sleep and threat manipulations. All data were collected individually. A full description of the materials and procedures is given in the Methodology document. The Documentation_Codebook document describes the participant flow and the content of the individual datasets.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">Collection period: start=2015-04-21; end=2016-01-22;</ddi:collDate>
+            <dc:coverage>east=5.860111713409424; north=51.81928021337449; units=degrees;</dc:coverage>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">OPEN_ACCESS_FOR_REGISTERED_USERS</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

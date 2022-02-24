@@ -1,0 +1,119 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:160443</identifier>
+    <datestamp>2021-04-15T21:08:07Z</datestamp>
+    <setSpec>D30000:D35000:D35100</setSpec>
+    <setSpec>easy-collection:1</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Interview Anne van Grevenstein</ddi:titl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-2x9-pwma</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:160443</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Rijksmuseum Amsterdam">Duijn, Dr. E.E. van DAI=info:eu-repo/dai/nl/363233806, Researcher</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Universiteit van Amsterdam">Hendriks, Prof. dr. E. DAI=info:eu-repo/dai/nl/298356864, Researcher</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt/>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">Oral History</ddi:keyword>
+            <ddi:keyword xml:lang="en">Conservation and restoration</ddi:keyword>
+            <ddi:keyword xml:lang="en">Centraal Laboratorium voor Onderzoek van Voorwerpen van Kunst en Wetenschap (Amsterdam)</ddi:keyword>
+            <ddi:keyword xml:lang="en">Central Research Laboratory for Objects of Art and Science (Amsterdam)</ddi:keyword>
+            <ddi:keyword xml:lang="en">Jan van Eyck Academie (Maastricht)</ddi:keyword>
+            <ddi:keyword xml:lang="en">Bonnefanten Museum (Maastricht)</ddi:keyword>
+            <ddi:keyword xml:lang="en">Kunstenaarsmaterialen</ddi:keyword>
+            <ddi:keyword xml:lang="en">Pieter Keune</ddi:keyword>
+            <ddi:keyword xml:lang="en">Sint-Servaasbasiliek (Maastricht)</ddi:keyword>
+            <ddi:keyword xml:lang="en">J.R.J. van Asperen de Boer</ddi:keyword>
+            <ddi:keyword xml:lang="en">IIC Nederland</ddi:keyword>
+            <ddi:keyword xml:lang="en">Ernst van de Wetering</ddi:keyword>
+            <ddi:keyword xml:lang="en">Karin Groen</ddi:keyword>
+            <ddi:keyword xml:lang="en">Hamilton Kerr Institute (Cambridge)</ddi:keyword>
+            <ddi:keyword xml:lang="en">Frans Hals Museum (Haarlem)</ddi:keyword>
+            <ddi:keyword xml:lang="en">Beate Federspiel</ddi:keyword>
+            <ddi:keyword xml:lang="en">Hélène Veroughstraete</ddi:keyword>
+            <ddi:keyword xml:lang="en">Vishwa Mehra</ddi:keyword>
+            <ddi:keyword xml:lang="en">Roy Hesterman</ddi:keyword>
+            <ddi:keyword xml:lang="en">Opleiding Restauratoren (Amsterdam)</ddi:keyword>
+            <ddi:keyword xml:lang="en">M. Kirby Talley</ddi:keyword>
+            <ddi:keyword xml:lang="en">Derk Snoep</ddi:keyword>
+            <ddi:keyword xml:lang="en">Johannes Taubert</ddi:keyword>
+            <ddi:keyword xml:lang="en">René Sneyers</ddi:keyword>
+            <ddi:keyword xml:lang="en">Agnes Gräfin Ballestrem</ddi:keyword>
+            <ddi:keyword xml:lang="en">Friday Group</ddi:keyword>
+            <ddi:keyword xml:lang="en">Stichting Restauratie Atelier Limburg (SRAL) (Maastricht)</ddi:keyword>
+            <ddi:keyword xml:lang="en">Rolduc</ddi:keyword>
+            <ddi:keyword xml:lang="en">Erma Hermens</ddi:keyword>
+            <ddi:keyword xml:lang="en">Renate Woudhuysen-Keller</ddi:keyword>
+            <ddi:keyword xml:lang="en">Paul Philippot</ddi:keyword>
+            <ddi:keyword xml:lang="en">Liliane Masschelein-Kleiner</ddi:keyword>
+            <ddi:keyword xml:lang="en">Oranjezaal (The Hague)</ddi:keyword>
+            <ddi:keyword xml:lang="en">Rijksmuseum (Amsterdam)</ddi:keyword>
+            <ddi:keyword xml:lang="en">MolArt project</ddi:keyword>
+            <ddi:keyword xml:lang="en">Rembrandt Research Project</ddi:keyword>
+            <ddi:keyword xml:lang="en">wax-resin lining</ddi:keyword>
+            <ddi:keyword xml:lang="en">Giorgio Torraca</ddi:keyword>
+            <ddi:keyword xml:lang="en">Jaap Boon</ddi:keyword>
+            <ddi:keyword xml:lang="en">Jos van och</ddi:keyword>
+            <ddi:keyword xml:lang="en">AMOLF Institute</ddi:keyword>
+            <ddi:keyword xml:lang="en">Anton van Duinkerken chair, Radboud University (Nijmegen)</ddi:keyword>
+            <ddi:keyword xml:lang="en">Paul Coremans</ddi:keyword>
+            <ddi:keyword xml:lang="en">Albert Philippot</ddi:keyword>
+            <ddi:keyword xml:lang="en">Paolo Mora, Laura Mora</ddi:keyword>
+            <ddi:keyword xml:lang="en">Arnold Truien</ddi:keyword>
+            <ddi:keyword xml:lang="en">Ulrich Schiessl</ddi:keyword>
+            <ddi:keyword xml:lang="en">Ghent Altarpiece</ddi:keyword>
+            <ddi:keyword xml:lang="en">Pierre Cuypers</ddi:keyword>
+            <ddi:keyword xml:lang="en">Jeroen Visser</ddi:keyword>
+            <ddi:keyword xml:lang="en">Night Watch</ddi:keyword>
+            <ddi:keyword xml:lang="en">Emilie Froment</ddi:keyword>
+            <ddi:keyword xml:lang="en">Katrien Keune</ddi:keyword>
+            <ddi:keyword xml:lang="en">Science4Arts</ddi:keyword>
+            <ddi:keyword xml:lang="en">The Courtauld Institute of Art</ddi:keyword>
+            <ddi:keyword xml:lang="en">Manja Zeldenrust</ddi:keyword>
+            <ddi:keyword xml:lang="en">Ateliergebouw (Amsterdam)</ddi:keyword>
+            <ddi:keyword xml:lang="en">Luitsen Kuiper</ddi:keyword>
+            <ddi:keyword xml:lang="en">Rijksdienst voor de Monumentenzorg</ddi:keyword>
+            <ddi:keyword xml:lang="en">Pauline Marchand</ddi:keyword>
+            <ddi:keyword xml:lang="en">Who’s afraid of Red, Yellow and Blue</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Humanities</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Arts and culture</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">History of arts and architecture</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">This interview with conservator of paintings, polychrome sculpture and historical interiors Anne van Grevenstein was initially conducted for the FAIC Oral History program (USA) founded by Joyce Hill Stoner. Anne van Grevenstein was already interviewed for the FAIC Oral History program in 2009 by Muriel Verbeeck. The 2009 interview focused more on the training of Van Grevenstein. The 2017 interview can be seen as a follow up and covers her work at the Jan van Eyck Academy (Maastricht), the Central Laboratory (Amsterdam), the Frans Hals Museum (Haarlem), the SRAL (Maastricht), of which she was director, and her professorship in Nijmegen and Amsterdam. Projects like the Oranjezaal and MolArt are also discussed.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1975-2017</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">REQUEST_PERMISSION</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

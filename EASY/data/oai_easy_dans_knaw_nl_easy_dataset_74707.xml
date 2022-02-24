@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:74707</identifier>
+    <datestamp>2021-04-15T21:07:42Z</datestamp>
+    <setSpec>D50000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Political Disagreement in the Classroom</ddi:titl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-zk6-x7gs</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:74707</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Bremen International Graduate School of Social Sciences (BIGSSS)">Schoop, Dr. M.A.</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt/>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">cultural theory</ddi:keyword>
+            <ddi:keyword xml:lang="en">wicked problems</ddi:keyword>
+            <ddi:keyword xml:lang="en">plural rationalities</ddi:keyword>
+            <ddi:keyword xml:lang="en">group debate</ddi:keyword>
+            <ddi:keyword xml:lang="en">social and environmental issues</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Behavioural and educational sciences</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">While the cultural theory pioneered by Dame Mary Douglas has recently attracted renewed attention, empirical support for it is mostly derived from case studies. To extend this literature, we present the results of a ‘structured observation’ of cultural theory’s prediction that fatalistic, hierarchical, egalitarian, and individualistic rationalities tend to emerge in group debates about pressing social and environmental issues. Groups of high school students (aged 17 to 19) were asked for their opinions concerning three to five ‘wicked’ problems, and to discuss how to resolve these. Each utterance was coded according to the rationalities proposed by cultural theory. The results confirm cultural theory’s hypothesis that all four specific ways of defining, perceiving and resolving a wicked problem emerge when a number of people debate such an issue. We discuss how cultural theory, thus tested, can contribute to various debates in psychology.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">July 2015</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">REQUEST_PERMISSION</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="de"/>
+   </ddi:fileDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

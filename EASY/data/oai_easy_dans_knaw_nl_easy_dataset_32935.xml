@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:32935</identifier>
+    <datestamp>2021-04-15T21:06:13Z</datestamp>
+    <setSpec>D50000:D51000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Angst voor sexueel geweld 1982</ddi:titl>
+            <ddi:parTitl xml:lang="en">Fear for sexual violence 1982</ddi:parTitl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:32935</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-x8m-z7t8</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en">Ensink, B., Albach, F., Rijksuniversiteit Leiden * Leiden, Vakgroep vrouwenstudies (primary investigator)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Ministerie van justitie, WODC * Den Haag (research initiator) </ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Faculteit sociale wetenschappen, dienst sociaal wetenschappelijk onderzoek * Leiden (data collector) </ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="1987-01-01"/>
+            <ddi:distDate xml:lang="en" date="2007-07-06"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">psychology</ddi:keyword>
+            <ddi:keyword xml:lang="en">crime</ddi:keyword>
+            <ddi:keyword xml:lang="en">safety</ddi:keyword>
+            <ddi:keyword xml:lang="en">personality</ddi:keyword>
+            <ddi:keyword xml:lang="en">women</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Psychology</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Exploration of the possible discrepancy between the fear of and the occurrence of sexual violence against women. Unsafe places in neighbourhood and municipality / agreement with notions such as: women who are raped usually have provoked it/ many women have an unconscious wish to be raped/ all men are potential rapists/ a lot of men think that a woman means yes if she says no, etc. / physically faster or weaker than average man or woman / educated with idea that no man can be trusted / mother sometimes afraid for men regarding rape / in general less afraid or more difficult getting angry than average man or woman / general moods and feelings. Determination of different types of sexual violence by examples of unwanted initiatives, psychological sexual violence, physical sexual violence and abuse of power with regard to strange men, acquainted men, authorities, partners and family / actual occurrence and emotional experience of sexual violence / estimation of occurrence and means to avoid sexual violence in different situations. Background variables: basic characteristics/ housing situation/ household characteristics/ occupation/employment/ education</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1982</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">REQUEST_PERMISSION</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

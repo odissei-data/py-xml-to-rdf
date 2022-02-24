@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:33212</identifier>
+    <datestamp>2021-04-15T21:06:26Z</datestamp>
+    <setSpec>D60000:D69000</setSpec>
+    <setSpec>D60000:D61000</setSpec>
+    <setSpec>driver</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Positie van vrouwen op de regionale arbeidsmarkt in Noord-Holland 1986</ddi:titl>
+            <ddi:parTitl xml:lang="en">Employment situation of women in the province of North-Holland 1986</ddi:parTitl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:33212</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-22n-jueq</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en">Gaaff, A., Vos, J. de, Wesche, H., Economisch-technologische dienst voor Noord-Holland, ETI-NH * Haarlem (primary investigator)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Economisch-technologische dienst voor Noord-Holland * Haarlem (research initiator) </ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Buro telemarketing services * Apeldoorn (data collector) </ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="1988-01-01"/>
+            <ddi:distDate xml:lang="en" date="2007-07-09"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">economics</ddi:keyword>
+            <ddi:keyword xml:lang="en">employment</ddi:keyword>
+            <ddi:keyword xml:lang="en">women</ddi:keyword>
+            <ddi:keyword xml:lang="en">work</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Sociology</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Gender studies</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Employment situation of women on a regional level in the province of North-Holland from an economic point of view. Is r following day-time education, part-time education or courses / purpose of present education / is r receiving disablement benefit / is r looking for a job / is r looking for a job with the assistance of a temporary employment agency or the employment exchange / type of employment contract, working full-time or part-time / name of branch of economy in which r is working / kind of job r is looking for / if unemployed, reasons for not looking for a job / frequency of applying for a job / how often an application resulted in an invitation for an interview / reasons for rejection after application / satisfaction about information and assistance of the employment exchange / role of employment officer / reasons for being registered at one or more temporary employment agencies / kind of day-nursery facilities for children / satisfaction about day-nursery facilities / reasons for not being able to combine a job with the care for children. Background variables: basic characteristics/ household characteristics/ occupation/employment/ education</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1986</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">OPEN_ACCESS_FOR_REGISTERED_USERS</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

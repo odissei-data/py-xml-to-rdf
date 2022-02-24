@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:161328</identifier>
+    <datestamp>2021-04-15T21:08:08Z</datestamp>
+    <setSpec>D60000:D61000</setSpec>
+    <setSpec>D30000:D33000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">State without Religion?</ddi:titl>
+            <ddi:parTitl xml:lang="en">Perceptions of young Christians, Muslims, and Humanists on religion-state relationships.</ddi:parTitl>
+            <ddi:parTitl xml:lang="en">Perceptions of young Christians, Muslims, and Humanists on religion-state relationships.</ddi:parTitl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-zfg-zput</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:161328</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University">Jans, MA J. DAI=info:eu-repo/dai/nl/424479893</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University">Sterkens, dr. C.J.A. DAI=info:eu-repo/dai/nl/182934160</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University">Venbrux, prof. dr. H.J.M. DAI=info:eu-repo/dai/nl/07349156X</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University">Bijsterveld, prof. dr. mr. S.C. van DAI=info:eu-repo/dai/nl/072754818</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt/>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">religion</ddi:keyword>
+            <ddi:keyword xml:lang="en">humanism</ddi:keyword>
+            <ddi:keyword xml:lang="en">state</ddi:keyword>
+            <ddi:keyword xml:lang="en">youth, questionnaire</ddi:keyword>
+            <ddi:keyword xml:lang="en">Netherlands</ddi:keyword>
+            <ddi:keyword xml:lang="en">Flanders</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Theology and religious studies</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Social sciences</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Sociology</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">This research explores the different ways in which Dutch and Flemish youth perceive the ideal relationship between religion and state governance. More specifically, it explains the level of agreement by committed Christian, Muslim, and humanist youth in the Netherlands and Flanders with different models of relationships between religion (and worldview in general) and state, against the backdrop of their religious and humanist beliefs, as well as individual and contextual level determinants.
+
+The research is conducted by way of a questionnaire among committed Catholics, Protestants, Muslims, and humanists, who are 15 to 25 years old and live in either the Netherlands or Flanders. To collect the data, cooperation is sought with organizations, individuals with a broad network in the field, churches and mosques that attract a substantial number of young people, and lecturers of higher education who prepare young people to become paid professionals of religious or humanist organizations. The data collection resulted in 643 usable questionnaires. The results are analysed in SPSS Statistics.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">Collection period: start=2017-03-01; end=2017-12-31;</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">REQUEST_PERMISSION</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="English"/>
+   </ddi:fileDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="Dutch"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

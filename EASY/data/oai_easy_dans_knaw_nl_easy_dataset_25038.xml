@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:25038</identifier>
+    <datestamp>2021-04-15T21:05:11Z</datestamp>
+    <setSpec>D20000:D24000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Disease Prevention (LISS Core Study)</ddi:titl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:25038</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-xaq-s8ms</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en">CentERdata - Institute for data collection and research - Tilburg University</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="2010-05-28"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">preventive care</ddi:keyword>
+            <ddi:keyword xml:lang="en">flu</ddi:keyword>
+            <ddi:keyword xml:lang="en">flu shot</ddi:keyword>
+            <ddi:keyword xml:lang="en">cervical cancer test</ddi:keyword>
+            <ddi:keyword xml:lang="en">mammograms</ddi:keyword>
+            <ddi:keyword xml:lang="en">STD test</ddi:keyword>
+            <ddi:keyword xml:lang="en">prevention of heart disease</ddi:keyword>
+            <ddi:keyword xml:lang="en">risk of disease</ddi:keyword>
+            <ddi:keyword xml:lang="en">risk of mortality</ddi:keyword>
+            <ddi:keyword xml:lang="en">probability of survival</ddi:keyword>
+            <ddi:keyword xml:lang="en">probability of death</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Life sciences, medicine and health care </ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Health sciences</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">The study focuses on health behavior and disease probabilities.                 
+                 
+In September 2008, a questionnaire on preventive care and the value of risk reduction was administered to the LISS panel. Panel members were asked about their participation in preventive care programs available in the Netherlands (flu shots, cervical cancer tests, mammograms, STD tests and the use of aspirin for the prevention of heart disease). In addition, they were asked about their previous experience with the disease and prevention, whether they were invited to participate in the free program, the motivations behind their participation decision, the actual or expected costs of the intervention, risk factors that might influence their individual risk of disease, and their perceptions of the risks they face with and without preventive care. Panel members were asked a number of subjective probability questions, including the risk of developing a particular disease and the risk of mortality. The questionnaire also had an experiment to investigate the role of framing. Some people were asked about the probability of survival and others were asked about the probability of death. Also the order of the subjective probability questions was randomized. Finally, visual aids were used to help people to interpret and express small probabilities: One third of the respondents answered the probability questions in a normal answer box, one third received a digital scale to provide their answer, and one third was presented a number-line with a magnifier, making it easier to choose very small probabilities.                  
+                 
+In Januari 2009, a question was asked in the LISS panel about the flu shot and in April 2009, a question about the flu itself. </ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">2008</ddi:collDate>
+            <ddi:collDate event="single">2009</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">NO_ACCESS</ddi:restrctn>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="English"/>
+   </ddi:fileDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="Dutch"/>
+   </ddi:fileDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="nl"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

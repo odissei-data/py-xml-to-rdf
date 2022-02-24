@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:48232</identifier>
+    <datestamp>2021-04-15T21:06:47Z</datestamp>
+    <setSpec>D30000:D36000</setSpec>
+    <setSpec>driver</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">The Typological Database System (TDS) Curator documentation</ddi:titl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:48232</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-xkf-qjmg</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en">Alexis Dimitriadis, Utrecht Institute of Linguistics OTS (project leader)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Menzo Windhouwer, Max Planck Institute for Psycholinguistics</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Marc Kemps-Snijders, Meertens Instituut</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Rob Zeeman, Meertens Instituut</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Vesa Åkerman, DANS</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Marjan Grootveld, DANS</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">CLARIN-NL</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="2012-01-03"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">Language typology</ddi:keyword>
+            <ddi:keyword xml:lang="en">TDS Curator</ddi:keyword>
+            <ddi:keyword xml:lang="en">Language</ddi:keyword>
+            <ddi:keyword xml:lang="en">Web service</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Language and literature studies</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">The Typological Database System (TDS) is a web-based service that provides integrated access to a collection of independently created typological databases. It was developed with support from NWO grant 380-30-004 / INV-03-12 and from participating universities, and provides continued availability and extended documentation for its component databases, through a uniform structure and search interface. Web technologies evolve rapidly, and the system had begun to show its age even before the end of the project in 2009, motivating migration of the data collection to an archival platform. Through its Project Call 1, CLARIN-NL granted funding for migrating the resource to a durable, archival environment and converting it to a true web service architecture.
+This data set contains folders and files which together constitute the TDS Curator service. More information can be found in the documentationfile  'Overview of the TDS Curator Documentation data set.pdf'.</ddi:abstract>
+         <ddi:sumDscr/>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">OPEN_ACCESS_FOR_REGISTERED_USERS</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

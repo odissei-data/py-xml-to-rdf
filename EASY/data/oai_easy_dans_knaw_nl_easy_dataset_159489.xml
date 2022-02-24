@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:159489</identifier>
+    <datestamp>2021-04-15T21:08:06Z</datestamp>
+    <setSpec>driver</setSpec>
+    <setSpec>D50000</setSpec>
+    <setSpec>D60000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Effects of Environmental Tobacco Smoke exposure on brain functioning in never-smoking adolescents</ddi:titl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-zgc-5nbz</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:159489</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University">Dieleman, MSc J. DAI=info:eu-repo/dai/nl/401332225</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt/>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">ETS exposure</ddi:keyword>
+            <ddi:keyword xml:lang="en">addiction</ddi:keyword>
+            <ddi:keyword xml:lang="en">EEG</ddi:keyword>
+            <ddi:keyword xml:lang="en">ERP</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Behavioural and educational sciences</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Social sciences</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">The dataset contains all raw data of the participants and their parents as well as corresponding sum scores and other variables created and used for the analyses as described in the paper by Dieleman and Colleagues. The syntax contains the code for the main analyses (RM-ANOVA and Hierarchical Regression analyses all with and without covariates)  as well as how the sumscores and variables were created. 
+
+The paper addresses brain functioning, as indexed by event-related potentials (ERPs) related to smoking cue-reactivity, inhibitory control, and reward processing. These mechanisms have been found to be compromised in smokers. However, whether environmental tobacco smoke (ETS) exposure in never-smokers results in similar brain changes is unknown. This question is particularly relevant during adolescence, given ongoing brain maturation and a high risk of smoking initiation. This study therefore tested the associations between ETS exposure and ERPs reflecting cue-reactivity (P3, LPP), inhibitory control (N2, P3), and reward processing (anticipation P3 (P3), feedback-related negativity (FRN)) among never-smoking adolescents. 
+Eighty-four never-smoking adolescents (Non-exposed = 32, Exposed = 52) were tested, while they performed a smoking cue-reactivity, a Go/NoGo, and a Monetary Incentive Delay (MID) task while ERPs were measured. 
+Exposed and non-exposed groups did not differ in ERPs reflecting smoking cue-reactivity, inhibitory control, and reward processing. A negative correlation between ETS exposure and the  anticipatory P3 suggests reduced anticipatory reward sensitivity for non-drug rewards with increased levels of ETS exposure. However, since this effect was not consistent across analyses, no strong conclusions can be formulated. In the current study, few participants reported high levels of ETS exposure; therefore, further study is necessary. 
+Nevertheless, from this study, it can be concluded that low to moderate exposure to ETS during adolescence does not result in functional brain changes related to smoking cue-reactivity, inhibitory control, and reward processing.
+ 
+The codebook describes: 1) Recruitment, screening and inclusion, 2) Where data were collected, 3) Number of participants in the study and in addition contains a table which describes all the variables in the dataset. The table also refers where in the syntax the code can be found. The syntax clearly describes how we made for example sumscores and subsequently what analyses we ran. A full description on the measures and how we created them is given in the Methodology file.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">Collection period: start=2017-03-01; end=2017-08-01;</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">OPEN_ACCESS_FOR_REGISTERED_USERS</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="nl"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

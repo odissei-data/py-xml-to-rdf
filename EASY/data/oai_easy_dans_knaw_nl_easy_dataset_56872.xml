@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:56872</identifier>
+    <datestamp>2021-04-15T21:07:14Z</datestamp>
+    <setSpec>D70000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Dutch Colonial Business Elite 1902</ddi:titl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:56872</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-xed-htvm</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en">Kuitenbrouwer, M.</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Schijf, H.</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="2014-01-30"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">Interlocking Directorates</ddi:keyword>
+            <ddi:keyword xml:lang="en">Social Networks</ddi:keyword>
+            <ddi:keyword xml:lang="en">Corporate Elite</ddi:keyword>
+            <ddi:keyword xml:lang="en">Dutch Colonial Business Elite</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Social sciences</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Economics and Business Administration</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Kuitenbrouwer and Schijf focus on multiple directors from companies with their main activities in the Dutch East Indies. They collected data about Dutch colonial business elite for the year 1902 from the Handboek voor Cultuur- en Handelsondernemingen in Nederlandsch Indië. They have selected the largest Dutch owned joint-stock companies by sector. Their sample contains 212 companies active in the Dutch East Indies in agriculture (98), mining (47), industry (28), insurance (13), banking (10), and other sectors. The database contains the following information: the year the company was founded, the city where the headquarters is located, the amount of nominal capital, and the sector in which it operates. The database includes the names and function of the directors and sometimes also other personal characteristics. 186 companies have one or more interlocking directorships within the sample of 212 companies. There are 195 interlockers who occupy 564 seats. The Dutch colonial business elite in 1902 is predominated by regenten capitalists from Amsterdam and The Hague. In addition, this Dutch colonial business elite strongly overlaps with the national Dutch business elite, as it is identified by Schijf (1993).</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1902</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">REQUEST_PERMISSION</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

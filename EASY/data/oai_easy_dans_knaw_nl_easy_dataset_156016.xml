@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:156016</identifier>
+    <datestamp>2021-04-15T21:08:03Z</datestamp>
+    <setSpec>driver</setSpec>
+    <setSpec>D50000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+    <setSpec>D20000:D22000:D22400</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Ring-recovery data of starlings in the Netherlands</ddi:titl>
+            <ddi:parTitl xml:lang="en">100 years of travelling with starlings</ddi:parTitl>
+            <ddi:parTitl xml:lang="en">100 years of travelling with starlings</ddi:parTitl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-x87-3wu5</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:156016</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="NIOO-KNAW">Jeugd, dr. H.P. van der, ProjectLeader</ddi:AuthEnty>
+            <ddi:othId xml:lang="en" role="Sponsor">Data Archiving and Networked Services - DANS, subsidie Klein data Project - KDP 2019</ddi:othId>
+         </ddi:rspStmt>
+         <ddi:distStmt/>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">bird ringing</ddi:keyword>
+            <ddi:keyword xml:lang="en">Vogeltrekstation</ddi:keyword>
+            <ddi:keyword xml:lang="en">Starling</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Ecology</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Behavioural and educational sciences</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">The tradition of ringing birds as a means of studying avian populations is more than a century old. Scientific bird ringing is a research method based on the individual marking of birds. This technique is one of the most effective methods to study the biology, ecology, behaviour, movement, breeding productivity and population demography of birds.
+This data set contains 546667 individual records with ring-recovery data of starlings Sturnus vulgaris that have ever been ringed or recovered in the Netherlands during the period 1911-2019.
+The data set uses the standard EURING2000+ code which is available from www.euring.org
+The data set includes the end products of the project '100 years of travelling with starlings'.</ddi:abstract>
+         <ddi:sumDscr>
+            <dc:coverage>scheme=ABR-periode; code=NTC; value=Nieuwe tijd C: 1850 - heden;</dc:coverage>
+            <ddi:collDate event="single">1911-2019</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:conditions xml:lang="en">License: http://creativecommons.org/publicdomain/zero/1.0</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

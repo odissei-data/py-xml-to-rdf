@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:49061</identifier>
+    <datestamp>2021-04-15T21:06:48Z</datestamp>
+    <setSpec>D60000:D61000</setSpec>
+    <setSpec>D70000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Verwijzing naar de data van: WageIndicator continuous web-survey on work and wages 2000 - (ongoing)</ddi:titl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:49061</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-zpb-xqpv</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en">Tijdens, K.G. and P.Osse</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Amsterdam Institute for Advanced Labour Studies -  AIAS</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">University of Amsterdam</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Stichting Loonwijzer</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="2012-03-05"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">Bonus payments</ddi:keyword>
+            <ddi:keyword xml:lang="en">Collective agreements</ddi:keyword>
+            <ddi:keyword xml:lang="en">Economic Activity</ddi:keyword>
+            <ddi:keyword xml:lang="en">Employees</ddi:keyword>
+            <ddi:keyword xml:lang="en">Industries</ddi:keyword>
+            <ddi:keyword xml:lang="en">Informal economy</ddi:keyword>
+            <ddi:keyword xml:lang="en">Job satisfaction</ddi:keyword>
+            <ddi:keyword xml:lang="en">Labour market</ddi:keyword>
+            <ddi:keyword xml:lang="en">Moonlighting</ddi:keyword>
+            <ddi:keyword xml:lang="en">Ethnic groups</ddi:keyword>
+            <ddi:keyword xml:lang="en">Trade Unions</ddi:keyword>
+            <ddi:keyword xml:lang="en">Wages</ddi:keyword>
+            <ddi:keyword xml:lang="en">Women's empoyment</ddi:keyword>
+            <ddi:keyword xml:lang="en">Working conditions</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Economics and Business Administration</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Social sciences</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Sociology</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">The WageIndicator Survey is a continuous, multilingual, multi-country web-survey, counducted across 65 countries since 2000. The web-survey generates cross sectional and longitudinal data which might provide data especially about wages, benefits, working hours, working conditions and industrial relations. 
+The survey has detailed questions about earnings, benefits, working conditions, employment contracts and training, as well as questions about education, occupation, industry and household characteristics.
+
+Research Focus:
+The WageIndicator Survey is a multilingual questionnaire and aims to collect information on wages and working conditions. As labour markets and wage setting processes vary across countries, country specific translations have been favoured over literal translations. The WageIndicator Survey includes regularly extra survey questions for project targeting specific countries, for specific groups or about specific events.
+These projects usually address a specific audience (employees of a company, employees in an industry, readers of a magazine, members of a trade union or an occupational association, and alike). The data of the project questions are included in the dataset. 
+
+Sample:
+The target population of the WageIndicator is the labour force, that is, individuals in paid employment as well as job seekers. In addition to workers in formal dependent employment the survey aims to include apprentices, employers, own-account workers, freelancers, workers in family businesses, workers in the informal sector, unemployed workers, job seekers individuals who never had a job, as well as retired workers and housewifes school pupils or students with a job on the side and persons performing voluntary work. 
+The WageIndicator data is derived from a volunteer survey, inviting webvisitors to the national WageIndicator websites to complete the web-survey. Annually, the websites receive millions of web-visitors.
+
+Bias:
+Non-Probability web based surveys are problematic because not every individual has the same probability of being selected into the survey. The probability of being selected depends on national or regional internet access rates and on numbers of visitors accessing the webiste. Data of such surveys form a convenience rather than a probability sample. Due to the non-probability based nature of the survey and its selectivity the obtained results cannot be generalized for the population of interest; i.e. the labor force.
+Comparisons with representative studies found an underrepresentation of male labour force, part-timers, older age groups, and low educated persons. 
+Besides other strategies to reduce the bias the WageIndicators provides different weighting schemes in order to correct for selection bias.
+
+Data Characteristics:
+The data is organised in annual releases. The data of the period 2000-2005 is released as one dataset. Each data release consists of a dataset with continuous variables and one with project variables. The continuous variables can be merged across years. All variable and value labels are in English. The data does not include the text variables and verbatims form open-ended survey questions, these are available in Excel-Format upon request.
+
+Spatial Coverage:
+The survey started in 2000 in the Netherlands. Since 2004, websites have been launched in many European countries, in North and South America and in countries in Asia. From 2008 on web sites have been launched in more African countries, as well as in Indonesia and in a number of post-Soviet countries.
+For each country each, the questions have been translated. Multilingual countries employ multilingual questionnaires. Country-specific translations and locally accepted terminology have been favored over literal translations.
+
+Rights: Due to the confidential character of the WageIndicator microdata, direct access to the data is only provided by means of research contracts. Access is in principle restricted to universities and research institutes.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">2000 - ongoing</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">NO_ACCESS</ddi:restrctn>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

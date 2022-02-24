@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:76383</identifier>
+    <datestamp>2021-04-15T21:07:43Z</datestamp>
+    <setSpec>D50000:D51000</setSpec>
+    <setSpec>driver</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Testing the stress-buffering hypothesis of social support in couples coping with earlystage dementia</ddi:titl>
+            <ddi:parTitl xml:lang="en">DYADEM study</ddi:parTitl>
+            <ddi:parTitl xml:lang="en">DYADEM study</ddi:parTitl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-xdz-2m9m</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:76383</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Charité - Universitätsmedizin Berlin">Gellert, Dr. P.G., ProjectMember</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt/>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">Perceived social support</ddi:keyword>
+            <ddi:keyword xml:lang="en">Dementia</ddi:keyword>
+            <ddi:keyword xml:lang="en">Stress-buffering</ddi:keyword>
+            <ddi:keyword xml:lang="en">Psychosocial support</ddi:keyword>
+            <ddi:keyword xml:lang="en">Quality of life</ddi:keyword>
+            <ddi:keyword xml:lang="en">Perceived distress</ddi:keyword>
+            <ddi:keyword xml:lang="en">Depressive symptoms</ddi:keyword>
+            <ddi:keyword xml:lang="en">Functional disability</ddi:keyword>
+            <ddi:keyword xml:lang="en">Cognitive functioning</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Psychology</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">This is a minimal dataset for testing the stress-buffering hypothesis in couple data.
+
+Objective: To test whether the negative relationship between perceived stress and quality of life (Hypothesis 1) can be buffered by perceived social support in patients with dementia as well as in caregivers individually (Hypothesis 2: actor effects) and across partners (Hypothesis 3: partner effects and actor-partner effects).
+Methods: A total of 108 couples (N=216 individuals) comprised of one individual with early-stage dementia and one caregiving partner were assessed at baseline and one month apart. Moderation effects were investigated by applying linear mixed models and actor-partner interdependence models.
+Results: Although the stress-quality of life association was more pronounced in caregivers (β=-.63, p&lt;.001) compared to patients (β=-.31, p&lt;.001), this association was equally moderated by social support in patients (β=.14, p&lt;.05) and in the caregivers (β=.13, p&lt;.05). From one partner to his or her counterpart, the partner buffering and actor-partner-buffering effect were not present.
+Discussion: The stress-buffering effect has been replicated in individuals with dementia and caregivers but not across partners. Interventions to improve quality of life through perceived social support should not only focus on caregivers, but should incorporate both partners.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">November 2011 to April 2013 (wave one)</ddi:collDate>
+            <ddi:collDate event="single">March 2014 to April 2015 (wave two)</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:conditions xml:lang="en">License: http://creativecommons.org/publicdomain/zero/1.0</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:38773</identifier>
+    <datestamp>2021-04-15T21:06:42Z</datestamp>
+    <setSpec>driver</setSpec>
+    <setSpec>D60000:D64000</setSpec>
+    <setSpec>D30000:D34000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Results of the housing census, held in the last months of 1919 in municipalities with more than 2000 inhabitants and in some smaller municipalities in The Netherlands</ddi:titl>
+            <ddi:parTitl xml:lang="en">Uitkomsten der woningtelling gehouden in de laatste maanden van 1919 in gemeenten met meer dan 2000 inwoners en enkele kleinere gemeenten, Nederland</ddi:parTitl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:38773</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-xkb-nn7e</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en">Centraal Bureau voor de Statistiek (CBS)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">NIWI - KNAW</ddi:AuthEnty>
+            <ddi:othId xml:lang="en" role="contributor">Doorn (research initiator), P.K. DAI=info:eu-repo/dai/nl/069708959</ddi:othId>
+         </ddi:rspStmt>
+         <ddi:distStmt/>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">historical demography</ddi:keyword>
+            <ddi:keyword xml:lang="en">census</ddi:keyword>
+            <ddi:keyword xml:lang="en">demographic data</ddi:keyword>
+            <ddi:keyword xml:lang="en">population statistics</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">History</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Demography</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">This dataset is based on the housing census of the Netherlands of 1919.   
+       
+Content:   
+- images of the publication   
+- pdf file of the text sections   
+- excel files with data entered from the 4 published tables.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1919</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">OPEN_ACCESS_FOR_REGISTERED_USERS</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="nl"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

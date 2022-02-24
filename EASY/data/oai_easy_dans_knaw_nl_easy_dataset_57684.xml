@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:57684</identifier>
+    <datestamp>2021-04-15T21:07:16Z</datestamp>
+    <setSpec>D50000:D51000</setSpec>
+    <setSpec>D60000:D61000</setSpec>
+    <setSpec>driver</setSpec>
+    <setSpec>D60000:D64000</setSpec>
+    <setSpec>D50000:D53000</setSpec>
+    <setSpec>D20000:D24000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Longitudinal Aging Study Amsterdam, Public Use File data collection 1992 to 2006</ddi:titl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:57684</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-287-pkwn</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="EMGO Institute for Health and Care Research, VU University Medical Center/ Department of Sociology, VU University/Department of Epidemiology &amp; Biostatistics, VU University Medical Center/ Department of Psychiatry, VU University Medical Center">Huisman, PhD M</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="EMGO Institute for Health and Care Research, VU University Medical Center/ Department of Sociology, VU University">Poppelaars, J.</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="EMGO Institute for Health and Care Research, VU University Medical Center">Horst, M. van der</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Department of Psychiatry, VU University Medical Center">Beekman, Prof.dr. A.T.F. DAI=info:eu-repo/dai/nl/147578612</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Department of Sociology, VU University">Tilburg, Prof.dr. T.G. van DAI=info:eu-repo/dai/nl/073810525</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="EMGO Institute for Health and Care Research, VU University Medical Center/ Department of Sociology, VU University">Deeg, Prof.dr. D.J.H. DAI=info:eu-repo/dai/nl/073358673</ddi:AuthEnty>
+            <ddi:othId xml:lang="en" role="contributor">Funding Agency: Dutch Ministry of Welfare, Health and Culture</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor">Funding Agency: DANS</ddi:othId>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="2014-05-22"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">Older adults</ddi:keyword>
+            <ddi:keyword xml:lang="en">Physical functioning</ddi:keyword>
+            <ddi:keyword xml:lang="en">Emotional functioning</ddi:keyword>
+            <ddi:keyword xml:lang="en">Cognitive functioning</ddi:keyword>
+            <ddi:keyword xml:lang="en">Social functioning</ddi:keyword>
+            <ddi:keyword xml:lang="en">Health</ddi:keyword>
+            <ddi:keyword xml:lang="en">Observational Research</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Sociology</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Health sciences</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Gerontology</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Demography</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Psychology</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Social sciences</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Life sciences, medicine and health care </ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Behavioural and educational sciences</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">The Longitudinal Aging Study Amsterdam (LASA) is initiated by the Ministry of Health, Welfare and Sports in 1991 to investigate predictors and consequences of ageing. LASA has been conducted since then by the VU University and VU University Medical Center. LASA focuses on physical, emotional, cognitive and social functioning in late life, the connections between these aspects, and the changes that occur in the course of time.
+
+The deposit covers the data collection from 1992 to 2006. The construction of a Public Use File (PUF) with LASA data has been made possible by a grant from the Data Archiving and Networked Services (DANS). With this grant, the data from multiple measurement waves have been made homogeneous between waves and documentation has been created, which enable the independent use of LASA data by researchers.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1992-2006</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">OPEN_ACCESS_FOR_REGISTERED_USERS</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="nl"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

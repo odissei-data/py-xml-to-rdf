@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:121730</identifier>
+    <datestamp>2021-04-15T21:07:57Z</datestamp>
+    <setSpec>D20000:D24000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Data from: Impact of a logopaedic intervention program for people with dementia and their caregivers</ddi:titl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-xuw-knke</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:121730</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University">Olthof-Nefkens, M.W.L.J.</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University">Derksen, dr. E.W.C. DAI=info:eu-repo/dai/nl/298977508</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University">Swart, dr. B.J.M. de DAI=info:eu-repo/dai/nl/292344627</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University">Nijhuis-van der Sanden, prof. dr. M.W.G. DAI=info:eu-repo/dai/nl/207323186</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University">Kalf, dr. J.G. DAI=info:eu-repo/dai/nl/264831640</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt/>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">Dementia</ddi:keyword>
+            <ddi:keyword xml:lang="en">Communication</ddi:keyword>
+            <ddi:keyword xml:lang="en">Speech language therapy</ddi:keyword>
+            <ddi:keyword xml:lang="en">TOPICS-MDS</ddi:keyword>
+            <ddi:keyword xml:lang="en">Quality of life</ddi:keyword>
+            <ddi:keyword xml:lang="en">Caregiver Burden.</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Health sciences</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">We investigated the impact of a short-term and home-based logopaedic intervention program for people with dementia and their caregivers in a single-group repeated measures mixed-methods study. Our primary outcome measure was the newly designed and validated questionnaire ‘Experienced Communication in Dementia’ (ECD). Secondary outcome measures were obtained from ‘The Older Persons and Informal Caregivers Survey Minimum DataSet’(TOPICS-MDS): patient quality of life, patient health-related quality of life, patient psychological well-being, caregiver disease related burden, caregiver quality of life en caregiver happiness. Basic characteristics were also collected with the TOPICS-MDS. 
+More information about the TOPICS-MDS can be found on: https://topics-mds.eu/ 
+
+We included 40 patients with various types and severity of dementia (26 men (mean age 74 years; SD 7,1 years) and 14 women (mean age 75 years; SD 6,3 years)) and 44 of their informal caregivers (10 men and 34 women). 32 patients and 35 caregivers completed the intervention. 
+All measurements were done on five moments in time: before the intervention, after the intervention, and 3 – 6 – 9 months after completing the intervention. The drop-out rate was about 20% for each measurement. 16 patients and accompanying caregivers completed the whole study.
+
+This dataset is a cleaned version. Sum-scores are calculated where necessary. All variables are labelled and values are described in Dutch in the SPSS-file. The ECD questionnaire is also available (in Dutch). On the second measurement (done after completing the intervention) semi-structured interviews were conducted. Dutch transcripts were used for qualitative analysis, and are available on request.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">Collection period: start=2017-01-01; end=2018-12-31;</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">OPEN_ACCESS_FOR_REGISTERED_USERS</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="nl"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

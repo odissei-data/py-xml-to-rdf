@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:61475</identifier>
+    <datestamp>2021-04-15T21:07:24Z</datestamp>
+    <setSpec>driver</setSpec>
+    <setSpec>D30000:D31000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Free Licenses and Creative Commons: A Powerful Tool for Open Access Publishing in Grey Literature</ddi:titl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-zss-naep</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:61475</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="National Library of Technology, NTK">Petra Pejšová, Dr. P.</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Knowledge Resource Service, KRS; University of Calgary">Vaska, M.</ddi:AuthEnty>
+            <ddi:othId xml:lang="en" role="contributor">GreyNet International, Grey Literature Network Service</ddi:othId>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="2015-06-08"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">Licensing</ddi:keyword>
+            <ddi:keyword xml:lang="en">Creative Commons</ddi:keyword>
+            <ddi:keyword xml:lang="en">Open Access</ddi:keyword>
+            <ddi:keyword xml:lang="en">Grey Literature</ddi:keyword>
+            <ddi:keyword xml:lang="en">Publishing</ddi:keyword>
+            <ddi:keyword xml:lang="en">Sixteenth International Conference on Grey Literature - GL16</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Paleography, bibliology, bibliography, library science</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">This project aimed to uncover open licenses and describe how they are used, focusing on Creative Commons free licenses, the most widely known worldwide.  The Open Access movement has begun gaining greater acceptance, with numerous institutions either strongly encouraging and/or requiring their faculty, students, and staff to deposit their scholarly work in the institutional repository.  Via a survey, international, national, subject, and institutional repositories have been selected, in order to determine if Creative Commons licenses are being used at these facilities and if so, how and in what way (i.e. which type of documents are being deposited?, what is the degree of usage? etc).  The survey focusses on the different Creative Commons licenses available, and how these affect open access and copyright restrictions.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">September 26, 2014 to October 27, 2014</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:conditions xml:lang="en">License: http://creativecommons.org/publicdomain/zero/1.0</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

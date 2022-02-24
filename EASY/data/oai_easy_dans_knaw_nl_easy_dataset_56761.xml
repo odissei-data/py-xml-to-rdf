@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:56761</identifier>
+    <datestamp>2021-04-15T21:07:13Z</datestamp>
+    <setSpec>driver</setSpec>
+    <setSpec>D60000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">NIPO weekpeilingen 1996</ddi:titl>
+            <ddi:parTitl xml:lang="en">NIPO opinion polls 1996</ddi:parTitl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:56761</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-zz4-3hw8</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en">Netherlands Institute for Public Opinion and Marketing Research - NIPO</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="2014-01-21"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">publieke opinie onderzoek</ddi:keyword>
+            <ddi:keyword xml:lang="en">opinion poll</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Social sciences</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Data derived from weekly public opinion polls in the Netherlands in 1996 concerning social and political issues. Samples were drawn from the Dutch population aged 18 years and older.
+
+All data from the surveys held between 1962 and 2000 are available in the DANS data collections.
+
+Background variables:
+Sex / age / religion / income / vote recall latest elections / party preference / if stated not knowing what party to vote for at next elections: what party will have most chances that respondent will vote for? / level of education / union membership / professional status / &lt; self > left‐right rating / party alignment / province / degree of urbanization / weight factor.
+
+Topical variables:
+n9605: If VVD will be largest party after elections, whom from VVD for prime-minister: Bolkestein / Wiegel / Someone else.
+n9606: If VVD will be largest party after elections, whom from VVD for prime-minister: Bolkestein / Wiegel / Someone else.
+n9607: If VVD will be largest party after elections, whom from VVD for prime-minister: Bolkestein / Wiegel / Someone else.
+n9608: If VVD will be largest party after elections, whom from VVD for prime-minister: Bolkestein / Wiegel / Someone else.
+n9615: Who to decide how to govern our country: Bolkestein, Borst, Heerma, de Hoop Scheffer, Jorritsma, Kok, Lubbers, van Mierlo, Rosenmuller, Rottenberg, Sorgdrager, Terpstra, Wallage, Wiegel, Wolffensperger / In two years time new Parliamentary elections: from what parties should there be ministers in Dutch cabinet? / Knowing what parties form government at this time? / Mention parties that form present government / Who to become prime-minister after elections in two years' time?
+n9634: Type of people in general speaking truth, being honest teachers, doctors, priests, vicars, TV-newsreaders, professors, judges, 'man or woman in the street', police, survey researchers, civil servants, union-leaders, business-people, politicians, ministers, journalists, scientists (for example natural scientists, chemical scientists, etc.). Reading specific newspapers like: Algemeen Dagblad, De Telegraaf, Het Nieuws van de Dag, NRC Handelsblad, Het Parool, Trouw, De Volkskrant. Reading these newspapers regularly or not.
+n9636: Statements about politicians and political parties: Members of Parliament are not concerned with opinions of people like me / At elections political parties only interested in somebody's vote not in one's opinion.
+n9638: Placing particular political parties on left-right scale: CDA, PvdA, VVD, D66. Placing particular politicians on left-right scale: Bolkestein, de Boer, Heerma, de Hoop Scheffer, Jorritsma, Kok, Lubbers, van Mierlo, Wallage, Wiegel, Wolffensperger, Weijers.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:nation abbr="NLD" xml:lang="en">The Netherlands</ddi:nation>
+            <ddi:collDate event="single">1996</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">OPEN_ACCESS_FOR_REGISTERED_USERS</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="nl"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

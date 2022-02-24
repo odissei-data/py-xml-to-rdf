@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:55423</identifier>
+    <datestamp>2021-04-15T21:07:06Z</datestamp>
+    <setSpec>D60000:D66000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Evaluating Website Quality</ddi:titl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:55423</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-xy8-drcr</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Utrecht University">Lentz, prof. dr. L.R. DAI=info:eu-repo/dai/nl/074712470</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Utrecht University">Elling, dr. S.K.</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="2013-09-10"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">Website Evaluation</ddi:keyword>
+            <ddi:keyword xml:lang="en">Evaluation methods</ddi:keyword>
+            <ddi:keyword xml:lang="en">Usability</ddi:keyword>
+            <ddi:keyword xml:lang="en">Think-aloud method</ddi:keyword>
+            <ddi:keyword xml:lang="en">Eye tracking</ddi:keyword>
+            <ddi:keyword xml:lang="en">Questionnaire</ddi:keyword>
+            <ddi:keyword xml:lang="en">User feedback</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Social sciences</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Communication sciences</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Dit bestand bevat de data die zijn verzameld in het kader van het proefschrift van Sanne Elling: ‘Evaluating website quality: Five studies on user-focused evaluation methods’. 
+
+Summary:
+The benefits of evaluating websites among potential users are widely acknowledged. There are several methods that can be used to evaluate the websites’ quality from a users’ perspective. In current practice, many evaluations are executed with inadequate methods that lack research-based validation. This thesis aims to gain more insight into evaluation methodology and to contribute to a higher standard of website evaluation in practice. A first way to evaluate website quality is measuring the users’ opinions. This is often done with questionnaires, which gather opinions in a cheap, fast, and easy way. However, many questionnaires seem to miss a solid statistical basis and a justification of the choice of quality dimensions and questions. We therefore developed the ‘Website Evaluation Questionnaire’ (WEQ), which was specifically designed for the evaluation of governmental websites. In a study in online and laboratory settings the WEQ has proved to be a valid and reliable instrument. A way to gather more specific user opinions, is inviting participants to review website pages. Participants provide their comments by clicking on a feedback button, marking a problematic segment, and formulating their feedback. 
+
+There has been debate about the extent to which users are able to provide relevant feedback. The results of our studies showed that participants were able to provide useful feedback. They signalled many relevant problems that indeed were experienced by users who needed to find information on the website. Website quality can also be measured during participants’ task performance. A frequently used method is the concurrent think-aloud method (CTA), which involves participants who verbalize their thoughts while performing tasks. There have been doubts on the usefulness and exhaustiveness of participants’ verbalizations. Therefore, we have combined CTA and eye tracking in order to examine the cognitive processes that participants do and do not verbalize. The results showed that the participants’ verbalizations provided substantial information in addition to the directly observable user problems. There was also a rather high percentage of silences (27%) during which interesting observations could be made about the users’ processes and obstacles. A thorough evaluation should therefore combine verbalizations and (eye tracking) observations. In a retrospective think-aloud (RTA) evaluation participants verbalize their thoughts afterwards while watching a recording of their performance. A problem with RTA is that participants not always remember the thoughts they had during their task performance. We therefore complemented the dynamic screen replay of their actions (pages visited and mouse movements) with a dynamic gaze replay of the participants’ eye movements. 
+
+Contrary to our expectations, no differences were found between the two conditions. It is not possible to draw conclusions on the single best method. The value of a specific method is strongly influenced by the goals and context of an evaluation. Also, the outcomes of the evaluation not only depend on the method, but also on other choices during the evaluation, such as participant selection, tasks, and the subsequent analysis.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:nation abbr="NLD" xml:lang="en">The Netherlands</ddi:nation>
+            <ddi:collDate event="single">2008-2011</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">REQUEST_PERMISSION</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="nl"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

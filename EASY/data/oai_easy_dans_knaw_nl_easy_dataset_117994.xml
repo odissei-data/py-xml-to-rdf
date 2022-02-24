@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:117994</identifier>
+    <datestamp>2021-04-15T21:07:53Z</datestamp>
+    <setSpec>D10000:D18000:D18100:D18130</setSpec>
+    <setSpec>D60000:D62000</setSpec>
+    <setSpec>D10000:D15000:D15700</setSpec>
+    <setSpec>E10000:E15000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Valuing Soil's Economic Worth: Vol. 1</ddi:titl>
+            <ddi:parTitl xml:lang="en">Data sets used mainly for CVM, DCE and PF studies</ddi:parTitl>
+            <ddi:parTitl xml:lang="en">Data sets used mainly for CVM, DCE and PF studies</ddi:parTitl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-xwy-aqvn</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:117994</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="ITC - University of Twente">Dimal, Dr. M.O.R.L., ProjectLeader</ddi:AuthEnty>
+            <ddi:othId xml:lang="en" role="ProjectMember" affiliation="ITC - University of Twente">Jetten, Prof. V.G., ProjectMember</ddi:othId>
+            <ddi:othId xml:lang="en" role="DataCollector" affiliation="Norzagaray Municipal Office">Pascual, A.T., DataCollector</ddi:othId>
+         </ddi:rspStmt>
+         <ddi:distStmt/>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="nl">scheme=ABR-complex; code=EX; value=Economie, onbepaald;</ddi:keyword>
+            <ddi:keyword xml:lang="en">Soil economics, soil value, GIS</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Environmental studies</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Geodesy, physical geography</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Social geography</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Soil</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Datasets used in the econometric analysis of soil value in the Phillippine town of Norzagaray Bulacan</ddi:abstract>
+         <ddi:sumDscr>
+            <dc:coverage>scheme=ABR-periode; code=NTC; value=Nieuwe tijd C: 1850 - heden;</dc:coverage>
+            <ddi:collDate event="single">1980-2018</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">REQUEST_PERMISSION</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

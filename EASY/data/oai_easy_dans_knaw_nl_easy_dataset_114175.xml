@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:114175</identifier>
+    <datestamp>2021-04-15T21:07:52Z</datestamp>
+    <setSpec>driver</setSpec>
+    <setSpec>D60000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Productive Uses of Energy and Gender in the Street Food Sector in Rwanda, Senegal and South Africa</ddi:titl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-z33-jcrd</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:114175</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="University of Twente">Mohlakoana, dr. N, ProjectLeader</ddi:AuthEnty>
+            <ddi:othId xml:lang="en" role="">MARGE and IB&amp;C (Rwanda), ENDA Energie (Senegal), University of Cape Town (South Africa)</ddi:othId>
+         </ddi:rspStmt>
+         <ddi:distStmt/>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">gender</ddi:keyword>
+            <ddi:keyword xml:lang="en">street food sector</ddi:keyword>
+            <ddi:keyword xml:lang="en">energy use</ddi:keyword>
+            <ddi:keyword xml:lang="en">informal enterprises</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Social sciences</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">‘Productive Uses of Energy and gender in the Street Food Sector’, is a title of our four year project which is part of the DFID funded ENERGIA Gender and Energy Research programme. This research focuses on male and female owned micro enterprises preparing and selling food in Rwanda, Senegal and South Africa. This sector provides livelihoods for many women and men in these countries and this project provides the gender and energy nexus analysis. One of the primary goals of this project is to influence energy policy making and implementation in the focus countries.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">2017</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">OPEN_ACCESS_FOR_REGISTERED_USERS</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

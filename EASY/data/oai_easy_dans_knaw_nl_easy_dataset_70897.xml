@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:70897</identifier>
+    <datestamp>2021-04-15T21:07:40Z</datestamp>
+    <setSpec>D50000:D51000</setSpec>
+    <setSpec>driver</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Negative Body Image - Relationships with Heightened Disgust Propensity, Disgust Sensitivity, and Self-Directed Disgust</ddi:titl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-z7q-7ath</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:70897</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="University of Groningen">Glashouwer, Dr. K.</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="University of Groningen">Bennik, Dr. E.C.</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="University of Groningen">Spreckelsen, BSc. P. von</ddi:AuthEnty>
+            <ddi:othId xml:lang="en" role="">Funding agency: NWO</ddi:othId>
+         </ddi:rspStmt>
+         <ddi:distStmt/>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">Body Image</ddi:keyword>
+            <ddi:keyword xml:lang="en">Disgust Propensity</ddi:keyword>
+            <ddi:keyword xml:lang="en">Disgust Sensitivity</ddi:keyword>
+            <ddi:keyword xml:lang="en">Self-Directed Disgust</ddi:keyword>
+            <ddi:keyword xml:lang="en">trait disgust</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Psychology</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">The research project tests in two correlational studies among undergraduates a series of critical relationships: 1) trait disgust propensity would increase the risk of developing a negative body image by increasing the likelihood of feeling self-disgust, and 2) trait disgust sensitivity would heighten the impact of self-disgust on the development of persistent negative body appraisals.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">fall 2013 - fall 2015</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:conditions xml:lang="en">License: http://creativecommons.org/publicdomain/zero/1.0</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

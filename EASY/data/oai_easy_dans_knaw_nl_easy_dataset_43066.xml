@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:43066</identifier>
+    <datestamp>2021-04-15T21:06:45Z</datestamp>
+    <setSpec>D40000:D42000:D42100</setSpec>
+    <setSpec>D30000:D34000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">The writings of the Russian anarchist Michail Aleksandrovic Bakunin</ddi:titl>
+            <ddi:parTitl xml:lang="en">Bakounine: Oeuvres complètes</ddi:parTitl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-2cw-xzuu</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:43066</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en">Internationaal Instituut voor Sociale Geschiedenis (IISG)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">NIWI-KNAW</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">International Institute for Social History (primary investigator)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">M. van den Berk (interface and search system)</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="2009-08-17"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">political history</ddi:keyword>
+            <ddi:keyword xml:lang="en">biographic data</ddi:keyword>
+            <ddi:keyword xml:lang="en">historical sources</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">History</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Political science</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">This dataset contains the writings of the Russian anarchist Michail Aleksandrovic Bakunin. It includes images and transcriptions of more than 1200 letters and more than 350 texts that Bakunin wrote in the period 1823-1876. Apart from the writings and letters of Bakunin, the dataset contains miscellaneous materials, like notes Bakunin made on works he studied, codes he used for some of his correspondence, and personal documents.     
+     
+Of all documents a version is available in French. For documents that Bakunin wrote in other languages, a transcription in the original language is also available. Russian texts are presented in cyrillic. The dataset contains images of all original manuscripts available so as to enable comparison with the transcriptions.     
+     
+Transcriptions of texts are based on Bakunin's original manuscripts (or microfilms or photocopies of these) whenever these were available. Information is provided about the manuscripts and editions used. Additional notes provide details about date, place of origin, location of the document, original language, translation, and addressee.     
+     
+All the data were published on CD-Rom: "Bakounine: Oeuvres complètes". Amsterdam: Edita, 2000; ISBN 90-6984-303-X (publication of IISG, NIWI and KNAW).</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1823 - 1876</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">REQUEST_PERMISSION</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="fr"/>
+   </ddi:fileDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="Russian"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

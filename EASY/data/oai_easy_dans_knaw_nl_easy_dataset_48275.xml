@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:48275</identifier>
+    <datestamp>2021-04-15T21:06:47Z</datestamp>
+    <setSpec>D30000</setSpec>
+    <setSpec>D60000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Recording the Future: An Audiovisual Archive of Everyday Life in Indonesia in the 21st Century</ddi:titl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-2bb-gckv</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:48275</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en">Royal Netherlands Institute of Southeast Asian and Caribbean Studies (KITLV)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Offstream Filmmakers Jakarta</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Royal Tropical Institute (Tropenmuseum)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Henk Schulte-Nordholt</ddi:AuthEnty>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="KITLV">Steijlen (project coördinator), Dr F.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="KITLV">Schulte Nordholt, Prof. dr. H.</ddi:othId>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="2012-01-05"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">everyday life in Indonesia</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Social sciences</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Humanities</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">This project aims at documenting aspects of everyday life in Indonesia during the 21st century by creating an audiovisual archive that consists of recordings made in eight different places throughout the Indonesian archipelago. They are not a statistical representation of ‘Indonesia’, but open different windows on everyday life in Indonesia: the city, the provincial and harbor town, and rural, uphill, coastal and river areas. 
+
+The project started in 2003. Each year recordings are made in two places over a period of ten days, which results in 25-30 hours of recordings. In four years eight places are documented, after which the camera returns to the first place. The systematic repetition of recordings will open up the possibility of making comparisons in order to measure change and continuity.
+
+Recordings are made from a fixed spot, from the top of a car and during walks of 3-4 hours. During the walk the filmmakers stop to talk with people, usually beginning by asking them what they are doing. Every morning the headlines of available newspapers are filmed, to catch glimpses of national events, world news and local issues. In addition, a variety of themes and topics we are familiar with but tend to ignore in terms of documentation – a school class, Friday prayer at the mosque, a railway station etc. – is recorded. During the recordings a diary is kept in which decisions about locations, trajectories, themes, topics and persons are explained. The recordings are made without a prefabricated script. The archive will eventually consist of the original and unedited recordings, a catalogue, a diary and digital photos.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">2003-2014</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">NO_ACCESS</ddi:restrctn>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

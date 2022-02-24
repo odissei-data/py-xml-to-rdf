@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:57617</identifier>
+    <datestamp>2021-04-15T21:07:15Z</datestamp>
+    <setSpec>D30000:D34000:D34300</setSpec>
+    <setSpec>driver</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Dutch Ships and Sailors - Noordelijke Monsterrollen Databases as RDF</ddi:titl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:57617</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-zce-khtk</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Huygens ING">Heerma van Voss, Prof.Dr. L.</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="VU University Amsterdam">Boer, Dr. V. de</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="VU University Amsterdam">Rossum, Dr. M. van</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Huygens ING">Leinenga, Dr. J.</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="VU University Amsterdam">Davids, Prof.Dr. C.A. DAI=info:eu-repo/dai/nl/071885390</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="International Institute of Social History (IISH) / VU University Amsterdam">Lucassen, Prof.Dr. J. DAI=info:eu-repo/dai/nl/070063958</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="The National Maritime Museum">Schokkenbroek, Prof.Dr. J.C.A. DAI=info:eu-repo/dai/nl/120425823</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Huygens ING">Hoekstra, Dr. R.</ddi:AuthEnty>
+            <ddi:othId xml:lang="en" role="contributor">Funding Agency: CLARIN</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor">Funding Agency: DANS</ddi:othId>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="2014-04-22"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">linked data</ddi:keyword>
+            <ddi:keyword xml:lang="en">digital history</ddi:keyword>
+            <ddi:keyword xml:lang="en">maritime data</ddi:keyword>
+            <ddi:keyword xml:lang="en">semantic web</ddi:keyword>
+            <ddi:keyword xml:lang="en">heterogeneous data cloud</ddi:keyword>
+            <ddi:keyword xml:lang="en">northern muster rolls</ddi:keyword>
+            <ddi:keyword xml:lang="en">ships</ddi:keyword>
+            <ddi:keyword xml:lang="en">sailors</ddi:keyword>
+            <ddi:keyword xml:lang="en">logbooks</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Modern and contemporary history</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Dutch Ships and Sailors is a project that aims to provide an infrastructure for maritime historical datasets, linking correlating data through semantic web technology. It brings together datasets related to recruitment and shipping in the East-India trade (mainly 18th century) and in the shipping of the northern provinces of the Netherlands (mainly 19th century). For the northern provinces, the database contains data on the personnel recruited, the ships, and other variables (muster rolls of the northern provinces of the Netherlands).
+
+Dutch Ships and Sailors is a CLARIN IV-project, hosted by Huygens ING in collaboration with VU University Amsterdam, the International Institute of Social History and Scheepvaartmuseum Amsterdam.
+
+The data from this project are divided over 5 datasets. See the ‘Thematic collection: Dutch Ships and Sailors’ dataset for a full overview.
+
+This dataset is a conversion to RDF/Turtle of a previous data collection from Dutch northern muster rolls and mustering registers. These original sources contain information on the ship, the name of the ship, the captain, the crew, the tonnage,  the data and place of monstering, and the ships destination. In the original sources this information is broken down in separate categories and is documented according to a standard format.
+
+The source data for this dataset were the Noordelijke Monsterollen Databases (MDB) (Northern Muster Rolls Databases) created by historian Jurjen Leinenga. These databases contain mustering information from the period 1803-1837 found in archives, maritime museums and private collections in the four northern Dutch provinces (Groningen, Friesland, Drenthe and Overijssel).</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1803-1936</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:conditions xml:lang="en">License: http://creativecommons.org/publicdomain/zero/1.0</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="nl"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:33318</identifier>
+    <datestamp>2021-04-15T21:04:49Z</datestamp>
+    <setSpec>driver</setSpec>
+    <setSpec>D40000:D42000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Nationaal Kiezersonderzoek, NKO 1986-1989 panel</ddi:titl>
+            <ddi:parTitl xml:lang="en">Dutch parliamentary election study, 1986-1989, panel-study - DPES'86'89</ddi:parTitl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:33318</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-x3d-c4ph</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en">Eijk, C. van der, Niemoeller, B., Irwin, G.A., Nederlandse interuniversitaire studie werkgroep verkiezingen * Amsterdam, Holsteyn, J.J.M. van, Tillie, J. (primary investigator)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Dutch inter-university election study workgroup  (depositor)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Dutch interuniversity election study workgroup * Amsterdam (research initiator)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Intomart * Hilversum (data collector)</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt/>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">political science</ddi:keyword>
+            <ddi:keyword xml:lang="en">elections</ddi:keyword>
+            <ddi:keyword xml:lang="en">politics, internal</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Political and administrative sciences</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">First wave: political interest / national problems / party identification and membership / voting behaviour 1986 municipal elections / political issues: income policy / abortion / nuclear energy / income differences / nuclear energy / vote intention 1986 / second wave : political interest / party identification / political efficacy and cynicism / religion / effects of and satisfaction with government policy / voting behaviour 1986, 1982, of partner in 1986 / left - right rating / faith in prospective premiers / political issues :L abortion / nuclear energy / differences in income / nuclear armaments and energy / economy and social security /future voting probability / experience with unemployment / trait-evaluations of politicians / third wave: political interest / voting behaviour 1989 / government policy / political issues : nuclear energy / euthanasia / income differences / economy and social security / pollution / nuclear armaments / customs and traditions /left-right rating / expectations of economic development / experience of unemployment / future voting / participation in new social movements / progressiveness and conservatism. Background variables: basic characteristics/ residence/ housing situation/ household characteristics/ occupation/employment/ income/capital assets/ education/ social class/ politics/ religion/ organizational membership.       
+The data- and documentation files of this dataset can be downloaded via the option Data Files.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1986 * 1989</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">OPEN_ACCESS_FOR_REGISTERED_USERS</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

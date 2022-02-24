@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:60556</identifier>
+    <datestamp>2021-04-15T21:07:23Z</datestamp>
+    <setSpec>D50000</setSpec>
+    <setSpec>D60000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">The learner as designer: Processes and effects of an experimental programme in primary mathematics education</ddi:titl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:60556</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-26n-q22b</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="VU University Amsterdam">Terwel, Prof. dr. J. DAI=info:eu-repo/dai/nl/069946957</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="VU University Amsterdam">Oers, Prof.dr. H.J.M. van DAI=info:eu-repo/dai/nl/069549702</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="VU University Amsterdam">Dijk, Dr. I.M.A.W. van</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="VU University Amsterdam">Eeden, Dr. P.J.W.M. van den DAI=info:eu-repo/dai/nl/068033168</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="2015-01-29"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">primary mathematics education</ddi:keyword>
+            <ddi:keyword xml:lang="en">learning</ddi:keyword>
+            <ddi:keyword xml:lang="en">transfer</ddi:keyword>
+            <ddi:keyword xml:lang="en">collaborative learning</ddi:keyword>
+            <ddi:keyword xml:lang="en">providing versus generating</ddi:keyword>
+            <ddi:keyword xml:lang="en">designing models</ddi:keyword>
+            <ddi:keyword xml:lang="en">primary school</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Behavioural and educational sciences</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Social sciences</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">In most strategy research the focus is on ready-made models provided by the teacher or textbook.  However, in this research project the effects are described of an experimental program in primary math education, concerning the construction and use of models by pupils in guided co-construction. In a field experiment with an experimental group and a control group 239 grade-5 pupils were involved. In a series of experimental lessons, pupils were taught to design models as a tool in the learning mathematics. The results of the experimental program were compared with the outcomes of a program in the control group, based on the teachers’ strategy of ‘directly providing models’ to the pupils. The conclusion, then, is that children in the experimental condition significantly outperform children in the control condition. Limitations of the study are described. Outcomes and implications for classroom practices and future research are discussed.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1998-2002</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">REQUEST_PERMISSION</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

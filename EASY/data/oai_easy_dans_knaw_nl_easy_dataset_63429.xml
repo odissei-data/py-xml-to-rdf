@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:63429</identifier>
+    <datestamp>2021-04-15T21:07:27Z</datestamp>
+    <setSpec>D50000:D51000</setSpec>
+    <setSpec>driver</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Slow dissolving of distress contributes to hyperarousal</ddi:titl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-zs4-9f2m</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:63429</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Netherlands Institute for Neuroscience">Wassing, R</ddi:AuthEnty>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Netherlands Institute for Neurosciences">Benjamins, JS</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Netherlands Institute for Neuroscience">Dekker, K</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Netherlands Institute for Neuroscience">Moens, S</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="University Medical Center Freiburg">Spiegelhalder, K</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="University Medical Center Freiburg">Feige, B</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="University Medical Center Freiburg">Riemann, D</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Vrije Universiteit Medical Center">Sluis, S Van Der</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Vrije Universiteit Medical Center">Werf, YD Van Der</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="University of Amsterdam">Talamini, LM</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="University of California">Walker, MP</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Institute for Psychotherapy">Schalkwijk, F</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Netherlands Institute for Neurosciences">Someren, EJW Van</ddi:othId>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="2016-01-25"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">Psychology</ddi:keyword>
+            <ddi:keyword xml:lang="en">Insomnia</ddi:keyword>
+            <ddi:keyword xml:lang="en">REM sleep</ddi:keyword>
+            <ddi:keyword xml:lang="en">Hyperarousal</ddi:keyword>
+            <ddi:keyword xml:lang="en">Emotion</ddi:keyword>
+            <ddi:keyword xml:lang="en">Shame</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Psychology</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Insomnia is highly prevalent and a major risk factor for depression. Its most consistently reported characteristic is chronic hyperarousal, resembling enduring emotional distress. Understanding its cause would provide opportunities to develop better treatment and prevention of depression. Given recent insights in the role of rapid eye-movement (REM) sleep in emotion regulation, it was hypothesized that fragmented REM sleep interferes with the overnight resolution of emotional distress, contributing to its accumulation which shows as hyperarousal. Participants (N=1,199) completed questionnaires on insomnia, hyperarousal, nocturnal mental content—an indicator of restless REM sleep—and emotional distress after experiencing shame, a relevant self-conscious emotion in psychiatry. Structural equation analyses investigated whether restless REM sleep contributed to hyperarousal by leaving emotional distress unresolved.</ddi:abstract>
+         <ddi:sumDscr/>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:conditions xml:lang="en">License: http://creativecommons.org/publicdomain/zero/1.0</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

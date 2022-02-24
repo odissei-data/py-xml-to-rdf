@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:124407</identifier>
+    <datestamp>2021-04-15T21:07:58Z</datestamp>
+    <setSpec>driver</setSpec>
+    <setSpec>D30000:D35000:D35100</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Cinema Zoologie 1915–1936: A film programming database</ddi:titl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-x4q-jv9z</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:124407</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="KU Leuven">Engelen, Dr. L., ProjectLeader</ddi:AuthEnty>
+            <ddi:othId xml:lang="en" role="ProjectMember" affiliation="KU Leuven">Vande Winkel, Dr. R., ProjectMember</ddi:othId>
+            <ddi:othId xml:lang="en" role="ProjectMember" affiliation="Letterwerk">Crombez, Dr. T.K.M., ProjectMember</ddi:othId>
+         </ddi:rspStmt>
+         <ddi:distStmt/>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">film history</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">History of arts and architecture</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">The dataset holds data on the cinema-concert program of the Belgian movie theatre Cinema Zoologie. The cinema opened in October 1915, in then German-occupied Antwerp, and remained open continuously until May 1936. It was owned and operated by the Royal Zoological Society of Antwerp and located at the premises of the Antwerp Zoological Garden (Statieplein 1, Antwerp). The venue seated 2100 to 2400 people. The mixed program consisted of films and classical musical pieces.
+
+Abbreviations
+
+Belgium (B)
+Switzerland (CH)
+Denmark
+Spain (E)
+Italy (I)
+Morocco (MA)
+United States (USA)
+India (IND)
+Japan (J)
+The Netherlands (NL)
+Poland (PL)
+Russia (RUS)
+Sweden (S)
+South Africa (ZA)
+Great Britain (UK) 
+In case of co-productions, multiple countries are separated by a slash (e.g. D / F for Germany / France).</ddi:abstract>
+         <ddi:sumDscr>
+            <dc:coverage>scheme=ABR-periode; code=NTC; value=Nieuwe tijd C: 1850 - heden;</dc:coverage>
+            <ddi:collDate event="single">1915–1936</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:conditions xml:lang="en">License: http://creativecommons.org/publicdomain/zero/1.0</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="nl"/>
+   </ddi:fileDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="fr"/>
+   </ddi:fileDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="de"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

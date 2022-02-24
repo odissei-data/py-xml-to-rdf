@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:112988</identifier>
+    <datestamp>2021-04-15T21:07:51Z</datestamp>
+    <setSpec>D30000:D36000</setSpec>
+    <setSpec>driver</setSpec>
+    <setSpec>D60000:D66000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">NRC2011</ddi:titl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-zu9-c6q3</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:112988</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University">Spooren, prof. dr. W.P.M.S. DAI=info:eu-repo/dai/nl/074554212</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Hoek, J.</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University">Komen, dr. E.R. DAI=info:eu-repo/dai/nl/079403980</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University">Hulsbosch, MA M.A. DAI=info:eu-repo/dai/nl/391248413</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University">Heuvel, dr. H. van den DAI=info:eu-repo/dai/nl/136423701</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt/>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">newspaper</ddi:keyword>
+            <ddi:keyword xml:lang="en">NRC</ddi:keyword>
+            <ddi:keyword xml:lang="en">POS-tagging</ddi:keyword>
+            <ddi:keyword xml:lang="en">syntactic analysis</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Language and literature studies</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Communication sciences</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Newspaper texts taken from printed and and digital versions of the NRC newspaper. The texts cover blogs, hard news, background articles, opinion articles on related topics. Metadata per article are available in CMDI XML files.
+
+The 'NRC2011' corpus has been created for the CLARIAH sponsored ACAD project.
+See https://www.clariah.nl/projecten/research-pilots/acad/acad and https://cesar.science.ru.nl/.
+
+Cooperators:
+Micha Hulsbosch - Radboud University Nijmegen, Faculty of Arts, Humanities Lab, TSG
+Wilbert Spooren - Radboud University Nijmegen, Faculty of arts, Dutch language
+Erwin R. Komen - Radboud University Nijmegen, Faculty of Arts, Humanities Lab, TSG
+
+The corpus contains 2225 newspaper texts taken from printed and and digital versions of the NRC newspaper (year 2011). 
+The texts cover blogs, hard news, background articles, opinion articles on related topics. Metadata per article are available in CMDI XML files.
+
+The File textlist-folia.json contains an overview of all available texts in json format.
+
+The file NRCLicentieovereenkomst.pdf contains the License Agreement with NRC.
+
+===========================================================
+Version: Date:       Notes:
+1.0      5/jun/2018  [First] archiving of this corpus
+===========================================================</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">Collection period: start=2011-01-01; end=2011-12-31;</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">OPEN_ACCESS_FOR_REGISTERED_USERS</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="Dutch"/>
+   </ddi:fileDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="English"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

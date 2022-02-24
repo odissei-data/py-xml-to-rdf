@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:58687</identifier>
+    <datestamp>2021-04-15T21:07:19Z</datestamp>
+    <setSpec>D70000</setSpec>
+    <setSpec>D50000</setSpec>
+    <setSpec>D60000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">The effect of including an opt-out option in discrete choice experiments</ddi:titl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-zar-q6xh</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:58687</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en">Veldwijk, Drs. J.</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="2014-09-03"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Social sciences</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Economics and Business Administration</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Behavioural and educational sciences</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Objective: to determine to what extent the inclusion of an opt-out option in a DCE may have an effect on choice behaviour and therefore might influence the attribute level estimates, the relative importance of the attributes and calculated trade-offs. 
+Methods: 781 Dutch Type 2 Diabetes Mellitus patients completed a questionnaire containing nine choice tasks with an opt-out option and nice forced choice tasks. Mixed-logit models were used to estimate the relative importance of the five lifestyle program related attributes that were included. Willingness to pay (WTP) values were calculated and it was tested whether results differed between respondents who answered the choice tasks with an opt-out option in the first or second part of the questionnaire. 
+Results: 21.4% of the respondents always opted out. Respondents who were given the opt-out option in the first part of the questionnaire as well as lower educated respondents significantly more often opted out. For both the forced and unforced choice model, different attributes showed significant estimates, the relative importance of the attributes was equal. However, due to differences in relative importance weights, the WTP values for the PA schedule differed significantly between both datasets. 
+Conclusions: Results show differences in opting out based on the location of the opt-out option and respondents’ educational level; this resulted in small differences between the forced and unforced choice model. Since respondents seem to learn from answering forced choice tasks, a dual response design might result in higher data quality compared to offering a direct opt-out option. Future research should empirically explore how choice sets should be presented to make them as easy and less complex as possible in order to reduce the proportion of respondents that opts-out due to choice task complexity. Moreover, future research should debrief respondents to examine the reasons for choosing the opt-out alternative.</ddi:abstract>
+         <ddi:sumDscr/>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">REQUEST_PERMISSION</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

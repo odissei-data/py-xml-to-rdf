@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:31833</identifier>
+    <datestamp>2021-04-15T21:05:19Z</datestamp>
+    <setSpec>driver</setSpec>
+    <setSpec>D20000:D24000</setSpec>
+    <setSpec>D60000:D66000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Attitudes toward Europe 1962</ddi:titl>
+            <ddi:parTitl xml:lang="en">Attitudes toward Europe 1962</ddi:parTitl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:31833</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-xnx-qv2y</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en">International Gallup Group (primary investigator)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">European Communities, Press and Information services (research initiator) </ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Emnid Institut * Bielefeld, GermanyIFOP * Paris, FranceNIPO * Amsterdam, the Netherlands (data collector) </ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="1997-01-01"/>
+            <ddi:distDate xml:lang="en" date="2007-08-03"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">political science</ddi:keyword>
+            <ddi:keyword xml:lang="en">economics</ddi:keyword>
+            <ddi:keyword xml:lang="en">European Union</ddi:keyword>
+            <ddi:keyword xml:lang="en">international relations</ddi:keyword>
+            <ddi:keyword xml:lang="en">international politics</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Health sciences</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Communication sciences</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Survey concerning public opinion regarding the unification  of Europe. Themes: Most important problems for one's country: domestic,  agriculture, labour market, economy, standard of living, housing,  education, world peace, European unity / Being abroad, travelling,  countries one has visited / European unification: involvement  with it, expectations regarding it's realization, expected time  of realization, favouring or disapproving unification, reasons  for being in favour: abolition of war, fight against communism,	third power formation, bare survival of small states, economic	advantages, improving standard of living, socio-political  and cultural integration, historical trend, solidarity of rich  and poor, scientific efficiency / Expected risks or dangers:  internal tensions, dominance of certain states, cultural  differences, loss of independence, economic problems, industrial  relations damaged / Agreements, institutions and treaties	known  to respondent: European Common Market,  Euratom, Coal and Steel	Community, Agricultural agreement, Brussel's agreement, European  Defense Community, Benelux and others / Most important issues for  European community at present: entry of Great Britain, joining by  other countries, agricultural policy, common market formation,  adjustment of wages, differences of opinion, east-west relations,  political unification, colonial relationships / Media through which  respondent stays informed about these matters / Achievements regarding  unification: tariffs, borders, labour mobility, trade, industrial  cooperation, traffic &amp; transport, scientific &amp; cultural exchange,  agriculture, contacts politicians, defense cooperation / Perceived  effects of European cooperation / Memberhip of EC advantageous or  not and for which social groups specifically / Preference regarding  several policy alternatives: abolition of tariffs, labour mobility,	harmonizing educational qualifications, joint foreign policy, joint  scientific research, agricultural policy, harmonized social benefits,  support for poor regions, helping african countries / Are they  already provided for? / Main purpose of united Europe / Knowledge  of foreign languages / Extra background variables for Germany only:  social status, household size, marital status, religious denomination  and refugee status. Background variables: basic characteristics/ residence/ household characteristics/ occupation/employment/ income/capital assets/ education/ politics</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1962</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">OPEN_ACCESS_FOR_REGISTERED_USERS</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:56826</identifier>
+    <datestamp>2021-04-15T21:07:14Z</datestamp>
+    <setSpec>D70000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Interlocks In The Netherlands 1960-1980</ddi:titl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:56826</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-xsr-srn6</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en">Stokman, F.N.</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Knoop, J. van der</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="2014-01-30"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">Interlocking Directorates</ddi:keyword>
+            <ddi:keyword xml:lang="en">Social Networks</ddi:keyword>
+            <ddi:keyword xml:lang="en">Corporate Elite</ddi:keyword>
+            <ddi:keyword xml:lang="en">Corporate Governance</ddi:keyword>
+            <ddi:keyword xml:lang="en">Old Boys Network</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Social sciences</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Economics and Business Administration</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">This dataset contains information on interlocking directorates in the Netherlands of the period 1960-1980. The main interest of the creators was the stability of these interlocks. They started with the list of 200 largest production companies and 50 largest financial companies. For various reasons, they reduced the list to 55 production companies and 15 financial companies. They collected the names of directors of these companies for the years 1960, 1964, 1969, 1972, 1976 and 1980. In case of mergers they used data of the most important partner. The database contains information about the name, function and title of the directors. The database also shows the years in which a person is director at a particular company. Due to a large number of mergers between 1964 and 1969, the number of included companies reduced from 86 to 70. Since 1964 the number of multiple directors is stable around 160. Between 1960 and 1980 there were only 405 different multiple directors.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1960</ddi:collDate>
+            <ddi:collDate event="single">1964</ddi:collDate>
+            <ddi:collDate event="single">1969</ddi:collDate>
+            <ddi:collDate event="single">1972</ddi:collDate>
+            <ddi:collDate event="single">1976</ddi:collDate>
+            <ddi:collDate event="single">1980</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">REQUEST_PERMISSION</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="nl"/>
+   </ddi:fileDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

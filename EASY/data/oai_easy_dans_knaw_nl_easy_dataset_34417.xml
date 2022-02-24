@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:34417</identifier>
+    <datestamp>2021-04-15T21:06:40Z</datestamp>
+    <setSpec>D60000:D61000</setSpec>
+    <setSpec>D70000</setSpec>
+    <setSpec>D50000:D52000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">HEGESCO - Higher education as a generator of strategic competences.</ddi:titl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:34417</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-zx6-6tnq</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en">Research Center for Education and the Labour Market - ROA - Maastricht University</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt/>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">labour market</ddi:keyword>
+            <ddi:keyword xml:lang="en">higher education</ddi:keyword>
+            <ddi:keyword xml:lang="en">employment</ddi:keyword>
+            <ddi:keyword xml:lang="en">arbeidsmarkt</ddi:keyword>
+            <ddi:keyword xml:lang="en">hoger onderwijs</ddi:keyword>
+            <ddi:keyword xml:lang="en">werkgelegenheid</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Economics and Business Administration</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Behavioural and educational sciences</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Educational theory</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Social sciences</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Sociology</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">A survey of higher education graduates in five East European countries, Lithunia, Poland, Hungary, Slovenia, and Turkey.                  
+The project 'Higher Education as a Generator of Strategic Competences' (HEGESCO) addresses the needs of the main groups of higher education (HE) stakeholders who are interested in the employability of graduates. Based on several project reports, higher education institutions have been provided with empirically based evidence for planning their curricula, strategies and general orientations. Employers have been provided with evidence how skills, qualifications and job descriptions are developed, identified, interpreted, adapted, transferred, selected and rewarded. Policy makers at the national and European level have been provided with evidence on the implementation of the Bologna process. Higher education graduates learnt and reflected on their higher education learning experiences and the importance of other determinants of their career success. The scientific community have been provided with the Hegesco large scale survey database, which together with the Reflex database presents one of the largest graduate employability surveys in Europe and worldwide.                        
+                      
+In all of its activities, the project addresses two broad questions that were already initiated in the Hegesco project’s predecessor – the 'Reflex' project (short for Research into Employment and professional FLEXibility): “Which competences are required by higher education graduates in order to be better equipped for the world of work and active citizenship?” and “How should higher education institutions best contribute to the development of these competences?” These two questions present a general framework for further surveying requirements in the labour market, the match between acquired and required competences, the general characteristics of higher education institutions, such as academic or vocation orientation, and the role of different learning and teaching modes. The findings of the Hegesco project are based on a large scale survey with a gross sample size of more than 30,000 graduates, and qualitative interviews among employers and HE institutions from five partner countries. The empirical work that has been conducted in Lithuania, Poland, Hungary, Slovenian and Turkey is compatible with the results of the Reflex project, which enables a cross-country comparison of nineteen  European countries.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">01/01/2002 thru 31/12/2008</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">REQUEST_PERMISSION</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="English"/>
+   </ddi:fileDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

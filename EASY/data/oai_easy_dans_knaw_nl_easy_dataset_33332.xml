@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:33332</identifier>
+    <datestamp>2021-04-15T21:06:32Z</datestamp>
+    <setSpec>D60000:D61000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Kamers en koppeling de effecten van een koppeling WSF/GBA op de kamermarkt voor studerenden 1998</ddi:titl>
+            <ddi:parTitl xml:lang="en">Lodging, and links of address data 1998</ddi:parTitl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:33332</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-xup-wec4</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en">Leenders, J. van, Hulshof, M., Regioplan Stad en Land - Amsterdam (primary investigator)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Ministerie van OC&amp;W * Zoetermeer (research initiator) </ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Regioplan Stad en Land bv * Amsterdam (data collector) </ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="1998-11-03"/>
+            <ddi:distDate xml:lang="en" date="2007-07-19"/>
+            <ddi:distDate xml:lang="en" date="2007-08-06"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">housing</ddi:keyword>
+            <ddi:keyword xml:lang="en">students</ddi:keyword>
+            <ddi:keyword xml:lang="en">higher education</ddi:keyword>
+            <ddi:keyword xml:lang="en">technology</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Sociology</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Study on the consequences of linking the address data of the national provider of study loans (IBG) to the address data of the municipal registry office. In case two addresses of a student are not equal, the studyloan will be terminated. Since some lodging housekeepers, landlords or sublessors prefer anonymity to the authorities  (for reasons of taxes, fire safety, social security etc.),  some students might get in trouble. Housing situation / satisfaction with housing situation / removals /  actual registration of respondents address(es) and reason  for different addresses / measures take by r.'s landlord  in case of legal address registration / measures taken  by r. in case legal address registration is necessary  to receive study loan Background variables: basic characteristics/ residence/ housing situation/ income/capital assets/ education</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1997</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">REQUEST_PERMISSION</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

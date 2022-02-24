@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:62211</identifier>
+    <datestamp>2021-04-15T21:07:26Z</datestamp>
+    <setSpec>D50000:D51000</setSpec>
+    <setSpec>D60000:D66000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">A Pronoun Analysis of Flemish Couples' Support Transactions</ddi:titl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-2bs-mqh6</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:62211</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Ghent University">Hinnekens, C.</ddi:AuthEnty>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Ghent University">Verhofstadt, Assistant Professor of Family Psychology L.</ddi:othId>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="2015-09-09"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">intimate relationships</ddi:keyword>
+            <ddi:keyword xml:lang="en">dyadic processes</ddi:keyword>
+            <ddi:keyword xml:lang="en">support interactions</ddi:keyword>
+            <ddi:keyword xml:lang="en">pronouns</ddi:keyword>
+            <ddi:keyword xml:lang="en">communication</ddi:keyword>
+            <ddi:keyword xml:lang="en">relationship quality</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Communication sciences</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Psychology</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">The present study examined the associations between couples’ level of relationship quality and the usage of pronouns reflecting a couples' sense of we-ness/separateness in the context of support interactions. The concept of togetherness is operationalized by two lexical categories that reflect the pronoun usage during a conversation between partners: (a) we-ness (we-words; e.g. we, ours, ourself), pronouns that refer to the couple as a collective entity and (b) separateness (you- and me-words; e.g. me, mine, you, yours), pronouns that refer to the individual partner. The above mentioned associations were tested using a laboratory-based observational study within a sample of 49 flemish heterosexual couples in long-term relationships. Couples provided questionnaire data (demographics and relationship quality) and participated in two videotaped social support interaction tasks in which both partners alternated between the role of support seeker or provider. Couples’ videotaped interactions were subsequently coded for the amount of personal pronouns spoken by both partners (i.e. we-ness/separateness). Preliminary results showed that couples’ self-reported relationship quality was positively associated with their level of we-ness, but not separateness, as expressed during their videotaped support interactions.
+
+Research conducted in Dutch.</ddi:abstract>
+         <ddi:sumDscr/>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">REQUEST_PERMISSION</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="Dutch"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

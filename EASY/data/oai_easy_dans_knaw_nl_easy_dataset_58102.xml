@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:58102</identifier>
+    <datestamp>2021-04-15T21:07:16Z</datestamp>
+    <setSpec>D50000:D51000</setSpec>
+    <setSpec>driver</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Orthographic coding in illiterates and literates</ddi:titl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:58102</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-zgz-mj7w</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Basque Center on Cognition, Brain and Language (BCBL)">Dunabeitia, PhD J.A.</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Basque Center on Cognition, Brain and Language (BCBL)">Orihuela, K.</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Basque Center on Cognition, Brain and Language (BCBL)/Ikerbasque, Basque Foundation for Science/ University of the Basque Country, Department of Basque Language and Communication">Carreiras, M.</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="2014-06-18"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">literacy</ddi:keyword>
+            <ddi:keyword xml:lang="en">orthography</ddi:keyword>
+            <ddi:keyword xml:lang="en">illiterates</ddi:keyword>
+            <ddi:keyword xml:lang="en">letter position</ddi:keyword>
+            <ddi:keyword xml:lang="en">transposed letters</ddi:keyword>
+            <ddi:keyword xml:lang="en">reading</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Behavioural and educational sciences</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Psychology</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Open Materials for the research article: Duñabeitia, J.A., Orihuela, K., &amp; Carreiras, M. (2014). Orthographic coding in illiterates and literates. Psychological Science, 25(6), 1275-1280.
+
+Article abstract:
+We investigated how literacy modifies one of the mechanisms of the visual system that is essential for efficient reading: flexible position coding. To do so, we focused on the abilities of literates and illiterates to compare two-dimensional strings of letters (Experiment 1) and symbols (Experiment 2) in which the positions of characters had been manipulated. Results from two perceptual matching experiments revealed that literates were sensitive to alterations in characters’ within-string position and identity, whereas illiterates are almost blind to these changes. We concluded that letter-position coding is a mechanism that emerges during literacy acquisition and that the recognition of sequences of objects is highly modulated by reading skills. These data offer new insights about the manner in which reading acquisition shapes the visual system by making it highly sensitive to the internal structure of sequences of characters.
+
+The file contains all the different strings used in the experiments in the three critical conditions ("same", "different transposed" and "different replaced") made of two different types of characters (only letters or only symbols).</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">2013</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:conditions xml:lang="en">License: http://creativecommons.org/publicdomain/zero/1.0</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

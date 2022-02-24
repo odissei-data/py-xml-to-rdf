@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:65023</identifier>
+    <datestamp>2021-04-15T21:07:31Z</datestamp>
+    <setSpec>driver</setSpec>
+    <setSpec>D60000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Thematic collection: Belgium General Election Study</ddi:titl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-z2n-rmw8</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:65023</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en">KU Leuven - ISPO Interuniversitair Steunpunt Politieke-Opinieonderzoek (ISPO)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">UCL (Louvain-la-Neuve) - Point d’appui Interuniversitaire sur l’Opinion publique et la Politique (PIOP)</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="2016-06-09"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Social sciences</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">The General Election Study Belgium focuses on general political attitudes and behavior. Data has been collected on political information and knowledge, perceptions of political bodies such as parties, and perceptions of problems and important issues. Other questions deal with party identification, party preferences, feelings of political efficacy, and the nature and extent of political participation. Perceptions of social class and (economic) well-being, authoritarian attitudes, attitudes to immigrant workers, political corruption and the environment are some of the other areas investigated in this study. Extensive demographic data on respondents and their families have also been collected.
+The General Election Study Belgium has many objectives. First of all, it is intended to show a cross-section of political attitudes and behavior of Belgians after each General Election. Second, in order to study possible developments in political attitudes and behavior, Belgian General Election Study requires a longitudinal character, similar to some other European Election Studies. The third objective is to maximise the relationship with current theoretical research in different scientific disciplines such as political science, sociology, and social psychology. A final objective is to develop comparative research between the different regions and communities of Belgium, as well as with other countries.</ddi:abstract>
+         <ddi:sumDscr/>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:conditions xml:lang="en">License: http://creativecommons.org/publicdomain/zero/1.0</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

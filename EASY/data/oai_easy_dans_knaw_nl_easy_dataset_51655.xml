@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:51655</identifier>
+    <datestamp>2021-04-15T21:06:53Z</datestamp>
+    <setSpec>D50000:D51000</setSpec>
+    <setSpec>driver</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Cohort Differences in Big Five Personality Factors Over a Period of 25 Years</ddi:titl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:51655</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-z5p-zedj</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Tilburg University - Tilburg School of Social and Behavioural Sciences">Wicherts, Dr J.M. DAI=info:eu-repo/dai/nl/304343544</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Iris A. M. Smits</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Conor V. Dolan</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Harrie C. M. Vorst</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Jelte M. Wicherts</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Marieke E. Timmerman</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="2012-10-11"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">Personality</ddi:keyword>
+            <ddi:keyword xml:lang="en">Big Five</ddi:keyword>
+            <ddi:keyword xml:lang="en">Psychometrics</ddi:keyword>
+            <ddi:keyword xml:lang="en">Cohort differences</ddi:keyword>
+            <ddi:keyword xml:lang="en">Extraversion</ddi:keyword>
+            <ddi:keyword xml:lang="en">Agreeableness</ddi:keyword>
+            <ddi:keyword xml:lang="en">Neuroticism</ddi:keyword>
+            <ddi:keyword xml:lang="en">Openness to Experience</ddi:keyword>
+            <ddi:keyword xml:lang="en">Conscientiousness</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Behavioural and educational sciences</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Psychology</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">This dataset comprises scores of 8,954 first-year psychology students from the University of Amsterdam (1982-2007) on the ‘Vijf PersoonlijkheidsFactoren Test’ or 5PFT (Elshout &amp; Akkerman, 1975), which is an instrument to measure the Big Five personality factors Extraversion, Agreeableness, Conscientiousness, Neuroticism, and Openness to Experience. Selection of participants as described in Smits et al. on page 1126 and in their Table 1.
+
+This dataset formed the basis of the article  "Cohort Differences in Big Five Personality Factors Over a Period of 25 Years" (See the link to the DOI in the Relationfield) authored by Iris A. M. Smits, Conor V. Dolan, Harrie C.M. Vorst, Jelte M. Wicherts, &amp; Marieke E. Timmerman.
+
+A data paper about this data is available at: Smits, Iris A. M., Dolan, C. V., Vorst, H. C. M., Wicherts, J M., Timmerman, M. E. Data from ‘Cohort Differences in Big Five Personality Factors Over a Period of 25 Years’. Journal of Open Psychology Data 1(1). (See the link to the DOI in the Relationfield)
+
+This data is released under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/3.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1982-2007</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:conditions xml:lang="en">License: http://creativecommons.org/publicdomain/zero/1.0</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="English"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:64860</identifier>
+    <datestamp>2021-04-15T21:07:30Z</datestamp>
+    <setSpec>D60000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+    <setSpec>D20000</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Cardiovascular risk management, culture and structure of primary care teams.</ddi:titl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-zv2-a3hc</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:64860</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="RadboudUMC Nijmegen">Heijmans, Drs. N.</ddi:AuthEnty>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="RadboudUMC Nijmegen">Wensing, Prof. dr. M.</ddi:othId>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="2016-05-30"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">Cardiovascular disease</ddi:keyword>
+            <ddi:keyword xml:lang="en">General practices</ddi:keyword>
+            <ddi:keyword xml:lang="en">Practice nurses</ddi:keyword>
+            <ddi:keyword xml:lang="en">Cardiovascular risk management</ddi:keyword>
+            <ddi:keyword xml:lang="en">Tailored Implementation for Chronic Disease</ddi:keyword>
+            <ddi:keyword xml:lang="en">network density</ddi:keyword>
+            <ddi:keyword xml:lang="en">frequency of contact</ddi:keyword>
+            <ddi:keyword xml:lang="en">homogeneity</ddi:keyword>
+            <ddi:keyword xml:lang="en">centrality of coordinators</ddi:keyword>
+            <ddi:keyword xml:lang="en">presence of informal opinion leaders</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Social sciences</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Life sciences, medicine and health care </ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Outcomes of cardiovascular risk management (CVRM) have improved by the implementation of a wide range of interventions, but further improvement remains possible. To identify new perspectives for improving quality of CVRM, associations were explored between information exchange networks of health care providers and evidence-based CVRM.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">July 2013 - September 2014</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">REQUEST_PERMISSION</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="nl"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

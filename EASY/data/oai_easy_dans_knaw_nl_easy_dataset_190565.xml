@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:190565</identifier>
+    <datestamp>2021-04-15T21:08:16Z</datestamp>
+    <setSpec>driver</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+    <setSpec>D30000:D36000:D36400</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="eng">Voices of the people: charting Italian readers' letters</ddi:titl>
+            <ddi:parTitl xml:lang="eng">Letters to Malaparte (Public collection A)</ddi:parTitl>
+            <ddi:parTitl xml:lang="en">Letters to Malaparte (Public collection A)</ddi:parTitl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-zzs-zk82</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:190565</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Leiden University">Van den Bergh, dr. C ORCID=0000-0002-7557-7483</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Leiden University">Muurling, S ORCID=0000-0001-6747-9288</ddi:AuthEnty>
+            <ddi:othId xml:lang="en" role="RightsHolder" affiliation="Leiden University">Van den Bergh, dr. CARMEN ORCID=0000-0002-7557-7483, RightsHolder</ddi:othId>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="2020-10-23"/>
+            <ddi:distDate xml:lang="en" date="2020-10-23"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="eng">Italy</ddi:keyword>
+            <ddi:keyword xml:lang="eng">1950s</ddi:keyword>
+            <ddi:keyword xml:lang="eng">Literature and Society</ddi:keyword>
+            <ddi:keyword xml:lang="eng">Readers' letters</ddi:keyword>
+            <ddi:keyword xml:lang="eng">Curzio Malaparte</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Romance language and literature studies</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="eng">This data collection contains the metadata of readers’ letters to Curzio Malaparte concerning his column Battibecco (‘Squabbling’) in the literary magazine Tempo during the 1950s. This column, in which Malaparte commented on a range of societal problems, was very popular across the Italian-speaking world and invited hundreds of letters from readers with comments, complaints or requests.
+
+ These letters are derived from the so-called ‘Malaparte archive’ (Fondazione Biblioteca in via Senato, Milano, Archivio Malaparte, ‘Corrispondenza Tempo’).
+
+ This public collection (A) contains the metadata of the first 101 letters, including the date of writing, information about the author of the letter (place of writing, gender, city, latitude and longitude, and professional title if available), the addressee (the magazine, the directors, or Malaparte) and the salutation.
+
+ Aside from the dataset itself (.csv), the data is visualised in an interactive online map in Carto (URL can be found in the code book, and .carto file). Also included are full (anonymized) transcriptions of thirty letters.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1953-1957</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:conditions>http://creativecommons.org/licenses/by-sa/4.0/</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="Italian"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:31763</identifier>
+    <datestamp>2021-05-10T15:37:31Z</datestamp>
+    <setSpec>D60000:D61000</setSpec>
+    <setSpec>driver</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Sociaal-culturele ontwikkelingen in Nederland, 1979-1990,  SOCON 1979-1990</ddi:titl>
+            <ddi:parTitl xml:lang="en">Social and cultural trends in the Netherlands 1979-1990</ddi:parTitl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-z3k-fb32</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:31763</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Maatschappijwetenschappen, Radboud Universiteit Nijmegen, Methoden en Technieken (fsw) (depositor)  (research initiator)">Eisinga, R.N. DAI=info:eu-repo/dai/nl/074277707</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Katholieke Universiteit Nijmegen">Felling, A.J.A. DAI=info:eu-repo/dai/nl/069463409</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Katholieke Universiteit Nijmegen">Peters, J.</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Katholieke Universiteit Nijmegen">Scheepers, P.L.H. DAI=info:eu-repo/dai/nl/072162090</ddi:AuthEnty>
+            <ddi:othId xml:lang="en" role="DataCollector">ITS Nijmegen</ddi:othId>
+         </ddi:rspStmt>
+         <ddi:distStmt/>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">sociology</ddi:keyword>
+            <ddi:keyword xml:lang="en">conservatism</ddi:keyword>
+            <ddi:keyword xml:lang="en">interpersonal relations</ddi:keyword>
+            <ddi:keyword xml:lang="en">minorities, ethnic</ddi:keyword>
+            <ddi:keyword xml:lang="en">religion</ddi:keyword>
+            <ddi:keyword xml:lang="en">SOCON</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Social sciences</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Sociology</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">This study is a compilation of variables from already existing studies: P0875, P1012 and P1100: Religion in Dutch Society 1979, 1985, 1990.
+
+Importance of career, money, family life, social security / importance of social equality and democracy / hedonism / the existence of God, the meaning of life, suffering and death / importance of religion to r.'s daily life and world view / attitude to trade unions, class differences and government intervention / restriction of civil liberties / family planning / abortion / euthanasia / suicide / view on women. 
+
+Background variables: basic characteristics/ residence/ household characteristics/ occupation/employment/ education/ politics/ religion/ readership, mass media, and 'cultural' exposure/ organizational membership.  
+
+The data- and documentation files of this dataset can be downloaded via the option Data Files.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1992-01-01 to 1992-12-31</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">OPEN_ACCESS_FOR_REGISTERED_USERS</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

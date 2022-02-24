@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:170455</identifier>
+    <datestamp>2021-09-21T10:22:46Z</datestamp>
+    <setSpec>D30000:D36000</setSpec>
+    <setSpec>D50000:D51000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Interactive alignment and lexical triggering of code-switching in bilingual dialogue</ddi:titl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-xyw-zp2u</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:170455</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University">Kootstra, dr. G.J. DAI=info:eu-repo/dai/nl/298983877</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University">Dijkstra, prof. dr. A.F.J. DAI=info:eu-repo/dai/nl/074852566</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University">Hell, prof. dr. J.G. van DAI=info:eu-repo/dai/nl/142017809</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt/>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">code-switching</ddi:keyword>
+            <ddi:keyword xml:lang="en">bilingual</ddi:keyword>
+            <ddi:keyword xml:lang="en">interactive alignment</ddi:keyword>
+            <ddi:keyword xml:lang="en">priming</ddi:keyword>
+            <ddi:keyword xml:lang="en">cognates</ddi:keyword>
+            <ddi:keyword xml:lang="en">dialogue</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Language and literature studies</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Behavioural and educational sciences</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Psychology</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Context
+A hallmark of bilingual speech is code-switching, i.e., the use of more than one language in the same utterance. Studying code-switching provides important insights into the cognitive mechanisms of bilingual language use. Two mechanisms that may influence bilinguals' tendency to code-switch are lexical triggering and interactive alignment. Lexical triggering refers to the mechanism that  bilinguals’ likelihood to code-switch is enhanced when the utterance to be produced contains a word with a similar form across languages. Interactive alignment refers to the mechanism that  bilinguals’ likelihood to code-switch is enhanced when the utterance to be produced is preceded by a code-switched utterance, for example from a dialogue partner. Both factors have mostly been tested on corpus data and have not yet been studied in combination. In two experiments, we therefore investigated the combined effects of interactive alignment and lexical triggering on code-switching between Dutch and English in dialogue. The current dataset provides the data and documentation belonging to these two experiments.
+
+Experiment 1
+In Experiment 1, Dutch-English bilinguals described pictures to each other in a dialogue game where a confederate’s code-switching was manipulated. The participants were free to use either Dutch, English, or a combination of Dutch and English in describing the pictures, so they could voluntarily code-switch or not. The pictures contained a cognate (e.g., roos [rose]), a false friend (e.g., rok [skirt, false friend with rock]), or a control word (e.g., jas [coat]), see the column 'WordCategory' in the datafile. The confederate switched in 50% of the cases, and did not switch in the other 50% of the cases, see the column 'CSbyConfederate' in the datafile. The dependent variable was whether the participant code-switched or not his/her picture description (column: 'ResponseSwitchedYesOrNo'). 
+
+Experiment 2
+In Experiment 2, participants from the same population performed a similar dialogue game, but now the central manipulation was the confederate's language choice, which could either be Dutch, English, codeswitched from Dutch to English and codeswitched from English to Dutch. See the columns 'PrimeLanguage', 'PrimeCSorNot', and 'PrimeLanguageAndDirection'. The dependent variable was whether the participant code-switched or not his/her picture description (column: 'ResponseCodeswitchedOrNot'). Using this manipulation, more insight could be gained in terms of how to account for interactive alignment of code-switching.
+
+Data and documentation
+- Data:  the data can be found in the excel file 'dataexp1and2_kootstradijkstravanhell.xlsx'. The variables and codes used in this file are explained via comments in the header rows of the work sheets.
+- Documentation: documentation on the method, scoring and analysis, and how the experiments relate to each other can be found in the file 'method_kootstradijkstravanhell_2020.pdf'.
+- Stimuli: the stimuli used in the experiments (i.e., the pictures to be described) can be found in 'stimuli.zip'.</ddi:abstract>
+         <ddi:sumDscr/>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">REQUEST_PERMISSION</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="English"/>
+   </ddi:fileDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="Dutch"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:33154</identifier>
+    <datestamp>2021-04-15T21:06:23Z</datestamp>
+    <setSpec>D60000:D61000</setSpec>
+    <setSpec>D60000:D62000</setSpec>
+    <setSpec>D60000:D64000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Levensomstandigheden in een arme stadswijk van Jakarta 1981</ddi:titl>
+            <ddi:parTitl xml:lang="en">Living conditions in poor neighbourhood of Jakarta 1981</ddi:parTitl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:33154</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-zvj-hc23</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en">Bianpoen, Centre for urban and environmental research and development * Jakarta (primary investigator)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Centre for urban and environmental research * Jakarta (research initiator) </ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Centre for urban and environmental research * Jakarta (data collector) </ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="1987-01-01"/>
+            <ddi:distDate xml:lang="en" date="2007-07-06"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">economics</ddi:keyword>
+            <ddi:keyword xml:lang="en">consumption</ddi:keyword>
+            <ddi:keyword xml:lang="en">demography</ddi:keyword>
+            <ddi:keyword xml:lang="en">developing countries</ddi:keyword>
+            <ddi:keyword xml:lang="en">economy</ddi:keyword>
+            <ddi:keyword xml:lang="en">housing</ddi:keyword>
+            <ddi:keyword xml:lang="en">living conditions</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Demography</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Social geography</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Sociology</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Socio-economic and demographic analysis of a Jakarta neighbourhood. Family composition / socio-economic condition: income, education and schooling, expenditure on food, education, housing, health, transport, clothing / health situation / housing situation ( detailed ) / attitudes regarding job improvement, income increase, educational improvement, environmental and housing improvement / sanitary facilities / opinions on government role in improving living conditions / priorities for improvement / detailed data on food for children under 5. Background variables: basic characteristics/ place of birth/ housing situation/ household characteristics/ occupation/employment/ income/capital assets/ education</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1981</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">REQUEST_PERMISSION</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

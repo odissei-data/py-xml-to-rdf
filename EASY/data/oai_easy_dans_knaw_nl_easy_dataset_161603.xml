@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:161603</identifier>
+    <datestamp>2021-04-15T21:08:09Z</datestamp>
+    <setSpec>D50000:D54000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Attention skill training in dutch children with dyslexia - experiment 1</ddi:titl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-258-kq8c</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:161603</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University">Walda, MSc S.A.E. DAI=info:eu-repo/dai/nl/329919512</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University">Weerdenburg, dr. M.W.C. van DAI=info:eu-repo/dai/nl/291366686</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University">Ven, dr. A.H.G.S. van der DAI=info:eu-repo/dai/nl/068256647</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University">Bosman, prof. dr. A.M.T. DAI=info:eu-repo/dai/nl/114381305</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt/>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">reading</ddi:keyword>
+            <ddi:keyword xml:lang="en">spelling</ddi:keyword>
+            <ddi:keyword xml:lang="en">attention</ddi:keyword>
+            <ddi:keyword xml:lang="en">dyslexia</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Pedagogics</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">The dataset contains all raw data and corresponding standard scores used for analyses in the research described by Walda, Van Weerdenburg, Van der Ven, and Bosman (under review). Also, corresponding edited scores of the Attention Concentration Test (ACT) are displayed. The raw scores of the ACT were edited using computer programs designed by the designers of the ACT. The manuscript addresses attention skill, as assessed with the ACT in children with dyslexia. For a full description of the reading and spelling remediation program, the ACT training, and all measures see the metadata. The experiment design was a randomized controlled trial, using four moments of measurement administered in a one-to-one assessment setting. The pretest (T1) took place prior to all interventions, and three follow-up measurements were administered after three (T2), six (T3), and nine (T4) months of reading and spelling remediation.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">Collection period: start=2011-01-01; end=2013-12-31;</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">OPEN_ACCESS_FOR_REGISTERED_USERS</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="English"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:60161</identifier>
+    <datestamp>2021-04-15T21:07:21Z</datestamp>
+    <setSpec>D60000:D67000</setSpec>
+    <setSpec>D60000:D64000</setSpec>
+    <setSpec>D50000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Migrants National Identification and the National Dimension of Cultural Consumption</ddi:titl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:60161</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-xdj-wrqc</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="CentERdata - Institute for data collection and research - Tilburg University">Das, Prof.dr. J.W.M. DAI=info:eu-repo/dai/nl/137115008</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University Nijmegen">Bekhuis, Dr. H.</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University Nijmegen">Lubbers, Dr. M. DAI=info:eu-repo/dai/nl/229636756</ddi:AuthEnty>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="CentERdata - Institute for data collection and research - Tilburg University">Elshout, MSc. S.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor">Funding Agency: NWO, An Advanced Multi-Disciplinary Facility for Measurement and Experimentation in the Social Sciences (MESS) 176.010.2005.017</ddi:othId>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="2014-12-12"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">Leisure</ddi:keyword>
+            <ddi:keyword xml:lang="en">cultural goods</ddi:keyword>
+            <ddi:keyword xml:lang="en">identification country of origin</ddi:keyword>
+            <ddi:keyword xml:lang="en">identification host country</ddi:keyword>
+            <ddi:keyword xml:lang="en">consumption</ddi:keyword>
+            <ddi:keyword xml:lang="en">recreation</ddi:keyword>
+            <ddi:keyword xml:lang="en">culture</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Social sciences</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Behavioural and educational sciences</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Leisure and recreation studies</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Demography</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">This study examines to what extent migrants and children consume cultural goods from the country of origin, and to what extent this consumption is affected by the identification with the country of origin and host country.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">2013</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">NO_ACCESS</ddi:restrctn>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="nl"/>
+   </ddi:fileDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

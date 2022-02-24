@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:222151</identifier>
+    <datestamp>2021-10-23T05:38:15Z</datestamp>
+    <setSpec>D20000:D23000</setSpec>
+    <setSpec>D20000:D24000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Impact of Q-fever on physical and psychosocial functioning until 8 years after Coxiella burnetii infection</ddi:titl>
+            <ddi:parTitl xml:lang="en">an integrative data analysis combining original data from eight studies</ddi:parTitl>
+            <ddi:parTitl xml:lang="en">an integrative data analysis combining original data from eight studies</ddi:parTitl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-zpa-fkph</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:222151</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University">Jaarsveld, dr. C.H.M. van DAI=info:eu-repo/dai/nl/173864244</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University">Reukers, D.F.M. DAI=info:eu-repo/dai/nl/434238635</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University">Akkermans, ir. R.P. DAI=info:eu-repo/dai/nl/314278729</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University">Keijmel, dr. S.P.</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University">Morroy, G. DAI=info:eu-repo/dai/nl/406720541</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University">Dam, A.S.G. van</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Wever, P.C.</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Wielders, C.C.H.</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University">Velden, prof. dr. J. van der DAI=info:eu-repo/dai/nl/072090073</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University">Loenhout, dr. J.A.F. van DAI=info:eu-repo/dai/nl/389920185</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University">Hautvast, dr. J.L.A. DAI=info:eu-repo/dai/nl/18650814X</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt/>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">Q-fever</ddi:keyword>
+            <ddi:keyword xml:lang="en">Coxiella burnetii</ddi:keyword>
+            <ddi:keyword xml:lang="en">psychosocial functioning</ddi:keyword>
+            <ddi:keyword xml:lang="en">integrative data analysis</ddi:keyword>
+            <ddi:keyword xml:lang="en">multilevel analysis</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Life sciences, medicine and health care </ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Medicine</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Health sciences</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">In our paper: ‘Impact of Q-fever on physical and psychosocial functioning until 8 years after Coxiella burnetii infection: an integrative data analysis’(PlosOne in press) we analysed short- and long-term physical and psychosocial impact of Coxiella burnetii infection in three distinct entities: Q-fever fatigue syndrome (QFS), chronic Q-fever, and patients with past acute Q-fever without QFS or chronic Q-fever. Integrative data analysis was performed, combining original data from eight studies measuring quality of life (QoL), fatigue, physical and social functioning with identical validated questionnaires, from three months to eight years after onset infection. Linear trends in each outcome were compared between Q-fever groups using multilevel linear regression analyses to account for repeated measures within patients. Data included 3947 observations of 2313 individual patients (228 QFS, 135 chronic Q-fever and 1950 patients with past acute Q-fever). In the first years following infection, physical and psychosocial impact was highest among QFS patients, and remained high without significant improvements over time. In chronic Q-fever patients, QoL and physical functioning worsened significantly over time. Levels of fatigue and social participation in patients with past acute Q-fever improved significantly over time. The impact differs greatly between the three Q-fever groups. It is important that physicians are aware of these differences, in order to provide relevant care for each patient group.
+In this repository we archive the data that was used for the analyses in the paper: ‘IDA Q-fever Data Repository 25072021.csv’ 
+The following variables are included in these data records:
+Number linked to each observation (obs); Random number allocated to each participant (Participant_ID) (Note participants may have multiple observations); Date that questionnaire was completed (Datefill); Time since Q-fever infection in years (Datefill_TimeAfterQfever); Age at Q-fever infection in years (Age_Qfever); Age at questionnaire completion in years (Age_Datefill);  Diagnosis coded as Q-fever fatigue syndrome [QFS], chronic Q-fever [chronic Q fever] or patients with past acute Q-fever without QFS or chronic Q-fever [past acute Q fever] (Diagnosis); Gender of participant male [M] or female [F] (Gender)	; Educational level coded as low, moderate or high (Education_Level); Fatigue (Fatigue_score), quality of life (QOL_score), Physical impairment (Physical_score); social particpation (Social_score).</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">Collection period: start=2009-01-06; end=2016-11-28;</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">REQUEST_PERMISSION</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

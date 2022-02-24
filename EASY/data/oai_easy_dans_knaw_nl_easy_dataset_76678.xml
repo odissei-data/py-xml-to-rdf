@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:76678</identifier>
+    <datestamp>2021-04-15T21:07:44Z</datestamp>
+    <setSpec>D30000:D34000:D34300</setSpec>
+    <setSpec>D30000:D34000:D34200</setSpec>
+    <setSpec>driver</setSpec>
+    <setSpec>D70000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">The Allen Unger Commodities Dataset</ddi:titl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-zsu-xavf</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:76678</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="NYU Abu Dhabi">Allen, Prof. R., DataCollector</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="University of British Columbia">Unger, Prof. R., DataCollector</ddi:AuthEnty>
+            <ddi:othId xml:lang="en" role="DataCurator" affiliation="Utrecht University">Moatsos, MSc M., DataCurator</ddi:othId>
+         </ddi:rspStmt>
+         <ddi:distStmt/>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">price data</ddi:keyword>
+            <ddi:keyword xml:lang="en">food</ddi:keyword>
+            <ddi:keyword xml:lang="en">drink</ddi:keyword>
+            <ddi:keyword xml:lang="en">raw materials</ddi:keyword>
+            <ddi:keyword xml:lang="en">manufactured goods</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Middle Ages</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Economics and Business Administration</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Modern and contemporary history</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">The Database presents price data, published in the nineteenth and twentieth centuries, in machine-readable form. The original goal was to examine changes in prices and their relation to international trade in early modern Europe. Price series were then expanded from just staple grains and beyond a limited number of years to the entire period ranging from the earliest known series from the High Middle Ages and down to 1914. The geographical range as well as that of commodities continues to expand with continued research and coding of published data. With the larger collection of figures studies of market integration as well as welfare of consumers and other topics has become possible. Continuing support from the Social Sciences and Humanities Research Council of Canada, the National Science Foundation of Britain, the British Academy and NYU Abu Dhabi has made possible the addition of new data and refinement of existing files.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">High Midlle Ages up to 1914</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:conditions xml:lang="en">License: http://creativecommons.org/publicdomain/zero/1.0</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

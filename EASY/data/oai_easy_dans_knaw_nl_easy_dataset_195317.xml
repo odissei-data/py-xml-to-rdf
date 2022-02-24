@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:195317</identifier>
+    <datestamp>2021-05-14T16:36:40Z</datestamp>
+    <setSpec>D30000</setSpec>
+    <setSpec>D50000:D51000</setSpec>
+    <setSpec>D10000:D14000</setSpec>
+    <setSpec>D50000:D54000</setSpec>
+    <setSpec>D60000:D66000</setSpec>
+    <setSpec>E10000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Dataset of a randomized controlled depression prevention trial investigating the efficacy of the commercial video game Journey</ddi:titl>
+            <ddi:parTitl xml:lang="en">Collected in the Netherlands between 2014 and 2017</ddi:parTitl>
+            <ddi:parTitl xml:lang="en">Collected in the Netherlands between 2014 and 2017</ddi:parTitl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-zhq-2qmc</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:195317</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University">Poppelaars, MSc M. DAI=info:eu-repo/dai/nl/401655601</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University">Lichtwarck-Aschoff, dr. A. DAI=info:eu-repo/dai/nl/296145653</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University">Otten, prof. dr. R. DAI=info:eu-repo/dai/nl/298978458</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University">Granic, prof. dr. I. DAI=info:eu-repo/dai/nl/203825888</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt/>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">Prevention</ddi:keyword>
+            <ddi:keyword xml:lang="en">Randomized Controlled Trial</ddi:keyword>
+            <ddi:keyword xml:lang="en">Depression</ddi:keyword>
+            <ddi:keyword xml:lang="en">Adolescents</ddi:keyword>
+            <ddi:keyword xml:lang="en">Young Adults</ddi:keyword>
+            <ddi:keyword xml:lang="en">Commercial Video Games</ddi:keyword>
+            <ddi:keyword xml:lang="en">Journey</ddi:keyword>
+            <ddi:keyword xml:lang="en">Flower</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Technology</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Humanities</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Behavioural and educational sciences</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Psychology</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Pedagogics</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Social sciences</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Communication sciences</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Interdisciplinary sciences</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">This data archive contains data on a pre-registered randomized controlled trial (RCT) testing the potential for the commercial video game Journey to prevent the exacerbation of depressive symptoms compared to an active and passive control condition. The datasets contains all anonymised raw data from the screening questionnaires of all screening participants, the raw data from all 5 questionnaires (screening, pre-test, post-test, 6-month follow-up and 12-month follow-up) and any logbooks of participants who consented to participate in the RCT, and the raw coding data of the narrative identity fragments that were coded by two coders to determine reliability of the coding process. Participants were 244 youth aged 15 to 20 years old with elevated depressive symptoms. Those who were randomized to the Journey or the active control game condition were given four weeks to play Journey or the control game. Furthermore, a number of action mechanisms which were hypothesized to affect depressive symptoms were tested. Additionally, secondary outcomes, logbook data, and other additional variables not used in the data analyses for the main outcome paper are included to facilitate the further utilization of this data. A guide to the included files can be found in the 2020_Poppelaars_RCT Journey_Read Me.pdf file. Syntax and the resulting data files are available for creating scale scores and other variables recoded or calculated from the raw data. Furthermore, syntax and the resulting data files are available for the analyses of the main outcome paper (Poppelaars, M., Lichtwarck-Aschoff, A., Otten, R., &amp; Granic, I. (2020). Can a Commercial Video Game Prevent Depression? Null Results and Whole Sample Action Mechanisms in a Randomized Controlled Trial. Frontiers in Psychology. https://doi.org/10.3389/fpsyg.2020.575962). Finally, codebooks describing the project and variables, as well as a methods section are included.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">Collection period: start=2014-11-17; end=2017-08-29;</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">REQUEST_PERMISSION</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="nl"/>
+   </ddi:fileDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="English"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

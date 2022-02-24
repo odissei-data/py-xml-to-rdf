@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:200858</identifier>
+    <datestamp>2021-04-15T21:08:21Z</datestamp>
+    <setSpec>D10000:D18000:D18100:D18140</setSpec>
+    <setSpec>D60000:D65000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+    <setSpec>D20000:D22000:D22400</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="eng">Data set for -Spatiotemporal dynamics of urban climate during the wet-dry season transition in a tropical African city</ddi:titl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-xnw-m7fz</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:200858</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Faculty of Geo-Information Science and Earth Observation (ITC), University of Twente">Kabano, Dr P ORCID=0000-0001-8519-0760</ddi:AuthEnty>
+            <ddi:othId xml:lang="en" role="RightsHolder" affiliation="Faculty of Geo-Information Science and Earth Observation (ITC), University of Twente">Kabano, Dr P ORCID=0000-0001-8519-0760, RightsHolder</ddi:othId>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="2021-02-11"/>
+            <ddi:distDate xml:lang="en" date="2021-02-12"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="eng">Urban Climate</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Nature and landscape</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Ecology</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Urban and rural planning</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="eng">This data set is linked to the article title "Spatiotemporal dynamics of urban climate during the wet-dry season transition in a tropical African city" that was published in Int J Biometeorol (https://doi.org/10.1007/s00484-020-02061-1).
+The data set contains three work sheets: (1) PlotDailyTimeSeriesOfUrbanClima; (2) DailyIntraUrbanClimateDifferenc; (3) SurfaceCover&amp;SeasonalUrbClimate.
+Work sheet 1 ( PlotDailyTimeSeriesOfUrbanClima) contains the temporal (daily) changes of a wide range of urban climate variables at corresponding monitoring stations used in this study; Worksheet 2 (DailyIntraUrbanClimateDifferenc) contains a measure for intra-urban climate differences (sd) across all locations on a day-to-day basis; Worksheet 3 contains surface cover characteristics at each monitoring site and corresponding urban climate data averaged across each season (wet and dry).</ddi:abstract>
+         <ddi:sumDscr/>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">REQUEST_PERMISSION</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

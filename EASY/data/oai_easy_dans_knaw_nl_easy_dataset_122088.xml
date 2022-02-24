@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:122088</identifier>
+    <datestamp>2021-04-15T21:07:58Z</datestamp>
+    <setSpec>driver</setSpec>
+    <setSpec>D20000:D24000:D24300</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">The influence of cultural attitudes to nut exposure on reported nut allergy</ddi:titl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-zkg-rt3h</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:122088</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="University of Sunderland">Carter, Associate Prof NM Dr, ProjectLeader</ddi:AuthEnty>
+            <ddi:othId xml:lang="en" role="ProjectLeader" affiliation="University of Sunderland">Ling, Prof J Dr, ProjectLeader</ddi:othId>
+         </ddi:rspStmt>
+         <ddi:distStmt/>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Nutrition</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">The data is from a questionnaire based project. The data was used to explore the influence of cultural effects on the exposure of nut allergens in early childhood and the subsequent relationship between the incidence of nut allergy in later life.
+
+The study was questionnaire based and was designed to investigate the relationship between the introduction of nuts in the diet during early infancy and the subsequent rates of nut allergy between Libya and the UK. This was based on the low rates of peanut allergy in the Libyan population and the cultural practice of early introduction of ground nut into the diet early in infancy. The study compared a population from Libya, Libyans in the UK and a North Eastern UK population. Our findings suggest that early introduction of nuts into the diet correlates strongly with a reduction in nut allergy and supports the increasing body of evidence that early exposure in infancy promotes tolerance.
+ 
+3300 anonymous questionnaires sent out to primary and secondary schools the data was collected and anonymous a database of the responses created in SPSS.
+ 
+1000 in Tripoli response rate of 65% (655)
+300 in Libyan schools in UK response rate 68% (204)
+2000 schools in the North East of the UK response rate 13.2% (264)</ddi:abstract>
+         <ddi:sumDscr/>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:conditions xml:lang="en">License: http://creativecommons.org/publicdomain/zero/1.0</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

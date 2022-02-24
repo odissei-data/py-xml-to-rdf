@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:161600</identifier>
+    <datestamp>2021-04-15T21:08:09Z</datestamp>
+    <setSpec>D50000:D51000</setSpec>
+    <setSpec>driver</setSpec>
+    <setSpec>D20000:D24000</setSpec>
+    <setSpec>D60000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Device-based measures of sit-to-stand and stand-to-sit transitions of healthy working adults, 2020</ddi:titl>
+            <ddi:parTitl xml:lang="en">Dataset belonging to “The temporal dynamics of sitting and standing at work, 2020”</ddi:parTitl>
+            <ddi:parTitl xml:lang="en">Dataset belonging to “The temporal dynamics of sitting and standing at work, 2020”</ddi:parTitl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-zfe-gk3b</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:161600</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University">Broeke, MSc P. ten DAI=info:eu-repo/dai/nl/419572759</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University">Olthof, MSc M.J. DAI=info:eu-repo/dai/nl/412355566</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University">Beckers, dr. D.G.J. DAI=info:eu-repo/dai/nl/315329785</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Hopkins, N.D.</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Graves, L.E.F.</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Carter, S.E.</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Cochrane, M.</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Gavin, D.</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Morris, A.S.</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University">Lichtwarck-Aschoff, dr. A. DAI=info:eu-repo/dai/nl/296145653</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University">Geurts, prof. dr. S.A.E. DAI=info:eu-repo/dai/nl/079729703</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University">Thijssen, dr. D.H.J. DAI=info:eu-repo/dai/nl/301086850</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University">Bijleveld, dr. E. DAI=info:eu-repo/dai/nl/313905223</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt/>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">Sitting</ddi:keyword>
+            <ddi:keyword xml:lang="en">Sit-to-stand</ddi:keyword>
+            <ddi:keyword xml:lang="en">Stand-to-sit</ddi:keyword>
+            <ddi:keyword xml:lang="en">Sedentary behaviour</ddi:keyword>
+            <ddi:keyword xml:lang="en">activPAL</ddi:keyword>
+            <ddi:keyword xml:lang="en">Time-to-event analysis</ddi:keyword>
+            <ddi:keyword xml:lang="en">Survival analysis</ddi:keyword>
+            <ddi:keyword xml:lang="en">Fatigue</ddi:keyword>
+            <ddi:keyword xml:lang="en">Occupational health</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Health sciences</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Behavioural and educational sciences</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Psychology</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Social sciences</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">This data folder contains all processed data and analyses scripts used for analyses in the research described in the PNAS paper "The Temporal Dynamics of Sitting Behaviour at Work" by ten Broeke and colleagues (2020). In the paper, sitting behaviour was conceptualised as a continuous chain of sit-to-stand and stand-to-sit transitions, and multilevel time-to-event analysis was used to analyse the timing of these transitions. The data comprise ~30,000 posture transitions during work time from 156 UK-based employees from various work sites, objectively-measured by an activPAL monitor that was continuously worn for approximately one week.
+
+For the paper, a split-samples cross-validation procedure was used. Prior to looking at the data, we randomly split the data into two samples of equal size: A training sample (n = 79; 7,316 sit-to-stand and 7,263 stand-to-sit transitions) and a testing sample (n = 77; 7,216 sit-to-stand and 7,158 stand-to-sit transitions). We used the training sample for data exploration and fine-tuning of analyses and analytical decisions. After this, we preregistered our analysis plan for the testing sample and performed these analyses on the testing sample. Unless otherwise specified, in the paper we report results from the preregistered analyses on the testing sample.
+
+A more detailed description of the procedure and all measures is given in the Methodology file. The readme file describes the content and function of all files in the data folder, and all terminology and abbreviations used in the data sets and analyses scripts. The R markdown files and HTML output files contain all R code that was used for data processing, analysis, and visualization, and the power simulation.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">Collection period: start=2015-11-01; end=2018-07-31;</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">OPEN_ACCESS_FOR_REGISTERED_USERS</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="English"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

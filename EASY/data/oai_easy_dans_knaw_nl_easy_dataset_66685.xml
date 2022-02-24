@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:66685</identifier>
+    <datestamp>2021-04-15T21:07:33Z</datestamp>
+    <setSpec>D30000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Arab-West Report 1998, Week 14-48: Press Freedom, Religious Freedom, and Religious Tensions in Egypt</ddi:titl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-279-v5e8</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:66685</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Center for Intercultural Dialogue and Translation (CIDT)">Hulsman, Drs. C.</ddi:AuthEnty>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Center for Intercultural Dialogue and Translation (CIDT)">Sparks, MA M.R.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Leiden University">Abu-Zayd, Dr. N.H.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Religious News Service from the Arab World (RNSAW)">Nispen, Fr. Dr. C. van</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor">Council of the Churches of the City of New York</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor">The Higher Council for Journalism</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor">The Center for Human Rights Legal Aid</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor">Board of Directors of the Foreign Press Association in Egypt</ddi:othId>
+         </ddi:rspStmt>
+         <ddi:distStmt/>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">Press Freedom in Egypt</ddi:keyword>
+            <ddi:keyword xml:lang="en">Religious Freedom in Egypt</ddi:keyword>
+            <ddi:keyword xml:lang="en">Religious Tensions in Egypt</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Humanities</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">This dataset contains the 15 Arab-West Report Special Reports that were published in 1998. At the time the articles were published, Arab-West Report did not exist. Religious News Service from the Arab World, the organization which would ultimately become Arab-West Report, is the publisher of the following articles. Broadly speaking, the special reports in this dataset address issues of press freedom and discussions surrounding the actual or perceived persecution of Coptic Christians in Egypt. The dataset also contains letters, responses, book reviews, and media critiques related to these subjects. Authors include Dr. Nasr Hamid Abu-Zayd, Cornelis Hulsman (Drs.), and Fr. Dr. Christiaan Van Nispen. Institutional authors include The Council of Churches of the City of New York, The Higher Council for Journalism, The Center for Human Rights Legal Aid, and Board of Directors of the Foreign Press Association in Egypt.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1998</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">REQUEST_PERMISSION</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

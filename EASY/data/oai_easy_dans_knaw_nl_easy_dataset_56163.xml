@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:56163</identifier>
+    <datestamp>2021-04-15T21:07:10Z</datestamp>
+    <setSpec>driver</setSpec>
+    <setSpec>D30000:D34000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Interactive visualisation of Swammerdam’s microscopic drawings</ddi:titl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-2an-4yaa</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:56163</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Wildcard">Nagel, D.</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="HuygensING">Cocquyt, T.</ddi:AuthEnty>
+            <ddi:othId xml:lang="en" role="contributor">Brill</ddi:othId>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="2013-11-25"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">Swammerdam</ddi:keyword>
+            <ddi:keyword xml:lang="en">microscopy</ddi:keyword>
+            <ddi:keyword xml:lang="en">insect</ddi:keyword>
+            <ddi:keyword xml:lang="en">dynamic drawings</ddi:keyword>
+            <ddi:keyword xml:lang="en">natural history</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">History</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">In this visualization, the famous drawings on insect anatomy by Jan Swammerdam are presented in an accessible manner, allowing for easy comparison. Notwithstanding the individual plates' 'film'-like representation of a creature's development, in the light of 17th-century natural history the author's principal aim was to highlight the analogous development, in corresponding stages, of both the higher and the lower animal species. The drawings testify to the opening up of a previously hidden realm of animal development and complexity, and were instrumental in criticizing the notion of 'sponateous generation' of insects.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">18th century, 1737</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt/>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:31930</identifier>
+    <datestamp>2021-04-15T21:05:24Z</datestamp>
+    <setSpec>driver</setSpec>
+    <setSpec>D40000:D42000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Stadspeiling gemeente Amersfoort 1997 - VSO</ddi:titl>
+            <ddi:parTitl xml:lang="en">Survey Amersfoort 1997 - VSO</ddi:parTitl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:31930</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-xzf-thav</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en">Huurdeman, M.J.M., Burgwal, G.G. v.d., Korpershoek, A., Gemeente Amersfoort * Amersfoort, Bureau Onderzoek en Statistiek (primary investigator)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">M.J.M. Huurdeman, Gemeente Amersfoort, Bureau Onderzoek en Statistiek (depositor)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Gemeente Amersfoort (research initiator)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Gemeente AmersfoortBureau O&amp;S (data collector)</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="1998-01-01"/>
+            <ddi:distDate xml:lang="en" date="2007-08-09"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">crime</ddi:keyword>
+            <ddi:keyword xml:lang="en">elections</ddi:keyword>
+            <ddi:keyword xml:lang="en">housing</ddi:keyword>
+            <ddi:keyword xml:lang="en">mass media</ddi:keyword>
+            <ddi:keyword xml:lang="en">participation</ddi:keyword>
+            <ddi:keyword xml:lang="en">safety</ddi:keyword>
+            <ddi:keyword xml:lang="en">transport</ddi:keyword>
+            <ddi:keyword xml:lang="en">local communities</ddi:keyword>
+            <ddi:keyword xml:lang="en">internet</ddi:keyword>
+            <ddi:keyword xml:lang="en">voting behaviour</ddi:keyword>
+            <ddi:keyword xml:lang="en">traffic</ddi:keyword>
+            <ddi:keyword xml:lang="en">urban development</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Political and administrative sciences</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Survey among inhabitants of the city of Amersfoort, concerning  several aspects of living in the municipality of Amersfoort Opening hours and service by municipal offices / liveability in the city districts / supposed frequency of criminal offences in district / r.'s opinion about Amersfoort, with regard to safety / housing issues:  intentions to move, preferred type of house, intentions to buy or  rent a house / receiving rent subsidy / acquaintance with and use of Internet / acquaintance with and use of webpages of the municipality on Internet /	frequency of visiting, and opinion about the northern city centre, and preferred development of that area / district management and maintenance  of the city, municipal 'service-telephone' / local political and policy  issues / most important reason to vote-not to vote at the coming municipal,  and parliamentary elections / parking problems, parking facilities / traffic safety in street area where r. is living. Background variables: basic characteristics/ housing situation/ household characteristics/ occupation/employment/ income/capital assets/ education/ politics/ consumption of durables</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1997</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">OPEN_ACCESS_FOR_REGISTERED_USERS</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

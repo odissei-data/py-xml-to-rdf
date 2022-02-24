@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:60363</identifier>
+    <datestamp>2021-04-15T21:07:21Z</datestamp>
+    <setSpec>D60000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Kwalitatieve analyse: kunst én kunde - dataset bron 04. “Panel discussion on the financial crisis”</ddi:titl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:60363</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-zd6-arr6</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Erasmus University Rotterdam/Evers Research &amp; training">Evers, drs. J. DAI=info:eu-repo/dai/nl/074934716</ddi:AuthEnty>
+            <ddi:othId xml:lang="en" role="contributor">Andolina, R.C.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor">Easley, D.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor">Sanders, E.</ddi:othId>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="2015-01-06"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">panel discussion</ddi:keyword>
+            <ddi:keyword xml:lang="en">financial crisis</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Social sciences</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Formaat: MP4-file
+Omvang: 255,8 Mb
+
+Geen informatie over auteursrecht beschikbaar.
+Online beschikbaar: &lt;https://www.youtube.com/watch?v=oA7Sf91aks4> [06-01-2015]
+Title: The Financial Crisis: Implications for Washington, Wall Street and Main Street
+Uploaded on Oct 12, 2010
+
+Samenvatting:
+As the crisis in the U.S. financial markets worsened and the credit markets tightened, all eyes were on the Bush administration`s $700 billion bailout plan passed by the U.S. Senate on Oct. 1. Shortly before the Senate voted, a panel of Cornell experts met in Goldwin Smith Hall to discuss the circumstances that led to the collapse and potential courses of action. 
+(Oct 1, 2008 at Cornell University)
+
+NB: Datering op YouTube website klopt niet</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">2008</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">NO_ACCESS</ddi:restrctn>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

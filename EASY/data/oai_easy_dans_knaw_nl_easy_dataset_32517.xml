@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:32517</identifier>
+    <datestamp>2021-04-15T21:05:51Z</datestamp>
+    <setSpec>driver</setSpec>
+    <setSpec>D20000:D24000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Gezondheidsklachtenonderzoek over trillen en schokken tijdens het werk 1984-1985</ddi:titl>
+            <ddi:parTitl xml:lang="en">Relationship between health complaints and exposure to trembling and shaking during work 1984-1985</ddi:parTitl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:32517</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-xtc-ys7g</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en">Musson, Y., Drimmelen, D. van, Technische Universiteit Delft * Delft, vakgroep veiligheidskunde, Burdorf, L., Erasmus Universiteit Rotterdam * Rotterdam, Instituut bedrijfsgezondheidszorg (primary investigator)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Vakgroep veiligheidskunde, TUD * Delft (research initiator) </ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">TUD, vakgroep veiligheidskunde * Delft (data collector) </ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="1988-01-01"/>
+            <ddi:distDate xml:lang="en" date="2007-07-09"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">sociology</ddi:keyword>
+            <ddi:keyword xml:lang="en">work</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Health sciences</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Relationship between health complaints and exposure to trembling and shaking during work. Particular experiences with heavy tools and engines concerning trembling and shaking and during driving a bus or a tram / regularity of technical control of tools and engines / time spent at working with heavy tools and engines, at present and in the past, during work and during leisure time / technical training / working pressure / satisfaction about work / being troubled by the effects of working with heavy tools and engines / kind of physical efforts during work / having back-pain, neck-pain, pain and stiffness of limbs, tingling in hands and fingers, as well as during work as after work / checking of other general health problems / smoking behaviour / r's own judgement of relationship between physical complaints and type of work / discussing physical complaints with company doctor / length and weight of respondent. Background variables: basic characteristics/ occupation/employment</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1984 * 1985</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">OPEN_ACCESS_FOR_REGISTERED_USERS</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

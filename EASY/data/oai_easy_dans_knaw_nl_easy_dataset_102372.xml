@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:102372</identifier>
+    <datestamp>2021-04-15T21:07:48Z</datestamp>
+    <setSpec>driver</setSpec>
+    <setSpec>D70000</setSpec>
+    <setSpec>D50000</setSpec>
+    <setSpec>D60000</setSpec>
+    <setSpec>D40000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+    <setSpec>D30000:D26000:D30100</setSpec>
+    <setSpec>D10000</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">DANS research programme 2018-2020</ddi:titl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-xpc-abaj</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:102372</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="DANS-KNAW">Scharnhorst, Dr. A. DAI=info:eu-repo/dai/nl/326096957, Editor</ddi:AuthEnty>
+            <ddi:othId xml:lang="en" role="Editor" affiliation="DANS-KNAW">Aerts, Dr. P.J.C., Editor</ddi:othId>
+            <ddi:othId xml:lang="en" role="Editor" affiliation="DANS-KNAW">Coen, G, Editor</ddi:othId>
+            <ddi:othId xml:lang="en" role="Editor" affiliation="DANS-KNAW">Dillo, Dr. I.G. DAI=info:eu-repo/dai/nl/091070066, Editor</ddi:othId>
+            <ddi:othId xml:lang="en" role="Editor" affiliation="DANS-KNAW">Doorn, Dr. P.K. DAI=info:eu-repo/dai/nl/069708959, Editor</ddi:othId>
+            <ddi:othId xml:lang="en" role="Editor" affiliation="DANS-KNAW">Morselli, F, Editor</ddi:othId>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="2018-04-30"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Humanities</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Law and public administration </ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Behavioural and educational sciences</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Social sciences</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Life sciences, medicine and health care </ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Science and technology</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Economics and Business Administration</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Digital humanities</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">In order for DANS to keep its services up-to-date and at the forefront of developments and to be proactive where new developments arise Research and Innovation activities are key. In that, the Research and Innovation group (R&amp;I-G) has an investigative and supportive role concerning the overall DANS mission. This programme defines as central research question: How do new insights affect the long-term archiving of complex digital research objects, and which community and infrastructure effects are needed to ensure this? It further describes how R&amp;I-G investigates this question along three dimensions: archives, communities, innovation and additionally contributes to policy support at the intersection of those themes.</ddi:abstract>
+         <ddi:sumDscr/>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:conditions xml:lang="en">License: http://creativecommons.org/publicdomain/zero/1.0</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

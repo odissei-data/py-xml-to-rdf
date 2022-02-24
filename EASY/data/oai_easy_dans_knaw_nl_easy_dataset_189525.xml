@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:189525</identifier>
+    <datestamp>2021-05-03T11:24:32Z</datestamp>
+    <setSpec>D60000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+    <setSpec>E10000:E12000</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">A Randomized Controlled Trial Assessing the Efficacy of a Virtual Reality Biofeedback Video Game</ddi:titl>
+            <ddi:parTitl xml:lang="en">Anxiety Outcomes and Appraisal Processes</ddi:parTitl>
+            <ddi:parTitl xml:lang="en">Anxiety Outcomes and Appraisal Processes</ddi:parTitl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-zbd-bhbe</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:189525</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University">Weerdmeester, MSc J.W. DAI=info:eu-repo/dai/nl/393458989</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University">Rooij, dr. ir. M.M.J.W. van DAI=info:eu-repo/dai/nl/391071556</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University">Maciejewski, dr. D.F. DAI=info:eu-repo/dai/nl/363431861</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University">Engels, prof. dr. R.C.M.E. DAI=info:eu-repo/dai/nl/16717231X</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University">Granic, prof. dr. I. DAI=info:eu-repo/dai/nl/203825888</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt/>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">Anxiety</ddi:keyword>
+            <ddi:keyword xml:lang="en">Virtual Reality</ddi:keyword>
+            <ddi:keyword xml:lang="en">Biofeedback</ddi:keyword>
+            <ddi:keyword xml:lang="en">Video Games</ddi:keyword>
+            <ddi:keyword xml:lang="en">Randomized Controlled Trial</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Social sciences</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Technology in medicine and health care</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">This repository includes the data of a Randomized Controlled Trial (RCT) that was reported on in the article titled "A Randomized Controlled Trial Assessing the Efficacy of a Virtual Reality Biofeedback Video Game: Anxiety Outcomes and Appraisal Processes" by Weerdmeester and colleagues (2020). The study assessed the efficacy of a virtual reality biofeedback video game (DEEP) in reducing anxiety symptoms. In addition, engagement and cognitive appraisals including self-efficacy, locus of control, and threat-challenge  were explored as potential mechanisms of change. Undergraduates with elevated anxiety symptoms (N = 112) were randomly assigned to four training sessions in the lab with either DEEP, a biofeedback video game,  or a smartphone-guided breathing application. Trait anxiety was measured at screening (two weeks prior to the training), pre-test, post-test, and three months later. State anxiety was assessed before and after each individual training session. Engagement as well as all cognitive appraisals were assessed after each training session.
+
+This repository includes the following files: 
+- A word file which describes the complete method and procedure of the corresponding Randomized Controlled Trial study, including a description of how the data was analysed. 
+- Two data-sets(one in .sav and one in .CSV format) with all the data that was reported on in the corresponding article, including 
+raw data of participant characteristics and single-item questions as well as the sum-scores, ratio-scores or difference scores of the main outcomes. 
+- A data codebook (in .xlsx format) including a description of of the variables in the data-set including the labels, values and the scales of the corresponding questionnaire items.
+
+Information regarding missing values: 
+Missing values on the variables 'gamehrswk' and 'gamehrswknd' are the result of these questions being skipped because participants answered 'No' on a previous question asking whether or not they play video games (variable 'doyougame'). 
+Missingness on other values was due to participants dropping out of the training or not filling out the online follow-up questionnaire. Information about the extent of and reasons for attrition are included in Figure 1, which is included in DEEP_RCT_Data_Method_Procedure.docx.  The method section in this document also describes how missingness was dealt with in the analyses.</ddi:abstract>
+         <ddi:sumDscr/>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">REQUEST_PERMISSION</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="English"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

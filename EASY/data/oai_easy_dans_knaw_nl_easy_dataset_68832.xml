@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:68832</identifier>
+    <datestamp>2021-04-15T21:07:40Z</datestamp>
+    <setSpec>D60000:D61000</setSpec>
+    <setSpec>driver</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Acceptability and Feasibility of Early Infant Male Circumcision for HIV Prevention in Malawi</ddi:titl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-zxx-ye63</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:68832</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Chancellor College, University of Malawi">Chilimampunga, Dr C.</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt/>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">Voluntary medical male circumcision (VMMC)</ddi:keyword>
+            <ddi:keyword xml:lang="en">Early infant male circumcision (EIMC)</ddi:keyword>
+            <ddi:keyword xml:lang="en">traditional circumcisers (ngalibas)</ddi:keyword>
+            <ddi:keyword xml:lang="en">ethnic/ religious groups in Malawi</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Sociology</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Voluntary medical male circumcision (VMMC) has been successfully implemented in 14 countries as an additional HIV prevention intervention. As VMMC programs mature in most countries, the focus is now on how to sustain the HIV prevention gains realised from VMMC. As part of preparations for the sustainability phase, countries are either piloting or preparing to pilot early infant male circumcision (EIMC). This qualitative study explored the acceptability and feasibility of EIMC in Malawi in order to inform pilot implementation.
+
+In 2016, 23 focus group discussions were held across Malawi with participants from several ethnicities and religions/faiths. Additionally, 21 key informant interviews were held with traditional and religious leaders, traditional circumcisers (ngalibas), policy-makers, programme managers and health-care workers.
+
+Discussions highlighted the socio-cultural significance of MC in Malawi. Knowledge or experience of EIMC was poor although acceptability was high among most ethnic/religious groups and key informants. Participants identified EIMC's comparative HIV benefits although a few health-care workers expressed scepticism. All participants said EIMC should be offered within a clinical setting. In addition to fathers, maternal uncles and traditional leaders were deemed key decision-makers. Potential barriers to EIMC included concerns about procedure safety as well as cultural considerations. Key informants felt it was feasible to offer EIMC in Malawi. Participants' recommendations, including phased implementation, engagement of traditional leaders, use of external mobilisers and initially reaching out to influential parents, will be taken into account when designing a pilot EIMC program.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">2016</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:conditions xml:lang="en">License: http://creativecommons.org/publicdomain/zero/1.0</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

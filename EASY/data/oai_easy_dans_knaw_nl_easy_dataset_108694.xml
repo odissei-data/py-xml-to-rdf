@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:108694</identifier>
+    <datestamp>2021-04-15T21:07:49Z</datestamp>
+    <setSpec>driver</setSpec>
+    <setSpec>D30000:D36000:D36100</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">La possession en Tɔŋúgbe; un dialecte de l'éwé,et ses rapports avec la localisation et l'existence: les données</ddi:titl>
+            <ddi:parTitl xml:lang="en">Possession in Tɔŋúgbe, a dialect of the Ewe language, and its relationship with location and existence: the data</ddi:parTitl>
+            <ddi:parTitl xml:lang="en">Possession in Tɔŋúgbe, a dialect of the Ewe language, and its relationship with location and existence: the data</ddi:parTitl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-xxr-4sug</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:108694</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Université de Lille/Leiden university">Kpoglu, P.D, Researcher</ddi:AuthEnty>
+            <ddi:othId xml:lang="en" role="Researcher" affiliation="Université de Lille/Leiden university">Kpoglu, P.D, Researcher</ddi:othId>
+         </ddi:rspStmt>
+         <ddi:distStmt/>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">Possessive constructions, locative constructions, existential constructions, Ewe language, Tɔŋúgbe</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Linguistics</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">This project, a Ph.D. project, seeks to account for the range of constructions available for the expression of the notion of possession in the Tɔŋúgbe dialect of the Ewe language. It also seeks to detail the relationships between the possessive constructions and locative and existential constructions of the language variety. A third objective includes presenting a sketch grammar of the dialect. The data that is archived here serve as the principal basis on which the thesis is carried out.
+
+Ce travail, qui s'inscrit dans le cadre d'une thèse doctorale, vise à décrire les constructions possessives en Tɔŋúgbe, un dialecte de l'éwé. Il cherche à détailler aussi les relations entre les constructions possessives, et les constructions locatives et existentielles de cette variété de la langue éwé. Le travail a aussi comme objectif de présenter une esquisse de la grammaire du dialecte. Les données présentes servent comme la base sur laquelle est menée la thèse doctorale.</ddi:abstract>
+         <ddi:sumDscr/>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:conditions xml:lang="en">License: http://creativecommons.org/publicdomain/zero/1.0</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="Ewe"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:3000</identifier>
+    <datestamp>2021-04-15T21:04:50Z</datestamp>
+    <setSpec>D30000:D34000:D34300</setSpec>
+    <setSpec>driver</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Ground-taxes of Strijen, 18th century</ddi:titl>
+            <ddi:parTitl xml:lang="en">Verpondingen Strijen, 18e eeuw</ddi:parTitl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-zdu-vpax</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:3000</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en">Wierdeman Molendijk, C., DataManager</ddi:AuthEnty>
+            <ddi:othId xml:lang="en" role="DataCollector">Lagestee, J.W., DataCollector</ddi:othId>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="1995-10-15"/>
+            <ddi:distDate xml:lang="en" date="2007-01-31"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">economic history</ddi:keyword>
+            <ddi:keyword xml:lang="en">dwelling houses</ddi:keyword>
+            <ddi:keyword xml:lang="en">ground-taxes</ddi:keyword>
+            <ddi:keyword xml:lang="en">habitation</ddi:keyword>
+            <ddi:keyword xml:lang="en">tax register</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Modern and contemporary history</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">The dataset contains the transcription of the 'Quohieren van Verpondingen' (assessment lists of ground-taxes) from the eighteenth century of the village Strijen in the district 'Hoeksche Waard' in the Netherlands. Data on rent and ground-taxes on real estate in Strijen are included. On occasion of the millennium anniversary of Strijen, the journal 'Ons Voorgeslacht' devoted a special issue to Strijen (volume 50, nr 462, 1995). The lists were published in this special issue.  The original purpose of the dataset attempted to trace which person has lived in which house by making a comparison between two (source) lists. In spite of the fact that the rank order of the houses is mostly equal, it is not so easy to get a balanced conclusion on the exact history of inhabitation. Sometimes the period between the two lists is 20 years, so that changes of the ownership of a house sometimes are not noticed.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1731 - 1731</ddi:collDate>
+            <ddi:collDate event="single">1750 - 1750</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">OPEN_ACCESS_FOR_REGISTERED_USERS</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

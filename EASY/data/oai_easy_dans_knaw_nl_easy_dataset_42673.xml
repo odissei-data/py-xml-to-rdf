@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:42673</identifier>
+    <datestamp>2021-04-15T21:06:45Z</datestamp>
+    <setSpec>D30000:D34000:D34300</setSpec>
+    <setSpec>driver</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">The Amsterdam Town Council, 1578-1795</ddi:titl>
+            <ddi:parTitl xml:lang="en">De vroedschap van Amsterdam, 1578-1795 (J.E. Elias)</ddi:parTitl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-xhf-pg23</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:42673</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en">European Social Fund/DABURH, Department of History, Leiden University</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">H.A. Diederiks (research initiator)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">O. Hellinga (data collector)</ddi:AuthEnty>
+            <ddi:othId xml:lang="en" role="contributor">Diederiks, H.A. DAI=info:eu-repo/dai/nl/068394322</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="(data collector)">Hellinga, O. DAI=info:eu-repo/dai/nl/080083625</ddi:othId>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="1996-04-01"/>
+            <ddi:distDate xml:lang="en" date="2007-01-31"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">prosopography</ddi:keyword>
+            <ddi:keyword xml:lang="en">children</ddi:keyword>
+            <ddi:keyword xml:lang="en">councillors</ddi:keyword>
+            <ddi:keyword xml:lang="en">demographic data</ddi:keyword>
+            <ddi:keyword xml:lang="en">domains</ddi:keyword>
+            <ddi:keyword xml:lang="en">fortune</ddi:keyword>
+            <ddi:keyword xml:lang="en">houses</ddi:keyword>
+            <ddi:keyword xml:lang="en">marriages</ddi:keyword>
+            <ddi:keyword xml:lang="en">occupational status</ddi:keyword>
+            <ddi:keyword xml:lang="en">occupations</ddi:keyword>
+            <ddi:keyword xml:lang="en">residences</ddi:keyword>
+            <ddi:keyword xml:lang="en">social status</ddi:keyword>
+            <ddi:keyword xml:lang="en">town councils</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Modern and contemporary history</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">This dataset is based on the (published) source 'De Vroedschap van Amsterdam 1578-1795' (The Town Council of Amsterdam) by J.E. Elias (1905). The aim of the project was to investigate the research possibilities of the historical data contained in this source. Only a part of the source has been digitised: the first 250 pages concerning 76 Amsterdam town councillors, 1578-1600. The dataset consists of ten files dealing with personal details (name, place of birth etc.). Other variables concern data on children, marriage, fortune, occupation, position, council years, place of residence, estate and title. This dataset was created by students of the postgraduate course Historical Information Processing at Leiden University.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1578 - 1600</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">OPEN_ACCESS_FOR_REGISTERED_USERS</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

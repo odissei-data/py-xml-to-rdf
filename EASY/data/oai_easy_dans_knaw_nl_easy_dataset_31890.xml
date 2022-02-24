@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:31890</identifier>
+    <datestamp>2021-04-15T21:05:22Z</datestamp>
+    <setSpec>driver</setSpec>
+    <setSpec>D50000:D52000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Ontwikkeling en evaluatie van de minikursus 'Het organiseren van zelfstandig leren' 1976</ddi:titl>
+            <ddi:parTitl xml:lang="en">Development, evaluation mini-course 'Organizing independent learning' 1976</ddi:parTitl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:31890</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-zv9-amsm</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Katholieke Universiteit Nijmegen * Nijmegen, Instituut voor onderwijskunde">Veenman, S.</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Katholieke Universiteit Nijmegen * Nijmegen, Instituut voor onderwijskunde">Heeringa, J.</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Veenman, S.A.M. Heeringa, J. Instituut voor onderwijskunde, KUN * Nijmegen (research initiator)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Trained observers;: three (data collector)</ddi:AuthEnty>
+            <ddi:othId xml:lang="en" role="contributor">Radboud Universiteit Nijmegen</ddi:othId>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="1977-01-01"/>
+            <ddi:distDate xml:lang="en" date="2007-06-15"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">education</ddi:keyword>
+            <ddi:keyword xml:lang="en">education, primary</ddi:keyword>
+            <ddi:keyword xml:lang="en">education, secondary</ddi:keyword>
+            <ddi:keyword xml:lang="en">methodology</ddi:keyword>
+            <ddi:keyword xml:lang="en">onderwijs</ddi:keyword>
+            <ddi:keyword xml:lang="en">onderwijs, primair</ddi:keyword>
+            <ddi:keyword xml:lang="en">basisonderwijs</ddi:keyword>
+            <ddi:keyword xml:lang="en">basisschool</ddi:keyword>
+            <ddi:keyword xml:lang="en">onderwijs, middelbaar</ddi:keyword>
+            <ddi:keyword xml:lang="en">onderwijs, secundair</ddi:keyword>
+            <ddi:keyword xml:lang="en">methodologie</ddi:keyword>
+            <ddi:keyword xml:lang="en">minicursus</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Educational theory</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Evaluation of mini course 'independent learning', developed by Far West Laboratory for educational research and development, adapted for the Netherlands / ability to determine the level of independence of the pupil and the ability to make a learning contract.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1976</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">OPEN_ACCESS_FOR_REGISTERED_USERS</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

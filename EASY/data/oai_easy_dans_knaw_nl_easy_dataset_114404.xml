@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:114404</identifier>
+    <datestamp>2021-04-15T21:07:52Z</datestamp>
+    <setSpec>D30000:D34000:D34100</setSpec>
+    <setSpec>D30000:D34000:D34200</setSpec>
+    <setSpec>D30000:D36000</setSpec>
+    <setSpec>driver</setSpec>
+    <setSpec>D30000:D31000</setSpec>
+    <setSpec>D30000:D33000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Linking Syriac Liturgies</ddi:titl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-26t-hhv7</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:114404</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Faculty of Theology, Vrije Universiteit Amsterdam">Peursen, prof. dr. W.T. van DAI=info:eu-repo/dai/nl/152041923, ProjectLeader</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Faculty of Theology, Vrije Universiteit Amsterdam">Veldman, MA J.G., DataCollector</ddi:AuthEnty>
+            <ddi:othId xml:lang="en" role="Sponsor">Data Archiving and Networked Services - DANS, subsidie Klein data Project - KDP 2018</ddi:othId>
+         </ddi:rspStmt>
+         <ddi:distStmt/>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">liturgical readings</ddi:keyword>
+            <ddi:keyword xml:lang="en">lectionaries</ddi:keyword>
+            <ddi:keyword xml:lang="en">biblical manuscripts</ddi:keyword>
+            <ddi:keyword xml:lang="en">pericopes</ddi:keyword>
+            <ddi:keyword xml:lang="en">Peshitta</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Antiquity</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Middle Ages</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Language and literature studies</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Paleography, bibliology, bibliography, library science</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Theology and religious studies</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">The dataset presents a digital presentation of the Syriac liturgical traditions based on: 
+
+a) notes and cards catalogues concerning the liturgical readings of the lectionaries as they were written out by Wim Baars in the 1970s. This material comprising 43 lectionary manuscripts (39 lectionaries in total) dating from the 9th–16th centuries.
+b) the inventory of the liturgical readings in 39 Syriac biblical manuscripts from the 5th-9th centuries. These lists were included as appendices in the unpublished Dutch PhD dissertation (1993) of Konrad Jenner. 
+
+The now digitized materials are preserved at the Peshitta Institute Amsterdam, and were compliled while preparing the critical edition of Vetus Testamentum Syriace. Therefore the first focus was the correct description of the biblical pericopes themselves. While preparing the dataset, other data, as for instance extra-biblical or liturgical words and phrases, codicological remarks, links to the bibliographical description of the manuscripts, links to relevant publications, and links to already digitized photographs of the manuscripts were inserted while preparing the dataset. 
+With regard to these extra data, this dataset leaves some instances where the data needs to be enhanced and enriched, also some questions remain unanswered, this will be dealt with in the near future.
+This material will be presented on a website which is under construction and is related to the CLARIAH research pilot LinkSyr: Linking Syriac Data.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">9th–16th centuries (lectionary manuscripts)</ddi:collDate>
+            <ddi:collDate event="single">5th‐9th centuries (Syriac biblical manuscripts)</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:conditions xml:lang="en">License: http://creativecommons.org/publicdomain/zero/1.0</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="Syriac"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

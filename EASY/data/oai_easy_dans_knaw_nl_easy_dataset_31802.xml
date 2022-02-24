@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:31802</identifier>
+    <datestamp>2021-04-15T21:05:17Z</datestamp>
+    <setSpec>D60000:D61000</setSpec>
+    <setSpec>driver</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Stadspeiling Venlo 1996 - VSO : Woon- en leefklimaat</ddi:titl>
+            <ddi:parTitl xml:lang="en">Survey of Venlo 1996 - VSO :  housing and general living climate - VSO</ddi:parTitl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:31802</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-zqx-vsc5</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en">Schoeber, J., Gemeente Venlo * Venlo (primary investigator)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Gemeente Venlo (research initiator) </ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">STOGO * Utrecht (data collector) </ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="1996-01-01"/>
+            <ddi:distDate xml:lang="en" date="2007-08-10"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">culture</ddi:keyword>
+            <ddi:keyword xml:lang="en">social welfare</ddi:keyword>
+            <ddi:keyword xml:lang="en">safety</ddi:keyword>
+            <ddi:keyword xml:lang="en">housing</ddi:keyword>
+            <ddi:keyword xml:lang="en">public transport</ddi:keyword>
+            <ddi:keyword xml:lang="en">employment</ddi:keyword>
+            <ddi:keyword xml:lang="en">labour market</ddi:keyword>
+            <ddi:keyword xml:lang="en">recreation</ddi:keyword>
+            <ddi:keyword xml:lang="en">crime</ddi:keyword>
+            <ddi:keyword xml:lang="en">social life</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Sociology</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Survey among inhabitants of Venlo   housing and living conditions Appreciate living in Venlo   atmosphere, safety, infrastructure, housing, work environment, mentality, social contacts/ Agree to statements like: good variety in housing, difficult getting specific housing, city has beautiful buildings, many recreational facilities, clean, safe, prefer living outside city. Difficult parking in Venlo, public transport good, a bike-friendly city/ a city in which/ difficult to get work, many educational facilities, all sorts of shops in inner city/ poor culture, good social life. Neighbourhood facilities like: children's playgrounds, road safety, schools, public transport, shops, parking, social contacts, community centre. Neighbourhood problems: traffic, parking, vandalism, pollution, neighbours, drugs, burglary/ police contacts. Fell personally victim to : bicycle or car burglary, vandalism to car or other belongings/ violent assault/ sexual assault, traffic accident. If incentive to move, reasons to like small, big house, marriage, luxury, buying, selling, neighbourhood, social contacts. Background variables: basic characteristics/ residence/ housing situation/ household characteristics/ place of work/ occupation/employment/ education</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1996</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">OPEN_ACCESS_FOR_REGISTERED_USERS</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:193302</identifier>
+    <datestamp>2021-04-15T21:08:19Z</datestamp>
+    <setSpec>D60000:D66000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Development and Testing of the ALAT</ddi:titl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-zx9-54cb</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:193302</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University">Hoek, dr. R.W. DAI=info:eu-repo/dai/nl/395205026</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University">Rozendaal, dr. E. DAI=info:eu-repo/dai/nl/304358185</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University">Schie, dr. H.T. van DAI=info:eu-repo/dai/nl/24339120X</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University">Buijzen, prof. dr. M.A. DAI=info:eu-repo/dai/nl/243991681</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt/>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">measurement development</ddi:keyword>
+            <ddi:keyword xml:lang="en">advertising literacy</ddi:keyword>
+            <ddi:keyword xml:lang="en">children</ddi:keyword>
+            <ddi:keyword xml:lang="en">advertising</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Communication sciences</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Data are related to published article:
+Hoek, R. W., Rozendaal, E., Van Schie, H. T., &amp; Buijzen, M. (2020). Development and testing of the advertising literacy activation task: an indirect measurement instrument for children aged 7-13 years old, Media Psychology, DOI:10.1080/15213269.2020.1817090
+
+Study was part of PhD project of R. W. Hoek, which resulted in the PhD thesis: Hoek, R. W. (2020, 8 September). Re-examining the Relation Between Advertising Literacy and Children's Susceptibility to Advertising: An Indirect Measurement Approach. Behavioural Science Institute, Radboud University Nijmegen, the Netherlands.
+
+The paper consists of three separate studies. Study 1 (N = 24, age: 10–12) describes the development of the Advertising Literacy Activation Task (ALAT) in which participants sort successive words in two categories: advertising or news. Studies 2 and 3 tested the ALAT on usability, reliability, predictive, and construct validity. In study 2 (N = 38, age: 10–12), participants were primed with a story about advertising or about news. Study 3 (N = 114, age: 7–13) used a similar design but with actual television commercials and news broadcast. Frequency and speed of categorizing conceptual and attitudinal words were analyzed with Bayesian statistics investigating effects of priming, dispositional advertising literacy, and their interactions. Results indicate that the ALAT is
+a usable and reliable measurement instrument with good predictive validity, but with limited construct validity.</ddi:abstract>
+         <ddi:sumDscr/>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">REQUEST_PERMISSION</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="Dutch"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

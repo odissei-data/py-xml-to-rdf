@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:144356</identifier>
+    <datestamp>2021-04-15T21:08:02Z</datestamp>
+    <setSpec>D20000:D23000</setSpec>
+    <setSpec>D20000:D24000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Effects of sialidase inhibition by oseltamivir phosphate on platelet recovery and markers of plasma leakage in adults Indonesian patients with dengue (TOTO trial)</ddi:titl>
+            <ddi:parTitl xml:lang="en">results from a double blind, multicenter, randomized controlled trial.</ddi:parTitl>
+            <ddi:parTitl xml:lang="en">results from a double blind, multicenter, randomized controlled trial.</ddi:parTitl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-zge-35as</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:144356</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University">Mast, dr. Q. de DAI=info:eu-repo/dai/nl/298211599</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Tunjungputri, R</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Pramudo, S</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Riswari, S</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Gasem, M.H.</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Alisjahbana, B.</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University">Ven, prof. dr. A.J. van der DAI=info:eu-repo/dai/nl/142704113</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt/>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">dengue</ddi:keyword>
+            <ddi:keyword xml:lang="en">sialidase</ddi:keyword>
+            <ddi:keyword xml:lang="en">neuraminidase</ddi:keyword>
+            <ddi:keyword xml:lang="en">thrombocytopenia</ddi:keyword>
+            <ddi:keyword xml:lang="en">platelets</ddi:keyword>
+            <ddi:keyword xml:lang="en">plasma leakage</ddi:keyword>
+            <ddi:keyword xml:lang="en">oseltamivir</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Medicine</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Health sciences</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">The dataset contains the results from a randomised controlled trial assessing the effects of the sialidase inhibitor oseltamivir on the recovery of platelet counts and parameters of plasma leakage in Indonesian adult patients with acute dengue infection (TOTO trial). A total number of 70 patients with a platelet count &lt;70 x 10^9/L and a duration of illness &lt;7 days were randomized between oseltamivir phosphate 75mg BID or placebo for a maximum of five days. Primary outcomes were the time to platelet recovery (platelet count ≥ 100 x 109/l) or discharge from hospital and the course of measures of plasma leakage (measured by daily ultrasound, hematocrit, plasma albumin and syndecan-1 concentrations). A blood count was performed twice daily; maximum follow-up was five days. More details on the trial are given in https://doi.org/10.1186/ISRCTN35227717</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">Collection period: start=2018-01-13; end=2019-07-31;</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">OPEN_ACCESS_FOR_REGISTERED_USERS</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="English"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

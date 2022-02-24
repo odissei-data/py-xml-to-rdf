@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:33149</identifier>
+    <datestamp>2021-04-15T21:06:23Z</datestamp>
+    <setSpec>D60000:D61000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Burgeronderzoek Heerlen 1995 - VSO</ddi:titl>
+            <ddi:parTitl xml:lang="en">Citizen survey municipality of Heerlen 1995 - VSO</ddi:parTitl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:33149</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-xd3-k4my</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en">Hollander, H., Akkermans, M., Gemeente Heerlen * Heerlen (primary investigator)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Drs. M.M.P. Akkermans, Gemeente Heerlen, Onderzoek en Statistiek (depositor)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Municipality of Heerlen (research initiator) </ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Bureau Onderzoek en Statistiek, Gemeente Heerlen (data collector) </ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="1996-01-01"/>
+            <ddi:distDate xml:lang="en" date="2007-08-10"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">public opinion</ddi:keyword>
+            <ddi:keyword xml:lang="en">crime</ddi:keyword>
+            <ddi:keyword xml:lang="en">environment</ddi:keyword>
+            <ddi:keyword xml:lang="en">housing</ddi:keyword>
+            <ddi:keyword xml:lang="en">international politics</ddi:keyword>
+            <ddi:keyword xml:lang="en">public transport</ddi:keyword>
+            <ddi:keyword xml:lang="en">sports facilities</ddi:keyword>
+            <ddi:keyword xml:lang="en">public libraries</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Sociology</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Satisfaction with city of Heerlen / important issues in the development of Heerlen / frequency of visits to city centre, reasons for visits / the reconstruction of the city centre / perception of crime in the city centre / police supervision, measures to be taken / satisfaction with neighbourhood / most important problems / evaluation of a municipal project (wijkbeheer) to improve the livability of neighbourhoods , willingness to cooperate / image of various wards / perception of crime in neighbourhood, being victimized, police report, professional help / satisfaction wit public facilities, complaints reported / municipal policy with respect to ecological, environmental issues / being inconvenienced by noise, stench, pollution / separation of rubbish / use of car, bicycle and public transport, push back to car use, traffic problems in r.'s neighbourhood / plans to remove/ preferred type of residence, location, price, buy or rent, use of housing corporations / use of sports accommodations / cultural interest, use of public libraries Background variables: basic characteristics/ residence/ housing situation/ household characteristics/ place of work/ occupation/employment/ income/capital assets/ education/ politics/ consumption of durables/ organizational membership</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1995</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">REQUEST_PERMISSION</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:50491</identifier>
+    <datestamp>2021-04-15T21:06:52Z</datestamp>
+    <setSpec>D30000:D34000:D34300</setSpec>
+    <setSpec>D30000:D36000</setSpec>
+    <setSpec>driver</setSpec>
+    <setSpec>easy-collection:2</setSpec>
+    <setSpec>easy-collection:1</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Sobibor Interviews 1983-1984, interview 10, Esther Raab</ddi:titl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-z54-jmmr</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:50491</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en">Jules Schelvis</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">NIOD Institute for War, Holocaust and Genocide Studies</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Dunya Breur</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="2012-06-29"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">vernietigingskampen</ddi:keyword>
+            <ddi:keyword xml:lang="en">Sobibor</ddi:keyword>
+            <ddi:keyword xml:lang="en">overlevenden</ddi:keyword>
+            <ddi:keyword xml:lang="en">Polen</ddi:keyword>
+            <ddi:keyword xml:lang="en">opstanden</ddi:keyword>
+            <ddi:keyword xml:lang="en">Tweede Wereldoorlog</ddi:keyword>
+            <ddi:keyword xml:lang="en">herinneringen</ddi:keyword>
+            <ddi:keyword xml:lang="en">Joden</ddi:keyword>
+            <ddi:keyword xml:lang="en">Jodenvervolging</ddi:keyword>
+            <ddi:keyword xml:lang="en">oral history</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Modern and contemporary history</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Language and literature studies</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Interview with Esther Raab (Chelm 11 June 1922). Raab, together with Regina Zielinski and Hella Weiss, was taken to Sobibor just before Christmas 1942 in a horse-drawn cart. They saw such atrocities that she sometimes thought that "going to the gas chambers was easier than being exposed to all the horror". After her escape she went into hiding on a farm where she was reunited with her long lost brother.
+
+She was born Ester Terner. Shortly after the German occupation started her father was shot and killed while on his way to Belzec extermination camp. Esther Raab was forced to help reclaim a river in Siedliczcze. When she arrived in Sobibor on 22 December 1942 she and seven other girls from her transport were put to work in the knitting room.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1942-1945</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:conditions xml:lang="en">License: http://creativecommons.org/publicdomain/zero/1.0</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="nl"/>
+   </ddi:fileDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

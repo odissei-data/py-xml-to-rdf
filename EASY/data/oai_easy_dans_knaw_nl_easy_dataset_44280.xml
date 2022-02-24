@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:44280</identifier>
+    <datestamp>2021-04-15T21:06:45Z</datestamp>
+    <setSpec>D30000:D34000:D34300</setSpec>
+    <setSpec>driver</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Material culture in the 19th century</ddi:titl>
+            <ddi:parTitl xml:lang="en">Materiële cultuur en levensstijl. Een onderzoek naar de taal der dingen op hel Nederlandse platteland in de 19e eeuw: de Zaanstreek, Oost-Groningen, Oost-Brabant</ddi:parTitl>
+            <ddi:parTitl xml:lang="en">Materiële cultuur en levensstijl. Een onderzoek naar de taal der dingen op hel Nederlandse platteland in de 19e eeuw: de Zaanstreek, Oost-Groningen, Oost-Brabant</ddi:parTitl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-zrk-v9g7</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:44280</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Universiteit Wageningen , Vakgroep Agrarische Geschiedenis">Schuurman, Dr A.J.A.M., DataCollector</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="2007-01-31"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">social history</ddi:keyword>
+            <ddi:keyword xml:lang="en">economic history</ddi:keyword>
+            <ddi:keyword xml:lang="en">rural history</ddi:keyword>
+            <ddi:keyword xml:lang="en">material culture</ddi:keyword>
+            <ddi:keyword xml:lang="en">consumer behaviour</ddi:keyword>
+            <ddi:keyword xml:lang="en">life styles</ddi:keyword>
+            <ddi:keyword xml:lang="en">domesticity</ddi:keyword>
+            <ddi:keyword xml:lang="en">social change</ddi:keyword>
+            <ddi:keyword xml:lang="en">modernisation</ddi:keyword>
+            <ddi:keyword xml:lang="en">probate inventories</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Modern and contemporary history</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Using probate inventories as a source, this study describes the development of the material culture of the household in the Dutch countryside in the nineteenth century in three regions: the Zaanstreek, Eastern Groningen, Eastern Brabant. During the century a trend towards greater domesticity could be observed as demonstrated by the growing ownership of articles like stoves, bedsteads, carpets, mirrors, clocks, table-cloths, vases, pianos and from the process of room-differentiation: kitchen, bedroom, living room. The changes in material culture over time and the differences between the social classes within a region were more striking as those between regions.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1800 - 1899</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:conditions xml:lang="en">License: http://creativecommons.org/publicdomain/zero/1.0</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="Dutch"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

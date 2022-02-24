@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:58624</identifier>
+    <datestamp>2021-04-15T21:07:19Z</datestamp>
+    <setSpec>D50000:D51000</setSpec>
+    <setSpec>driver</setSpec>
+    <setSpec>D20000:D24000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">The SWELL Knowledge Work Dataset for Stress and User Modeling Research</ddi:titl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-x55-69zp</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:58624</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University &amp; TNO">Kraaij, Prof.dr.ir. W. DAI=info:eu-repo/dai/nl/146400747</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="TNO &amp; Radboud University">Koldijk, MSc. S.</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="TNO &amp; Radboud University">Sappelli, MSc M.</ddi:AuthEnty>
+            <ddi:othId xml:lang="en" role="" affiliation="TNO &amp; Delft University of Technology">Neerincx, Prof.dr. M.A. DAI=info:eu-repo/dai/nl/13713911X</ddi:othId>
+            <ddi:othId xml:lang="en" role="" affiliation="Radboud University">Verberne, Dr. S. DAI=info:eu-repo/dai/nl/298201844</ddi:othId>
+            <ddi:othId xml:lang="en" role="" affiliation="TNO">Schavemaker, Dr. J.</ddi:othId>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="2014-08-27"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">well-being at work</ddi:keyword>
+            <ddi:keyword xml:lang="en">computer work</ddi:keyword>
+            <ddi:keyword xml:lang="en">stressors</ddi:keyword>
+            <ddi:keyword xml:lang="en">working behavior</ddi:keyword>
+            <ddi:keyword xml:lang="en">affect</ddi:keyword>
+            <ddi:keyword xml:lang="en">multimodal dataset</ddi:keyword>
+            <ddi:keyword xml:lang="en">sensor data</ddi:keyword>
+            <ddi:keyword xml:lang="en">preprocessed data</ddi:keyword>
+            <ddi:keyword xml:lang="en">work psychology</ddi:keyword>
+            <ddi:keyword xml:lang="en">user modeling</ddi:keyword>
+            <ddi:keyword xml:lang="en">context aware systems</ddi:keyword>
+            <ddi:keyword xml:lang="en">machine learning</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Psychology</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Behavioural and educational sciences</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Health sciences</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">This is the multimodal SWELL knowledge work (SWELL-KW) dataset for research on stress and user modeling. The dataset was collected in an experiment, in which 25 people performed typical knowledge work (writing reports, making presentations, reading e-mail, searching for information). We manipulated their working conditions with the stressors: email interruptions and time pressure. A varied set of data was recorded: computer logging, facial expression from camera recordings, body postures from a Kinect 3D sensor and heart rate (variability) and skin conductance from body sensors. Our dataset not only contains raw data, but also preprocessed data and extracted features. The participants' subjective experience on task load, mental effort, emotion and perceived stress was assessed with validated questionnaires as a ground truth. The resulting dataset on working behavior and affect is suitable for several research fields, such as work psychology, user modeling and context aware systems.
+
+The collection of this dataset was supported by the Dutch national program COMMIT (project P7 SWELL). SWELL is an acronym of Smart Reasoning Systems for Well-being at Work and at Home.</ddi:abstract>
+         <ddi:sumDscr/>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">OPEN_ACCESS_FOR_REGISTERED_USERS</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

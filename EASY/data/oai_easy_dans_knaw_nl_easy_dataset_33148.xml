@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:33148</identifier>
+    <datestamp>2021-04-15T21:06:23Z</datestamp>
+    <setSpec>driver</setSpec>
+    <setSpec>D40000:D42000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Politieke apathie en cynisme in Duitsland en Nederland 1998</ddi:titl>
+            <ddi:parTitl xml:lang="en">Political apathy and cynicism in Germany and the Netherlands 1998</ddi:parTitl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:33148</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-zx2-bh9q</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en">Brug, W. van der, Eijk, C. van der, Kieviet, P., Universiteit van Amsterdam * Amsterdam, Fac. PSCW (primary investigator)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Ministerie van Buitenlandse Zaken * Den Haag (research initiator) </ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Intomart * HilversumGFK * Nurnberg, FRG (data collector) </ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="1998-01-01"/>
+            <ddi:distDate xml:lang="en" date="2007-08-09"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">political participation</ddi:keyword>
+            <ddi:keyword xml:lang="en">internal politics</ddi:keyword>
+            <ddi:keyword xml:lang="en">politics</ddi:keyword>
+            <ddi:keyword xml:lang="en">participation</ddi:keyword>
+            <ddi:keyword xml:lang="en">public opinion</ddi:keyword>
+            <ddi:keyword xml:lang="en">information uses</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Political and administrative sciences</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Measuring political apathy, cynisism and activism, in  the Netherlands and Germany Frequency of reading domestic political news in newspapers  / participation in discussions about domestic political  news / interest in current news about public affairs  / indispensability of political parties / role of civil  servants-politicians / trust in decisions of  the government / whether real powers are located outside  government and parliament / whether there is at least  one party committed to r.'s interests / whether there  are important differences between political parties /  whether politicians use too many difficult words /  whether too many decisions are made in secret / honesty  of politicians / whether politics is too complicated  to understand  / influencing government policies by  voting / r.'s opinion about attitude and behaviour  of politicians / influence of r. on government-policy  / knowledge of politics / does r.'s vote matter or  not / political party programs / interest of political  parties / r.'s opinion about politics: interesting,  honest, important, difficult, good or mostly bad, stupid  or smart / intention to vote at the next parliamentary  elections  / which party respondent will vote for /	which party most appropriate for protest votes / casting  a protest vote at the next elections / ever having  contacted a politician, signed a petition, participated  in a demonstration, lodged a complaint, participated  in a civic action group. Background variables: basic characteristics/ income/capital assets/ education/ politics/ religion</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1998</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">OPEN_ACCESS_FOR_REGISTERED_USERS</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

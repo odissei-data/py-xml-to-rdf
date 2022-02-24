@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:163008</identifier>
+    <datestamp>2021-04-15T21:08:09Z</datestamp>
+    <setSpec>D40000:D42000:D42100</setSpec>
+    <setSpec>D60000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">RepResent Longitudinal and Cross-sectional electoral survey 2019</ddi:titl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-xe8-7t78</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:163008</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="University of Antwerp">Walgrave, Prof. Dr. S., ProjectLeader</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="University of Antwerp">Van Erkel, Dr. P., ProjectMember</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Jennart, I., ProjectMember</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Vrije Universiteit Brussel">Celis, Prof. Dr. K., ProjectLeader</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Vrije Universiteit Brussel">Deschouwer, Prof. Dr. K., ProjectLeader</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="KU Leuven">Marien, Prof. Dr. S., ProjectLeader</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Université Libre de Bruxelles">Pilet, Prof. Dr. J.B., ProjectLeader</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Université catholique de Louvain">Rihoux, Prof Dr. B., ProjectLeader</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Université Libre de Bruxelles">Van Haute, Prof. Dr. E., ProjectLeader</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Université catholique de Louvain">Van Ingelgom, Prof. Dr. V., ProjectLeader</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Université catholique de Louvain">Baudewyns, Prof. Dr. P., ProjectMember</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="University of Ghent">Kern, Prof. Dr. A., ProjectMember</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Vrije Universiteit Brussel">Lefevere, Prof. Dr. J.</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="2020-05-17"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">Electoral behavior</ddi:keyword>
+            <ddi:keyword xml:lang="en">Democratic resentment</ddi:keyword>
+            <ddi:keyword xml:lang="en">Vote choice</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Political science</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Social sciences</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">This data deposit contains two surveys, organised by the FWO/FNRS Excellence of Science Consortium RepResent (Representation and Democratic Resentment) in the context of the 2019 general elections in Belgium. The RepResent project aims to understand how three forms of representations - substantive, procedural and symbolic - affect democratic resentment amongst the public. It brings together scholars from five Belgian universities, including University of Antwerp, Vrije Universiteit Brussel, KU Leuven, UCLouvain, and Université Libre de Bruxelles. For more information on the project, visit http://represent-project.be/
+
+The first dataset is the longitudinal dataset which contains survey data from a CAWI survey amongst representative samples of Flemish, Walloon and Brussels citizens. Respondents in this survey were surveyed twice, once before the elections, and once again immediately after the elections. In total, the wave 1 sample comprises N=7,351 respondents (3,298 in Flanders, 3,025 in Wallonia, and 1,028 in Brussels), whereas the wave 2 sample comprises N=3,917 respondents (1,978 in Flanders, 1,429 in Wallonia, and 510 in Brussels).
+
+The second dataset is a cross sectional CAWI survey amongst Flemish (N=1,012) and Walloon (N=1,024) citizens that was organised immediately after the elections.
+
+The deposit contains STATA and SPSS versions of each dataset, as well as accompanying codebooks that outline the field work, samples, and full questionnaires.</ddi:abstract>
+         <ddi:sumDscr/>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">REQUEST_PERMISSION</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="nl"/>
+   </ddi:fileDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

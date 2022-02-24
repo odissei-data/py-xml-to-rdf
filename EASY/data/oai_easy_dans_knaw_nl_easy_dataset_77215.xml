@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:77215</identifier>
+    <datestamp>2021-04-15T21:07:44Z</datestamp>
+    <setSpec>driver</setSpec>
+    <setSpec>D20000:D23000</setSpec>
+    <setSpec>D20000:D24000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Data belonging to 'Smoking intensity and bladder cancer aggressiveness at diagnosis'</ddi:titl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-2a6-ate2</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:77215</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University">Kiemeney, prof. dr. L.A.L.M. DAI=info:eu-repo/dai/nl/105132063</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt/>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">Bladder cancer</ddi:keyword>
+            <ddi:keyword xml:lang="en">Tumor stage</ddi:keyword>
+            <ddi:keyword xml:lang="en">Tumor multiplicity</ddi:keyword>
+            <ddi:keyword xml:lang="en">Aggressiveness</ddi:keyword>
+            <ddi:keyword xml:lang="en">Smoking</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Medicine</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Health sciences</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">This data set is part of the Nijmegen Bladder Cancer Study, one of the largest series of bladder cancer in the world (see https://icbc.cancer.gov/). The data were used to investigate the relationship between smoking and bladder cancer aggressiveness at diagnosis. The results will be published as Barbosa A.L.A. et al.,  Smoking intensity and bladder cancer aggressiveness at diagnosis. Plos One (submitted). 
+
+The Nijmegen Bladder Cancer Study (NBCS) has been described in more detail in (http://www.ncbi.nlm.nih.gov/pubmed/25023787). Briefly, BC patients diagnosed between 1995-2011 under the age of 75 years in the mid-eastern part of the Netherlands were identified through the Netherlands Cancer Registry (NCR) held by the Netherlands Comprehensive Cancer Organization (IKNL) and contacted via their treating physicians. Patients who consented to participate in the study were asked to fill out a lifestyle questionnaire, including questions on education, occupation, medical history, physical activity, and complete history of smoking. Furthermore, blood samples were collected by Thrombosis Service centers, which hold offices in all the communities in the region. The study was approved by the institutional review board of the Radboud university medical center, Nijmegen, The Netherlands (CMO Arnhem-Nijmegen). A total of 1859 BC patients were included in the study. 
+
+Smoking assessment
+Information on smoking history was obtained via the lifestyle questionnaire. Patients were asked for their smoking status at recruitment, age at smoking initiation and cessation, number of cigarettes, pipes and cigars smoked per day and duration of smoking in years. The timing of smoking cessation with respect to the diagnosis was calculated as age at diagnosis minus age at cessation. Smoking status at diagnosis was classified as never smoker, former smoker (quitted >1 year before diagnosis), current smoker (continuing cigarette smoker or quitted ≤ 1 year before diagnosis). Ever smokers were defined as the combination of former and current smokers. In the current smokers group, only the smoking period in years before the diagnosis was considered. Smoking amount was evaluated as cigarettes per day. Cumulative smoking exposure (in pack-years) was calculated by multiplying the cigarette smoking duration and packages per day (20 cigarettes representing one package). Pipe and/or cigar smoking (5.9% of all patients) was ignored in the main analyses, assuming that the majority of Dutch pipe and cigar smokers do not inhale the smoke. 
+
+Outcome assessment
+Detailed clinical data concerning age at diagnosis, tumor stage, tumor grade, tumor number (single or multiple), tumor size (&lt;3cm and ≥ 3cm), presence of concomitant CIS, and histological type were collected through a medical file survey. Tumor stage and grade were recorded according to the final conclusion in the pathology report. Tumors with WHO 1973 differentiation grade 1 or 2, WHO/ISUP 2004 low grade, or Malmström (Modified Bergkvist) grade 1 or 2a were considered low-grade tumors. We classified tumors with WHO 1973 differentiation grade 3, WHO/ISUP 2004 high grade, or Malmström (Modified Bergkvist) grade 2b or 3 as high-grade. Tumor aggressiveness was classified according to the risk of progression as follows: low-risk NMIBC (low-grade Ta tumors), high-risk NMIBC (all stage T1 tumors, all high-grade tumors, or CIS) and MIBC (stage ≥ T2 or any stage with ≥N1 and/or M1 ).
+
+Statistical analysis
+Patient and tumor characteristics were compared between the smoking status categories using chi-square, Fisher exact, and one-way analysis of variance (ANOVA) tests where appropriate. The distribution of continuous smoking variables was compared between the categories of tumor multiplicity and tumor aggressiveness and tested for statistical significance using the non-parametric Kruskal-Wallis test. Multinomial logistic regression was used to analyze the relation between smoking intensity and aggressiveness of the tumor with adjustment for gender and age at diagnosis. Low-risk NMIBC was considered as the reference group. We repeated similar analyses for tumor multiplicity as the dependent variable using solitary tumors as the reference group. The association of each smoking intensity variable (smoking amount, smoking duration and cumulative smoking exposure), age at smoking initiation, and time since smoking cessation was assessed separately in ever, former and current smokers. Statistical analysis was performed using IBM SPSS Statistics for Windows 20 (IBCM Corp., Armonk, NY, USA) with a p value &lt; 0.05 indicating statistical significance.
+
+This dataset contains the statistical datafile (SPSS) used for the data analyses, saved as a .sav and a .por.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">Collection period: start=2007-05-01; end=2012-02-01;</ddi:collDate>
+            <ddi:collDate event="single">Subject period: From January 1, 1995 to December 31, 2011</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">OPEN_ACCESS_FOR_REGISTERED_USERS</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

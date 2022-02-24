@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:112935</identifier>
+    <datestamp>2021-04-15T21:07:51Z</datestamp>
+    <setSpec>D20000:D23000:D23200:D23230:D23231</setSpec>
+    <setSpec>driver</setSpec>
+    <setSpec>D50000:D54000</setSpec>
+    <setSpec>D20000:D21000:D21400</setSpec>
+    <setSpec>D30000:D36000:D36100</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Early Precursors of Familial Dyslexia: A Prospective Longitudinal Study</ddi:titl>
+            <ddi:parTitl xml:lang="en">Dutch Dyslexia Programme</ddi:parTitl>
+            <ddi:parTitl xml:lang="en">Dutch Dyslexia Programme</ddi:parTitl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-x6c-wxyw</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:112935</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="University of Groningen">Maassen, Prof. Dr. B.A.M. DAI=info:eu-repo/dai/nl/069706484, ProjectLeader</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt/>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Linguistics</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Pedagogics</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Neurology</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Genetics</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Developmental dyslexia is a neurobiological disorder, characterized by deficits in the auditory (phonological), visual, motor and linguistic domains. In the longitudinal Dutch Dyslexia Programme (DDP) 180 children with a familial risk of dyslexia (FR), and a control group of 120 children were studied from the age of 2 months to 9 years. Data collection focused on auditory and visual ERPs between 2 and 47 months of age and reading assessments at age 7 to 9 years.
+
+Layman's description
+In the Dyslexia programme, young children were followed for a period of ten years to find early indications of dyslexia. This information will help to improve literacy programmes for dyslexic children starting at an early age. Researchers from various disciplines, such as brain researchers, linguists and geneticists, are participating in the programme.</ddi:abstract>
+         <ddi:sumDscr/>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:conditions xml:lang="en">License: http://creativecommons.org/publicdomain/zero/1.0</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

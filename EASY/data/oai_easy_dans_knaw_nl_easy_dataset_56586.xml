@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:56586</identifier>
+    <datestamp>2021-04-15T21:07:11Z</datestamp>
+    <setSpec>driver</setSpec>
+    <setSpec>D60000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">NIPO weekpeilingen 1984</ddi:titl>
+            <ddi:parTitl xml:lang="en">NIPO opinion polls 1984</ddi:parTitl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:56586</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-xu2-6exz</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en">Netherlands Institute for Public Opinion and Marketing Research - NIPO</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="2014-01-15"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">publieke opinie onderzoek</ddi:keyword>
+            <ddi:keyword xml:lang="en">opinion poll</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Social sciences</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Data derived from weekly public opinion polls in the Netherlands in 1984 concerning social and political issues. Samples were drawn from the Dutch population aged 18 years and older.
+
+All data from the surveys held between 1962 and 2000 are available in the DANS data collections.
+
+Background variables:
+Sex / age / religion / income / vote recall latest elections / party preference / level of education / union membership / professional status / &lt; self > left-right rating / party alignment / province / degree of urbanization / weight factor.
+
+Topical variables:
+n8401: Belonging to group that earns minimum wage.
+n8402: Left right rating of communism / Centrumpartij / Jealous of people in better circumstances / Stability in society / Capitalism / Income leveling / Questions concerning 2 members of parliament leaving CDA / Trust in politics / Building submarines for Taiwan.
+n8403: Positive discrimination of foreigners / Image of "Centrumpartij" &lt; extreme right wing party > / Concern about placement of nuclear cruise missiles / Successor of Dr. J.M. Den Uyl / Income expectations.
+n8404: Number of foreign children and Dutch children in school class of responder's children / Positive discrimination of foreigners / Understanding for people who gave their vote to the "Centrumpartij" / Voting intention on CPN &lt; Cummunistische Partij Nederland > / Right to vote of foreigners in local elections / Necessity to work / Preference for interested work and a rather low salary or a higher salary for less interested work / Value-added tax &lt; BTW > in day to day shopping.
+n8405: Difference in raising, educating children in former days and at present. / Important goals in raising children like politeness, order, independence, obedience, diligent or hardworking / Preference for working same number of hours per with a higher income or for working a less number of hours per with same income.
+n8406: Royal family / Necessity of retrenchments / Social welfare / Nuclear power stations.
+n8407: NATO decision concerning cruise missiles / Confidence in prominent political persons.
+n8408: Party leadership of Dr. J.M. den Uyl in 1986 / Celebrating carnival / Contentment with family doctor / Kind of medical insurance / Respondent s knowledge of and experience with first aid.
+n8409: Stationing of Soviet cruise missiles / Necessity of military balance towards the USSR / NATO membership / Decision of the Dutch government concerning the stationing of cruise missiles / Influence of peace movements.
+n8410: Olympic Games in The Netherlands / Contacts with inhabitants of Belgium, Germany, Great-Britain, France, United States, Italy, Japan, China and USSR.
+n8411: Qualities of prominent political persons / Late shopping hours &lt; till 19.00 > / Visit of the Pope / Euthanasia.
+n8413: Military balance needed in West-Europe against East-European countries / Dutch membership of NATO / Placing nuclear cruise missiles on Dutch territory / Influence of cruise missiles debate on party preference / Whether East-European nuclear missiles are directed towards West-Europe.
+n8414: Left-right thinking / Origin of political choice / Superstitiousness / Physiotherapists' treatment.
+n8415: Satisfaction with income / Whether income is enough for necessary expenses like food and clothes / Belonging to group of people with minimum income / Reduction of e.g. unemployment benefits, which are above the minimum level / Cruise missiles / Role of churches concerning cruise missiles.
+n8417: Voting intention European Parliament / Political and social responsibility of churches / Responsibility of churches concerning abortion / Effect of opinion of churches on members of parliament / 3rd television network / Membership of NATO / Responsibility of The Netherlands in NATO concerning cruise missiles / Effect of decision about cruise missiles on the Lubbers administration.
+n8418: Necessity of military balance towards the USSR / Membership of NATO / Cruise missiles / Voting intention / Voting intention at the elections for the European Parliament / Topics of the European elections in June 1984 / Reading books in Dutch or foreign languages.
+n8419: Is membership of parliament a heavy or an easy task / Disclosure of incomes / Church attendance / Believe in heaven and/or hell.
+n8421: Acquaintance with dates of European Parliament elections / Voting intention for European Parliament elections.
+n8422: Opinion about the Lubbers administration / Preferred coalition after next elections / Necessity of military balance towards the USSR / Cruise missiles / "Middenschool" / Authority of prominent political persons / Burglary and burglary prevention.
+n8423: Interest in Olympic Games / Boycott of USSR and other East- European countries of the Olympic Games / Olympic games in Amsterdam in 1992 / Eating shrimps / Economic and social situation in The Netherlands / Influence of the Lubbers administration on the economic and social situation.
+n8424: Amount of working hours in a / Working of 35 hours and relation to income / Solution for unemployment.
+n8427: Kind of religion / Political party preference at last elections / Political preference at date of interview / Age / Number of years of education / Membership of a union / Professional status / Scale of wages / Left-right scaling / Voting behaviour at former elections &lt; All background variables / No >.
+n8429: Decision about cruise missiles / Necessity of reducing benefits / Voting intention / Preferred leadership of socialist party.
+n8431: Physical characteristics / Female's preference for skirts or trousers / Having contact-lenses / Male respondents having a beard or a moustache.
+n8432: Voting on a political party or on the leader of a political party / Preference for specific politicians / Left-right scaling of the preferred politicians / Left-right scaling of respondents' friends / Left-right scaling of happiest and most satisfied people / Left-right scaling of most unsatisfied persons / Respondent's experience with burglary and maltreatment.
+n8434: Cruise missiles / RSV &lt; Rijn-Schelde-Verolme > affair / Respondent's opinion about the management of the company where respondent is working / Respondent's opinion about management of companies in general / Size of company where respondent is working.
+n8435: Acid rain / Comparing nuclear energy and coal energy / Being a more or less frightened or happy personality / Presence in respondents' family of children who just left school / Expected influence of the government on economy, unemployment and the height of the benefits.
+n8437: Voting on a political party or on the leader of a political party / Preference for specific politicians / Expectations about the government program concerning retrenchment measures / Necessity of retrenchment measures / The Lubbers administration / Willingness to give blood for the Red Cross.
+n8439: Occupational status, working full-time or part-time / Amount of working hours per / Preference for part-time work / Payment of part-time work / Effect of shorter working hours on the unemployment problem / Having a job on the side.
+n8440: Government plans for 1985 / Personal consequences proposed government budget.
+n8441: Pornography and pornography in which children are involved / Oil, gas pipeline through the Waddenzee / Personal experiences with crime / Expectations about development of crime / Are there enough policemen / Number of cells in prison.
+n8443: Regulations concerning payment during illness / Number of days respondent did not work because of illness / Experience with drugs and drug addicts / Having a savings account / Respondent's acquaintance with the distrainment of accountancy of several saving bank offices / Alternative ways of saving money.
+n8444: Scaling of democratic character of various political parties / Wages and salaries for 1985 / Way of spending profits of companies / Satisfaction with income / Minimum incomes / Annual extra pay-out / Willingness of respondent to answer interviewer on a Sunday.
+n8445: Whether respondent is living in a rented or in an own house / Percentage of income which is paid for rent / Sharing of domes- tic work by husband and wife / Presence of electric household articles / Starting own business.
+n8446: Political preference compared with one year ago / Voting intention for next elections / Financial situation compared with one year ago, 10 years ago and compared with parents / Expectations concerning financial situation for the future, also for children / Building new nuclear power stations / Acid rain / Whether nuclear waste can be stored safely.
+n8447: Division of Dutch population in people with a job and a rather good income and unemployed persons with a very small income / For which group is government creating special facilities / Quality rating of products from 22 countries.
+n8448: Weekly shopping night.
+n8449: Christmas and Christmas presents / Firework New Years Eve / New Year cards / "Centrumpartij" / Expectations concerning personal life for 1985.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:nation abbr="NLD" xml:lang="en">The Netherlands</ddi:nation>
+            <ddi:collDate event="single">1984</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">OPEN_ACCESS_FOR_REGISTERED_USERS</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="nl"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

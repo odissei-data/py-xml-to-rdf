@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:193285</identifier>
+    <datestamp>2021-04-15T21:08:19Z</datestamp>
+    <setSpec>D60000:D66000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Advertising Literacy Activation and Inhibitory Control</ddi:titl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-xmy-ehnz</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:193285</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University">Hoek, dr. R.W. DAI=info:eu-repo/dai/nl/395205026</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University">Rozendaal, dr. E. DAI=info:eu-repo/dai/nl/304358185</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University">Schie, dr. H.T. van DAI=info:eu-repo/dai/nl/24339120X</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University">Buijzen, prof. dr. M.A. DAI=info:eu-repo/dai/nl/243991681</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt/>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">advertising</ddi:keyword>
+            <ddi:keyword xml:lang="en">children</ddi:keyword>
+            <ddi:keyword xml:lang="en">executive function</ddi:keyword>
+            <ddi:keyword xml:lang="en">inhibitory control</ddi:keyword>
+            <ddi:keyword xml:lang="en">advertising literacy</ddi:keyword>
+            <ddi:keyword xml:lang="en">indirect measurement</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Communication sciences</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Data set for paper by Hoek et al. (2020) on Advertising Literacy Activation and Inhibitory Control.
+Data are related to published dissertation (Chapter 3):
+Hoek, R. W. (2020, 8 September). Re-examining the Relation Between Advertising Literacy and Children's Susceptibility to Advertising: An Indirect Measurement Approach. Behavioural Science Institute, Radboud University Nijmegen, the Netherlands.
+
+Study was part of PhD project of R. W. Hoek.
+
+This study aimed to investigate whether children’s advertising literacy activation affects their susceptibility to advertising and if this relationship is moderated by inhibitory control. In a within-subjects experiment among 48 children aged 10-13 years old, we made a distinction between children’s conceptual advertising literacy (i.e., knowledge of advertising) and attitudinal advertising literacy (i.e., critical attitude toward advertising). By using a within-subjects design, participants were primed with either television commercials (advertising condition) or a news broadcast (control condition). Advertising literacy activation was assessed with the Advertising Literacy Activation Task (ALAT), inhibitory control with a Go/No Go Task, and susceptibility with both an Approach-Avoidance Task (to assess implicit desire for the advertised products) and a questionnaire measurement (to assess explicit desire for the advertised products). The results showed that the relation between both conceptual and attitudinal advertising literacy activation and implicit desire for the advertised products was moderated by inhibitory control. Inhibitory control not only diminished the direct positive effect of advertising literacy activation on implicit desire, but even reversed it. No effects of advertising literacy activation and inhibitory control were found on explicit advertised product desire. Our results indicate that inhibitory control plays an important role in countering advertising effects. 
+
+The ALAT, Go/NoGo Task, and Approach-Avoidance Task are all reaction time measures.</ddi:abstract>
+         <ddi:sumDscr/>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">REQUEST_PERMISSION</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="Dutch"/>
+   </ddi:fileDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="English"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

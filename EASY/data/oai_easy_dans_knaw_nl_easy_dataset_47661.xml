@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:47661</identifier>
+    <datestamp>2021-04-15T21:04:59Z</datestamp>
+    <setSpec>D70000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Decline of the Corporate Community. Network Dynamics of the Dutch Business Elite</ddi:titl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:47661</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-xjd-yadj</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en">Eelke M. Heemskerk</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Universiteit van Amsterdam - Politicologie</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Eelke M. Heemskerk</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="2011-11-02"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">Interlocking Directorates</ddi:keyword>
+            <ddi:keyword xml:lang="en">Corporate Elite</ddi:keyword>
+            <ddi:keyword xml:lang="en">Social Networks</ddi:keyword>
+            <ddi:keyword xml:lang="en">Corporate Governance</ddi:keyword>
+            <ddi:keyword xml:lang="en">Varieties of Capitalism</ddi:keyword>
+            <ddi:keyword xml:lang="en">Finance</ddi:keyword>
+            <ddi:keyword xml:lang="en">Old Boys Network</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Social sciences</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Economics and Business Administration</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">From its inception, big business in the western industrialised world has been organised in national business communities. Central elements of these business communities are corporate board interlocks that constitute the notorious ‘Old Boys Network’. This corporate elite connects the centres of corporate governance. 
+
+This project investigates how the decline of the old boys network in the Netherlands has affected Dutch capitalism. Combining formal network analysis with insights from interviews with key corporate elite members, the project shows how during the last quarter of the 20th century the Dutch business community has disappeared. This is interpreted as a drift towards a liberal market economy. However, as the study shows, even in a liberal market economy corporate directors need social networks to communicate and coordinate their strategic decisions. Hence, the corporate elite shift its meeting network to private
+and informal circles.
+
+The dataset contains the board composition of the largest 250 firms in the Netherlands, 1976, 1996 and 2001, the board interlocks between firms, and the meetings between directors.
+
+Worksheets
+    READ ME (description of data)
+    1976 Positions top 250
+    1996 Positions top 250
+    2001 Positions top 250
+    Board Interlocks 1976
+    Board Interlocks 1996
+    Board Interlocks 2001
+    Meetings Between Directors 1976
+    Meetings Between Directors 1996
+    Meetings Between Directors 2001</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1976</ddi:collDate>
+            <ddi:collDate event="single">1996</ddi:collDate>
+            <ddi:collDate event="single">2001</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">REQUEST_PERMISSION</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

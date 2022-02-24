@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:32558</identifier>
+    <datestamp>2021-04-15T21:05:54Z</datestamp>
+    <setSpec>D60000:D61000</setSpec>
+    <setSpec>driver</setSpec>
+    <setSpec>D40000:D42000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Political elite and foreign affairs in the Netherlands 1976</ddi:titl>
+            <ddi:parTitl xml:lang="en">Elite en buitenlandse politiek in Nederland 1976</ddi:parTitl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:32558</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-xmg-wa8x</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en">Baehr, P.R., Tempel, C.P. van den, Universiteit van Amsterdam * Amsterdam, Instituut voor wetenschap der politiek, IWP, Vermeulen, W.H., Rijksuniversiteit Utrecht * Utrecht, Europa Instituut (primary investigator)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Interuniversitaire werkgroep binnenlandse invloeden op het buitenlands beleid (research initiator) </ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Interuniversitaire werkgroep binnenlandse invloeden op het buitenlands beleid
+Nv. Vh. Ned. Stichting voor statistiek * Den Haag (data collector) </ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="1976-01-01"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">political science</ddi:keyword>
+            <ddi:keyword xml:lang="en">international relations</ddi:keyword>
+            <ddi:keyword xml:lang="en">politics, internal</ddi:keyword>
+            <ddi:keyword xml:lang="en">stratification</ddi:keyword>
+            <ddi:keyword xml:lang="en">developing countries</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Political and administrative sciences</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Social sciences</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Sociology</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">In general: to study participation in opinion formation and decision making with regard to Dutch foreign affairs, in the light of the increased demand for participation by various groups in society. This study is focusing on attitudes and opinions of the elite, supposed to play a central role in Dutch foreign policy. Attitude towards foreign policy of dutch political elite / roles of the elite / biggest threat to humanity / characterization of foreign policy of big nations / influence of particular persons on foreign policy / assessment and acceptability of conventional or nuclear war / function of united nations / safety guarantees for Western Europe / functional and effective means to create and maintain peace / agreement with several opinions on disarmament / Dutch role in international politics / agreement with statements about Dutch foreign policy / influence of other countries and organizations on Dutch foreign policy / parliamentary influence on foreign policy / growing interest in foreign policy / opinion on extra-parliamentary influence / opinion on several methods to influence foreign policy, their effectiveness / political advisers / civil servants / groups requesting information about foreign policy / areas of interest for information requests / efforts of informal elite to influence foreign policy / primary goal of foreign policy / means to reach this goal / role in unification of Western Europe / role within NATO / defence budget / development aid / support of liberation organizations / criteria for foreign aid / factors responsible for keeping undeveloped countries as they are / influence of international political events on attitude towards foreign policy / trust in people. Background variables: basic characteristics/ residence/ occupation/employment/ income/capital assets/ education/ politics/ religion/ readership, mass media, and 'cultural' exposure/ organizational membership</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1976</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">OPEN_ACCESS_FOR_REGISTERED_USERS</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

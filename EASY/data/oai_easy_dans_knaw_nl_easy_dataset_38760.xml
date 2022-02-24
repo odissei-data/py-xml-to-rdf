@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:38760</identifier>
+    <datestamp>2021-04-15T21:06:42Z</datestamp>
+    <setSpec>D30000:D34000:D34300</setSpec>
+    <setSpec>driver</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Dutch public limited companies with ties in the Netherlands-Indies, 1900</ddi:titl>
+            <ddi:parTitl xml:lang="en">Nederlandse Vennootschappen, 1900</ddi:parTitl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:38760</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-xef-397w</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en">European Social Fund/DABURH, Department of History, Leiden University</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">M.A.T. Hendriksen (data collector) </ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="1995-12-01"/>
+            <ddi:distDate xml:lang="en" date="2007-01-31"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">economic history</ddi:keyword>
+            <ddi:keyword xml:lang="en">history of trade</ddi:keyword>
+            <ddi:keyword xml:lang="en">companies</ddi:keyword>
+            <ddi:keyword xml:lang="en">demographic data</ddi:keyword>
+            <ddi:keyword xml:lang="en">employees</ddi:keyword>
+            <ddi:keyword xml:lang="en">membership lists</ddi:keyword>
+            <ddi:keyword xml:lang="en">migration of labour</ddi:keyword>
+            <ddi:keyword xml:lang="en">occupations</ddi:keyword>
+            <ddi:keyword xml:lang="en">trade relations</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Modern and contemporary history</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">The dataset contains data on Dutch public limited companies with ties in the Netherlands East Indies around 1900. Data include: a list of all positions (occupations) at the companies and an employee list of the companies.  Also included in the dataset: membership lists of around 1900 of the Royal Institute of Linguistics and Antropology and of the Royal Dutch Geographic Society (KNAG). The data was collected as part of a project of the postgraduate course, Historical Information Processing, Leiden University.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1895 - 1895</ddi:collDate>
+            <ddi:collDate event="single">1900 - 1900</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">OPEN_ACCESS_FOR_REGISTERED_USERS</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

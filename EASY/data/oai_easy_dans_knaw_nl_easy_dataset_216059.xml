@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:216059</identifier>
+    <datestamp>2021-09-19T05:27:10Z</datestamp>
+    <setSpec>driver</setSpec>
+    <setSpec>D60000:D65000</setSpec>
+    <setSpec>E10000:E15000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Improving the integration of environmental considerations in planning for industrial development locations using Spatial Multi Criteria Evaluation</ddi:titl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-z4x-ju7b</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:216059</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Faculty of Geo-Information Science and Earth Observation (ITC), University of Twente">Mossink, MSc A.S.</ddi:AuthEnty>
+            <ddi:othId xml:lang="en" role="RightsHolder">Faculty of Geo-Information Science and Earth Observation (ITC), University of Twente</ddi:othId>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="2021-07-12"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">Strategic Environmental Assessment</ddi:keyword>
+            <ddi:keyword xml:lang="en">Industrial site selection</ddi:keyword>
+            <ddi:keyword xml:lang="en">Rwanda</ddi:keyword>
+            <ddi:keyword xml:lang="en">Flood impact</ddi:keyword>
+            <ddi:keyword xml:lang="en">Spatial Development Framework (SDF) Method</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Environmental studies</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Urban and rural planning</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">The dataset contains a criteria tree in the Spatial Multi Criteria Evaluation (SMCE) operation in ILWIS 3.8.6 (Integrated Land &amp; Water Information System) - GIS. 
+The tree contains maps depicting the following flood issue themes: 1. discourage industrial development on sites that lead to reduced infiltration and consequently to increased run-off to downstream areas. 2. develop industry in catchments that have sufficient capacity to store and retain water. 3. protect wetlands against degradation caused by nearby industrial development. 4. protect vulnerable assets in wetlands against floods that are induced by upstream industrial development. 5.  discourage industrial development in hazardous areas.
+
+Thesis background:
+Many African developing countries have been struggling to adequately address the environmental impacts of new industrial development locations in spatial planning practices next to the consideration of economic and social impacts. Especially in countries facing challenges with data availability and cross-sectoral coordination among institutions, the integration of environmental impacts during the planning processes can be lacking. The adaptation of strategic spatial planning methods conform to Strategic Environmental Assessment (SEA) guidelines may improve the consideration of environmental impacts during the spatial planning and decision-making processes for industrial development locations. 
+
+On that note, this study examines the development of such a method for countries where SEA is recently introduced. It applies the Spatial Multi-Criteria Evaluation (SMCE) to integrate environmental considerations: into planning practices for industrial park locations and complementary to plans that guide regional planning of industrial activities in Rwanda. First, the study reviewed the consideration of environmental issues in these planning practices. Then, based on a case study conducted in the Huye and Kigali districts, a method was developed to assess the suitability of locations for industrial development considering information about flood issues. Last, this study showed the contribution of this information to planning practices by illustrating how to assist planners in identifying potential industrial development locations and evaluating the information against designated industrial development locations. 
+
+As a result, this study developed a participative approach that considers flood issues to inform spatial planning about: more sustainable alternative options in regard to the location, shape or size of industrial development, or potential flood mitigation measures. To this extent, the assessment of flood issues in this research illustrated the potential of the SMCE method to implement SEA in a context characterised by data scarcity and difficulties with cross-sectoral coordination; thereby, introducing a method that can help to avoid environmental impacts that emerge from industrial development.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">2021</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:conditions>http://creativecommons.org/licenses/by-nc/4.0/</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

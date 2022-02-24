@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:190684</identifier>
+    <datestamp>2021-04-15T21:08:16Z</datestamp>
+    <setSpec>D30000:D34000:D34300</setSpec>
+    <setSpec>driver</setSpec>
+    <setSpec>D30000:D35000:D35100</setSpec>
+    <setSpec>D30000:D32000:D32100</setSpec>
+    <setSpec>E10000:E15000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="eng">Water’s worth. Urban society and subsidiarity in seventeenth-century Holland</ddi:titl>
+            <ddi:parTitl xml:lang="eng">Nuttig water. De stedelijke samenleving en subsidiariteit in zeventiende-eeuws Holland</ddi:parTitl>
+            <ddi:parTitl xml:lang="en">Nuttig water. De stedelijke samenleving en subsidiariteit in zeventiende-eeuws Holland</ddi:parTitl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-2x2-5vn2</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:190684</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en">Groep-Foncke, Drs. M.E. ORCID=0000-0003-0545-3538</ddi:AuthEnty>
+            <ddi:othId xml:lang="en" role="RightsHolder">Groep-Foncke, Drs. M.E. ORCID=0000-0003-0545-3538, RightsHolder</ddi:othId>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="2020-10-26"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="eng">water</ddi:keyword>
+            <ddi:keyword xml:lang="eng">infrastructure</ddi:keyword>
+            <ddi:keyword xml:lang="eng">negotiation</ddi:keyword>
+            <ddi:keyword xml:lang="eng">urban life</ddi:keyword>
+            <ddi:keyword xml:lang="eng">conflict management</ddi:keyword>
+            <ddi:keyword xml:lang="eng">subsidiarity</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Modern and contemporary history</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">History and philosophy of science and technology</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">History of arts and architecture</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Environmental studies</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Humanities</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="eng">For this PhD thesis, the reports of human encounters with water were used to evaluate the allocation of duties and responsibilities within Holland’s urban communities between 1600 and 1660. This was done by systematically examining the reports of water-related issues in (a) notarial records and (b) petitions to the urban magistrates, originating from the cities of Alkmaar, Haarlem, The Hague and Rotterdam. Additional archival sources, such as patent applications, tendering documents, and legal records helped to put the findings from the notarial records and petitions into perspective. The overall conclusion of the thesis is that taking water as a viewpoint reveals that the urban communities of Holland were highly subsidiary in nature. Individual townspeople, men and women alike, knew how to fend for themselves, incidentally having recourse to other inhabitants, businessmen, corporations or magistrates. Together, they constituted a tiered society, wherein nearly each entity bore the responsibilities that fitted its capacities.
+
+The dataset incorporates the transcriptions of the archival sources in plain text, broken down by archive; as well as a spreadsheet providing a statistical overview of gender aspects, the representation of groups and individuals, professional occupations, dates, locations, and addressed topics.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1600 - 1660</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:conditions>http://creativecommons.org/licenses/by/4.0</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="nl"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:51617</identifier>
+    <datestamp>2021-04-15T21:06:53Z</datestamp>
+    <setSpec>driver</setSpec>
+    <setSpec>D30000:D31000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Access to Grey Content: An Analysis of Grey Literature based on Citation and Survey Data, A Follow-up Study</ddi:titl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:51617</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-xfq-mdfg</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en">Farace, Dr. J.</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Frantzen, J.</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Schöpfel, Dr. J. (INIST-CNRS)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Stock, C. (INIST-CNRS)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Boekhorst, Dr. A.K. (UvA)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">GreyNet - Grey Literature Network Service</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="2012-10-08"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">Grey Literature</ddi:keyword>
+            <ddi:keyword xml:lang="en">Citation Analysis</ddi:keyword>
+            <ddi:keyword xml:lang="en">Survey Data</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Humanities</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Paleography, bibliology, bibliography, library science</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Grey literature, an area of interest to special librarians and information professionals, can be traced back a half-century. However, grey literature as a specialized field in information studies is less than a decade old. At GL'97 in Luxembourg, grey literature was redefined "as information produced on all levels of government, academics, business and industry in electronic and print formats not controlled by commercial publishers (i.e. where publishing is not the primary activity of the producing body)". The subject area was broadened and the need for continuing research and instruction pursued. The results of an online survey carried out in 2004 compared with survey results a decade prior indicate two changes: (1) a move to more specialization in the field of grey literature and (2) a move to more balance in activities related to research and teaching as compared with the processing and distribution of grey literature. It is not that the activities of processing and distribution are today of less concern, but technological advances and the Internet may have made them less labour intensive. The burden that grey literature poised to human resources and budgets appears to have been reduced enough that the benefits of the content of grey literature is discovered. And this discovery of a wealth of knowledge and information is the onset to further research and instruction in the field of grey literature. This research project is a follow-up or second part of a citation research. The first part was carried out last year and the results were presented in a conference paper at GL6 in New York. Citation analysis is a relatively objective quantitative method and must be carefully implemented (Moed, 2002). Thus, in an effort to expand the results of our initial analysis beyond the realm of the GL Conference Series, an Author Survey will also be implemented in this follow-up study. The empirical data gathered from the online questionnaire will be compared with the updated data from the Citation Database to which the citations in the GL6 Conference Proceedings will have been added. Comparative data from the comprehensive citation database (estimated 1650 records) and the data from the online author survey would then allow for a clearer demonstration of the impact of this research. Where only part of the impact of research is covered by citation analysis alone (Thelwall, 2002). This research will allow for tracking the life of a conference paper as well as the application and use of its content within and outside the grey circuit. Further gain would be a better profile of the GL authors, who are the source of GreyNet's knowledge and information base. This in turn could lead to the subsequent development of services that are in line with the needs of authors and researchers in the field of grey literature. For example, a citation style for grey literature, where special analysis of hyperlinked citations would provide an opportunity to address the problem of the disparity of web-based grey literature in the context of open archives.</ddi:abstract>
+         <ddi:sumDscr/>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:conditions xml:lang="en">License: http://creativecommons.org/publicdomain/zero/1.0</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

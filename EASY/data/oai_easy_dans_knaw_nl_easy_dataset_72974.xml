@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:72974</identifier>
+    <datestamp>2021-04-15T21:07:41Z</datestamp>
+    <setSpec>driver</setSpec>
+    <setSpec>D60000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Engagement of vulnerable youths using Internet platforms</ddi:titl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-xme-rp6t</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:72974</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="University of Hong Kong">Chan, M.K.Y.</ddi:AuthEnty>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="University of Hong Kong">Li, T.M.H.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="University of Hong Kong">Law, Y.W.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="University of Hong Kong">Wong, P.W.C.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="University of Hong Kong">Chau, M.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="University of Hong Kong">Cheng, C.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="University of Hong Kong">Fu, K.W.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="University of Hong Kong">Bacon-Shone, J.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="University of Hong Kong">Cheng, Q.E.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="University of Hong Kong">Yip, P.S.F.</ddi:othId>
+         </ddi:rspStmt>
+         <ddi:distStmt/>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">Adolescence</ddi:keyword>
+            <ddi:keyword xml:lang="en">Internet</ddi:keyword>
+            <ddi:keyword xml:lang="en">Risk behaviors</ddi:keyword>
+            <ddi:keyword xml:lang="en">Help seeking</ddi:keyword>
+            <ddi:keyword xml:lang="en">Outreach</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Social sciences</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Survey data of 1010 participants exploring their internet usage preference and their willingness to be engaged by online professionals if they are in need.
+
+Abstract
+Aim: Our study aims to understand youths’ online behavior in terms of disclosing their distress and help seeking. Methods: A cross-sectional telephone-based survey was conducted with 1,010 young people in Hong Kong. Logistic regression analysis was conducted to identify the factors associated with youths who express emotional distress online and the differences among four categories of youths—non-distressed youths (reference group) and three categories of distressed youths (not-seek-help group, sought informal help, and sought formal help groups)—in terms of their help seeking behavior. Results: Those who expressed distress online were associated with a higher lifetime prevalence of suicidal ideation. The active informal help group had a risk profile similar to that of the inactive group, including suicide risk, unsafe sex, and being bullied. The active informal help group tended to express distress online, which indicates that they may be more accessible for professionals to identify. More importantly, approximately 20% of the distressed youths did not seek formal or informal help yet expressed their distress online. Implication: The results of this study indicate that there are opportunities for helping professionals to develop strategic engagement methods using social media to help distressed youths.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">23 January 2016 - 22 March 2013</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">OPEN_ACCESS_FOR_REGISTERED_USERS</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="Chinese"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

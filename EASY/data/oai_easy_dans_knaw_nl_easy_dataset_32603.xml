@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:32603</identifier>
+    <datestamp>2021-04-15T21:05:56Z</datestamp>
+    <setSpec>D50000:D52000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Vervolgonderzoek Noord-Brabantse zesde-klassers 1983</ddi:titl>
+            <ddi:parTitl xml:lang="en">Educational and occupational career of primary school pupils 1983</ddi:parTitl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:32603</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-zky-6aub</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en">Hartog, J., Universiteit van Amsterdam * Amsterdam, Fac. Economische Wetenschappen, vakgroep micro-economie (primary investigator)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Nationaal programma arbeidsmarktonderzoek, NPAO * Den Haag (research initiator) </ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt/>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">education</ddi:keyword>
+            <ddi:keyword xml:lang="en">school careers</ddi:keyword>
+            <ddi:keyword xml:lang="en">labourmarket</ddi:keyword>
+            <ddi:keyword xml:lang="en">entrepreneurship</ddi:keyword>
+            <ddi:keyword xml:lang="en">onderwijs</ddi:keyword>
+            <ddi:keyword xml:lang="en">schoolloopbanen</ddi:keyword>
+            <ddi:keyword xml:lang="en">arbeidsmarkt</ddi:keyword>
+            <ddi:keyword xml:lang="en">zelfstandigen</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Educational theory</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Determination of relations between intelligence, social background, school career and occupation, level of occupation and income on the basis of a survey held in 1952 ( by the authorities of the province of Noord-Brabant ) on pupils of 6th grade of primary schools. School career and occupational career from 6th grade of primary school / kind of primary school / family situation / advice from teacher and wish of parents for secondary education / results of tests / for each year: type of education plus results / looking for job, expectations / wishes regarding nr. of working hours / fitting of r's job and r's education / r's position on the labour market / components of income. Background variables: basic characteristics/ household characteristics/ characteristics of parental family/household/ occupation/employment/ income/capital assets/ education/ social class/ religion</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1952 * 1983</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">REQUEST_PERMISSION</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

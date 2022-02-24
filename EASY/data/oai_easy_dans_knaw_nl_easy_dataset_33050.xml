@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:33050</identifier>
+    <datestamp>2021-04-15T21:06:18Z</datestamp>
+    <setSpec>driver</setSpec>
+    <setSpec>D50000:D52000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Aansluiting middelbaar agrarisch onderwijs en arbeidsmarkt 1990</ddi:titl>
+            <ddi:parTitl xml:lang="en">Connection between secondary agricultural education  and labour market 1990</ddi:parTitl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:33050</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-x5a-9qvt</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Landbouwuniversiteit Wageningen WUR * Wageningen, Vakgroep agrarische onderwijskunde">Pierik, H.J. DAI=info:eu-repo/dai/nl/068555709</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">H.J. van Pierik, LU Wageningen, Vakgroep agrarische onderwijskunde (depositor)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Landbouw Universiteit Wageningen, Ministerie van Landbouw Natuurbeheer en Visserij (research initiator)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Vakgroep Agrarische Onderwijskunde, LUW * Wageningen (data collector)</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="1994-01-01"/>
+            <ddi:distDate xml:lang="en" date="2007-07-23"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">education</ddi:keyword>
+            <ddi:keyword xml:lang="en">agriculture</ddi:keyword>
+            <ddi:keyword xml:lang="en">secondary education</ddi:keyword>
+            <ddi:keyword xml:lang="en">occupations</ddi:keyword>
+            <ddi:keyword xml:lang="en">labour market</ddi:keyword>
+            <ddi:keyword xml:lang="en">career</ddi:keyword>
+            <ddi:keyword xml:lang="en">onderwijs</ddi:keyword>
+            <ddi:keyword xml:lang="en">landbouw</ddi:keyword>
+            <ddi:keyword xml:lang="en">onderwijs, middelbaar</ddi:keyword>
+            <ddi:keyword xml:lang="en">banen</ddi:keyword>
+            <ddi:keyword xml:lang="en">arbeidsmarkt</ddi:keyword>
+            <ddi:keyword xml:lang="en">carriere</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Educational theory</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Two cohorts of students finished their secondary agricultural education (MAO) in the years 1978 and 1987 were traced and they were asked to evaluate their education and their career. Agricultural background / preliminary training / residence of MAO / subject / importance of fields of study in present job / attention paid to fields of study and practical skills during MAO / daytime education and courses after MAO of importance for career / need for courses and training at the moment / informed about courses and training of the MAO / has planned to follow courses in the near future, and motivation / description of present function and additional functions: activities, independence, had enough education to do job well, hierarchical level, education of leader, number of employees of company, expectations of employment in future for company, preference for full-time or part-time job, ( not ) satisfied with aspects of job ( level, promotion, work load, circumstances, scope to develop, working hours, income ), how did respondent get present job / has been unemployed involuntary after MAO / description of functions after MAO, before present function / most important cause of not having a paid job / social benefit / chances for paid job in near future / self-employed entrepreneurship / informed about vacancies / time spending on housekeeping and voluntary work / expectations about future of agriculture Background variables: basic characteristics/ household characteristics/ occupation/employment/ income/capital assets/ education/ readership, mass media, and 'cultural' exposure</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1978 * 1990</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">OPEN_ACCESS_FOR_REGISTERED_USERS</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

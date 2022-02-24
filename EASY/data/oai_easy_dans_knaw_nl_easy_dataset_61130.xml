@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:61130</identifier>
+    <datestamp>2021-04-15T21:07:24Z</datestamp>
+    <setSpec>driver</setSpec>
+    <setSpec>D50000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Motor imagery in children</ddi:titl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-xbb-2jjn</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:61130</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University">Spruijt, MSc. S.</ddi:AuthEnty>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Radboud University">Jongsma, Dr. M.L.A. DAI=info:eu-repo/dai/nl/298975424</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Vrije Universiteit Amsterdam">Kamp, Dr. J. van der DAI=info:eu-repo/dai/nl/323261450</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Radboud University">Steenbergen, Prof. B. DAI=info:eu-repo/dai/nl/191118052</ddi:othId>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="2015-04-03"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">Motor imagery in children</ddi:keyword>
+            <ddi:keyword xml:lang="en">Hand laterality judgement task</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Behavioural and educational sciences</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">The project was focused on examining age-related differences in the ability of children to use motor imagery. A commonly used paradigm to study motor imagery is the hand laterality judgment task. Children of 5 to 8 years old (N = 92) judged laterality of back and palm view hand pictures in different rotation angles. Response accuracy and response duration were registered and were used to draw conclusions on motor imagery ability in children.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">2014</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:conditions xml:lang="en">License: http://creativecommons.org/publicdomain/zero/1.0</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:59738</identifier>
+    <datestamp>2021-04-15T21:07:19Z</datestamp>
+    <setSpec>D30000:D33000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Youth Worship in Protestant Contexts. A Practical Theology Theory of Participation of Adolescents</ddi:titl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:59738</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-xjf-wtdk</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Protestant Theological University">Sonnenberg, drs. P.M. DAI=info:eu-repo/dai/nl/383425069</ddi:AuthEnty>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Protestant Theological University">Sonnenberg, drs. P.M. DAI=info:eu-repo/dai/nl/383425069</ddi:othId>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="2014-12-04"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">Youth Worship</ddi:keyword>
+            <ddi:keyword xml:lang="en">Practical Theology</ddi:keyword>
+            <ddi:keyword xml:lang="en">Liturgical Studies</ddi:keyword>
+            <ddi:keyword xml:lang="en">Youth Ministry</ddi:keyword>
+            <ddi:keyword xml:lang="en">Ethnographic Methods</ddi:keyword>
+            <ddi:keyword xml:lang="en">Participation</ddi:keyword>
+            <ddi:keyword xml:lang="en">Recreation</ddi:keyword>
+            <ddi:keyword xml:lang="en">Learning</ddi:keyword>
+            <ddi:keyword xml:lang="en">Being Together</ddi:keyword>
+            <ddi:keyword xml:lang="en">God</ddi:keyword>
+            <ddi:keyword xml:lang="en">Religion</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Theology and religious studies</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">The area of interest in this practical theological research is the field of youth worship in Protestant contexts in the late modern society of the 21st century in the Netherlands. The central research question is: How do adolescents participate in youth worship gatherings? 
+
+To answer this question we investigate in what adolescents participate, how they express themselves and which meanings they attribute to youth worship and various liturgical-ritual elements. In this empirical study the actor perspective, this is the emic perspective, is investigated with the use of ethnographic methods.
+
+Local youth worship services and (inter)national youth worship events are the domain of research. The transcriptions of the interviews with adolescents in the age of 14-20, the transcriptions of the interviews with organizers, and the field notes of the participant observations are archived under the heading of 'youth worship services' and 'youth events', respectively.
+
+The empirical data contains:
+-16 interviews with adolescents  in local congregations
+-13 field notes in local congregations
+- 9 documents with extra local information
+- 7 interviews with local organizers
+- 21 interviews with adolescents who participated at youth events
+- 10 email interviews with adolescents who participated at youth events
+- 22 speed interviews at youth events (some speed interviews are in the same document)
+- 6 field notes of youth events
+- 5 interviews with organizers of the youth events
+
+See the 'List with interviews and field notes' (tab Data files > folder 'Design en Analyse' > document 'List with interviews and field notes.pdf') for more detailed information.
+All transcriptions are in Dutch.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">2007-2012</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">REQUEST_PERMISSION</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="nl"/>
+   </ddi:fileDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="Codebook in Dutch"/>
+   </ddi:fileDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="Description in English"/>
+   </ddi:fileDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="Transcripts in Dutch"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

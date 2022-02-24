@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:50156</identifier>
+    <datestamp>2021-04-15T21:06:51Z</datestamp>
+    <setSpec>driver</setSpec>
+    <setSpec>D30000:D31000</setSpec>
+    <setSpec>D10000:D15000:D15700</setSpec>
+    <setSpec>D50000</setSpec>
+    <setSpec>D60000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+    <setSpec>D20000</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Evolution of Wikipedia Categories</ddi:titl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-xjp-zfuw</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:50156</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en">Scharnhorst, A. DAI=info:eu-repo/dai/nl/326096957</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Gao, C.</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Akdag Salah, A.</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Suchecki, K.</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="2012-05-29"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">Scholarly knowledge</ddi:keyword>
+            <ddi:keyword xml:lang="en">Classification systems</ddi:keyword>
+            <ddi:keyword xml:lang="en">Thesauri</ddi:keyword>
+            <ddi:keyword xml:lang="en">Ontologies</ddi:keyword>
+            <ddi:keyword xml:lang="en">Bibliographic systems</ddi:keyword>
+            <ddi:keyword xml:lang="en">Wikipedia</ddi:keyword>
+            <ddi:keyword xml:lang="en">Universal Decimal Classification</ddi:keyword>
+            <ddi:keyword xml:lang="en">Network analysis</ddi:keyword>
+            <ddi:keyword xml:lang="en">User annotations</ddi:keyword>
+            <ddi:keyword xml:lang="en">Tagging</ddi:keyword>
+            <ddi:keyword xml:lang="en">Folksonomies</ddi:keyword>
+            <ddi:keyword xml:lang="en">Knowledge space</ddi:keyword>
+            <ddi:keyword xml:lang="en">Knowledge dynamics</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Humanities</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Paleography, bibliology, bibliography, library science</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Behavioural and educational sciences</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Social sciences</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Life sciences, medicine and health care </ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Geodesy, physical geography</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Knowledge Space Lab: Design versus Emergence. Comparison between the structure and evolution of categories in the Wikipedia and the Universal Decimal Classification. 2009-2011. 
+
+Background:
+This research has been conducted by the project "Knowledge Space Lab - mapping knowledge interactively" (OND 1337291}. Funded by the Royal Netherlands Academy of Arts and Sciences - KNAW, from September 2009 - March 2011 [Strategiefondsproject KNAW - Amsterdam - The Netherlands] the project contributed to the new research area of mapping and modelling of science. The project addressed the difference between representing scholarly knowledge in (external) classification systems (such as thesauri, ontologies, bibliographic systems) and 'internal' representations based on data- and user-tagging (such as network analysis, user annotations/tagging, folksonomies).</ddi:abstract>
+         <ddi:sumDscr/>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:conditions xml:lang="en">License: http://creativecommons.org/publicdomain/zero/1.0</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:32289</identifier>
+    <datestamp>2021-04-15T21:05:40Z</datestamp>
+    <setSpec>D60000:D61000</setSpec>
+    <setSpec>driver</setSpec>
+    <setSpec>D70000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Niet opgeven maar werken 1985</ddi:titl>
+            <ddi:parTitl xml:lang="en">Work on the side and informal economic activities 1985</ddi:parTitl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:32289</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-2x4-fgf4</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en">Instituut voor Sociale Kommunikatie en Marktonderzoek, ISK * Amsterdam (primary investigator)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Drs. R. Grim, OSA (depositor)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Organisatie voor Strategisch Arbeidsmarktonderzoek ( OSA ) * Den Haag (research initiator) </ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="1997-01-01"/>
+            <ddi:distDate xml:lang="en" date="2007-07-30"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">economics</ddi:keyword>
+            <ddi:keyword xml:lang="en">consumption</ddi:keyword>
+            <ddi:keyword xml:lang="en">insurance</ddi:keyword>
+            <ddi:keyword xml:lang="en">values and beliefs</ddi:keyword>
+            <ddi:keyword xml:lang="en">finance</ddi:keyword>
+            <ddi:keyword xml:lang="en">occupations</ddi:keyword>
+            <ddi:keyword xml:lang="en">income</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Economics and Business Administration</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Sociology</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Inventory of black economy and orientation on developments of formal and informal economy in the last few years. Health insurance / number of employers in the last 10 years / history of social benefits / associations with 'work on the side' / frequency of work on the side in the Netherlands, comparison with  5 years ago / characteristics of people who are working on the side  / acceptability of level of earnings on work on the side in  combination with other sources of income / acceptability of other 'irregularities', petty crime / activities to save money on consumption  articles in household of respondent: second hand goods,  do-it-yourself, exchange, auction, fancy-fair, following courses  for do-it-yourselfer/ comparison with a few years ago / respondent has obtained clothings in the last 4 weeks, in which way / obtained furniture / odd jobs about the house or house rebuild in this year,  who was involved to do these jobs / reparation of electric domestic appliances, by whom / respondent does odd jobs for others with or  without payment, characteristics of those jobs and their  compensation / respondent does work on the side, why ( not ) /  profits of education, ( former ) occupation and use of materials	and tools of others for own work on the side / regularity and number  of hours spend on own work on the side / compensation and earnings of work on the side, how did respondent find such a job. Background variables: basic characteristics/ residence/ household characteristics/ occupation/employment/ income/capital assets/ education</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1985</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">OPEN_ACCESS_FOR_REGISTERED_USERS</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

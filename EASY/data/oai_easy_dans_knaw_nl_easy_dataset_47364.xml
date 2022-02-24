@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:47364</identifier>
+    <datestamp>2021-04-15T21:04:57Z</datestamp>
+    <setSpec>driver</setSpec>
+    <setSpec>D10000:D15000:D15700</setSpec>
+    <setSpec>D20000:D24000</setSpec>
+    <setSpec>D60000:D65000</setSpec>
+    <setSpec>E10000:E15000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Thematic collection: Datasets of Wageningen UR research (WUR)</ddi:titl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:47364</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-z8p-982t</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en">Wageningen UR (University &amp; Research centre)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Data Archiving and Networked Services (DANS)</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="2011-10-18"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">Scientific research</ddi:keyword>
+            <ddi:keyword xml:lang="en">Nature</ddi:keyword>
+            <ddi:keyword xml:lang="en">Food and food production</ddi:keyword>
+            <ddi:keyword xml:lang="en">Living environment</ddi:keyword>
+            <ddi:keyword xml:lang="en">Health, lifestyle and livelihood</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Environmental studies</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Social sciences</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Urban and rural planning</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Life sciences, medicine and health care </ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Health sciences</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Geodesy, physical geography</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">‘To explore the potential of nature to improve the quality of life’. That is the mission of Wageningen UR (University &amp; Research centre). A staff of 6,500 and 10,000 students from over 100 countries work everywhere around the world in the domain of healthy food and living environment for governments and the business community-at-large.
+
+The strength of Wageningen UR lies in its ability to join the forces of specialised research institutes, Wageningen University and Van Hall Larenstein University of Applied Sciences. It also lies in the combined efforts of the various fields of natural and social sciences. This union of expertise leads to scientific breakthroughs that can quickly be put into practice and be incorporated into education. This is the Wageningen Approach.
+
+The domain of Wageningen UR consists of three related core areas:
+
+    - Food and food production
+    - Living environment
+    - Health, lifestyle and livelihood
+
+Wageningen UR has branches all over The Netherlands (and in China and Brazil, by the way). A large number of lecturers, researchers and other employees are based at Wageningen Campus.</ddi:abstract>
+         <ddi:sumDscr/>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:conditions xml:lang="en">License: http://creativecommons.org/publicdomain/zero/1.0</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="nl"/>
+   </ddi:fileDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="fr"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

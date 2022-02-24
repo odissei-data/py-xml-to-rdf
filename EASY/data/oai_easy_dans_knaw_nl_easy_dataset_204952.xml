@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:204952</identifier>
+    <datestamp>2021-10-22T01:36:08Z</datestamp>
+    <setSpec>D20000:D21000</setSpec>
+    <setSpec>D50000:D53000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">TOPICS-MDS Memorabel 1-4 caregiver</ddi:titl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-xj2-ep7t</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:204952</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University">Olde Rikkert, prof. dr. M.G.M. DAI=info:eu-repo/dai/nl/167212737</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt/>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">Older persons</ddi:keyword>
+            <ddi:keyword xml:lang="en">geriatrics</ddi:keyword>
+            <ddi:keyword xml:lang="en">gerontology</ddi:keyword>
+            <ddi:keyword xml:lang="en">care for older persons with dementia</ddi:keyword>
+            <ddi:keyword xml:lang="en">informal caregiving</ddi:keyword>
+            <ddi:keyword xml:lang="en">CarerQoL</ddi:keyword>
+            <ddi:keyword xml:lang="en">self-rated burden (SRB)</ddi:keyword>
+            <ddi:keyword xml:lang="en">objective caregiver burden</ddi:keyword>
+            <ddi:keyword xml:lang="en">utility</ddi:keyword>
+            <ddi:keyword xml:lang="en">process utility</ddi:keyword>
+            <ddi:keyword xml:lang="en">positive effects of caregiving</ddi:keyword>
+            <ddi:keyword xml:lang="en">spouse caregiver</ddi:keyword>
+            <ddi:keyword xml:lang="en">offspring caregiver</ddi:keyword>
+            <ddi:keyword xml:lang="en">self-perceived health</ddi:keyword>
+            <ddi:keyword xml:lang="en">self-perceived quality of life</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Life sciences, medicine and health care </ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Life sciences</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Gerontology</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">The Older Persons and Informal Caregivers Survey - Minimum DataSet (TOPICS-MDS) is a public data repository which contains information on the physical and mental health and well-being of older persons and informal caregivers and their care use across the Netherlands. The database was developed at the start of The National Care for the Elderly Programme (‘Nationaal Programma Ouderenzorg’ - NPO) on behalf of the Organisation of Health Research and Development (ZonMw - The Netherlands), in part to ensure uniform collection of outcome measures, thus promoting comparability between studies. 
+
+Since September 2014, TOPICS-MDS data are also collected within the ZonMw funded ‘Memorabel’ programme, that is specifically aimed at improving the quality of life for people with dementia and the care and support provided to them. In Memorabel round 1 through 4, 11 different research projects have collected TOPICS-MDS data, which has resulted in a pooled database with cross-sectional and (partly) longitudinal data of 1,400 older persons with early onset or advanced dementia and about 950 informal caregivers. Out of these numbers, a number of 919 concerns care receiver - caregiver dyads of whom information on both the care receiver and caregiver is available. 
+
+More background information on both NPO and Memorabel 1-4 can be found in the overall information on TOPICS-MDS under the tab ‘Data files’ in DANS EASY (doi.org/10.17026/dans-xvh-dbbf).
+
+The 'TOPICS-MDS Memorabel 1-4 caregiver’ dataset, as part of the Memorabel 1-4 database, contains no care receiver (older person) data, only informal caregiver data. The dataset includes data on age and gender of the caregiver and their relationship with the care receiver, as well as data on emotional health and well-being, quality of life, time spent on informal caregiving and caregiver burden.
+
+Although the TOPICS-MDS survey instrument for the caregiver was updated in 2019, the same initial version of the instrument was used in both NPO and Memorabel 1-4 projects. The TOPICS-MDS caregiver data from NPO and Memorabel 1-4 can therefore be easily merged.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">Collection period: start=2014-09-01; end=2019-03-31;</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">REQUEST_PERMISSION</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="English"/>
+   </ddi:fileDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="Dutch"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

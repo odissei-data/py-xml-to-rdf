@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:32378</identifier>
+    <datestamp>2021-04-15T21:05:45Z</datestamp>
+    <setSpec>driver</setSpec>
+    <setSpec>D50000:D52000</setSpec>
+    <setSpec>D50000:D54000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Legitimering van inrichtingsopvoeding 1986-1987 : Interdoel</ddi:titl>
+            <ddi:parTitl xml:lang="en">Legitimation of residential education 1986-1987</ddi:parTitl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:32378</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-zxa-7qb7</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en">Linden, L.T. van der, Konijn, C.T.M., Schut, T.J.A., Universiteit van Amsterdam * Amsterdam, Pedagogisch didactisch instituut, vakgroep sociale pedagogiek (primary investigator)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Werkgroep integratie jeugdwelzijnswerk Nederland * Utrecht
+Dienst bijzonder jeugdwerk * Lochem (research initiator) </ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Pedagogsch didactisch instituut, vakgroep sociale pedagogiek, UvA * Amsterdam (data collector) </ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="1988-01-01"/>
+            <ddi:distDate xml:lang="en" date="2007-07-09"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">education</ddi:keyword>
+            <ddi:keyword xml:lang="en">education</ddi:keyword>
+            <ddi:keyword xml:lang="en">youth</ddi:keyword>
+            <ddi:keyword xml:lang="en">welfare</ddi:keyword>
+            <ddi:keyword xml:lang="en">service</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Pedagogics</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Educational theory</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Investigation into legitimation of pedagogic aims of residential educational institutes. Using the Delphi-method, a panel of experts, consisting of one staff-member per institute, representatives of referring institutes and external experts, were questioned about the aims of residential educational institutes and future policy regarding function and aims of this kind of educational service. Phase 0 consisted of making an inventory of the characteristic properties of the 14 institutes, the aims of residential youth aid and the policy issues at hand, to result in a common frame of reference for subsequent discussion and a final form for the questionnaire used in phase 1. Phase 1: Each specific expert-category responded to its questionnaire, evaluating and commenting specific aims in the framework of the five common characteristic aspects of the institutes: -national orientation, -closed character, -integrated help, -own educational facilities, -own recreational facilities. Phase 2: G: results of phase 1 were fed into the phase 2 questionnaire to refine discussion. Phase 3: G: results of previous phases resulted in several models for future policy to be evaluated by the expert panel.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1986 * 1987</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">OPEN_ACCESS_FOR_REGISTERED_USERS</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

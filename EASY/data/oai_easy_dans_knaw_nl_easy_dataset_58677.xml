@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:58677</identifier>
+    <datestamp>2021-04-15T21:07:19Z</datestamp>
+    <setSpec>D50000:D51000</setSpec>
+    <setSpec>driver</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Embodied Terror Management: Interpersonal Touch Alleviates Existential Concerns among Individuals with Low Self-Esteem</ddi:titl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:58677</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-zwd-mths</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="VU University Amsterdam">Koole, S.L.</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="VU University Amsterdam">Tjew A Sin, M</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="VU University Amsterdam">Schneider, Dr. I.K.</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="2014-09-03"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">Touch</ddi:keyword>
+            <ddi:keyword xml:lang="en">Self-Esteem</ddi:keyword>
+            <ddi:keyword xml:lang="en">Terror Management</ddi:keyword>
+            <ddi:keyword xml:lang="en">Mortality Salience</ddi:keyword>
+            <ddi:keyword xml:lang="en">Fear of Death</ddi:keyword>
+            <ddi:keyword xml:lang="en">Social Connectedness</ddi:keyword>
+            <ddi:keyword xml:lang="en">Ethnocentrism</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Psychology</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">These four datasets formed the basis of the article: Koole, S. L., Tjew A Sin, M., &amp; Schneider, I. K.. (2014). Embodied terror management: Interpersonal touch alleviates existential concerns among individuals with low self-esteem. Psychological Science, 25(1), 30-37.
+
+Abstract: Individuals with low (rather than high) self-esteem often struggle with existential concerns. The present research examined whether these existential concerns may be alleviated by seemingly trivial experiences of (simulated) interpersonal touch. A brief touch on the shoulder by a female experimenter led individuals with low self-esteem to experience less death anxiety (Study 1) and more social connectedness after a death reminder (Study 2). Reminding individuals with low self-esteem of death increased their desire for touch, as indicated by higher value estimates of a teddy bear, a toy animal that simulates interpersonal touch (Study 3). Finally, holding a teddy bear (versus a cardboard box) led individuals with low self-esteem to respond to a death reminder with less defensive ethnocentrism (Study 4). Individuals with high self-esteem were unaffected by touch (Studies 1-4). These findings highlight the existential significance of embodied touch experiences, particularly for individuals with low self-esteem.
+
+These data are referenced by:
+Tjew-A-Sin, M, Schneider, I.K. and Koole, S.L. 2015. Data from Paper ‘Embodied Terror Management: Interpersonal Touch Alleviates Existential Concerns among Individuals with Low Self-esteem’. Journal of Open Psychology Data 3(1):e2, DOI: http://dx.doi.org/10.5334/jopd.ah</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">Fall 2011/Spring 2012</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:conditions xml:lang="en">License: http://creativecommons.org/publicdomain/zero/1.0</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

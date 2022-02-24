@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:139126</identifier>
+    <datestamp>2021-04-15T21:08:02Z</datestamp>
+    <setSpec>driver</setSpec>
+    <setSpec>D30000:D31000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Going Green: Publishing Academic Grey Literature in Laboratory Collections on HAL</ddi:titl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-xsq-bus7</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:139126</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="GERiiCO Laboratory, University of Lille">Schöpfel, Dr. J., ProjectLeader</ddi:AuthEnty>
+            <ddi:othId xml:lang="en" role="DataCollector" affiliation="GERiiCO Laboratory, CNRS">Prost, H., DataCollector</ddi:othId>
+            <ddi:othId xml:lang="en" role="" affiliation="University of Lille">Ndiaye, E.H.I.</ddi:othId>
+         </ddi:rspStmt>
+         <ddi:distStmt/>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">Open science</ddi:keyword>
+            <ddi:keyword xml:lang="en">Open access</ddi:keyword>
+            <ddi:keyword xml:lang="en">Open repositories</ddi:keyword>
+            <ddi:keyword xml:lang="en">Research repositories</ddi:keyword>
+            <ddi:keyword xml:lang="en">Grey Literature</ddi:keyword>
+            <ddi:keyword xml:lang="en">Reports</ddi:keyword>
+            <ddi:keyword xml:lang="en">Conference papers</ddi:keyword>
+            <ddi:keyword xml:lang="en">Working papers</ddi:keyword>
+            <ddi:keyword xml:lang="en">Theses</ddi:keyword>
+            <ddi:keyword xml:lang="en">Dissertations</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Paleography, bibliology, bibliography, library science</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">HAL is the national open repository for documents and data from French scientists. The deposits are organized in institutional portals and collections from research units and projects. The paper will analyse how grey literature is represented in the collections of French research laboratories on HAL. Our study concerns the grey literature deposits in HAL from the 60 research laboratories affiliated to the University of Lille, covering all STM and SSH fields. The focus will be on conference papers, reports, working papers, theses and dissertations. The study will distinguish between deposits of documents and records without documents, will compare deposits from different disciplines, different laboratory collections and different document types, including articles and book chapters. If possible, we will also have a look on usage statistics, as an indicator of impact (altmetrics, cf. Schöpfel &amp; Prost, 2016).</ddi:abstract>
+         <ddi:sumDscr/>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:conditions xml:lang="en">License: http://creativecommons.org/publicdomain/zero/1.0</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="fr"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

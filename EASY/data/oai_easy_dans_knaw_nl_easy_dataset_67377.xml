@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:67377</identifier>
+    <datestamp>2021-04-15T21:07:34Z</datestamp>
+    <setSpec>D30000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Arab West Report 2005, Weeks 01-53: The Danish Cartoon Crisis and Arab West Report Developments</ddi:titl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-xg5-atew</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:67377</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Center for Intercultural Dialogue and Translation (CIDT)">Hulsman, Drs. C.</ddi:AuthEnty>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Center for Intercultural Dialogue and Translation (CIDT)">Sparks, MA M.R.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Center for Intercultural Dialogue and Translation (CIDT)">Blattman, J.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Arab-West Report (AWR)">Watson, J.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor">McCallum, F.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor">Meinardus, O.F.A.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor">Heijer, H.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Near East School of Theology, Lebanon">Hoover, Dr. J.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor">Bergmann, K.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor">Hannestad, A.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Monastery of Makarios, Egypt">Basilius Al-Maqari, FR.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Center for Intercultural Dialogue and Translation (CIDT)">Bihman, N.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor">Levine, Dr. L.F.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Arab-West Report (AWR)">Adams, Dr. Rev. J.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor">Ibrahim, H.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor">Reiss, Dr. Rev. W.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor">al-Sharqāwī, R.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Center for Intercultural Dialogue and Translation (CIDT)">Jalāl, 'U.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Center for Intercultural Dialogue and Translation (CIDT)">al-Misri, 'A.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Center for Intercultural Dialogue and Translation (CIDT)">Yell, E.</ddi:othId>
+         </ddi:rspStmt>
+         <ddi:distStmt/>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">The Danish Cartoon Crisis and Arab West Report Developments</ddi:keyword>
+            <ddi:keyword xml:lang="en">cartoons</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Humanities</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">This dataset contains the Arab-West Report special reports that were published in 2005.
+
+This dataset mainly contains the writings of Cornelis Hulsman, Drs., among other authors on topics related to Muslim-Christian relations and interfaith dialogue between the West and Islamic world. Many of the articles also discuss tensions between Muslims and Christians in Egypt throughout the year. Notably, in this dataset, a number of the articles address the famous incident of the Danish cartoons and drawings of Prophet Muhammad which caused an uproar in the Islamic world. Other prominent subjects in this dataset include reports on monastic life and articles about Coptic Orthodox Bishops.
+
+Furthermore, the dataset included recommendation of Arab-West Report's work by other social figures and commentary on published material from other sources (reviews/critique of articles).
+
+Some of the themes that characterized this dataset:
+
+Book reviews of S.S. Hasan’s Book, "Christian Versus Muslim In Modern Egypt: The Century-Long Struggle For Coptic Equality" by a number of authors listed in this dataset. 
+
+-John. H. Watson, who knows Pope Shenouda and many of the Bishops mentioned in the book, closes his review with Hasan’s words: “It is doubtful that the Copts have made much headway, in their century-long tortuously slow trajectory toward citizenship with equal rights."
+ 
+-PhD student Fiona McCallum concluded that by focusing on the bishops of the Coptic Orthodox Church, Hasan provides a clear and original study of the impact of the reform movement. McCallum explains that the use of traditions such as Coptic martyrology combined with modernization of the church administration has allowed the church to successfully assimilate Coptic cultural and political space in to its own structures.
+
+- An account of how the murder of the Armanious family had been received in the US Coptic community. The Coptic community held a candlelight vigil for the Armanious family in Los Angeles.
+
+- A report on a visit by a Christian-Muslim dialogue group from Austria to Egypt with the desire to discover a new context for Muslim-Christian relations. The group hoped  that this visit might inspire similar Christian-Muslim dialogue in Europe. The group experienced dialogue at very different levels, from religious leaders and prominent intellectuals to the grassroots level in a village in Banī Swayf. The Austrians were impressed by the deep and genuine friendships between Muslims and Copts and their shared commitment to social work.
+
+Arab West Report developments:
+ 
+-Invitation to Mustafa Abaza to join the AWR Board of Advisors.
+
+Arab West Report  Recommendations
+
+-Muhammad Abu Laylah, Professor of Islamic Studies in English and Head of the English Department at the Azhar University recommends Arab West Report's work.
+
+-An author praised the solid contribution of Arab West Report to providing deeper understanding of interfaith dynamics in Egypt and elsewhere by seeking to give context to day-to-day discourses and events that often appear senseless or even capricious to the uninformed observer.
+
+Media critique:
+
+Hulsman wrote in one of his editorials about the need for journalists to be aware of sectarian sensitivities so as to not contribute to bias and distortion of facts.
+
+-A critique of an article published by Al-ʾUsbūʿ that reinforces a widespread belief that Americans are trying to use Egypt’s Christians to create a wedge between Muslims and Christians with the purpose of weakening Egypt. The author considered that the article lacks accuracy but evinces Egyptian distrust of US involvement in religious issues in Egypt.
+
+- An Interview with Amīr Mīlād, a Christian desert guide, about the monks in Wādī al-Rayyān. Father Basilius of the Monastery of Makarius responded to the articles of Dr. John Watson [Week 21] and Amīr Mīlād [Week 22] about Wādī al-Rayyān. Father Basilius provides more details, commenting on the hierarchical structure of the church.
+
+- Baptist pastor Dr. Jeff Adams agrees with Dr. Larry Levine, an Orthodox Jew, that some statements of evangelical Christian leaders supporting Israel are reasons for concern. But Dr. Adams asks to avoid putting all Christian evangelicals and/or fundamentalists in the same box, especially in the emotionally charged religious/political climate of today.
+
+- “Lies In A Coptic Letter To US Secretary Of State Condoleeza Rice”: Human rights activist Rā’id al-Sharqāwī disputes the claims of the US Copts Association that a priest from al-Zaqāzīq was murdered in a car accident.
+
+The Danish Cartoons controversy:
+
+-Discussions on the issue of freedom of expression and media responsibility, following the publication, in a Danish newspaper, of cartoons of the Prophet Muhammad. These cartoons were perceived by Muslims as anti-Islamic.
+
+-A response by Danish newspapers to the publication of cartoons of the Prophet Muhammad.
+
+-Discovering Islam in Ramadan : During the weekend "Discovering Islam in Ramadān” in the framework of the "Inculturation Training” offered by CAWU, eight European volunteers met with Arab West Report translator ʿAmr al-Misrī on liberal Islam. Former Arab West Report translator Amānī ʿĀsim introduced them to the spirit of Ramadān, 
+
+-The celebration of 150 years of presence of the Evangelical Church [e.g. the Presbyterian denomination] in Egypt stressed both the universality and the deep-rootedness of the Church in Egyptian society.
+ 
+A statement by the Danish Christian NGO, Danmission, pointing out that the NGO dissociated itself from Jyllens-Posten’s cartoons of the Prophet Muhammad as far back as November 2005. Danmission calls for dialogue, rather than conflict. This statement is delivered in addition to a  statement by the Danish Minister Of Foreign Affairs about the Danish cartoons, in which he called on Muslims and their leaders around the world to look beyond the big news headlines and the inflammatory rhetoric concerning the cartoons of the Prophet Muhammad. Furthermore, the Minister of Foreign Affairs points out Denmark’s positive relations with the Arab world.  The dataset included another statement by the Danish Prime Minister where he announced that Jyllens-Posten has apologized for the cartoons of the Prophet Muhammad, and emphasizes that the Danish government condemns any expression, action or indication that attempts to demonize groups of people on the basis of their religion or ethnic background.
+
+-An author analyses the case of Heidi Hakīm Manqarius Salīb, a Christian girl who converted to Islam. This case was reported in Al-Katība al-Tībīya (The Theban Legion)  and on the websites of several Christian organizations as a kidnapping despite the fact there is no proof of any physical force or forced conversion.
+
+-Coptic researcher Samīr Marqus sees problems between Copts and Muslims mainly as a result of the wavering economy. Arab-West Report is convinced that efforts at economic development would help reduce incidents of sectarian strife.
+
+Authors with work featured in this dataset include: 
+
+Cornelis Hulsman, Drs. , Janique Blattmann , John H. Watson, Fiona McCallum, Otto F.A. Meinardus, Hazel Heijer, John Hoover, Kristina Bergmann , Adam Hannestad, Basilius al-Maqārī (Father), Karam Sabir,  Naji Bihman , Dr. Larry F. Levine , ‘Alī ‘Ashmāwī, Jeff Adams, Dr., Rev., Hamzah Ibrahim, 'Alā' al-Qahwajī , Wolfram Reiss, Rev. Dr. , Rā’id al-Sharqāwī, ‘Ulā Jalāl, ʿAmr al-Misri , Elizabeth Yell ,  David D. Grafton, Monika Zickelbein, Anne-Catherine Weiss, Muhammad Abu Laylā, Ahmad Usāmah, Lars Mandrup, Per Stig Møller, Anders Fogh Rasmussen, Elizabeth Yell, Dr. ʿAbd al-Mu‘tī Bayyūmī, Dr., Yūḥannā Qultah Sa‘īd, Monika Zickelbein, Thurayya Hoppe,  and Jennifer Drago.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">2005</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">REQUEST_PERMISSION</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

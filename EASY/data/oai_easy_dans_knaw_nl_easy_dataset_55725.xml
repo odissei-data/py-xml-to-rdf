@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:55725</identifier>
+    <datestamp>2021-04-15T21:07:08Z</datestamp>
+    <setSpec>D40000:D42000:D42100</setSpec>
+    <setSpec>driver</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Expert Judgement Survey of European Political Parties 2010</ddi:titl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:55725</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-zny-parg</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="ICS/Department of Sociology, Utrecht University, the Netherlands">Immerzeel, MSc T.</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="ICS/Department of Sociology, Radboud University of Nijmegen, the Netherlands">Lubbers, M.</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="School of History, Political Science and International Relations, Wellington, New Zealand">Coffé, H.</ddi:AuthEnty>
+            <ddi:othId xml:lang="en" role="contributor">Søndergaard, J.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor">Sipma, T.</ddi:othId>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="2013-10-04"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">expert survey</ddi:keyword>
+            <ddi:keyword xml:lang="en">political parties</ddi:keyword>
+            <ddi:keyword xml:lang="en">radical right</ddi:keyword>
+            <ddi:keyword xml:lang="en">ratings</ddi:keyword>
+            <ddi:keyword xml:lang="en">Europe</ddi:keyword>
+            <ddi:keyword xml:lang="en">right party characteristics</ddi:keyword>
+            <ddi:keyword xml:lang="en">immigration restrictiveness</ddi:keyword>
+            <ddi:keyword xml:lang="en">populism</ddi:keyword>
+            <ddi:keyword xml:lang="en">authoritarianism</ddi:keyword>
+            <ddi:keyword xml:lang="en">nationalism</ddi:keyword>
+            <ddi:keyword xml:lang="en">establishment image</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Social sciences</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Political science</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">The Expert Judgement Survey for European Political Parties is a data set consisting of scores of various characteristics of political parties given by political scientists and other experts of political parties in 38 European countries, including both West and East European countries, Turkey and Israel. The data set is the follow-up of the Expert Judgement Survey for West European Political Parties 2000 which aim was ‘to discover opportunity structures for political parties with respect to the immigration theme as well as organizational aspects of political parties’ (Lubbers, 2001: p.2). The Expert Judgement Survey of European Political Parties 2010 has a similar aim and extends the Expert Judgement Survey 2000 by adding other questions that deal with typical radical right party characteristics: immigration restrictiveness, populism, authoritarianism, nationalism, and (anti-) establishment image.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">October-December 2010</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:conditions xml:lang="en">License: http://creativecommons.org/publicdomain/zero/1.0</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

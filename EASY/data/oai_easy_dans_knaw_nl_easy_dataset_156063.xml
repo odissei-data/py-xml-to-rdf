@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:156063</identifier>
+    <datestamp>2021-04-15T21:08:03Z</datestamp>
+    <setSpec>E10000:E13000</setSpec>
+    <setSpec>D60000</setSpec>
+    <setSpec>D40000</setSpec>
+    <setSpec>E10000:E15000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">CSOs in sustainable development in Ethiopia. Broadening the role of CSOs in sustainable development in Ethiopia</ddi:titl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-269-5jhv</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:156063</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Tilburg University">Verschuuren, Prof. dr. J.M., ProjectLeader</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt/>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">CSOs</ddi:keyword>
+            <ddi:keyword xml:lang="en">Ethiopian authorities</ddi:keyword>
+            <ddi:keyword xml:lang="en">Advocacy</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Law and public administration </ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Social sciences</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Development studies</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Environmental studies</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">This project researched how CSOs working in the area of sustainable development responded to regulatory restrictions on advocacy work which were put in place by the Ethiopian authorities in 2009. We found that the restrictive laws had a severe impact: many CSOs had to shut down or limit their operational capacity to service delivery only. CSO networks became inactive as well. Those that survived in some cases continued to do advocacy work, disguised as service delivery. This shows that northern stakeholders should not adhere to a strict division between advocacy and service delivery in their funding policy. They also should focus on long-term CSO engagement and long-term CSO funding and not resort to shifting funding priorities. In 2019, new legislation was adopted that replaces the current stringent regulatory framework for CSOs. The new law envisions a far greater role for self-regulation in the civil society sector while still maintaining some degree of State oversight through registration, reporting and funding allocation requirements. Our overall conclusion, therefore, is that although the regulatory environment for CSOs is improving, the sector is still in need of international support and ongoing, consistent and reliable funding.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">2009</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">OPEN_ACCESS_FOR_REGISTERED_USERS</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

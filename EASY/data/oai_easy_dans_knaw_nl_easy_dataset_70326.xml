@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:70326</identifier>
+    <datestamp>2021-04-15T21:07:40Z</datestamp>
+    <setSpec>driver</setSpec>
+    <setSpec>D60000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Foreign-born Olympic athletes 1948 - 2012</ddi:titl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-2xf-pyqp</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:70326</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Erasmus University Rotterdam">Jansen, J.</ddi:AuthEnty>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Erasmus University Rotterdam">Engbersen, G.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Erasmus University Rotterdam">Oonk, G.</ddi:othId>
+         </ddi:rspStmt>
+         <ddi:distStmt/>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">Olympic Games</ddi:keyword>
+            <ddi:keyword xml:lang="en">Olympic athletes</ddi:keyword>
+            <ddi:keyword xml:lang="en">Foreign-born Olympians</ddi:keyword>
+            <ddi:keyword xml:lang="en">Olympic migration</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Social sciences</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">It is often believed that the Olympic Games have become more migratory. The number of Olympic athletes representing countries in which they weren’t born, is thought to be on the rise. It should, however, be noted that migration in the context of sports is hardly a new phenomenon. To study the question of whether the Olympic Games have become more migratory, we constructed a dataset consisting of approximately 40,000 participants from eleven countries that participated in the Summer Olympics between 1948 and 2012. 
+
+Based on the data, J. Jansen and G. Engbersen have written an academic paper. The paper is published in the international, peer-reviewed open access journal Comparative Migration Studies. In the paper, the authors show that, as a reflection of global migration patterns and trends, the number of foreign-born Olympians hasn’t necessarily increased in all countries. Rather, the direction of Olympic migration has changed and most teams have become more diverse. Olympic migration is thus primarily a reflection of global migration patterns instead of a discontinuity with the past.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1948 - 2012</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:conditions xml:lang="en">License: http://creativecommons.org/publicdomain/zero/1.0</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

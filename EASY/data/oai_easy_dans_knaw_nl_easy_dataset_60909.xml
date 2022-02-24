@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:60909</identifier>
+    <datestamp>2021-04-15T21:07:23Z</datestamp>
+    <setSpec>D30000:D34000:D34300</setSpec>
+    <setSpec>driver</setSpec>
+    <setSpec>D30000:D35000:D35200</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+    <setSpec>D30000:D36000:D36400</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Thesaurus Musicarum Italicarum  - TmiWeb2</ddi:titl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-zum-ywbw</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:60909</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Utrecht University">Wiering, Dr. F.</ddi:AuthEnty>
+            <ddi:othId xml:lang="en" role="contributor">Funding Agency: Data Archiving and Networked Services - DANS, small data project subsidy (KDP) 2014</ddi:othId>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="2015-02-28"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">music history</ddi:keyword>
+            <ddi:keyword xml:lang="en">music theory</ddi:keyword>
+            <ddi:keyword xml:lang="en">renaissance music</ddi:keyword>
+            <ddi:keyword xml:lang="en">baroque music</ddi:keyword>
+            <ddi:keyword xml:lang="en">Italy</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Musicology</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Modern and contemporary history</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Romance language and literature studies</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Thesaurus Musicarum Italicarum (TMI) is a corpus of Italian-language music treatises from the 16th and 17th century. The core of the corpus is formed by the writings of Gioseffo Zarlino, a Venetian musician and intellectual whose writings belong to history’s most influential music theoretical writings. TMI is edited using Text Encoding Initiative (TEI) markup (see http://www.tei-c.org/). TmiWeb, the web version of TMI, was developed on top of the DynaWeb SGML publishing environment. Since 2002, this software is no longer supported by the vendor. The aim of the DANS-funded TmiWeb2 was therefore to design a new, XML-based infrastructure for TMI. 
+
+This dataset comprises:
+
+• TEI P5 encodings of the treatises that were migrated
+• relevant document schemas
+• music examples from the treatises (partly)
+
+Illustrations from the treatises that were reproduced from the sources or from facsimiles, and encodings of the treatises before migration,  are not included.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1500-1750</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">OPEN_ACCESS_FOR_REGISTERED_USERS</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="Italian"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

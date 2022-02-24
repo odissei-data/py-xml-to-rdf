@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:32884</identifier>
+    <datestamp>2021-04-15T21:06:11Z</datestamp>
+    <setSpec>D60000:D61000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Sociale akademie en beroepspraktijk 1971</ddi:titl>
+            <ddi:parTitl xml:lang="en">School for social work and occupational practice of social workers 1971</ddi:parTitl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:32884</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-zer-3sbk</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en">Gresnigt-Strengers, A.M.C., Instituut voor toegepaste sociologie, ITS * Nijmegen (primary investigator)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Ministry of culture recreation and social work * Den Haag (research initiator) </ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Instituut voor toegepaste sociologie, ITS * Nijmegen (data collector) </ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="1975-01-01"/>
+            <ddi:distDate xml:lang="en" date="2007-06-01"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">sociology</ddi:keyword>
+            <ddi:keyword xml:lang="en">welfare</ddi:keyword>
+            <ddi:keyword xml:lang="en">education, higher</ddi:keyword>
+            <ddi:keyword xml:lang="en">occupation</ddi:keyword>
+            <ddi:keyword xml:lang="en">personality</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Sociology</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Social workers leadership / management / study specialization / type of job / number of staff-members / task description of social work / most important aim of social work / information / capabilities and personality characteristics required for a social worker / evaluation of the study program at the academy for social work / requirements to obtain greater expertise / factors of importance for optimal relationship between the study and the occupational practice / contacts with the teaching staff. Executive social workers specialization / study results / study motives / career-pattern / job structure / job requirements / satisfaction with job and the management / image of the job of social worker / most important aim of social work / aspects of study program which are important in later job / the extent to which they have been fulfilled / evaluation of education / opinions on the academy of social work. Educational staff, position in the staff / teaching scheme / task description of social worker / aims of social work / image of education: for social worker / how to improve expertise as social worker / relationship study practice / contacts with other staff-members. Background variables: basic characteristics/ place of work/ occupation/employment/ education/ religion</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1971</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">REQUEST_PERMISSION</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

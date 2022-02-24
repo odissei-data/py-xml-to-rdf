@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:71086</identifier>
+    <datestamp>2021-04-15T21:07:40Z</datestamp>
+    <setSpec>D50000:D51000</setSpec>
+    <setSpec>driver</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Four Replication Experiments of Kidd and Castano (2013)</ddi:titl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-zx6-h97m</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:71086</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="VU University Amsterdam">Samur, D.</ddi:AuthEnty>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="VU University Amsterdam">Koole, Prof. S.L.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="VU University Amsterdam">Tops, M.</ddi:othId>
+         </ddi:rspStmt>
+         <ddi:distStmt/>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">reading</ddi:keyword>
+            <ddi:keyword xml:lang="en">mentalising</ddi:keyword>
+            <ddi:keyword xml:lang="en">literary fiction</ddi:keyword>
+            <ddi:keyword xml:lang="en">literature</ddi:keyword>
+            <ddi:keyword xml:lang="en">theory of mind</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Psychology</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">The data is from the published article: Samur, D., Tops, M., &amp; Koole, S. L. (2017). Does a single session of reading literary fiction prime enhanced mentalising performance? Four replication experiments of Kidd and Castano (2013). Cognition and Emotion, 1-15.
+
+Abstract: Prior experiments indicated that reading literary fiction improves mentalising performance relative to reading popular fiction, non-fiction, or not reading. However, the experiments had relatively small sample sizes and hence low statistical power. To address this limitation, the present authors conducted four high-powered replication experiments (combined N = 1006) testing the causal impact of reading literary fiction on mentalising. Relative to the original research, the present experiments used the same literary texts in the reading manipulation; the same mentalising task; and the same kind of participant samples. Moreover, one experiment was pre-registered as a direct replication. In none of the experiments did reading literary fiction have any effect on mentalising relative to control conditions. The results replicate earlier findings that familiarity with fiction is positively correlated with mentalising. Taken together, the present findings call into question whether a single session of reading fiction leads to immediate improvements in mentalising.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">October 2013 - March 2014</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:conditions xml:lang="en">License: http://creativecommons.org/publicdomain/zero/1.0</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

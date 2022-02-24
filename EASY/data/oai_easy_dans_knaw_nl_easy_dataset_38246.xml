@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:38246</identifier>
+    <datestamp>2021-04-15T21:06:42Z</datestamp>
+    <setSpec>D30000:D34000:D34300</setSpec>
+    <setSpec>driver</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Agriculture in Greece, 20th century</ddi:titl>
+            <ddi:parTitl xml:lang="en">Griekenland</ddi:parTitl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-x8j-hchr</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:38246</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en">drs R. Dubbink</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="1991-09-01"/>
+            <ddi:distDate xml:lang="en" date="2007-01-30"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">economic history</ddi:keyword>
+            <ddi:keyword xml:lang="en">cattle</ddi:keyword>
+            <ddi:keyword xml:lang="en">citrus fruit</ddi:keyword>
+            <ddi:keyword xml:lang="en">cotton</ddi:keyword>
+            <ddi:keyword xml:lang="en">crops</ddi:keyword>
+            <ddi:keyword xml:lang="en">currants</ddi:keyword>
+            <ddi:keyword xml:lang="en">economic development</ddi:keyword>
+            <ddi:keyword xml:lang="en">employment</ddi:keyword>
+            <ddi:keyword xml:lang="en">export figures</ddi:keyword>
+            <ddi:keyword xml:lang="en">fallow land</ddi:keyword>
+            <ddi:keyword xml:lang="en">grapes</ddi:keyword>
+            <ddi:keyword xml:lang="en">industry</ddi:keyword>
+            <ddi:keyword xml:lang="en">livestick capital</ddi:keyword>
+            <ddi:keyword xml:lang="en">livestock capital</ddi:keyword>
+            <ddi:keyword xml:lang="en">livestock production</ddi:keyword>
+            <ddi:keyword xml:lang="en">olive-oil</ddi:keyword>
+            <ddi:keyword xml:lang="en">olives</ddi:keyword>
+            <ddi:keyword xml:lang="en">raisins</ddi:keyword>
+            <ddi:keyword xml:lang="en">tobacco</ddi:keyword>
+            <ddi:keyword xml:lang="en">trade</ddi:keyword>
+            <ddi:keyword xml:lang="en">wine</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Modern and contemporary history</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">This data set presents statistical data on various kinds of agricultural production and distribution, and the distribution of cattle in Greece. Some files concern a specific agricultural product or a part of the cattle production (sheep, horses etc.). In each file, the data are divided according to regions and departments of Greece and according to the type of product. Crop areas are available for the years 1963, 1969, 1973, 1978 and 1984. The data set contains one file with statistical data on the (number of) establishment(s) of industries and the (annual) employment.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1938 - 1963</ddi:collDate>
+            <ddi:collDate event="single">1938 - 1984</ddi:collDate>
+            <ddi:collDate event="single">1958 - 1973</ddi:collDate>
+            <ddi:collDate event="single">1963 - 1963</ddi:collDate>
+            <ddi:collDate event="single">1965 - 1984</ddi:collDate>
+            <ddi:collDate event="single">1969 - 1969</ddi:collDate>
+            <ddi:collDate event="single">1973 - 1973</ddi:collDate>
+            <ddi:collDate event="single">1978 - 1978</ddi:collDate>
+            <ddi:collDate event="single">1984 - 1984</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">OPEN_ACCESS_FOR_REGISTERED_USERS</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="nl"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:53835</identifier>
+    <datestamp>2021-04-15T21:07:02Z</datestamp>
+    <setSpec>driver</setSpec>
+    <setSpec>D50000</setSpec>
+    <setSpec>D60000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Kindermishandeling in Nederland anno 2005 (projectnummer 1172)</ddi:titl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:53835</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-z9b-jpns</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="WODC">Lamers-Winkelman, Prof.dr. F.</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="WODC">Slot, Prof.dr. N.W.</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="WODC">Bijl, Dr. B.</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="WODC">Vijlbrief, Drs. A.C.</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="2013-03-12"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">Kindermishandeling</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Social sciences</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Behavioural and educational sciences</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">To date, there are no figures available in the Netherlands on the scale of child abuse. Such figures are sorely needed; in order to effectively tackle this problem, and monitor the effects of the countermeasures, detailed knowledge of the nature and scale of child abuse in our country is an absolute prerequisite. The Pupils on abuse study aims to contribute to this vital knowledge. On the one hand, the study focuses on the prevalence of child abuse, that is to say, the number of individuals who have been abused at one point in their lives. On the other hand, it focuses on the incidence of child abuse, that is to say, the number of young people who have experienced some form of child abuse during the past twelve months.
+In Pupils on abuse, child abuse is understood to mean: behavioural acts towards children which may be regarded as serious forms of physical/psychological violence, neglect or sexual abuse. The exposure of children to serious violence between parents is also considered to be a serious threat to their safety and, as such, a form of child abuse. In addition, the study focuses on other forms of victimization, such as bullying, theft and discrimination.
+Study objective and question
+This study aims to provide information which can be used in the (further) development, direction and evaluation of the approach to child abuse in the Netherlands.
+In deciding how to obtain this information, a choice was made for a direct approach to the adolescents themselves. They are, after all, the ones who know best what has happened to them and, thus, an important source of information.
+The following questions should be answered in the course of the study:
+1. To what extent have adolescents in the first four forms of secondary school experienced child abuse?
+2. Is there a relationship between the incidence of the discernable categories of child abuse?
+3. What is the connection between the incidence of child abuse and other forms of victimization?
+4. Which characteristics distinguish adolescents who have not experienced child abuse from those who have frequently been subjected to child abuse?</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:nation abbr="NLD" xml:lang="en">The Netherlands</ddi:nation>
+            <ddi:collDate event="single">2005</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">OPEN_ACCESS_FOR_REGISTERED_USERS</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="nl"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

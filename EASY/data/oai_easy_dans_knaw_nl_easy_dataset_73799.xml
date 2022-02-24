@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:73799</identifier>
+    <datestamp>2021-04-15T21:07:42Z</datestamp>
+    <setSpec>D30000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">EUWATHER</ddi:titl>
+            <ddi:parTitl xml:lang="en">European Waterways Heritage</ddi:parTitl>
+            <ddi:parTitl xml:lang="en">European Waterways Heritage</ddi:parTitl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-xfj-fy7d</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:73799</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Vrije Universiteit Amsterdam">Opmeer, MPhil M.</ddi:AuthEnty>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Universiteit van Leiden">Heuvel, MA M. E. N. van der</ddi:othId>
+         </ddi:rspStmt>
+         <ddi:distStmt/>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Humanities</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">The presence in many European countries of artificial waterways connected to natural hydrography can be considered a relevant cultural heritage. Characterized by an intrinsic hydraulic complexity, this heritage goes back at least to the Middle Age, develops further during the Renaissance and reaches its maturity during the industrial era. The connection between natural and artificial waterways favoured the expansion of urban centres and the development of European trade, thus interacting with flood control strategies and the 'construction' of rural landscapes. It is indeed a multi-functional heritage that deserves today a renewed, coordinated commitment to its re-valuation, by considering both its structural hydraulic artefacts (canals, bridges, locks, shipyards, mills...) and their related water-scapes. As to European major hydrography, such a hydraulic network is often a tourist resort already. However, as to minor hydrography, it’s still a hidden potential for sustainable development. Aims and objectives of the project and its relevance EUWATHER aims to promote the knowledge and rehabilitation of the unique cultural heritage of minor waterways and historic canals in 4 European pilot regions. The project is aimed at co-designing with people (local and visitor, stakeholder and public sector etc) to generate a body of data that can reveal the cultural and artistic heritage of minor waterways, in order to make a Spatial Data Infrastructure (SDI), interactive maps, and promote associated ways of communicating this heritage to a range of audiences.
+
+The overall objective is to develop new opportunities for eco-tourism and outdoor recreation as a driver for sustainable development, together with better management and planning of secondary waterways networks. Also, EUWATHER aims to foster trans-boundary exchange of experiences to develop new, more coordinated institutional strategies and encourage research activities (oral history) that reflect tourist interests as well as local values. In this way, EUWATHER fits perfectly the aims of Heritage+, as it combines in an unpublished way the 3 key elements (the tangible, the intangible and the digital) set by the JPI-SRA.</ddi:abstract>
+         <ddi:sumDscr>
+            <dc:coverage>scheme=ABR-periode; code=XME; value=Middeleeuwen: 450 - 1500 nC;</dc:coverage>
+            <dc:coverage>scheme=ABR-periode; code=NTC; value=Nieuwe tijd C: 1850 - heden;</dc:coverage>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">REQUEST_PERMISSION</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

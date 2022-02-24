@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:68541</identifier>
+    <datestamp>2021-04-15T21:07:39Z</datestamp>
+    <setSpec>driver</setSpec>
+    <setSpec>D30000:D31000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Policy Development for Grey Literature Resources: An Assessment of the Pisa Declaration</ddi:titl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-xru-kbnd</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:68541</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="International Atomic Energy Agency, IAEA">Savić, Dr. D.</ddi:AuthEnty>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="GreyNet International">Farace, Dr. D.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="GreyNet International">Frantzen, J.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Institute of Information Science and Technologies, ISTI-CNR">Biagioni, Dr. S.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Institute of Information Science and Technologies, ISTI-CNR">Carlesi, Dr. C.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Institute for Scientific and Technical Information, Inist-CNRS">Gruttemeier, Dr. H.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Institute for Scientific and Technical Information, Inist-CNRS">Stock, C.</ddi:othId>
+         </ddi:rspStmt>
+         <ddi:distStmt/>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">Policy Development</ddi:keyword>
+            <ddi:keyword xml:lang="en">Grey Literature</ddi:keyword>
+            <ddi:keyword xml:lang="en">Resources</ddi:keyword>
+            <ddi:keyword xml:lang="en">Pisa Declaration</ddi:keyword>
+            <ddi:keyword xml:lang="en">Assessment</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Paleography, bibliology, bibliography, library science</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">In the spring of 2014, a workshop took place at the Italian National Council of Research in Pisa . The topic of this event dealt with policy development for grey literature resources. Some seventy participants from nine countries took an active part in the workshop – the outcome of which produced what is today known as the Pisa Declaration . This fifteen point document arising from the input of those who attended the workshop sought to provide a roadmap that would help to serve diverse communities involved in research, publication and the management of grey literature both in electronic and print formats.
+The Pisa Declaration has been translated and published in some twenty languages. They are all accessible online via the GreyGuide Repository  and Portal . Currently, 140 information professionals from renowned organizations worldwide have endorsed this document . 
+In an effort to assess the impact that the Pisa Declaration has had during the last two years on the policy development for grey literature resources, an online survey among those who endorsed the document was carried out and their responses were analysed. Descriptive statistics and short summaries are used to describe the basic features of the data collected. They are combined with simple graphics that offer easier visual representation of the results achieved.
+Specific results of the survey analysis indicate those points in the Pisa Declaration that in varying degrees are of relevance and importance to grey literature, as well as points that need further attention and work. Although integral part of library and information management practice grey literature has its own peculiarities and needs that require special attention in order to reach its deserved level of importance in today’s research and other activities.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">2014-2016</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:conditions xml:lang="en">License: http://creativecommons.org/publicdomain/zero/1.0</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

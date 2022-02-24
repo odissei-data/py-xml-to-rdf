@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:54068</identifier>
+    <datestamp>2021-04-15T21:07:02Z</datestamp>
+    <setSpec>D60000:D61000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Netherlands Kinship Panel Study - wave 3 - 2010-2011: A Multi-Actor, Multi-Method Panel Study on Solidarity in Family Relationships</ddi:titl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-xd9-jwyj</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:54068</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Netherlands Interdisciplinary Demographic Institute">Merz, E.-M. DAI=info:eu-repo/dai/nl/298811952</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Erasmus University Rotterdam">Dykstra, P.A. DAI=info:eu-repo/dai/nl/075229773</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Utrecht University">Komter, A.E. DAI=info:eu-repo/dai/nl/070789282</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Netherlands Interdisciplinary Demographic Institute">Liefbroer, A.C. DAI=info:eu-repo/dai/nl/071385487</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="University of Groningen">Mulder, C.H. DAI=info:eu-repo/dai/nl/086517325</ddi:AuthEnty>
+            <ddi:othId xml:lang="en" role="" affiliation="Utrecht University">Hogerbrugge, M.J.A. DAI=info:eu-repo/dai/nl/313868980</ddi:othId>
+            <ddi:othId xml:lang="en" role="">Netherlands Interdisciplinary Demographic Institute</ddi:othId>
+            <ddi:othId xml:lang="en" role="">Funding Agency: NWO 481 08 008</ddi:othId>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="2013-03-27"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">family life</ddi:keyword>
+            <ddi:keyword xml:lang="en">interpersonal relationships</ddi:keyword>
+            <ddi:keyword xml:lang="en">social networks</ddi:keyword>
+            <ddi:keyword xml:lang="en">youth</ddi:keyword>
+            <ddi:keyword xml:lang="en">ageing</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Social sciences</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Sociology</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">The Netherlands Kinship Panel Study is a survey meant to improve our understanding of the dynamics of family relationships in the Netherlands. The NKPS-data are collected from multiple actors, by multiple methods, and at multiple points in time.
+
+- Multi-actor. This implies that the focus is on relationships and networks of relationships rather than on individuals. Data are collected from individual respondents (so-called Anchors) as well as from family members (so-called Survey Alters). Survey Alters are: the partner, a maximum of two children aged 15 and over, father/mother, and a brother/sister aged 15 and over. Survey Alters do not necessarily co-reside with the Anchor.
+
+- Multi-method. A large-scale survey with pre-structured questions is complemented with in-depth studies (mini-panels) using flexible interview schedules. In the survey, the data are collected by means of face-to-face interviews and self-completion questionnaires.
+
+- Panel. Relationships are in constant flux. The NKPS is a panel study in order to understand the dynamic nature of family solidarity and to study causes and effects of solidarity within family relationships. Waves are spaced three years apart.
+
+The data for the third wave of the NKPS consists of information on 4,390 respondents who were between 18 and 79 years of age at the time of the first wave (2002-2004). The data for wave 3 were collected in 2010 and 2011. The data can be linked to data from wave 1 and wave 2 by a personal identification code.
+
+The data from the NKPS are freely accessible via the NKPS website to researchers affiliated with academic and (semi-)government organizations. To access the data files researchers must have registered as NKPS data users and have undersigned the NKPS privacy policy. No one has any exclusive right or priority to use the NKPS to work on any research question.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">2010-2011</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">NO_ACCESS</ddi:restrctn>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="nl"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

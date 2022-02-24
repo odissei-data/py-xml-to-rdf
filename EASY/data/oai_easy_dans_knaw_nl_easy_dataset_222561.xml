@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:222561</identifier>
+    <datestamp>2021-10-23T05:38:15Z</datestamp>
+    <setSpec>D30000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="eng">Human Development and Government Policy</ddi:titl>
+            <ddi:parTitl xml:lang="eng">मानवी विकास आणि सरकारी धोरण</ddi:parTitl>
+            <ddi:parTitl xml:lang="en">मानवी विकास आणि सरकारी धोरण</ddi:parTitl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-zn3-ny7p</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:222561</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Late. Mansaramji Padole Arts College Ganeshapur Bhandara">Bagde, Dr. RAKSHIT Madan ORCID=0000-0002-7507-0244</ddi:AuthEnty>
+            <ddi:othId xml:lang="en" role="RightsHolder" affiliation="Late. Mansaramji Padole Arts College Ganeshapur Bhandara">Bagde, Dr. RAKSHIT Rakshit ORCID=0000-0002-7507-0244, RightsHolder</ddi:othId>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="2021-09-30"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="eng">Economics</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Humanities</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="eng">UNDP first published the Human Development Report in 1990 in collaboration with economist Mehboob Haque, who is credited as the promoter of the HDI Index. The most important aspects of the HDI Index are longevity, healthy living, educational attainment, and quality of life as well as other important factors such as political independence, human rights, and self-respect. UNDP's Human Development Report is a combination of three principles. That is.
+1) Life expectancy at birth.
+2) Level of education. (Rate of adult education, rate of primary, secondary, higher education)
+3) The standard of living. (GDP per capita based on USD)
+The HDI index is averaged based on the maximum and minimum values of these three elements. According to the report, India was ranked 126th in the HDI Index in 2006. In 2008, Maxine Olson, UNDP Representative in India, and Motek Singh Ahluwalia, Deputy Chairman of the Planning Commission, published the Human Development Report in Delhi, in which India was ranked 128th (Value 0.619). Compared to 2006, India has slipped two places.</ddi:abstract>
+         <ddi:sumDscr/>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">REQUEST_PERMISSION</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="Marathi"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

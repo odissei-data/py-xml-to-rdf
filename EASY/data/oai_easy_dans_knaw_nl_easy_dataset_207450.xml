@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:207450</identifier>
+    <datestamp>2021-08-05T05:45:02Z</datestamp>
+    <setSpec>E10000:E13000</setSpec>
+    <setSpec>D50000:D51000</setSpec>
+    <setSpec>driver</setSpec>
+    <setSpec>D50000:D54000</setSpec>
+    <setSpec>D60000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Research project 'That's What Friends are For'</ddi:titl>
+            <ddi:parTitl xml:lang="en">A research project on the nature and significance of emerging adults' relationships with close others (parents, friends, partners)</ddi:parTitl>
+            <ddi:parTitl xml:lang="en">A research project on the nature and significance of emerging adults' relationships with close others (parents, friends, partners)</ddi:parTitl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-zfz-4znr</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:207450</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University">Berg, dr. Y.H.M. van den DAI=info:eu-repo/dai/nl/322288533</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt/>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">Emerging adulthood</ddi:keyword>
+            <ddi:keyword xml:lang="en">Friendships</ddi:keyword>
+            <ddi:keyword xml:lang="en">Parent-child relationships</ddi:keyword>
+            <ddi:keyword xml:lang="en">Romantic relationships</ddi:keyword>
+            <ddi:keyword xml:lang="en">Mental health</ddi:keyword>
+            <ddi:keyword xml:lang="en">Well-being</ddi:keyword>
+            <ddi:keyword xml:lang="en">Dyads</ddi:keyword>
+            <ddi:keyword xml:lang="en">Longitudinal</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Psychology</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Pedagogics</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Social sciences</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Development studies</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Our relationships with our parents and our friends are considered the most essential and rewarding relationships in life. Especially in emerging adulthood, individuals spend a large and increasing amount of their time with others outside of the family. However, studies examining young adults’ relationships with various different close others simultaneously is limited. The main aim of this project was therefore to examine the nature and significance of relationships with parents (father and mother), friends, and romantic partners in emerging adulthood. 
+
+Participants were recruited together with their best friends. They were assessed in 3 different waves, each with a Time 1 assessment (Wave 1 n = 60, Wave 2 n = 94, Wave 3 n = 126) and follow-up 1 year later (Wave 1 follow-up n = 18, Wave 2 follow-up n = 39, Wave 3 follow-up n = 54). An overview of the number of unique individuals and complete dyads at each time point and per wave is presented in "Project_Description_TWFAF.pdf". 
+
+Questionnaires were distributed via Qualtrics. Active informed consent was requested at the start of the online survey. A detailed description of the procedures is presented in "Project_Description_TWFAF.pdf".  
+
+As participants were recruited together with their best friend, both members of a friend dyad were asked to report on their friendship quality. Moreover, each participant reported on their relationship with parents (father and mother) and romantic partner. Finally, they reported on a variety of questions regarding their mental health and well-being. An overview of all questions asked, including the answering options and labels is presented in "Codebook_TWFAF.xlsx".</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">Collection period: start=2018-03-01; end=2020-04-01;</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">OPEN_ACCESS_FOR_REGISTERED_USERS</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="nl"/>
+   </ddi:fileDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="English"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:32807</identifier>
+    <datestamp>2021-04-15T21:04:49Z</datestamp>
+    <setSpec>driver</setSpec>
+    <setSpec>D40000:D42000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Nationaal Kiezersonderzoek, NKO 1977</ddi:titl>
+            <ddi:parTitl xml:lang="en">Dutch parliamentary election study, 1977 - DPES 1977</ddi:parTitl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:32807</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-x5x-pvkr</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en">Werkgroep nationaal kiezersonderzoek  (primary investigator)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Werkgroep Nationaal Kiezersonderzoek  (depositor)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Werkgroep nationaal kiezersonderzoek 1977 (research initiator)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Interact bv, Dongen (data collector)</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt/>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">political science</ddi:keyword>
+            <ddi:keyword xml:lang="en">elections</ddi:keyword>
+            <ddi:keyword xml:lang="en">politics, internal</ddi:keyword>
+            <ddi:keyword xml:lang="en">international relations</ddi:keyword>
+            <ddi:keyword xml:lang="en">participation</ddi:keyword>
+            <ddi:keyword xml:lang="en">economy</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Political and administrative sciences</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">The purpose of the national election studies is, to collect numerous data on political attitudes, political opinions, political values and possible changes within, of the Dutch by means of extensive surveys. Pre political interest / exposure to problems in the country / causes of unemployment / inflation / evaluation of government policies / coalition preferences / cabinet formation / voting behaviour / issue salience / perception of party-positions on issues / political efficacy / political system reform issues / legitimacy / party-identification / political participation / image of politicians / description of leftwing, rightwing / attitude to polarization / personal history data / post voting report / impact of CDA / campaign participation / opinion leadership / ( under )privileged groups / perception of social conflict / political power structure actual perception versus desired / political activism / protest actions taken / actual efficacy of actions taken / action tolerance / legality / punitive authoritarian attitude / influence on foreign policy / attitude of European integration / opinions on foreign policy and international relations / opinion on armament / NATO / atomic bomb / political cynicism opinions on members of parliament, on parliament itself / political confidence in persons, groups / trust in people / attitude to freedom and equality / perception of the political and social system / attitude to abortion / perception of political party positions regarding abortion / priorities of government expenditure / VVD / PVDA / personal competence / participation in clubs, organizations / opinions on parental roles / organizational membership / conservatism / liberalism and socialism as ideologies. Background variables: basic characteristics/ place of birth/ residence/ housing situation/ household characteristics/ place of work/ occupation/employment/ income/capital assets/ education/ social class/ politics/ religion/ readership, mass media, and 'cultural' exposure/ organizational membership. The data- and documentation files of this dataset can be downloaded via the option Data Files.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1977</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">OPEN_ACCESS_FOR_REGISTERED_USERS</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

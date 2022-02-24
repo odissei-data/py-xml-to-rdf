@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:32689</identifier>
+    <datestamp>2021-04-15T21:06:00Z</datestamp>
+    <setSpec>D60000:D61000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Stadspanel Delft 1995 - VSO</ddi:titl>
+            <ddi:parTitl xml:lang="en">Panel survey city of Delft 1995 - VSO</ddi:parTitl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:32689</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-xxp-jmcf</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en">Rhee, M. van, Gemeente Delft * Delft (primary investigator)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">M. van Rhee, Gemeente Delft, Afd. CCO (depositor)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Gemeente Delft (research initiator) </ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Intomart * Hilversum (data collector) </ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="1997-01-01"/>
+            <ddi:distDate xml:lang="en" date="2007-08-10"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">mass media</ddi:keyword>
+            <ddi:keyword xml:lang="en">environment</ddi:keyword>
+            <ddi:keyword xml:lang="en">housing</ddi:keyword>
+            <ddi:keyword xml:lang="en">leisure time</ddi:keyword>
+            <ddi:keyword xml:lang="en">massmedia</ddi:keyword>
+            <ddi:keyword xml:lang="en">information sources</ddi:keyword>
+            <ddi:keyword xml:lang="en">public transport</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Sociology</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Opinion of the inhabitants of Delft about various aspects of living in Delft P1289A: Detailed information concerning r.'s residence /  satisfaction with housing situation / neighbouring help / vandalism,  noise pollution and other sources of nuisance in neighbourhood /  maintenance of streets and green space, cleaning of garbage cans,  collecting refuse in own quarter and the telephone number for complaints	about these / guide for public transport / environmental issues/  separate collection of refuse, second-hand shop, refuse of advertising  leaflets / free municipal paper about refuse / r.'s contribution to a  cleaner environment / children of household on primary school and  secondary school/ satisfaction with schools / contacts with various  kinds of service centres, satisfied with contacts / municipal taxes /  telephone number for information about civil services / use of  computers at home, internet connection / cable tv / composition of  income of household. P1289B: Use of bicycle, car, bus / parking in the city /  improvement of attracktiveness of the centre in the last three years / r. has read the supplement "Delft 750 jaar Cultuurstad" / frequency of reading Municipal Messages in free local paper /  sources of information about decisions of the local government / use of  local news media / use of the municipal housing distribution /  satisfied with and use of social and cultural facilities / theatre  "De Veste" / contacts with the municipal social services, satisfied with  contacts / feelings of unsafety in neighbourhood / leisure time  activities / visits park "Delftse Hout": satisfied with cleaning, paths,  supervision, safety, toilets / priorities environmental aspects / r.'s  contribution to a cleaner environment / if self-employed: percentage  of customers which is tourist. Background variables: basic characteristics/ place of birth/ residence/ housing situation/ household characteristics/ place of work/ occupation/employment/ income/capital assets/ education/ readership, mass media, and 'cultural' exposure</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1995</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">REQUEST_PERMISSION</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

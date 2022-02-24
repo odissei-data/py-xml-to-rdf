@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:31801</identifier>
+    <datestamp>2021-04-15T21:05:17Z</datestamp>
+    <setSpec>D60000:D61000</setSpec>
+    <setSpec>driver</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Culturele Veranderingen in Nederland 1989 - CV'89</ddi:titl>
+            <ddi:parTitl xml:lang="en">Cultural changes in the Netherlands 1989 - CV'89</ddi:parTitl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-zzk-b6s5</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:31801</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Sociaal en Cultureel Planbureau, SCP * Den Haag">Becker, J.W. DAI=info:eu-repo/dai/nl/068409176</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Sociaal en Cultureel Planbureau, SCP * Den Haag (primary investigator)">Nauta, A.N.</ddi:AuthEnty>
+            <ddi:othId xml:lang="en" role="contributor">Sociaal en cultureel planbureau, SCP * Den Haag (research initiator)</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor">Nederlands instituut voor de publieke opinie en het marktonderzoek, NIPO * Amsterdam (data collector)</ddi:othId>
+         </ddi:rspStmt>
+         <ddi:distStmt/>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">sociology</ddi:keyword>
+            <ddi:keyword xml:lang="en">living conditions</ddi:keyword>
+            <ddi:keyword xml:lang="en">health</ddi:keyword>
+            <ddi:keyword xml:lang="en">housing</ddi:keyword>
+            <ddi:keyword xml:lang="en">welfare</ddi:keyword>
+            <ddi:keyword xml:lang="en">work</ddi:keyword>
+            <ddi:keyword xml:lang="en">employment</ddi:keyword>
+            <ddi:keyword xml:lang="en">politics, internal</ddi:keyword>
+            <ddi:keyword xml:lang="en">participation</ddi:keyword>
+            <ddi:keyword xml:lang="en">discrimination</ddi:keyword>
+            <ddi:keyword xml:lang="en">technology</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Social sciences</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Sociology</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Conditions for shorter working hours: income versus leisure / working conditions, quality of job / doing volunteer work / satisfaction with social position / leisure activities, holidays / social contacts / level of government expenditures for public facilities and subsidies / personal problems, fears, loneliness / expected developments with respect to the economy, employment and incomes / judgement of own financial position / desired development of wages and benefits / evaluation of various social security benefits, rights and obligations of persons drawing benefits, responsibility of unions to them / justice of actual income differences, including level of benefits / expected and desired developments / justice of differences of property / freedom of speech and protest / wish to increase the participation by citizens, students, pupils and their parents / honesty in social life / left-right self-rating / political interest, preference and participation / political efficacy, confidence in politicians / preference denominational or state school, separation of religion and politics, social organizations / satisfaction with society / housing situation, satisfaction with housing and neighbourhood / satisfaction with family life / possession of durables / recent far reaching events in r.'s life / health condition: deceases, illness, use of medicines / making use of institutions for social, medical or legal assistance / satisfaction with life, happiness / what groups or individuals are most entitled to a vacant dwelling: married people or single, Dutch or foreign, young or old, Dutch or Surinamese, single man or single woman, white or coloured, with or without children / what groups are first to be dismissed / first to get a promotion at work / objections against immigrant neighbours, colleagues, immigrant children in class with r's child / attitude to new advanced technologies, being involved with new technologies, knowledge of new technology, confidence in technological developments / self administered questionnaire: wish to change time budget with respect to work, contacts with friends, family life, leisure, domestic work, rest / importance of having a payed job, work ethics / what qualities should determine the wage of an individual employee / employers versus employees, necessity of unions / desired qualities of job / worst consequences of being unemployed / desired type of job / responsibility of government for employment and the unemployed / if r unemployed: need for job, expectation to find a job / work ethics / income versus leisure / what qualities should determine the wage of an employee at r's work / quality of r's job / easiness to find other job / inter-personal relations at work / job satisfaction. Background variables: basic characteristics / residence / housing situation / household characteristics / characteristics of parental family / household / occupation / employment / income / capital assets / education / social class / politics / religion / consumption of durables / readership, mass media, and 'cultural' exposure / organizational membership.
+
+The data- and documentation files of this dataset can be downloaded via the option Data Files.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:nation abbr="NLD" xml:lang="en">The Netherlands</ddi:nation>
+            <ddi:collDate event="single">1989</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">OPEN_ACCESS_FOR_REGISTERED_USERS</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="nl"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

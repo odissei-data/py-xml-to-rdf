@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:222562</identifier>
+    <datestamp>2021-10-23T05:38:15Z</datestamp>
+    <setSpec>D30000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="eng">State Socialism and Welfare State</ddi:titl>
+            <ddi:parTitl xml:lang="eng">राज्यसमाजवाद  आणि  कल्याणकारी राज्य</ddi:parTitl>
+            <ddi:parTitl xml:lang="en">राज्यसमाजवाद  आणि  कल्याणकारी राज्य</ddi:parTitl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-z98-hadd</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:222562</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Late. Mansaramji Padole Arts College Ganeshapur Bhandara">Bagde, Dr. RAKSHIT Madan ORCID=0000-0002-7507-0244</ddi:AuthEnty>
+            <ddi:othId xml:lang="en" role="RightsHolder" affiliation="Late. Mansaramji Padole Arts College Ganeshapur Bhandara">Bagde, Dr. RAKSHIT Madan ORCID=0000-0002-7507-0244, RightsHolder</ddi:othId>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="2021-09-30"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="eng">Economics</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Humanities</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="eng">Dr. Ambedkar believed that for India's economic prosperity, the emphasis should be on the eradication of poverty and inequality and the freedom from exploitation of the masses. In his writings and speeches during the 1930s and 1940s and for some years to come, he emphasized the need to free the masses from exploitation. Dr. Ambedkar wanted socialism, but he did not like traditional socialism. From their point of view, planning should be done with more focus on the financial security of the working and exploited class. Moral motivation must be in the people, and all the wealth they have earned through their labor must be shared equally.
+Dr. The statement submitted by Ambedkar to the Constituent Assembly was a model of state socialism. He was of the view that there should be a provision for socialism in the state constitution itself. In the objectives and guiding principles of the Constitution, Dr. Ambedkar has embraced socialism. In which the shades of Buddha's philosophy are visible. Dr. Ambedkar's economic policy is the 'Economy of Prosperity' which is conducive to the creation of an economically prosperous state and the 'Economics of Social Welfare and the Economics of the Welfare State which accelerates the establishment of a socially egalitarian society.</ddi:abstract>
+         <ddi:sumDscr/>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">REQUEST_PERMISSION</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="Marathi"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

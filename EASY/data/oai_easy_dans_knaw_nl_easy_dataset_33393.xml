@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:33393</identifier>
+    <datestamp>2021-04-15T21:06:35Z</datestamp>
+    <setSpec>driver</setSpec>
+    <setSpec>D50000:D52000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Functionele en schoolse leesvaardigheid 1992-1994</ddi:titl>
+            <ddi:parTitl xml:lang="en">Functional literacy and school-based literacy 1992-1994</ddi:parTitl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:33393</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-xk2-sb9t</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en">Reitsma, P., Geus, W.G. de, Vrije Universiteit Amsterdam * Duivendrecht, Paedagogisch Instituut (primary investigator)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Prof.Dr. P. Reitsma, Vrije Universiteit, Paedagogisch Instituut (depositor)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Vrije Universiteit, Paedagogisch Instituut * Duivendrecht (data collector) </ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="1996-01-01"/>
+            <ddi:distDate xml:lang="en" date="2007-07-30"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">education</ddi:keyword>
+            <ddi:keyword xml:lang="en">literacy</ddi:keyword>
+            <ddi:keyword xml:lang="en">primary education</ddi:keyword>
+            <ddi:keyword xml:lang="en">secondary education</ddi:keyword>
+            <ddi:keyword xml:lang="en">learning</ddi:keyword>
+            <ddi:keyword xml:lang="en">intelligence</ddi:keyword>
+            <ddi:keyword xml:lang="en">readership</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Educational theory</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Study aimed at measuring literacy-levels and testing the relationship  between functional literacy and school-based literacy. Reading ability tests / general knowledge tests / understanding  texts / cognitive ability / verbal reasoning / spatial  intelligence / vocabulary / out of school reading. Background variables: basic characteristics/ education</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1992 * 1994</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">OPEN_ACCESS_FOR_REGISTERED_USERS</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

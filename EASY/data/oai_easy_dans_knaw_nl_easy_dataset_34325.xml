@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:34325</identifier>
+    <datestamp>2021-04-15T21:06:40Z</datestamp>
+    <setSpec>D30000:D34000:D34300</setSpec>
+    <setSpec>D30000:D35000:D35200</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Computerized Mensural Music Editing (CMME) Project</ddi:titl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-228-agv9</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:34325</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en">Theodor Dumitrescu</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Theodor Dumitrescu</ddi:AuthEnty>
+            <ddi:othId xml:lang="en" role="contributor">Berchum, M van DAI=info:eu-repo/dai/nl/290746507</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor">Kügle, K DAI=info:eu-repo/dai/nl/146702824</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor">Wiering, F. DAI=info:eu-repo/dai/nl/141928034</ddi:othId>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="2010-07-13"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">Music, Medieval, Renaissance, Early Music, Scores, Editions, Mensural Notation, CMME Project, Computerized Mensural Music Editing</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Modern and contemporary history</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Humanities</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Musicology</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Humanities</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">History</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">A scholarly initiative to offer free online access to new, high-quality early music scores produced by today's leading experts. Based at Utrecht University in the Netherlands, the project represents a collaborative development effort of specialists in musicology, information science, and music retrieval. The major purpose of the enterprise is to produce and maintain an online corpus of electronic editions, in addition to software tools making them accessible to students, scholars, performers, and interested amateurs. Here, the brilliant polyphonic styles known to the modern world through the works of such masters as Dufay, Josquin, Machaut, Palestrina, and Tallis can come to life again in the central medium of the 21st century.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">c. 1300-1600</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">NO_ACCESS</ddi:restrctn>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

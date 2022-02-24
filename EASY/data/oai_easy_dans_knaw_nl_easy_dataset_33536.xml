@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:33536</identifier>
+    <datestamp>2021-04-15T21:06:38Z</datestamp>
+    <setSpec>driver</setSpec>
+    <setSpec>D40000:D41000:D41100</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Hugo Grotius: De Iure Praedae, a machine-readable transcript</ddi:titl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-x4t-x8me</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:33536</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en">Winkel, Prof. Mr. L.C.</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Blom, H.</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Waszink, J.</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt/>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">Hugo Grotius (1583-1645), also known as Huig de Groot or Hugo de Groot</ddi:keyword>
+            <ddi:keyword xml:lang="en">De Iure Praedae</ddi:keyword>
+            <ddi:keyword xml:lang="en">Het recht van buit</ddi:keyword>
+            <ddi:keyword xml:lang="en">Le droit de prise</ddi:keyword>
+            <ddi:keyword xml:lang="en">Het recht van oorlog en vrede (1625)</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">History of law</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Autograph manuscript by Hugo Grotius, ‘De Iure Praedae’, compiled by Hans Blom en Jan Waszink in 2004, has been collaboratively edited via the digital platform TextLaboratorium.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1604</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">OPEN_ACCESS_FOR_REGISTERED_USERS</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="Latin"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

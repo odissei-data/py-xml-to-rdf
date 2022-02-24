@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:32943</identifier>
+    <datestamp>2021-04-15T21:06:13Z</datestamp>
+    <setSpec>driver</setSpec>
+    <setSpec>D20000:D24000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Belemmeringen voor parodontale zorgverlening 1981</ddi:titl>
+            <ddi:parTitl xml:lang="en">Barriers to effective periodontal care 1981</ddi:parTitl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:32943</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-zx6-fh2h</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en">Schaub, R.M.H., Rijksuniversiteit Groningen * Groningen, Fac. tandheelkunde (primary investigator)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">RU Groningen, faculteit tandheelkunde * Groningen (data collector) </ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="1989-01-01"/>
+            <ddi:distDate xml:lang="en" date="2007-07-09"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">health</ddi:keyword>
+            <ddi:keyword xml:lang="en">personality</ddi:keyword>
+            <ddi:keyword xml:lang="en">service</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Health sciences</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">The main reason for this study was the expectation that the results might contribute to an improvement in periodontal health of populations. It was hypothesized that some of the barriers impeding an improvement in periodontal health were to be found in human behaviour. Dentists: member dental societies / subscribe to one or more dental journals / buying dental publications / undertaking continued education / r having sufficient opportunities to keep abreast of developments in dentistry in general and periodontology / sources of information / patients from what population / regular patients and occasional patients per year / additional personnel: assistants, hygienists / number of periodontal treatments / materials and instruments in dental practice / several statements on periodontal treatment and knowledge regarding periodontology / perceptional questionnaire: what is patient's image of you/ what do you think of your patient/ what do you think your patient expects from you/ what do you think of yourself and of your patient. Patients: data of general questionnaire list: perceptual questionnaire: what do you think your dentist thinks about you/ what will your dentist do/ what will your dentist think you will do/ what do you think of yourself/ what is your behaviour at your dentist. Available files: P0977b: Dentists, general questionnaire. P0977c: Patients: perceptional questionnaire. P0977d: Dentists: perceptional questionnaire. P0977e: Patients: clinical data. Background variables: basic characteristics/ education/ readership, mass media, and 'cultural' exposure</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1981</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">OPEN_ACCESS_FOR_REGISTERED_USERS</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

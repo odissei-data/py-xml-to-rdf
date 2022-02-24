@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:76464</identifier>
+    <datestamp>2021-04-15T21:07:43Z</datestamp>
+    <setSpec>D30000:D34000:D34300</setSpec>
+    <setSpec>D30000:D36000</setSpec>
+    <setSpec>D30000:D35000:D35400</setSpec>
+    <setSpec>driver</setSpec>
+    <setSpec>D60000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Talk of Europe - The debates of the European Parliament as Linked Open Data</ddi:titl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-x62-ew3m</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:76464</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="CWI">Hollink, Dr L.H.</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="VU University Amsterdam">Aggelen, MSc A.V.A. van</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Erasmus University Rotterdam">Beunders, Prof H.B.</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="VU University Amsterdam">Kleppe, Dr M.K.</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="University of Luxembourg">Kemman, MSc M.K.</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Centrum Wiskunde &amp; Informatica">Ossenbruggen, Dr J van</ddi:AuthEnty>
+            <ddi:othId xml:lang="en" role="" affiliation="University of Oslo">Høyland, Prof. B.H.</ddi:othId>
+            <ddi:othId xml:lang="en" role="" affiliation="University of Amsterdam">Marx, Dr. M.</ddi:othId>
+            <ddi:othId xml:lang="en" role="" affiliation="Università degli studi di Bari Aldo Moro">Giannini, MSc S.G.</ddi:othId>
+            <ddi:othId xml:lang="en" role="">Funding Agency: Clarin ERIC and Clarin-NL.</ddi:othId>
+         </ddi:rspStmt>
+         <ddi:distStmt/>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">European Parliament</ddi:keyword>
+            <ddi:keyword xml:lang="en">Linked Open Data</ddi:keyword>
+            <ddi:keyword xml:lang="en">Open Government Data</ddi:keyword>
+            <ddi:keyword xml:lang="en">multilingual data</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Social sciences</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Modern and contemporary history</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Language and literature studies</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Media sciences</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">The Talk of Europe (TOE) project has created a Linked Open Dataset with data from and about the European Parliament (EP). The proceedings of the parliamentary debates as published by the EP, including all available translations, were converted to RDF and enriched with datasets of biographical and political information about the speakers. The ToE project officially ran from from 2014 to 2015 and has continued to make improved and updated versions of the data available online. The current dataset that is archived here contains all debates from summer 1999 until summer 2017.
+
+The dataset is documented in a publication: Astrid van Aggelen, Laura Hollink, Max Kemman, Martijn Kleppe, Henri Beunders. The debates of the European Parliament as Linked Open Data. Semantic Web, vol. 8, no. 2, pp. 271-281, 2017, IOS Press. A pre-print is added to this dataset as onderzoeksdocumentatie_preprint.pdf. This pre-print relates to the previous version of this dataset. Changes to the dataset with respect to the descrition in the publication are listed in the file Changes.txt.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1999-2017</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:conditions xml:lang="en">License: http://creativecommons.org/publicdomain/zero/1.0</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="nl"/>
+   </ddi:fileDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="de"/>
+   </ddi:fileDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="fr"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:57104</identifier>
+    <datestamp>2021-04-15T21:07:15Z</datestamp>
+    <setSpec>driver</setSpec>
+    <setSpec>D50000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Finding Friends Online: Online Activities by Deaf Students and Their Well-Being</ddi:titl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:57104</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-xgb-wc7p</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Royal Dutch Kentalis">Blom, Ms. H.C.</ddi:AuthEnty>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Royal Dutch Kentalis">Knoors, Prof. dr. H.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Radboud University Nijmegen">Vervloed, Dr. M.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="National Technical Institute for the Deaf">Marschark, Prof. dr. M.</ddi:othId>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="2014-02-27"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">friendship</ddi:keyword>
+            <ddi:keyword xml:lang="en">well-being</ddi:keyword>
+            <ddi:keyword xml:lang="en">deafness</ddi:keyword>
+            <ddi:keyword xml:lang="en">social communication</ddi:keyword>
+            <ddi:keyword xml:lang="en">internet</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Behavioural and educational sciences</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Over 200 hearing, deaf and hard-of-hearing students (18-25 years) in both the Netherlands and the US filled in a questionnaire about their online activities, friendship quality of online, offline and mixed friendships and their well-being. Goal of the research project was to gain insights in the differences between online, mixed and offline friendship quality of deaf and hard-of-hearing adolescents compared to hearing ones and its relation with their levels of well-being.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">2012-2013</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:conditions xml:lang="en">License: http://creativecommons.org/publicdomain/zero/1.0</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

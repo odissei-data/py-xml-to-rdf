@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:170461</identifier>
+    <datestamp>2021-04-15T21:08:11Z</datestamp>
+    <setSpec>D50000:D51000</setSpec>
+    <setSpec>driver</setSpec>
+    <setSpec>D20000:D24000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Dataset belonging to "Do smokers devaluate smoking cues after go/nogo training?"</ddi:titl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-xz7-zdbt</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:170461</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University">Scholten, dr. H. DAI=info:eu-repo/dai/nl/401557529</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University">Granic, prof. dr. I. DAI=info:eu-repo/dai/nl/203825888</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University">Chen, dr. Z. DAI=info:eu-repo/dai/nl/401559610</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University">Veling, dr. H.P. DAI=info:eu-repo/dai/nl/298978520</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University">Luijten, dr. M. DAI=info:eu-repo/dai/nl/364302348</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt/>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">devaluation</ddi:keyword>
+            <ddi:keyword xml:lang="en">go/no-go training</ddi:keyword>
+            <ddi:keyword xml:lang="en">inhibition</ddi:keyword>
+            <ddi:keyword xml:lang="en">smoking behaviour</ddi:keyword>
+            <ddi:keyword xml:lang="en">trans-diagnostic mechanism</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Health sciences</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Behavioural and educational sciences</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Psychology</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Objective: Smoking is one of the leading public health problems worldwide. The inability to quit smoking may be the result of the amplified value of smoking-related cues and inhibitory control deficits. Previous research has shown that pairing substance-related cues with no-go trials in go/no-go training reduces the value of these cues, an effect known as devaluation. The current experiment investigated the devaluation effect of go/no-go training on smoking-related cues, and compared this effect between smokers and nonsmokers. Design and Main Outcome Measures: 39 smokers and 43 nonsmokers were trained to respond immediately to neutral stimuli, but inhibit their reaction when smoking stimuli were presented. Before and after training, participants evaluated smoking and neutral stimuli, where part of these stimuli were subsequently presented in the training, and the other part was not used in training. Results: Not responding to smoking stimuli in go/no-go training decreased subsequent evaluations of trained smoking stimuli compared to untrained smoking stimuli, thereby replicating food and alcohol studies and extending the devaluation effect to smoking-related cues. This devaluation effect was found for both smokers and non-smokers. Conclusion: Smoking-related cues can be devaluated in smokers and non-smokers, thereby showing the potential for Go/No-Go training in smoking cessation interventions.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">Collection period: start=2015-08-18; end=2015-10-29;</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">OPEN_ACCESS_FOR_REGISTERED_USERS</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="English"/>
+   </ddi:fileDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="Dutch"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:59807</identifier>
+    <datestamp>2021-04-15T21:07:20Z</datestamp>
+    <setSpec>driver</setSpec>
+    <setSpec>D20000:D24000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Brain parcellation with Bayesian connectomics</ddi:titl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-zza-j97d</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:59807</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University Nijmegen">Hinne, MSc M</ddi:AuthEnty>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Radboud University Nijmegen">Hinne, MSc M.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Radboud University Nijmegen">Ekman, MSc M.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Radboud University Nijmegen">Janssen, MSc R.J.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Radboud University Nijmegen">Heskes, Prof. Dr. T.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Radboud University Nijmegen">Gerven, Dr. M.A.J. van</ddi:othId>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="2014-11-12"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">Connectomics</ddi:keyword>
+            <ddi:keyword xml:lang="en">Brain networks</ddi:keyword>
+            <ddi:keyword xml:lang="en">Brain parcellation</ddi:keyword>
+            <ddi:keyword xml:lang="en">Probabilistic tractography</ddi:keyword>
+            <ddi:keyword xml:lang="en">Bayesian statistics</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Health sciences</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">A Bayesian approach to network clustering is applied to probabilistic tractography data, obtained from diffusion-weighted MRI. This reveals that the brain's anatomy may be divided into areas that are densely connected, and into areas that form hub-clusters that connect the densely connected clusters. 
+
+Provided data consists of probabilistic tractography streamline counts (obtained using FSL 5.0), for 20 healthy participants. More detail is provided in "Probabilistic clustering of the human connectome identifies communities and hubs", PLoS ONE.</ddi:abstract>
+         <ddi:sumDscr/>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:conditions xml:lang="en">License: http://creativecommons.org/publicdomain/zero/1.0</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

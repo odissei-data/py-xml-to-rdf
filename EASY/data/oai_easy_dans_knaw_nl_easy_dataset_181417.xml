@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:181417</identifier>
+    <datestamp>2021-04-15T21:08:13Z</datestamp>
+    <setSpec>E10000:E13000</setSpec>
+    <setSpec>D50000:D51000</setSpec>
+    <setSpec>D50000:D54000</setSpec>
+    <setSpec>D60000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Dataset belonging to It's not just what you say, it's how you say it too: Adolescents' hostile attribution of intent and emotional responses to social comments</ddi:titl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-zp8-3pjf</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:181417</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University">Berg, dr. Y.H.M. van den DAI=info:eu-repo/dai/nl/322288533</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University">Lansu, dr. T.A.M. DAI=info:eu-repo/dai/nl/316290483</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt/>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">hostile attribution bias</ddi:keyword>
+            <ddi:keyword xml:lang="en">emotional response</ddi:keyword>
+            <ddi:keyword xml:lang="en">aggression</ddi:keyword>
+            <ddi:keyword xml:lang="en">experimental paradigm</ddi:keyword>
+            <ddi:keyword xml:lang="en">youth</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Behavioural and educational sciences</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Psychology</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Pedagogics</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Social sciences</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Development studies</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">A highly prevalent and relevant situation in which adolescents have to interpret the intentions of others, is when they interact with peers. We therefore successfully introduced a new paradigm to measure hostile attribution bias and emotional responses to such social interactions, and examined how it related to youth’s aggressiveness. 
+A pilot study was conducted to develop a database with auditory stimuli of positive, negative and ambiguous everyday comments to be used in the main study. The pilot study resulted in a set of social comments that varied in content (e.g. what the person says) as well as tone of voice (e.g. how the person says it). These stimuli were presented to 881 adolescents (Mage = 14.35 years; SD = 1.23; 48.1% male) in the main study. These participants’ peers also reported on their aggressiveness. In general, added negativity of content and tone was driving youth’s intent attribution and emotional responses to the comments. In line with the Social Information Processing model, we found more hostile attribution of intent and more negative emotional responses of aggressive youth to ambiguous stimuli. Aggression was also related to more hostile intent attributions when both content and tone were negative. Unlike most studies on hostile attribution bias, the aggression effects in the current study emerged for girls, but not boys. Implications of these results and future use of the experimental paradigm are discussed.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">Collection period: start=2014-08-01; end=2014-12-20;</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">REQUEST_PERMISSION</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="Dutch"/>
+   </ddi:fileDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="English"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

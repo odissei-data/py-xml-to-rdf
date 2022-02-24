@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:47571</identifier>
+    <datestamp>2021-04-15T21:04:59Z</datestamp>
+    <setSpec>D30000:D34000:D34300</setSpec>
+    <setSpec>D50000:D51000</setSpec>
+    <setSpec>D60000:D61000</setSpec>
+    <setSpec>driver</setSpec>
+    <setSpec>D20000:D24000</setSpec>
+    <setSpec>D40000:D41000:D41600</setSpec>
+    <setSpec>easy-collection:1</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Interview project: Croatian Memories (CroMe) - Unveiling personal memories on war and detention</ddi:titl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:47571</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-2a6-k5vf</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en">Documenta - Center for Dealing with the Past, Zagreb</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Jong, F. de (project director, Twente University, Erasmus University Rotterdam)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Maas, P. van der (general project manager, Erasmus University Rotterdam)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Teršelič, V.  (Documenta - Center for Dealing with the Past)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Petrović, T. (local project coordinator Croatia)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Hessen, A.J. van (local project coordinator Netherlands, Twente University)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Data Archiving and Networked Services (DANS)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Noterik B.V.</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="2011-10-25"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">personal memories</ddi:keyword>
+            <ddi:keyword xml:lang="en">dealing with the past</ddi:keyword>
+            <ddi:keyword xml:lang="en">remembrance</ddi:keyword>
+            <ddi:keyword xml:lang="en">reconciliation</ddi:keyword>
+            <ddi:keyword xml:lang="en">war</ddi:keyword>
+            <ddi:keyword xml:lang="en">detention</ddi:keyword>
+            <ddi:keyword xml:lang="en">victims</ddi:keyword>
+            <ddi:keyword xml:lang="en">oral history</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Modern and contemporary history</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Humanities</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">History</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">International law</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Behavioural and educational sciences</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Psychology</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Social sciences</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Sociology</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Health sciences</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Croatian Memories (CroMe) - Unveiling personal memories on war and detention.
+
+In this project citizens of Croatia from all social layers and regions are interviewed about their personal experiences in violent situations. The project is covering three timeframes: WWII, the Yugoslav period and the war of the 90s. The overall objective is the stimulation and empowerment of the social and individual processes of "dealing with the past" in order to improve mutual understanding in Croatia and adjacent regions.
+
+By creating a platform where general public as well as professionals can find information about remembrance of the past told by individuals in a balanced representation of the people currently living in Croatia, this process can take place in the next years or decades.
+
+The interviews are held in Croatian. A transcription in Croatian, and a translation in English is added to the audiovisual file.
+
+The interviews are for scholarly use only. Parts of the interviews can be found on the Croatian Memories website, these are freely accessible.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1941-1945</ddi:collDate>
+            <ddi:collDate event="single">1945-1990</ddi:collDate>
+            <ddi:collDate event="single">1990-1995</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:conditions xml:lang="en">License: http://creativecommons.org/publicdomain/zero/1.0</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="Croatian"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

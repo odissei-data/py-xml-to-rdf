@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:67409</identifier>
+    <datestamp>2021-04-15T21:07:36Z</datestamp>
+    <setSpec>D30000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Arab West Report 2008 Weeks 02-52: Major Challenges Regarding Arab-West Dialogue and Muslim-Christian Relations</ddi:titl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-z82-vkq9</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:67409</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Center for Intercultural Dialogue and Translation (CIDT)">Hulsman, Drs. C.</ddi:AuthEnty>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Center for Intercultural Dialogue and Translation (CIDT)">Sparks, MA M.R.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Arab-West Foundation">Parlevliet, D.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Azhar University">Wajih, Dr. H.M.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Bridges Foundation">Soliman, Dr. Imam F.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Center for Intercultural Dialogue and Translation (CIDT)">Saqqa, K.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor">Al-Sharqawi, R.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor">Burslem, M.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Center for Arab-West Understanding (CAWU)">Grant, D.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Center for Arab-West Understanding (CAWU)">Graversen, M.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Center for Arab-West Understanding (CAWU)">Huber, S.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Center for Arab West Understanding (CAWU)">Mahrous, M.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor">Al-Jazzar, S.A.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Georgetown University">Esposito, Dr. J.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Center for Arab-West Understanding (CAWU)">Streicher, K.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Center for Arab-West Understanding (CAWU)">Aguzzoni, S.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Center for Arab-West Understanding (CAWU)">Snyder, M.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Center for Arab-West Understanding (CAWU)">Bredstrup, M.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Center for Arab-West Understanding (CAWU)">Dukhan, B.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Center for Arab-West Understanding (CAWU)">Fastenrath, C.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Center for Arab-West Understanding (CAWU)">Kazanjian, Dr. C.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Center for Arab-West Understanding (CAWU)">Georgiou, E.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Center for Arab-West Understanding (CAWU)">Fiske, M.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Center for Arab-West Understanding (CAWU)">Al-Ghannam, A.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor">Slomp, Dr.Rev. J.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Reformatorisch Dagblad">Roos, G.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor">Bin Talal, Prince H. H.R.H.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Cairo University">Sharqawi, Dr. P.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="University of St. Joseph, Lebanon">Khalil, Dr. S. Fr.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Center for Arab-West Understanding (CAWU)">Roh, S.J.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Katholische Nachrichten Agentur">Lange, G.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor">Marqus, S.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Centre for Arab-West Understanding (CAWU)">Gabra Ayoub Khalil, S. Ms.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Center for Intercultural Dialogue and Translation (CIDT)">Hulsman, Drs, C. Mr.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Center for Arab-West Understanding (CAWU)">Akselbo- Holm, M.</ddi:othId>
+         </ddi:rspStmt>
+         <ddi:distStmt/>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">Major Challenges Regarding Arab-West Dialogue and Muslim-Christian Relations</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Humanities</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">This dataset contains the Arab-West Report special reports that were published in 2008. This dataset mainly contains the writings of Cornelis Hulsman, Drs., among other authors on topics related to Muslim- Christian relations, sectarian tensions, and incidents. 
+
+Over the course of the year 2008, Egypt witnessed notable sectarian tensions. Several reports in this dataset concern the Abu Fana tensions, incidents which took place in the Upper Egyptian Minya governorate surrounding a dispute over the growth of Abu Fana Monastery. Arab West Report devoted a large portion of articles and reports covering the story and analysing its developments. Other reports contain  published commentary from scholars and critiques of Egyptian and Western media coverage of the sectarian incident.
+ 
+Another major controversial issue addressed in this dataset is the notorious film Fitna which caused an uproar in the Islamic World.  Other reports highlight the launching of ENAWU, the Electronic Network for Arab West Understanding.   
+
+Papers submitted by the staff and interns of CAWU detail the Arab media coverage of the war on Iraq, and facts about the church building regulations and incidents in Egypt, in addition to interviews conducted by AWR and book reviews. Furthermore other reports narrated the experiences of interns when they visited monasteries and witnessed the monastic life. In addition to that some reports shed light on the field visits done by Arab West Report  to Minya governorate to collect information and testimonies from residents and monks in relation to the Abu Fana Monastery dispute. 
+
+Additionally, reports spanning that year on this dataset pointed out to the workshops and conferences that revolved around conflict resolution and dialogue. Furthermore, it contained commentary on published material from other sources (reviews/critique of articles).</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">2008</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">REQUEST_PERMISSION</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="Arabic"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:56500</identifier>
+    <datestamp>2021-04-15T21:07:10Z</datestamp>
+    <setSpec>driver</setSpec>
+    <setSpec>D60000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">NIPO weekpeilingen 1971</ddi:titl>
+            <ddi:parTitl xml:lang="en">NIPO opinion polls 1971</ddi:parTitl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:56500</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-zhr-ywj6</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en">Netherlands Institute for Public Opinion and Marketing Research - NIPO</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="2014-01-08"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">publieke opinie onderzoek</ddi:keyword>
+            <ddi:keyword xml:lang="en">opinion poll</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Social sciences</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Data derived from weekly public opinion polls in the Netherlands in 1971 concerning social and political issues. Samples were drawn from the Dutch population aged 18 years and older.
+
+All data from the surveys held between 1962 and 2000 are available in the DANS data collections.
+
+Background variables:
+Sex / age / religion / income / vote recall latest elections / party preference / level of education / union membership / professional status / &lt; self > left-right rating / party alignment / province / degree of urbanization / weight factor.
+
+Topical variables:
+n7103: Ideal size of family.
+n7104: What problems Dutch foreign policy should or should not deal with.
+n7105: Friendly &lt; - > unfriendly feelings towards six nationalities / Legalization of roulette / Playing roulette / Most admired living women, members of Royal Family excluded.
+n7106: Interest in emigration / New coins of Hfl. 2.50.
+n7107: Television advertising / Television license fee / Hypothetical Prime Minister elections by the public / Expectations regarding money to spend in 1971.
+n7108: Knowledge of, attitudes towards political parties / Time for strikes or not.
+n7109: Census 1971 / Housing shortage / Air and water pollution.
+n7110: Date of coming parliamentary elections / Voting intention at coming parliamentary elections / Financial policy of present government / Visit of Japanese emperor Hirohito / Profile of DS'70 / Left-right preference.
+n7111: Public money for visual artists, musicians, actors, ballet dancers, authors.
+n7112: Reading books / Title of last read book / Queen Juliana's visit to West-Germany and Indonesia.
+n7114: Working outdoors / Way of transport homework.
+n7115: Most admired living sportsman or sportswoman / Most admired living male or female artist.
+n7117: Preferred prime-minister / Preferred KVP prime-minister / Preferred PvdA prime-minister.
+n7121: Preferred coalition / Preferred prime-minister / Value of "floating" guilder / Prices - and incomes policy / Time for strikes or not / Alliance of the political parties KVP, ARP and CHU / Alliance of PvdA D66 and PPR.
+n7123: Interest in politics.
+n7125: Alliance of VVD and DS'70 / First tasks of new government / Accelerated date of elections / Differences in legacy duties.
+n7128: Confidence in new ministers / Familiarity with new ministers.
+n7130: Preferred big &lt; Dutch > city to live / Independency for Surinam and the Dutch Antilles / Nude beaches / Objections to nude pictures, nude actors and actresses.
+n7133: Playing in Football Pool, state Lottery, German Lottery / Legalization of roulette / Playing roulette abroad.
+n7136: Overpopulation in The Netherlands / Preferred measures against overpopulation.
+n7138: Diminishing influence of religion on society in The Netherlands / Keeping pets.
+n7139: Decent female and male behaviour and manners / The queen's speech and the Government's budget / Respondent's opinion about the program of the new government.
+n7140: Most beautiful towns in The Netherlands / Dutch towns which are: most attractive, having the best theatre performances and concerts / Hardest working Dutch towns and those with worst parking problems.
+n7143: Familiarity and confidence in politicians / Visit of the Japanese emperor Hirohito / Activities of Wim Kan concerning visit of the Japanese emperor Hirohito / Respondent's opinion about the riots during the visit of the Japanese Emperor Hirohito / Income policy.
+n7147: Preferred aid to developing countries / Whether the Dutch government should give more or less development aid, in proportion to expenditures of other ministries / Whether the government should intervene in the wage negotiations between the unions and the employers / Preference for income - and price policy of the government / Time for strikes or not / Expectations about unemployment during the coming year.
+n7148: Most admired living man and women / Most urgent tasks of the government.
+n7150: Quality of the armed forces and expenditures on defense / Alliance of ARP and CHU, and alliance of ARP, CHU and KVP / Celebrating Christmas/ buying of a Christmas tree, going out for dinner, buying Christmas presents, attending the Christmas mid- night mass.
+n7151: Going on winter sports holiday and in which country.
+n7152: Strikes in metallurgical industry / Conditions for euthanasia / Abortion.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:nation abbr="NLD" xml:lang="en">The Netherlands</ddi:nation>
+            <ddi:collDate event="single">1971</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">OPEN_ACCESS_FOR_REGISTERED_USERS</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="nl"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

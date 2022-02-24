@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:57074</identifier>
+    <datestamp>2021-04-15T21:07:15Z</datestamp>
+    <setSpec>driver</setSpec>
+    <setSpec>D30000:D31000</setSpec>
+    <setSpec>D60000:D66000</setSpec>
+    <setSpec>E10000:E15000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Contribution to the improvement of dissemination of grey literature: JAEA Library’s efforts for collecting, organizing and disseminating information on nuclear accidents</ddi:titl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:57074</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-xmg-8n5a</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Japan Atomic Energy Agency (JAEA)">Ikeda, K.</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">GreyNet - International Grey Literature Network Service</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="2014-02-24"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">Grey Literature</ddi:keyword>
+            <ddi:keyword xml:lang="en">Nuclear accidents</ddi:keyword>
+            <ddi:keyword xml:lang="en">Dissemination</ddi:keyword>
+            <ddi:keyword xml:lang="en">Bibliographic control</ddi:keyword>
+            <ddi:keyword xml:lang="en">Collection development</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Social sciences</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Paleography, bibliology, bibliography, library science</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Environmental studies</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Communication sciences</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">The Tokyo Electric Power Company (TEPCO) Fukushima Daiichi Nuclear Power Station accident (“the 3.11 accident”) occurred in March 2011. Since then, the Japanese government, research institutions, TEPCO, etc., have published various materials on the incident. This has included books, papers, technical reports, and conference proceedings as well as data obtained from monitoring activities and from various websites. Such information has been distributed as grey literature in many cases. In such instances, it has necessitated the collecting, organizing, and archiving of grey literature on the website. However, information on the 3.11 accident is not sufficient for users, because it covers a wide variety of very different types of data on the website; moreover, websites are not permanent and changes in URLs are frequent. In addition, it is difficult to get information from oral presentation of the latest research results at the local meetings called to discuss the 3.11 accident, especially those held in Japan. This is because oral presentation is not always published in print and electronic formats, and only participants of the meetings have access to the information. The Japan Atomic Energy Agency (JAEA) Library has collected information on the 3.11 accident from various sources and websites and then disseminated it over the Internet. However, there are some unresolved issues in terms of permanent accessibility to information and the lack of bibliographical control. 
+
+This project contributes to the improvement of the dissemination of grey literature by creating the metadata and organizing it with classification. Various items such as photographs, video clips, press releases, and raw data from monitoring activities as well as literature regarding the 3.11 accident are targeted. 
+
+The project is divided into two parts. The first part organizes the 3.11 accident website information and its dissemination. A metadata schema classification system is made up by referring to the schema of the National Diet Library of Japan. Based on the consideration of metadata schema and classification system, already more than 4,000 metadata of the website’s information concerning TEPCO’s “photo and video collection” was created, and more than 3,000 metadata of the Ministry of Economy, Trade and Industry (METI) of Japan’s “press release”. In the second part, 41 meetings are analyzed, which include presentations related to the 3.11 accident held in Japan from April 2012 to March 2013. Also metadata of the meetings of the Atomic Energy Society of Japan (AESJ), held in September 2012 and March 2013 was created.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">2011-2013</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:conditions xml:lang="en">License: http://creativecommons.org/publicdomain/zero/1.0</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

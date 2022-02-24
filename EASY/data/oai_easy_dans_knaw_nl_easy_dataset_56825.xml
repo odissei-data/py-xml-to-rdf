@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:56825</identifier>
+    <datestamp>2021-04-15T21:07:13Z</datestamp>
+    <setSpec>D30000:D35000:D35400</setSpec>
+    <setSpec>D60000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Network Analysis Of The Dutch Media Sector 1999</ddi:titl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:56825</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-24j-2xc5</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Universiteit van Amsterdam - Politicologie">Heemskerk, E.M.</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="2014-01-30"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">Interlocking directorates</ddi:keyword>
+            <ddi:keyword xml:lang="en">Social networks</ddi:keyword>
+            <ddi:keyword xml:lang="en">Dutch mass media</ddi:keyword>
+            <ddi:keyword xml:lang="en">Dutch media sector</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Social sciences</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Media sciences</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">This dataset contains the network of interlocking directors in the Dutch media sector. Heemskerk selected 583 companies that are active in de the media sector, divided in four categories: program production firms, packaging firms, distribution firms and financial institutions. The database contains a classification of companies by category and an indication for subsidiary firms. Also included are the names and function(s) of the 1595 directors. Information about the media companies was collected by the Dutch Media Authority and information about the financial institutions was collected by Heemskerk from annual reports. In the primary publications Heemskerk and Fennema excluded all subsidiaries with identical boards as their parent companies. Within the selected 410 companies, there are 1769 board positions that were occupied by 1596 persons. There are only 141 persons that have more than one board position. The network of interlocking directors in the Dutch media sector is relatively light and fragmented.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1999</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">REQUEST_PERMISSION</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="nl"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

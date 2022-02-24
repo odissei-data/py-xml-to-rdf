@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:54525</identifier>
+    <datestamp>2021-04-15T21:07:03Z</datestamp>
+    <setSpec>D20000:D24000</setSpec>
+    <setSpec>D50000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+    <setSpec>D40000:D41000:D41300</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Victimization in Psychiatric Patients</ddi:titl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:54525</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-xht-ry34</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Erasmus MC">Kamperman, Dr A.M. DAI=info:eu-repo/dai/nl/170291928</ddi:AuthEnty>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Erasmus MC">Kamperman, Dr. A.M. DAI=info:eu-repo/dai/nl/170291928</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="INTERVICT">Henrichs, Dr. J.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="BavoEuropoort">Mulder, Prof. dr. C.L.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="INTERVICT">Bogaerts, Prof dr. S. DAI=info:eu-repo/dai/nl/172377773</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor">Funding Agency: NWO - 432-09-802</ddi:othId>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="2013-05-23"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">Victimization</ddi:keyword>
+            <ddi:keyword xml:lang="en">Discrimination</ddi:keyword>
+            <ddi:keyword xml:lang="en">Stigmatization</ddi:keyword>
+            <ddi:keyword xml:lang="en">Domestic Violence</ddi:keyword>
+            <ddi:keyword xml:lang="en">Prevalence</ddi:keyword>
+            <ddi:keyword xml:lang="en">Risk Factors</ddi:keyword>
+            <ddi:keyword xml:lang="en">Psychiatric Patients</ddi:keyword>
+            <ddi:keyword xml:lang="en">Slachtofferschap</ddi:keyword>
+            <ddi:keyword xml:lang="en">Discriminatie</ddi:keyword>
+            <ddi:keyword xml:lang="en">Stigmatisering</ddi:keyword>
+            <ddi:keyword xml:lang="en">Huiselijk geweld</ddi:keyword>
+            <ddi:keyword xml:lang="en">Prevalentie</ddi:keyword>
+            <ddi:keyword xml:lang="en">Risicofactoren</ddi:keyword>
+            <ddi:keyword xml:lang="en">Psychiatrische patiënten</ddi:keyword>
+            <ddi:keyword xml:lang="en">Programma Geweld Tegen Psychiatrische Patienten - GTPP</ddi:keyword>
+            <ddi:keyword xml:lang="en">Daklozen</ddi:keyword>
+            <ddi:keyword xml:lang="en">Homeless</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Social sciences</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Behavioural and educational sciences</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Health sciences</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Criminal (procedural) law and criminology</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">The project  studied victimization rates and risk factors among persons with severe mental illness (SMI). A nationwide multi-site cross-sectional survey among 956 SMI patients was conducted. At each site (i.e. GGZ InGeest, BavoEuropoort, Parnassia, GGZ Dijk en Duin, Mondriaan, Altrecht) a random sample was selected. A structured interview was used to assess experiences and consequences of (criminal) victimisation, discrimination and self stigmatization, perpetration of violence, childhood trauma, symptom severity and co-morbid psychopathology (e.g. anger, PTSD).</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">December 2010 - April 2012</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">REQUEST_PERMISSION</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="nl"/>
+   </ddi:fileDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

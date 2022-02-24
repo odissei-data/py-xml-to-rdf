@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:33257</identifier>
+    <datestamp>2021-04-15T21:04:57Z</datestamp>
+    <setSpec>driver</setSpec>
+    <setSpec>D20000:D24000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Roken, drinken en drugsgebruik door scholieren vanaf 10 jaar 1988-1989</ddi:titl>
+            <ddi:parTitl xml:lang="en">Smoking, alcohol consumption and the use of drugs by schoolchildren from the age of 10, 1988-1989</ddi:parTitl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:33257</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-2cm-9cpm</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en">Plomp, H.N., Oers, M.L. van, Vrije Universiteit Amsterdam * Amsterdam, Instituut sociale geneeskunde, Kuipers, H., Nederlands instituut voor alcohol en drugs, NIAD * Utrecht (primary investigator)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">M.L. van Oers, Vrije universiteit, Instituut sociale geneeskunde (depositor)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Ministerie van welzijn, volksgezondheid en cultuur * Rijswijk (research initiator) </ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Nederlands instituut voor alcohol en drugs
+NIAD * Utrecht
+Diensten jeugdgezondheidszorg (data collector) </ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="1991-01-01"/>
+            <ddi:distDate xml:lang="en" date="2007-07-16"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">children</ddi:keyword>
+            <ddi:keyword xml:lang="en">youth</ddi:keyword>
+            <ddi:keyword xml:lang="en">drugs</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Health sciences</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Smoking habits, alcohol consumption and the use of drugs by schoolchildren from the age of ten / frequency of absence, truancy / having a payed job, earnings allowance / knowledge of hashish and marihuana / use of alcohol, tobacco, amphetamines, sedatives, marihuana, hashish, cocaine, heroine, glue etc. / frequency and quantity of use, now and in past / reaction of parents / use of alcohol, tobacco and drugs by friends / obtainability of alcohol and drugs. Background variables: basic characteristics/ place of birth/ residence/ occupation/employment/ education/ religion</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1988</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">OPEN_ACCESS_FOR_REGISTERED_USERS</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

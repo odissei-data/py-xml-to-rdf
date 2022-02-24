@@ -1,0 +1,114 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:52206</identifier>
+    <datestamp>2021-04-15T21:06:54Z</datestamp>
+    <setSpec>D30000:D34000:D34300</setSpec>
+    <setSpec>driver</setSpec>
+    <setSpec>easy-collection:2</setSpec>
+    <setSpec>easy-collection:1</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Project 'Long shadow of Sobibor' Survivors: Interview 04 Selma (Saartje) Engel-Wijnberg</ddi:titl>
+            <ddi:parTitl xml:lang="en">Project 'Late gevolgen van Sobibor'</ddi:parTitl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-xe8-t5j6</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:52206</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Universiteit van Amsterdam -  dep. of Arts, Religion and Cultu">Leydesdorff (copyright on interview), prof. dr. S. DAI=info:eu-repo/dai/nl/069599238</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Stichting Sobibor">Huffener (project manager), M.</ddi:AuthEnty>
+            <ddi:othId xml:lang="en" role="" affiliation="Universiteit van Amsterdam">Leydesdorff (copyright interviews), prof. dr. S.</ddi:othId>
+            <ddi:othId xml:lang="en" role="" affiliation="Stichting Sobibor">Huffener (access, distribution), M.</ddi:othId>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="2012-11-19"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">Oral history</ddi:keyword>
+            <ddi:keyword xml:lang="en">Second World War</ddi:keyword>
+            <ddi:keyword xml:lang="en">Tweede Wereldoorlog</ddi:keyword>
+            <ddi:keyword xml:lang="en">Jewish</ddi:keyword>
+            <ddi:keyword xml:lang="en">Jewish life</ddi:keyword>
+            <ddi:keyword xml:lang="en">Shtetl</ddi:keyword>
+            <ddi:keyword xml:lang="en">Life before the war</ddi:keyword>
+            <ddi:keyword xml:lang="en">Persecution</ddi:keyword>
+            <ddi:keyword xml:lang="en">Life during the war</ddi:keyword>
+            <ddi:keyword xml:lang="en">Expectations</ddi:keyword>
+            <ddi:keyword xml:lang="en">In hiding</ddi:keyword>
+            <ddi:keyword xml:lang="en">Camps and ghetto's</ddi:keyword>
+            <ddi:keyword xml:lang="en">Liberation</ddi:keyword>
+            <ddi:keyword xml:lang="en">Life after the war</ddi:keyword>
+            <ddi:keyword xml:lang="en">Rebuilding lives</ddi:keyword>
+            <ddi:keyword xml:lang="en">Consequences of Sobibor</ddi:keyword>
+            <ddi:keyword xml:lang="en">Demjanjuk trial</ddi:keyword>
+            <ddi:keyword xml:lang="en">Co-plaintiff Demjanjuk trial</ddi:keyword>
+            <ddi:keyword xml:lang="en">Joods leven</ddi:keyword>
+            <ddi:keyword xml:lang="en">Sjtetl</ddi:keyword>
+            <ddi:keyword xml:lang="en">Leven voor de oorlog</ddi:keyword>
+            <ddi:keyword xml:lang="en">Vervolging</ddi:keyword>
+            <ddi:keyword xml:lang="en">Leven in de oorlog</ddi:keyword>
+            <ddi:keyword xml:lang="en">Verwachtingen</ddi:keyword>
+            <ddi:keyword xml:lang="en">Onderduik</ddi:keyword>
+            <ddi:keyword xml:lang="en">Kampen en getto's</ddi:keyword>
+            <ddi:keyword xml:lang="en">Bevrijding</ddi:keyword>
+            <ddi:keyword xml:lang="en">Leven na de oorlog</ddi:keyword>
+            <ddi:keyword xml:lang="en">Leven opbouwen</ddi:keyword>
+            <ddi:keyword xml:lang="en">Gevolgen van Sobibor</ddi:keyword>
+            <ddi:keyword xml:lang="en">2000 getuigen vertellen</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Modern and contemporary history</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Humanities</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">History</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Selma Engel was born Saartje Wijnberg on May 15, 1922, in Groningen. Her parents ran a kosher hotel in Zwolle during the crisis years. Being Jewish, Selma went into hiding during the German occupation. She was rounded up and deported to Sobibor as a penitentiary measure in April 1943. She lived in this extermination camp for six months, working in the sorting barracks and, sometimes, in the woods.
+
+In Sobibor, Selma met Khaim Engel, a Pole and her future husband. Together they escaped on October 14, 1943 during the revolt. They hid for nine months in a barn not far from Khelm. They were not well received in the Netherlands after the war; Khaim even went into hiding for a while. They emigrated with their two young children via Israel to the United States. Although Khaim, in contrast to Selma, could not feel at home there, the two of them managed to build up a good life in the US. For a long time Selma was angry with the Dutch because she and her husband were treated so badly after the war.
+
+Please go to the interview on Getuigenverhalen.nl by following the link in 'Relations'. Here you will find the interview with extra functionalities like subtitles and a search engine.
+
+--- Description in Dutch ---
+Selma Engel is als Saartje Wijnberg op 15 mei 1922 geboren in Groningen. Haar ouders hebben gedurende de crisisjaren een koosjer hotel in Zwolle. De Joodse Selma duikt tijdens de bezetting onder, wordt opgepakt en in april 1943 als strafgeval gedeporteerd naar Sobibor. Ze verblijft een half jaar in dit vernietigingskamp waar ze in de sorteerbarakken en soms in het woud werkt.
+
+Selma ontmoet in Sobibor de Poolse Chaim Engel, haar latere echtgenoot. Samen ontsnappen ze op 14 oktober 1943 tijdens de opstand. Ze houden zich negen maanden schuil in een schuur in de buurt van Chelm. Na de oorlog zijn zij niet welkom in Nederland. Chaim duikt zelfs korte tijd onder.
+
+Met hun twee jonge kinderen emigreren ze via Israël naar de Verenigde Staten. In Israël heeft Selma een fijne tijd, maar Chaim kan er niet aarden. In de Verenigde Staten weten ze een goed leven op te bouwen. Selma is lange tijd boos geweest op Nederland omdat zij en haar man er na de oorlog niet welkom waren.
+
+Ga naar het interview op de website Getuigenverhalen.nl via de link in 'Relations' voor het interview met extra functionaliteiten zoals ondertiteling en een zoekmachine.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1939-2009</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:conditions xml:lang="en">License: http://creativecommons.org/publicdomain/zero/1.0</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="nl"/>
+   </ddi:fileDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="Interview: English"/>
+   </ddi:fileDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="Subtitling: Dutch"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

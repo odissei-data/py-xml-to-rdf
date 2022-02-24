@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:32331</identifier>
+    <datestamp>2021-04-15T21:04:56Z</datestamp>
+    <setSpec>driver</setSpec>
+    <setSpec>D60000:D64000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Aggregate dataset Eastern Europe 1970-1980</ddi:titl>
+            <ddi:parTitl xml:lang="en">Aggregate dataset Eastern Europe 1970-1980</ddi:parTitl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:32331</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-22h-u7ty</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en">Tausch, A., Universitaet Innsbruck * Innsbruck, Institut fuer Politikwissenshaft (primary investigator)</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="2007-06-29"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">demography</ddi:keyword>
+            <ddi:keyword xml:lang="en">demography</ddi:keyword>
+            <ddi:keyword xml:lang="en">living conditions</ddi:keyword>
+            <ddi:keyword xml:lang="en">economy</ddi:keyword>
+            <ddi:keyword xml:lang="en">military affairs</ddi:keyword>
+            <ddi:keyword xml:lang="en">health</ddi:keyword>
+            <ddi:keyword xml:lang="en">women</ddi:keyword>
+            <ddi:keyword xml:lang="en">education</ddi:keyword>
+            <ddi:keyword xml:lang="en">religion</ddi:keyword>
+            <ddi:keyword xml:lang="en">massmedia</ddi:keyword>
+            <ddi:keyword xml:lang="en">technology</ddi:keyword>
+            <ddi:keyword xml:lang="en">trade</ddi:keyword>
+            <ddi:keyword xml:lang="en">agriculture</ddi:keyword>
+            <ddi:keyword xml:lang="en">industries</ddi:keyword>
+            <ddi:keyword xml:lang="en">energy</ddi:keyword>
+            <ddi:keyword xml:lang="en">employment</ddi:keyword>
+            <ddi:keyword xml:lang="en">consumption</ddi:keyword>
+            <ddi:keyword xml:lang="en">politics, internal</ddi:keyword>
+            <ddi:keyword xml:lang="en">international relations</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Demography</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Aggregate data of economical, military, demographical, social and political indicators concerning 7 Eastern European communist countries. ( Theme 1: population and society ) population density / population growth 1970-1978 / infant mortality and life expectancy / degree of urbanization / amenities running water, central heating etc. / housing conditions / hospital beds and medical doctors / kindergarten / women in branches of economy / religion / divorce / education / technics and science / production of scientific books / social mobility. ( Theme 2: economy ) GNP / investments / import and export / employment and production in sectors of economy / incomes / meat consumption and calorie supply / trade with comecon/ capitalist and underdeveloped countries / trade deficit and debt to foreign countries / growth of import, export and incomes / labour productivity / required work-time for selected goods / capital intensity / nr. of telephones, tv-sets, cars, etc. / energy import and consumption / ratio employees and workers / development real incomes and prices / private savings / income concentration / retail trade index / hectare yields and portion of private agriculture. ( Theme 3: defense ) defense expenditures / arms export / armed forces / GNP of defense expenditures / riots and protest demonstration / armed attacks and persons killed / government sanctions / internal security forces. ( Theme 4: miscellaneous ) content analysis of newspapers concerning human rights/ disarmament/ economical and technical co-operation and conflicts after the final acts of Helsinki and Belgrade.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1970 * 1980</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">OPEN_ACCESS_FOR_REGISTERED_USERS</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

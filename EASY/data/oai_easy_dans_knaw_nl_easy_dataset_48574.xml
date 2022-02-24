@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:48574</identifier>
+    <datestamp>2021-04-15T21:06:48Z</datestamp>
+    <setSpec>driver</setSpec>
+    <setSpec>D40000:D42000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">The 2011 political parties expert survey in Greece</ddi:titl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:48574</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-23z-utr9</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en">Kostas Gemenis</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">University of Twente - Department of Public Administration</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Roula Nezi</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">University of Twente - Department of Public Administration</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="2012-01-30"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">Political parties</ddi:keyword>
+            <ddi:keyword xml:lang="en">Environmental policy</ddi:keyword>
+            <ddi:keyword xml:lang="en">Immigration</ddi:keyword>
+            <ddi:keyword xml:lang="en">European Union</ddi:keyword>
+            <ddi:keyword xml:lang="en">Economic crisis</ddi:keyword>
+            <ddi:keyword xml:lang="en">Ideological scales</ddi:keyword>
+            <ddi:keyword xml:lang="en">Policy scales</ddi:keyword>
+            <ddi:keyword xml:lang="en">Greece</ddi:keyword>
+            <ddi:keyword xml:lang="en">Great Recession</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Social sciences</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Political and administrative sciences</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">The aim of this study is to estimate the ideological and policy positions of political parties in Greece during the 'Great Recession'. The survey includes expert estimates regarding parties' positions on general ideological and specific policy scales (Left-Right, social and moral issues, state intervention in the economy, environment, immigration, European and foreign policy, etc) as well as estimates about party leader positions and internal party dissent on the issue of solving the debt/deficit problem. The data are comparable to previously conducted expert surveys on political parties.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">2011</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">OPEN_ACCESS_FOR_REGISTERED_USERS</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="Greek"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

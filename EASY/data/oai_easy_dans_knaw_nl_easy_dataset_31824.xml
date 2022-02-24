@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:31824</identifier>
+    <datestamp>2021-04-15T21:05:18Z</datestamp>
+    <setSpec>D60000:D61000</setSpec>
+    <setSpec>driver</setSpec>
+    <setSpec>D30000:D33000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">European Values Study, 1981 - EVS'81</ddi:titl>
+            <ddi:parTitl xml:lang="en">European Values Study, 1981 - EVS'81</ddi:parTitl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:31824</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-z3t-sgwn</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en">Moor, R.A. de, Katholieke Universiteit Brabant * Tilburg, Harding, S.D., Nene College, Dept. of psychology * England, Kerkhofs, J., Katholieke Universiteit Leuven * Leuven, Belgium (primary investigator)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">European values systems study group ( EVSSG ) * (research initiator)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Social Surveys ( Gallup Poll ) ltd. * London, Great BritainDimarso * Brussels, BelgiumObserva sa * DenmarkIrish Marketing Surveys ltd * Dublin, IrelandFaits et Opinions * Paris, FranceDoxa * Milan, ItalyNIPO * Amsterdam, the NetherlandsData sa * SpainInstitut für Demoskopie * Allensbach, Germany (data collector)</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="1989-01-01"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">sociology</ddi:keyword>
+            <ddi:keyword xml:lang="en">politics</ddi:keyword>
+            <ddi:keyword xml:lang="en">religion</ddi:keyword>
+            <ddi:keyword xml:lang="en">demography</ddi:keyword>
+            <ddi:keyword xml:lang="en">family life</ddi:keyword>
+            <ddi:keyword xml:lang="en">health</ddi:keyword>
+            <ddi:keyword xml:lang="en">employment</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Theology and religious studies</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Sociology</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">P0830b14 A large scale cross-national and continuous survey of moral, religious, political and social values in Western Europe. Religious attitudes, beliefs, practice, affiliation. Moral outlook. Political interest, inclination, participation. Attitudes towards reform, civic institution, means of production. Other political values indicators. Personal values, attitudes towards the family, marriage, divorce, sex. Work values. Perception of the future. Satisfaction ratings, indicators of psychological well-being, health. Range of socio-demographic variables: sex, age, housing tenure and type, terminal education age, household size and composition, marital status, employment status, occupational code for respondent and chief wage earner, workplace details, trade union membership, regional codes, area types, income on a scale. Additional data include: leisure activities, voluntary work, attitudes towards science, war, terrorism, index of internationalism, attitudes towards a shorter working week. Measurement by: personal values scale, moral justification scale, work values scale, work orientation scale, left-right ( political ) scale, political protest scale, materialist-post-materialist scale, greeley spiritual experience battery Constructed variables in P0830B: C81_1 to C81_51 are constructs which can be used to make comparisons with the same constructs in P1217 named C90_1 to C90_51. Topics of constructs: religiosity, church involvement, moral values, conservatism-progressiveness, confidence in institutions, intolerance, materialism-postmaterialism, political involvement, Bradburn's affect balance scale, marriage, family, abortion, education, work. Background variables: basic characteristics/ residence/ income/capital assets/ religion/ readership, mass media, and 'cultural' exposure/ organizational membership</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1981</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">OPEN_ACCESS_FOR_REGISTERED_USERS</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

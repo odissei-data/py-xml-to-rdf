@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:54793</identifier>
+    <datestamp>2021-04-15T21:07:03Z</datestamp>
+    <setSpec>D30000:D35000:D35400</setSpec>
+    <setSpec>driver</setSpec>
+    <setSpec>D30000:D31000</setSpec>
+    <setSpec>D60000:D66000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Just Google It - Digital Research Practices of Humanities Scholars</ddi:titl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:54793</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-zqm-nnak</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Erasmus University Rotterdam">Kemman, MSc MJ DAI=info:eu-repo/dai/nl/356599132</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Erasmus University Rotterdam">Kleppe, dr M DAI=info:eu-repo/dai/nl/344563359</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Erasmus University Rotterdam">Scagliola, dr S</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="2013-07-01"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">Scholarly practices</ddi:keyword>
+            <ddi:keyword xml:lang="en">Humanities scholars</ddi:keyword>
+            <ddi:keyword xml:lang="en">Scholars</ddi:keyword>
+            <ddi:keyword xml:lang="en">Search strategies</ddi:keyword>
+            <ddi:keyword xml:lang="en">Google</ddi:keyword>
+            <ddi:keyword xml:lang="en">JSTOR</ddi:keyword>
+            <ddi:keyword xml:lang="en">Search engines</ddi:keyword>
+            <ddi:keyword xml:lang="en">Eropeana</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Humanities</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Media sciences</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Paleography, bibliology, bibliography, library science</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Social sciences</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Communication sciences</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">The transition from analog to digital archives and the recent explosion of online content offers researchers novel ways of engaging with data. The crucial question for ensuring a balance between the supply and demand-side of data, is whether this trend connects to existing  scholarly practices and to the average search skills of researchers. To gain insight into this process  a survey was conducted among nearly three hundred (N= 288) humanities scholars in the Netherlands and Belgium with the aim of finding answers to the following questions: 1) To what extent are digital databases and archives used? 2) What are the preferences in search functionalities 3) Are there differences in search strategies between novices and experts of information retrieval? Our results show that while scholars actively engage in research online they mainly search for text and images. General search systems such as Google and JSTOR are predominant, while large-scale collections such as Europeana are rarely consulted. Searching with keywords is the dominant search strategy and advanced search options are rarely used. When comparing novice and more experienced searchers, the first tend to have a more narrow selection of search engines, and mostly use keywords. Our overall findings indicate that Google is the key player among available search engines. This dominant use illustrates the paradoxical attitude of scholars toward Google: while transparency of provenance and selection are deemed key academic requirements, the workings of the Google algorithm remain unclear. We conclude that Google introduces a black box into digital scholarly practices, indicating scholars will become increasingly dependent on such black boxed algorithms. This calls for a reconsideration of the academic principles of provenance and context.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">2012</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:conditions xml:lang="en">License: http://creativecommons.org/publicdomain/zero/1.0</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="nl"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

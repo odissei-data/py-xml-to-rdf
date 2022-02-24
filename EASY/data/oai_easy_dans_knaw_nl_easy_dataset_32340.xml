@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:32340</identifier>
+    <datestamp>2021-04-15T21:05:43Z</datestamp>
+    <setSpec>driver</setSpec>
+    <setSpec>D60000:D66000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Functies van nieuwsbladen 1994</ddi:titl>
+            <ddi:parTitl xml:lang="en">Functions of newspapers 1994</ddi:parTitl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:32340</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-xww-tpyh</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en">Rooy, C.van, Bronner, A.E., Veldkamp marktonderzoek bv * Amsterdam (primary investigator)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Vereniging Nederlandse Nieuwsbladpers NNP * Den Haag (research initiator) </ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Veldkamp Marktonderzoek bv * Amsterdam (data collector) </ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="1995-01-01"/>
+            <ddi:distDate xml:lang="en" date="2007-07-23"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">consumption</ddi:keyword>
+            <ddi:keyword xml:lang="en">mass media</ddi:keyword>
+            <ddi:keyword xml:lang="en">information and communication</ddi:keyword>
+            <ddi:keyword xml:lang="en">information use</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Communication sciences</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Functions of newspapers in the perception of the readers related to competitive local and regional media. P1210A: listening - watching local and regional radio and tv programmes, time spending, time budgeting / readership of national newspapers / frequency of reading regional newspapers and mailbox advertising leaflets / actions in reply to advertisements / passing on of newspapers / three most important topics for respondent / three most unimportant topics / judgement of respondents newspaper on 40 characteristics / judgement of lay-out, quality of information / ( reason for ) subscription of paid newspaper / considered to cancel subscription during last three years / receiving second handed paid newspaper / price of newspaper is to low or to high. P1210B: Two most important sources of information ( and why ) about the following newspaper topics: local and regional sport/ information and backgrounds of municipal policy/ healthy living and natural cure/ regional infrastructure, new estates, renovation/ shops and businesses/ movies, theatre, music in region/ education/ activities for old aged persons/ crime and accidents/ cars/ local famous persons/ advertisements and special offers of shops, companies, organizations/ family advertisements and registry of births, deaths and marriages/ local radio and tv programmes/ local events and tourist information/ public and cultural organizations/ community centres/ opinion of people in the neighbourhood/ church/ local volunteer work/ vacancies/ services of health care centres/ buy and sell/ catering. Background variables: basic characteristics/ residence/ household characteristics/ occupation/employment/ education/ readership, mass media, and 'cultural' exposure</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1994</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">OPEN_ACCESS_FOR_REGISTERED_USERS</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

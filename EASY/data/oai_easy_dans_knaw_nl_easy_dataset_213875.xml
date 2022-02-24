@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:213875</identifier>
+    <datestamp>2021-08-05T05:20:55Z</datestamp>
+    <setSpec>driver</setSpec>
+    <setSpec>D40000:D41000:D41600</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="eng">International Criminal Law Prosecution Sentencing Recommendation Statistics</ddi:titl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-xd5-hyuz</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:213875</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Leiden Univeristy">Davis, Mr CJ ORCID=0000-0001-9856-5795</ddi:AuthEnty>
+            <ddi:othId xml:lang="en" role="RightsHolder" affiliation="Leiden Univeristy">Davis, Mr CJ ORCID=0000-0001-9856-5795, RightsHolder</ddi:othId>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="2021-06-23"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="eng">International Criminal Law</ddi:keyword>
+            <ddi:keyword xml:lang="eng">Sentencing</ddi:keyword>
+            <ddi:keyword xml:lang="eng">Prosecution</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">International law</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="eng">This dataset contains the original, first instance prosecution sentencing recommendations and imposed sentences for defendants at the International Criminal Court (ICC), International Criminal Tribunal for the Former Yugoslavia (ICTY), International Criminal Tribunal for Rwanda (ICTR), and the Special Court for Sierra Leone (SCSL). It contains additional information on:
+- Whether the sentence fell within the range recommended by the Prosecution;
+- Whether the sentence was effectively a life sentence, based on World Bank data and the birth dates of the defendants;
+- Whether there was a prosecution sentencing appeal.
+
+This dataset contains data from World Bank, Life expectancy at birth, male (years) (SP.DYN.LE00.MA.IN, 2017).</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">29-11-1996 - 19-09-2019</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:conditions>http://creativecommons.org/licenses/by-sa/4.0/</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

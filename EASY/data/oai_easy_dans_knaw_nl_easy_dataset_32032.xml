@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:32032</identifier>
+    <datestamp>2021-04-15T21:05:28Z</datestamp>
+    <setSpec>D60000:D61000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Beroepsprestige en mobiliteitsmeting 1982</ddi:titl>
+            <ddi:parTitl xml:lang="en">Professional prestige and the measuring of mobility 1982</ddi:parTitl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:32032</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-xvx-7h5e</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Rijksuniversiteit Utrecht * Utrecht, Fac. sociale wetenschappen, vakgroep theoretische sociologie en methodenleer">Ultee, W.C. DAI=info:eu-repo/dai/nl/068207166</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Nederlands instituut voor onderzoek van de eerstelijnsgezondheidszorg, NIVEL * Utrecht">Sixma (primary investigator), H.</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Nederlandse stichting voor statistiek, NSS * Den Haag (data collector)</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="1986-01-01"/>
+            <ddi:distDate xml:lang="en" date="2007-07-02"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">sociology</ddi:keyword>
+            <ddi:keyword xml:lang="en">occupation</ddi:keyword>
+            <ddi:keyword xml:lang="en">social mobility</ddi:keyword>
+            <ddi:keyword xml:lang="en">stratification</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Sociology</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Constructing professional prestige scale and other rank orderings of professions / gathering ( retrospective ) of professional career data. Detailed data on current or last profession / professional career / judgement of jobs with respect to status / prestige / requirements / attractiveness / responsibilities / importance of various aspects in judging a job / detailed data on professional aspects of parental family and own household. Background variables: basic characteristics / residence/ housing situation / household characteristics / characteristics of parental family / household / occupation / employment / income / capital assets / education / social class / religion / organizational membership</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1982</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">REQUEST_PERMISSION</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

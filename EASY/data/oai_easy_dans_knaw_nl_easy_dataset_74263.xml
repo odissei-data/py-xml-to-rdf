@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:74263</identifier>
+    <datestamp>2021-04-15T21:07:42Z</datestamp>
+    <setSpec>driver</setSpec>
+    <setSpec>D60000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Incident experience and freezing in firefighters.</ddi:titl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-xrv-vgze</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:74263</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Leiden University">Ly, Dr V.</ddi:AuthEnty>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Utrecht University">Hagenaars, Dr MA.</ddi:othId>
+         </ddi:rspStmt>
+         <ddi:distStmt/>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">risk response</ddi:keyword>
+            <ddi:keyword xml:lang="en">freezing</ddi:keyword>
+            <ddi:keyword xml:lang="en">time of response</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Social sciences</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Freezing is a defensive response to acute stress that is associated with coping and alterations in attentional processing. However, it remains unclear whether individuals in high risk professions, who are skilled at making rapid decisions in emergency situations, show altered threat-induced freezing. Here we investigated the effect of incident experience in a high risk profession on freezing. Additionally, we explored whether any effect of incident experience on freezing would be different for profession-related and -unrelated threat. Forty experienced and inexperienced firefighters were presented neutral, pleasant, related-unpleasant, and unrelated-unpleasant pictures in a passive viewing task. Postural sway and heart rate were assessed to determine freezing. Both postural and heart rate data evidenced reduced freezing upon unpleasant pictures in the experienced versus the inexperienced group. Relatedness of the unpleasant pictures did not modulate these effects. These findings indicate that higher incident experience relates to decreased threat-induced freezing, at least in a passive task context. This might suggest that primary defense responses are malleable through experience. Finally, these findings demonstrate the potential of using animal to human translational approaches to investigate defensive behaviors in relation to incident experience in high risk professions and stimulate future research on the role of freezing in resilience and coping.</ddi:abstract>
+         <ddi:sumDscr/>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:conditions xml:lang="en">License: http://creativecommons.org/publicdomain/zero/1.0</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="Dutch (Questionnaires presented to participants only)"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

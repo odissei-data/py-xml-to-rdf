@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:161559</identifier>
+    <datestamp>2021-04-15T21:08:08Z</datestamp>
+    <setSpec>D60000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="eng">Unions in Context (UNICON)</ddi:titl>
+            <ddi:parTitl xml:lang="eng">Lesbian, Gay and Heterosexual Couples and Families in the Netherlands</ddi:parTitl>
+            <ddi:parTitl xml:lang="en">Lesbian, Gay and Heterosexual Couples and Families in the Netherlands</ddi:parTitl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-z5y-xa6w</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:161559</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="University of Amsterdam">Fischer, Dr. M.M. ORCID=0000-0002-4039-7319</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="University of Amsterdam">Kalmijn, Prof. dr. M.</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="University of Amsterdam">Steinmetz, Dr. S.</ddi:AuthEnty>
+            <ddi:othId xml:lang="en" role="RightsHolder" affiliation="University of Amsterdam">Fischer, Dr. M.M. ORCID=0000-0002-4039-7319, RightsHolder</ddi:othId>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="2020-04-22"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="eng">same-sex couples</ddi:keyword>
+            <ddi:keyword xml:lang="eng">LGBT</ddi:keyword>
+            <ddi:keyword xml:lang="eng">LHBT</ddi:keyword>
+            <ddi:keyword xml:lang="eng">families</ddi:keyword>
+            <ddi:keyword xml:lang="eng">minority stress</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Social sciences</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="eng">The UNICON study is a web-based probability survey among same-sex and mixed-sex couples conducted in 20 Dutch municipalities in 2016. The main objective driving this project was the need for data on same-sex couples and their children which are not biased by convenience recruitment strategies. 
+
+DESIGN
+The probability sample was drawn by means of a sampling frame based on population registers including also those couples who are cohabiting without being in an officially registered union (marriage or civil partnership). The sampling design also specifically aimed at capturing the complex realities regarding parenthood in same-sex couples by selecting same-sex headed families not on the basis of officially registered parental status but based on the presence of children in the household. 
+
+CORE CHALLENGES IN THE FIELD 
+The UNICON data address five core challenges faced when studying same-sex couples and families quantitatively.
+The study:
+
+(1) purposefully includes same-sex couples and families in the sampling frame
+(2) uses a random sample that allows for generalization
+(3) oversamples same-sex couples to achieve a large number of observations
+(4) includes a suitable comparison group of mixed-sex couples
+(5) covers a wide range of substantive topics both specific to same-sex couples and general topics</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">July - December 2016</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">REQUEST_PERMISSION</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:56995</identifier>
+    <datestamp>2021-04-15T21:07:15Z</datestamp>
+    <setSpec>D60000:D68000</setSpec>
+    <setSpec>D60000:D61000</setSpec>
+    <setSpec>D20000:D24000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Partially Disabled Employees in the Netherlands: Dealing with a Double Role in the Netherlands</ddi:titl>
+            <ddi:parTitl xml:lang="en">Beter met werk: een verslag van ervaringen van gedeeltelijk arbeidsongeschikte werknemers</ddi:parTitl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:56995</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-zde-gnd3</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Utrecht University">Wel, Dr. F.W. van DAI=info:eu-repo/dai/nl/071549471</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Utrecht University">Knijn, Prof. Dr. G.C.M. DAI=info:eu-repo/dai/nl/072101032</ddi:AuthEnty>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Utrecht University">Abma, Dr. R.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor">Peeters-Bijlsma, Dr. M.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor">Dijkgraaf, MSC M.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor">Funding Agency: Stichting Instituut Gak (SIG)</ddi:othId>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="2014-07-23"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">disabled workers</ddi:keyword>
+            <ddi:keyword xml:lang="en">part-time work</ddi:keyword>
+            <ddi:keyword xml:lang="en">activation</ddi:keyword>
+            <ddi:keyword xml:lang="en">social policy reforms</ddi:keyword>
+            <ddi:keyword xml:lang="en">social security</ddi:keyword>
+            <ddi:keyword xml:lang="en">arbeidsongeschikten</ddi:keyword>
+            <ddi:keyword xml:lang="en">deeltijd werk</ddi:keyword>
+            <ddi:keyword xml:lang="en">activering</ddi:keyword>
+            <ddi:keyword xml:lang="en">hervorming wetgeving sociale zekerheid</ddi:keyword>
+            <ddi:keyword xml:lang="en">sociale zekerheid</ddi:keyword>
+            <ddi:keyword xml:lang="en">re-integration</ddi:keyword>
+            <ddi:keyword xml:lang="en">reintegratie</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Health sciences</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Sociology</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Social security studies</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">In 2006 new social policy legislation was introduced in the Netherlands, under which employees with chronic health problems may be assessed simultaneously as partly sick and partly able to work. In 2009 a research was conducted with as central research question: Which factors elicit the labour market participation of these partially disabled employees? This study is part of the program Re-Integratie Verbeter Onderzoek (RVO), Re-integration Improvement Research. This study reports results from a survey in 2009 of 772 partially disabled employees in the Netherlands and includes results from depth-interviews with 43 respondents.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">2009</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">REQUEST_PERMISSION</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="nl"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

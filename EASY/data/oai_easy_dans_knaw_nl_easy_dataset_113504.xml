@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:113504</identifier>
+    <datestamp>2021-10-09T16:27:45Z</datestamp>
+    <setSpec>D60000:D61000</setSpec>
+    <setSpec>D60000:D64000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">OKiN</ddi:titl>
+            <ddi:parTitl xml:lang="en">Ouders en Kinderen in Nederland</ddi:parTitl>
+            <ddi:parTitl xml:lang="en">Ouders en Kinderen in Nederland</ddi:parTitl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-xa2-96vh</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:113504</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="University of Amsterdam &amp; NIDI">Kalmijn, Prof. dr. M., DataCollector</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="University of Amsterdam">Ivanova, Dr. K., DataCollector</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Statistics Netherlands">Gaalen, Prof. dr. R. van, DataCollector</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="University of Amsterdam">Leeuw, Drs. S. de, DataCollector</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="University of Amsterdam">Houdt, Drs. K. van, DataCollector</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="University of Amsterdam">Spijker, Drs. F. van, DataCollector</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="2017"/>
+            <ddi:distDate xml:lang="en" date="2017"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Sociology</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Demography</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">The survey Parents and Children in the Netherlands (OKiN) was based on a stratified random sample of persons aged 25-45 from the Dutch population registers. Persons who grew up in nonintact families were systematically oversampled via the registers. Respondents were interviewed using Computer-Assisted Web Interviewing and those who did not respond were interviewed at home. In total, 6,485 persons participated (response rate of 62%). The parents of the respondents and the current new partners of these parents (if present) were found in the registers and approached for a Computer-Assisted Web Interview and a paper questionnaire follow-up in case of non-response. In total, 9,325 parents participated (response rate of 38%).</ddi:abstract>
+         <ddi:sumDscr/>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">REQUEST_PERMISSION</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

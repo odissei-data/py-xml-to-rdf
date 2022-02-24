@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:32225</identifier>
+    <datestamp>2021-04-15T21:05:37Z</datestamp>
+    <setSpec>D20000:D24000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Euthanasie en hulp bij zelfdoding door huisartsen 1990</ddi:titl>
+            <ddi:parTitl xml:lang="en">Investigation on the practice of euthanasia and assisted suicide by family doctors 1990</ddi:parTitl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:32225</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-xws-2j5n</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en">Wal, G. van der, Vrije Universiteit Amsterdam * Amsterdam, Fac. Geneeskunde, EMGO Instituut (primary investigator)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Dr. G. van der Wal, Vrije Universiteit Amsterdam, Fac.  Geneeskunde (depositor)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Vrije Universiteit * AmsterdamEMGO Instituut (research initiator) </ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Veldkamp marktonderzoek bv * Amsterdam (data collector) </ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="1994-01-01"/>
+            <ddi:distDate xml:lang="en" date="2007-07-23"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">law</ddi:keyword>
+            <ddi:keyword xml:lang="en">medical care</ddi:keyword>
+            <ddi:keyword xml:lang="en">values and beliefs</ddi:keyword>
+            <ddi:keyword xml:lang="en">euthanasia</ddi:keyword>
+            <ddi:keyword xml:lang="en">health professionals</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Health sciences</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Investigation on the practice of euthanasia and assisted suicide by family doctors Description of r.'s practice / r.s attitude to one's right of self-determination, euthanasia and medical assistance with suicide / detailed description of r.'s latest case of euthanasia-assisted suicide / background of patient involved, disease(s), severeness of suffering, talks with patient / consultation of colleagues about patient / consultation of patients' relatives and other persons involved / consultation of the local coroner, health inspector, office medical data on the actual euthanasia treatment (drugs used etc.), reporting of euthanasia to the authorities. Background variables: basic characteristics/ residence/ place of work/ education/ religion</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1986 * 1989</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">REQUEST_PERMISSION</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

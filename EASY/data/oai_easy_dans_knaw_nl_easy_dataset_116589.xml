@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:116589</identifier>
+    <datestamp>2021-04-15T21:07:53Z</datestamp>
+    <setSpec>D20000:D24000:D24300</setSpec>
+    <setSpec>D20000:D24000:D24200</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+    <setSpec>D20000:D21000:D21900</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Predictors of stunting with particular focus on complementary feeding practices: A cross-sectional study in the northern province of Rwanda</ddi:titl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-xgt-9w3h</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:116589</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Faculty of Geo-Information Science and Earth Observation (ITC) University of Twente">Uwiringiyimana, VU, Researcher</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt/>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">Stunting; Dietary intake; Complementary feeding practices; Exclusive breastfeeding; Deworming tablets; Rwanda</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Epidemiology and medical statistics</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Nutrition</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Health education, prevention</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Life sciences, medicine and health care </ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Stunting or linear growth retardation is a widespread global problem, especially in developing countries. Worldwide, it is estimated that 150.8 million children (22.2%) of children less than five years are stunted. Africa and Asia have the highest number of stunted pre‐school children with an estimate of 58 million and 87 million respectively. However, Africa has the highest stunting prevalence of 30.3% compared to Asia which has 23.2% 
+Stunting occurs when a child is not growing in height in accordance with his/her potential. Linear growth retardation or impaired linear growth are other terms used for stunting. Stunting is the result of multiple circumstances and determinants, including antenatal, intra‐uterine and postnatal malnutrition (de Onis et al., 2012). Stunting is defined as the proportion of children whose height‐per‐age falls below ‐ 2SD of the Z‐score of the WHO reference population</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">2015</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">REQUEST_PERMISSION</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

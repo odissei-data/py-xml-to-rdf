@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:210159</identifier>
+    <datestamp>2021-08-05T05:45:04Z</datestamp>
+    <setSpec>driver</setSpec>
+    <setSpec>D50000:D54000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Study: Effects of displaying the teacher’s gaze and mouse cursor cues in video lectures on students’ learning</ddi:titl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-zyn-rmy2</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:210159</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Open Universiteit Nederland">Emhardt, SN</ddi:AuthEnty>
+            <ddi:othId xml:lang="en" role="RightsHolder">Open Universiteit Nederland</ddi:othId>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="2021-05-11"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">instructional videos</ddi:keyword>
+            <ddi:keyword xml:lang="en">Eye movement modeling examples (EMME)</ddi:keyword>
+            <ddi:keyword xml:lang="en">gaze cursor</ddi:keyword>
+            <ddi:keyword xml:lang="en">mouse cursor</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Pedagogics</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">These files contain the data to the study with the following content:
+
+Online video education is currently more popular than ever, yet following and making sense of instructional videos can be a challenging task for novice learners. Eye movement modeling examples (EMME) are videos that guide learners’ attention to the information that the teacher is attending to, by displaying the teacher’s eye movements via a gaze cursor (e.g., a moving dot). This study aimed to 1) extend previous findings on the beneficial effects of learning with EMME to online lecture videos and 2) compare the effects of displaying the teacher’s gaze cursor vs. mouse cursor (a more traditional and deliberate means of attention guidance) on students’ mental effort and learning outcomes. One hundred and twenty-four novices studied an online lecture video on how to model business processes in a standardized manner in a 2 (mouse cursor absent/present) x 2 (gaze cursor absent/present) between-subjects design. Unexpectedly, we did not find significant effects of the presence of gaze or mouse cursors on mental effort ratings and learning. However, participants who watched videos with a gaze cursor reported that they found it easier to follow the videos than participants who did not see the gaze cursor. Furthermore, participants responded overall positively to seeing the gaze cursor in the videos, especially when the mouse cursor was not displayed in the video. Based on these results, we discuss possible advantages, but also potential boundary conditions that could limit the beneficial effects of EMME.</ddi:abstract>
+         <ddi:sumDscr/>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:conditions>http://creativecommons.org/publicdomain/zero/1.0</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

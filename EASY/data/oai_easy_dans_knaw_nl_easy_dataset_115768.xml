@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:115768</identifier>
+    <datestamp>2021-04-15T21:07:53Z</datestamp>
+    <setSpec>D40000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Exploring the “implementation gap” in land registration: how it happens that Ghana's official registry contains mainly leaseholds</ddi:titl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-2zt-sbkv</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:115768</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Faculty of Geo Information Science and Earth Observation, ITC, University of Twente">Abubakari, Mr A. Z., Researcher</ddi:AuthEnty>
+            <ddi:othId xml:lang="en" role="Researcher" affiliation="Faculty of Geo Information Science and Earth Observation, ITC, University of Twente">Zevenbergen, Prof. J. A., Researcher</ddi:othId>
+            <ddi:othId xml:lang="en" role="Researcher" affiliation="Faculty of Geo Information Science and Earth Observation, ITC, University of Twente">Richter, Dr. C. R., Researcher</ddi:othId>
+         </ddi:rspStmt>
+         <ddi:distStmt/>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">Land registration</ddi:keyword>
+            <ddi:keyword xml:lang="en">implementation gap</ddi:keyword>
+            <ddi:keyword xml:lang="en">Ghana</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Law and public administration </ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">This research aimed at investigating the implementation gap between the legalities and practicalities of land rights inclusion and exclusion in the  Ghanaian official land register. We looked at the stakeholders that participate in the registration process as well as the stages of registration where their activities are located.</ddi:abstract>
+         <ddi:sumDscr>
+            <dc:coverage>scheme=ABR-periode; code=NTC; value=Nieuwe tijd C: 1850 - heden;</dc:coverage>
+            <ddi:collDate event="single">2018</ddi:collDate>
+            <dc:coverage>east=-0.768480; north=10.722370; units=degrees;</dc:coverage>
+            <dc:coverage>east=-1.344830; north=6.739410; units=degrees;</dc:coverage>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">REQUEST_PERMISSION</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

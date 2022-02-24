@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:56884</identifier>
+    <datestamp>2021-04-15T21:07:14Z</datestamp>
+    <setSpec>D40000:D41000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">TBS-behandeling geprofileerd (projectnummer 1897)</ddi:titl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:56884</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-xg5-p7gz</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en">Het Wetenschappelijk Onderzoek- en Documentatiecentrum (WODC)</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="2014-01-28"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Social sciences</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Science of law</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">After several serious incidents with patients with a criminal justice order of enforced care
+by the state (TBS1) during unsupervised leave, the Lower House decided in 2006 to start a
+parliamentary inquiry into the functioning of the TBS system (the Visser commission). The
+commission reached the conclusion that the TBS system in general meets the tasks set to it,
+yet that it is necessary to adapt its execution to modern standards. One of the commission’s
+recommendations was to carry out more scientific research on the effectiveness of
+treatment in forensic psychiatry. To this end, the Scientific Research and Documentation
+Centre (WODC) drew up a TBS research programme, in cooperation with the TBS field
+and relevant actors. For the purpose of this TBS research programme a study was needed
+that would take stock of and describe the current execution of the TBS sentence.
+This report is the reflection of this stock-taking and descriptive study and of a
+quantitative analysis of a representative sample of prisoners sentenced to TBS. The study
+consists of two parts. The first part presented a description of the characteristics of the
+research population, the execution of the TBS sentence, the design of this execution, the
+formal legal framework, the bottlenecks and the question in which ways the execution –
+and more specifically the treatment - is in keeping with the scientific research. In the
+second part, the profiles of the group of studied prisoners sentenced to TBS were drawn
+up.
+
+In this study, we have used four research methods to answer the research questions: a
+synthesis of the literature, file research, interviews and focus groups. The aim of the
+literature synthesis was to answer the research questions from a theoretical point of view
+and to provide insight into the evidence-based treatment methods within the forensic
+domain. The objective of the file research was, among other things, to gain an
+understanding of different aspects regarding patients and their treatment. The semistructured
+interviews were conducted to gain insight into the execution of the TBS
+sentence and in questions that could not be answered by means of the file research. Finally,
+we established three focus groups to provide an opportunity to key figures (treatment
+directors, therapists and researchers) to reflect on the most important research results. The
+focus groups also gave input regarding aspects of the research that were insufficiently
+illuminated by means of the file research.
+The sample size of the file research had been fixed by the WODC at 180 cases. In
+the thirteen Forensic Psychiatric Centres (FPCs), the cases were randomly sampled from
+the population present at the hospital at that moment. The number of selected cases for
+each hospital was determined with a weighting factor. Included in the sample were patients
+who had entered the hospitals after 1 February 2000. Excluded from the sample were
+detainees sentenced to TBS who were indicated for long-stay forensic care and detainees
+sentenced to TBS who were living in the Netherlands illegally. We checked the
+representativeness for six characteristics: sex, age, offence category, primary disorder,
+1 In Dutch: ‘terbeschikkingstelling’, abbreviated from here on to ‘TBS’; we will use the untranslated term because of the
+uniqueness of the Dutch TBS-system) nationality and IQ. Data regarding five of the six characteristics could be provided by the
+FPCs, except for those regarding IQ; for this reason, the representativeness of the IQ was
+checked on the basis of the scored file data.</ddi:abstract>
+         <ddi:sumDscr/>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">REQUEST_PERMISSION</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

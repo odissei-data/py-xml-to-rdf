@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:71002</identifier>
+    <datestamp>2021-04-15T21:07:40Z</datestamp>
+    <setSpec>driver</setSpec>
+    <setSpec>D20000:D23000</setSpec>
+    <setSpec>D20000:D24000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">The impact of the implementation of physician assistants in inpatient care: a multicenter matched-controlled study</ddi:titl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-zwb-87ha</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:71002</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University Medical Center, Scientific Center for Quality of Healthcare (IQ healthcare)">Timmermans, MSc. M.J.C.</ddi:AuthEnty>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Radboud University Medical Center, Scientific Center for Quality of Healthcare (IQ healthcare)">Laurant, Dr. M.G.H.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor">Netherlands Organization for Health Research and Development (ZonMw) (funder)</ddi:othId>
+         </ddi:rspStmt>
+         <ddi:distStmt/>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">Medicine</ddi:keyword>
+            <ddi:keyword xml:lang="en">Health quality</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Medicine</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Health sciences</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Medical care for admitted patients is increasingly reallocated to physician assistants (PAs), because of an increased appreciation of continuity of care, pressure to deliver healthcare efficiently, and local shortages of medical doctors (MDs). A PA is a non-physician healthcare professional licensed to practice medicine in defined domains, with variable degrees of professional autonomy. PAs who are employed for medical care for admitted patients usually work in a team compromising both PAs and MDs (i.e. residents, staff physicians or hospitalists). Although there is a worldwide trend of an increase of PAs in the management of hospitalized patients, evidence about the consequences of reallocating inpatient care from MDs to PAs for healthcare outcomes is limited. 
+This study aimed to determine the effects of substitution of inpatient care from MDs to PAs on patients’ lenght of stay, quality and safety of care, patient experiences and costs. Also the impact on guideline adherence on medication prescribing has been investigated.
+In a multicenter matched-controlled study, the traditional model in which only MDs are employed for inpatient care was compared with a mixed model in which besides MDs also PAs are employed. Thirty-four wards were recruited across the Netherlands. Patients were followed from admission till one month after discharge. In total, 2,307 patients were included</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">2012-2016</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">OPEN_ACCESS_FOR_REGISTERED_USERS</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="nl"/>
+   </ddi:fileDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:139124</identifier>
+    <datestamp>2021-04-15T21:08:02Z</datestamp>
+    <setSpec>driver</setSpec>
+    <setSpec>D30000:D35000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">In Search of A Lost Language</ddi:titl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-znk-yv2x</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:139124</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en">Stam, E.W.</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt/>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Arts and culture</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Early recordings made between the 1880s and mid-1930s reveal a wide gap between the performance practices of a century ago and those of today. Though many contemporary musicians often claim fidelity to composers’ intentions, they clearly prefer to avoid the risks associated with playing in ways familiar to the very composers to whom they pledge fidelity. Given this state of affairs, I suggest a re-thinking of the concept of Werktreue, predicated upon the notion that 19th-century performers enacted their fidelity to works and composers by creating altered and highly personalized versions of the detail, structure and time of composers’ works. This re-thinking of Werktreue aims to circumvent current performance practices by giving players a theoretical framework within which to revitalize early-recorded style, a style that is more performer-led, communicative and moment-to-moment, resulting from the wider-ranging creative possibilities historical performers had at their disposal.
+ 	My own performances aim to enact this performer-centred Werktreue in order circumvent the frequently restrictive nature of modern performance practices while closing the gap between these practices and those heard on early recordings of viola solo, viola/piano and string quartet repertoires. The question my work engages with is: how might viola and string quartet playing in the performer-centered, moment-to-moment and communicative style heard on early recordings be brought about today? In order to achieve this aim, the study of relevant literatures on early-recorded style is combined with historical research and the detailed analysis and ‘all-in’ copying of early recordings—the latter of which involves learning historical playing techniques on the viola, adjusting one’s physical approach to the instrument, and imparting the ‘all-in’ copying method to colleagues in chamber music settings. The recorded portfolio uses a ‘live’ experimental lo-fi recording method similar to that encountered by many of the historical performers copied, in order to gain insights into how the original recordings were made, and how recording technologies and methods impact the decisions they, and we, make. This study is the first documented approach, in both kind and scale, to copying early-recorded viola solo, duo and string quartet performances, demonstrating the viability of incorporating extremely idiosyncratic and non-score-based practices in single- and multi-player contexts alike. 
+ 	I copied recordings by the violists Oskar Nedbal, Léon Van Hout, Arthur Post and Lionel Tertis, as well as the Haagsche Toonkunstkwartet, Brüder-Post, Klingler and Czech Quartets. My performances and recordings demonstrate a number of radically alternative approaches to canonic Western Art Music repertoires, closing the gap between viola and string quartet practices both past and present, and rejuvenating the more personal, intimate and communicative playing styles heard on early recordings.</ddi:abstract>
+         <ddi:sumDscr/>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:conditions xml:lang="en">License: http://creativecommons.org/publicdomain/zero/1.0</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

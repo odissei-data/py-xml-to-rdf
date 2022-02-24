@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:32034</identifier>
+    <datestamp>2021-04-15T21:05:29Z</datestamp>
+    <setSpec>D60000:D61000</setSpec>
+    <setSpec>driver</setSpec>
+    <setSpec>D50000:D52000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Cultuureducatie en cultuurparticipatie 1992</ddi:titl>
+            <ddi:parTitl xml:lang="en">Cultural education and cultural participation 1992</ddi:parTitl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:32034</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-z7c-xsba</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Rijksuniversiteit Utrecht * Utrecht, Vakgroep sociologie">Ganzeboom, H.B.G. DAI=info:eu-repo/dai/nl/070016992</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Katholieke Universiteit Nijmegen * Nijmegen, Vakgroep sociologie">Ranshuysen, L.</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Ministerie van welzijn, volksgezondheid en cultuur, WVC * Rijswijk (research initiator)</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Vakgroep sociologie * Nijmegen, Katholieke Universiteit Nijmegen (data collector)</ddi:AuthEnty>
+            <ddi:othId xml:lang="en" role="contributor">Radboud Universiteit Nijmegen</ddi:othId>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="1994-01-01"/>
+            <ddi:distDate xml:lang="en" date="2007-07-23"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">education</ddi:keyword>
+            <ddi:keyword xml:lang="en">arts &amp; culture</ddi:keyword>
+            <ddi:keyword xml:lang="en">education</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Educational theory</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Sociology</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Cultural education and cultural participation. Visiting historical places and museums / type of visited museum / frequency of visiting museums / name of museum respondent visited in Amsterdam / age at which respondent visited a museum for the first time / visits to museums during primary school period / being informed during primary school period about art and artists / interest in art in general / watching tv programs about art / reading reviews about exhibitions / collection of art books with reproductions / attitude towards modern art / preferred type of music / extent of record collection and type of record collection / frequency of going to a concert / type of concert respondent attended and in which type of institute, and names of institutes in Amsterdam / attending performances of classical music, opera, light opera and ballet / whether respondent went to performances during primary school period / whether at primary school period attention was paid to classical music / name of school respondent attended in Amsterdam between 10 and 12 years / whether respondent attended and remembers the special 'listening-to-music' lessons at the primary school and their influence on respondent / importance of music education at school / whether respondent participated in and remembers visits to museums organized by primary school staff and their influence on respondent / importance of art education at school / cultural activities at secondary school and respondents participation in it, like school choir, school orchestra, schoolband, acting lessons, art lessons like painting and drawing, film-photography lessons, excursions to concerts, theatre, museums, performances at school by writers and poets / participation in cultural activities not organized at secondary school, and after the secondary school period / playing a musical instrument and type of instrument / singing in a choir and type of choir / cultural activities of parents / book and record collection of parents / speaking of foreign languages by parents / whether in parental home musical instruments were played / cultural activities of brothers and sisters. Background variables: basic characteristics / residence / household characteristics / occupation / employment / education</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1963 * 1992</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">OPEN_ACCESS_FOR_REGISTERED_USERS</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

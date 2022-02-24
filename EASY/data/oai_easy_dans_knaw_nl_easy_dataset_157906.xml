@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:157906</identifier>
+    <datestamp>2021-04-15T21:08:04Z</datestamp>
+    <setSpec>D30000:D36000</setSpec>
+    <setSpec>driver</setSpec>
+    <setSpec>D50000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">NGT-SRT</ddi:titl>
+            <ddi:parTitl xml:lang="en">A Sentence Repetition Task for Sign Language of the Netherlands (NGT)</ddi:parTitl>
+            <ddi:parTitl xml:lang="en">A Sentence Repetition Task for Sign Language of the Netherlands (NGT)</ddi:parTitl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-xdy-eny6</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:157906</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en">Schüller, A.</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University">Ormel, dr. E.A. DAI=info:eu-repo/dai/nl/298980096</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University">Crasborn, prof. dr. O.A. DAI=info:eu-repo/dai/nl/236136321</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt/>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">sign language</ddi:keyword>
+            <ddi:keyword xml:lang="en">L2 acquisition</ddi:keyword>
+            <ddi:keyword xml:lang="en">sentence reproduction task</ddi:keyword>
+            <ddi:keyword xml:lang="en">sentence repetition task</ddi:keyword>
+            <ddi:keyword xml:lang="en">language test</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Humanities</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Language and literature studies</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Behavioural and educational sciences</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Like for most signed languages, there is great variation in sign language fluency amongst Deaf users of Sign Language of the Netherlands (NGT). This relates, for example, to the age of acquisition of NGT, the type of education followed by the signer, and whether the signer grew up with hearing or deaf family members. Given the lack of suitable language assessment tools available to tap into this variation in NGT fluency in adults (L1/L2), we developed an efficient (short and simple) NGT assessment tool. After exploring the range of existing assessment tools as described by Enns et al. (2016), we developed a sentence repetition task (SRT) for NGT, the NGT-SRT. In line with the existing SRTs (ASL-SRT, Hauser et al., 2006; BSL-SRT, Cormier et al., 2012; DSGS-SRT, Haug et al. 2015), thirty-nine sentences were created, varying in length and complexity. The different levels of complexity were developed conform a combination of guidelines for the existing SRTs in signed languages, guidelines developed by Mayberry (unpublished) for a related test, and guidelines developed in the European COST project, which focused on SRTs in spoken languages: Action IS0804, described by Marinis and Armon-Lotem (2016). The thirty-nine sentences were equally distributed across three levels of complexity.</ddi:abstract>
+         <ddi:sumDscr/>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">OPEN_ACCESS_FOR_REGISTERED_USERS</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="Sign Language of the Netherlands"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

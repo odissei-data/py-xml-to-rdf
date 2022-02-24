@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:213225</identifier>
+    <datestamp>2021-08-05T05:45:05Z</datestamp>
+    <setSpec>D30000:D36000</setSpec>
+    <setSpec>driver</setSpec>
+    <setSpec>D60000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Speech data collection at a distance: Comparing the reliability of acoustic cues across homemade recordings</ddi:titl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-xk4-kzzr</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:213225</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University">Zhang, dr. C. DAI=info:eu-repo/dai/nl/429078765</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University">Jepson, dr. K.M. DAI=info:eu-repo/dai/nl/429078935</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Lohfink, G.</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University">Arvaniti, prof. dr. A. DAI=info:eu-repo/dai/nl/142939730</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt/>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">acoustic analysis</ddi:keyword>
+            <ddi:keyword xml:lang="en">recording methods</ddi:keyword>
+            <ddi:keyword xml:lang="en">mobile recording</ddi:keyword>
+            <ddi:keyword xml:lang="en">remote data collection</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Humanities</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Language and literature studies</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Social sciences</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">This dataset contains the supporting data for the presentation at the 179th Meeting of the Acoustical Society of America:
+Zhang, C., Jepson, K.M., Lohfink, G. &amp; Arvaniti, A. (2020). Speech data collection at a distance: Comparing the reliability of acoustic cues across homemade recordings. The Journal of the Acoustical Society of America, 148 (4). doi: 10.1121/1.5147535
+
+It is also related to the following article:
+Zhang, C., Jepson, K.M., Lohfink, G. &amp; Arvaniti, A. (2021). Comparing acoustic analyses of speech data collected remotely. The Journal of the Acoustical Society of America, 149 (6), 3910-3916. doi: 10.1121/10.0005132
+
+Speech production data collection has been significantly impacted by COVID-19 restrictions. Sound-treated recording spaces and high-quality recording devices are inaccessible, and face-to-face interactions are limited. We investigated alternative recording methods that produce data suitable for phonetic analysis, and are accessible to people in their homes. We examined simultaneous recordings of pure tones at seven frequencies (50 Hz, every 100 Hz between 100 Hz and 600 Hz), and three repetitions of the primary cardinal vowels elicited from five trained speakers. Recordings were made using the ZOOM meeting application and non-lossy format smartphone applications (Awesome Voice Recorder, Recorder), comparing these with Zoom H6N reference recordings. F0, F1-4, and duration based on manual segmentation were measured.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">Collection period: start=2020-07-15; end=2020-09-01;</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">OPEN_ACCESS_FOR_REGISTERED_USERS</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="English"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:31988</identifier>
+    <datestamp>2021-04-15T21:05:27Z</datestamp>
+    <setSpec>D50000:D51000</setSpec>
+    <setSpec>driver</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Persoonlijkheidskenmerken en causale attributies 1987</ddi:titl>
+            <ddi:parTitl xml:lang="en">Personality characteristics and causal attributions 1987</ddi:parTitl>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:31988</ddi:IDNo>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-xqk-9xjj</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Katholieke Universiteit Nijmegen * Nijmegen, Instituut algemene onderwijskunde voor de lerarenopleiding, AOLO">Bergen, TH.</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Katholieke Universiteit Nijmegen * Nijmegen, Instituut algemene onderwijskunde voor de lerarenopleiding, AOLO">Hertog, P.C. den</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en">Instituut algemene onderwijskunde voor de lerarenopleiding, AOLO, KUN * Nijmegen (data collector)</ddi:AuthEnty>
+            <ddi:othId xml:lang="en" role="contributor">Radboud Universiteit Nijmegen</ddi:othId>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="1991-01-01"/>
+            <ddi:distDate xml:lang="en" date="2007-07-16"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">psychology</ddi:keyword>
+            <ddi:keyword xml:lang="en">occupation</ddi:keyword>
+            <ddi:keyword xml:lang="en">personality</ddi:keyword>
+            <ddi:keyword xml:lang="en">psychologie</ddi:keyword>
+            <ddi:keyword xml:lang="en">beroep</ddi:keyword>
+            <ddi:keyword xml:lang="en">persoonlijkheid</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Psychology</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Individual differences in teachers of secondary education in their assessment of and behaviour in educational situations. self-perception of functioning in occupation: pupils, parents of pupils, colleagues, didactic skills / experience with stress, eventually caused by job / statements about job-satisfaction, comparison with other colleagues, influence of teacher on motivation of pupils, personal behaviour in contacts with pupils, colleagues, school authorities, style of teaching and its short-comings, conflict-handling / factors of importance in job: good results of pupils, motivated pupils, nice colleagues / general personality characteristics test, often used for judgements about qualities for job / number of lesson-hours per week / working on which school types / section where respondent to belongs / questionnaire of educational situations: six situations and three types of questions 1 ) types of causes of situation 2 ) types of explanations for a development of a situation 3 ) expected reaction of the teacher on the situation / evaluation of the questionnaires: time spend, where has respondent completed the questionnaires, difficulties with completing the questionnaire Background variables: basic characteristics/ education</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1987</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">OPEN_ACCESS_FOR_REGISTERED_USERS</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

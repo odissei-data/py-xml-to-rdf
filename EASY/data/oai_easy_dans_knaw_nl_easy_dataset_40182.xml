@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:40182</identifier>
+    <datestamp>2021-04-15T21:06:43Z</datestamp>
+    <setSpec>driver</setSpec>
+    <setSpec>D30000:D34000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Reading culture in the Netherlands, 1807-1809 and 1847-1849</ddi:titl>
+            <ddi:parTitl xml:lang="en">Leescultuur 1807-1809 en 1847-1849</ddi:parTitl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-xa5-v2k4</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:40182</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en">Drs G.C. Schulte Nordholt, Universiteit Utrecht, Onderzoeksinstituut voor Geschiedenis en Cultuurtrecht</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt>
+            <ddi:distDate xml:lang="en" date="1997-05-23"/>
+            <ddi:distDate xml:lang="en" date="2007-01-31"/>
+         </ddi:distStmt>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">cultural history</ddi:keyword>
+            <ddi:keyword xml:lang="en">academic addresses</ddi:keyword>
+            <ddi:keyword xml:lang="en">bibliographies</ddi:keyword>
+            <ddi:keyword xml:lang="en">biographic data</ddi:keyword>
+            <ddi:keyword xml:lang="en">bookprices</ddi:keyword>
+            <ddi:keyword xml:lang="en">bookshops</ddi:keyword>
+            <ddi:keyword xml:lang="en">booktrade</ddi:keyword>
+            <ddi:keyword xml:lang="en">buyers</ddi:keyword>
+            <ddi:keyword xml:lang="en">clientele</ddi:keyword>
+            <ddi:keyword xml:lang="en">demographic data</ddi:keyword>
+            <ddi:keyword xml:lang="en">fortune</ddi:keyword>
+            <ddi:keyword xml:lang="en">literature</ddi:keyword>
+            <ddi:keyword xml:lang="en">members of parliament</ddi:keyword>
+            <ddi:keyword xml:lang="en">membership lists</ddi:keyword>
+            <ddi:keyword xml:lang="en">occupations</ddi:keyword>
+            <ddi:keyword xml:lang="en">prosopography</ddi:keyword>
+            <ddi:keyword xml:lang="en">spendings</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">History</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">Investigated is the size, structure and consumption of literature and popular "pulp" of the Dutch population in the beginning of the 19th century. The public `reading' behaviour is the main theme of the dataset. It is separated in data on the readers and on the transactions of literature from the client books of the bookshop Van Benthem in Middelburg. The whole dataset is divided in two periods: 1807-1809 and 1847-1849. For both periods data are collected about the clients, the transactions and the titles that are bought. Besides these main files, also data on occupations, addresses, relationships of clients and data from several membership lists are collected. The files in this dataset are available by a special program which is made for the research project of the Research Institute of History and Culture (OGC: `Onderzoeksinstituut voor Geschiedenis en Cultuur') in Utrecht. Two files are not documented here because they are used for arithmetical purposes.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">1807 - 1809</ddi:collDate>
+            <ddi:collDate event="single">1807 - 1849</ddi:collDate>
+            <ddi:collDate event="single">1847 - 1849</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:conditions xml:lang="en">License: http://creativecommons.org/publicdomain/zero/1.0</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="nl"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

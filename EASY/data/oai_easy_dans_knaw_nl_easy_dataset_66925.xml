@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:66925</identifier>
+    <datestamp>2021-04-15T21:07:33Z</datestamp>
+    <setSpec>D30000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Arab-West Report 2002 Weeks 04-52: In- depth coverage of Coptic affairs, Inter-Religious Dialogue and Media Criticism</ddi:titl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-z6g-ysak</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:66925</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Center for Intercultural Dialogue and Translation (CIDT)">Hulsman, Drs. C.</ddi:AuthEnty>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Center for Intercultural Dialogue and Translation (CIDT)">Sparks, MA M.R.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor">Strengholt, J.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor">Yanni, R.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor">Zarqah, P.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor">‘Abd al-Salam, Dr. K.B.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor">Shamir, I.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor">Jensen, H.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor">Reeves, P.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor">Smucker, P.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor">Perry, P.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor">Fowler, M.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor">Sabah, M.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Leiden University">Abū Zayd, Dr. N.Ḥ.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Watani">Sidhom, Y.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Religious News Service from the Arab-World (RNSAW)">Fawzi, N.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor">Patten, C.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor">Reiss, Dr. Rev. W.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor">Meinardus, Dr. O.F.A.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Monastery of Makarios">al-Maqārī, Fr. B.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Center for Arab-West Understanding (CAWU)">Kazanjian, C.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor" affiliation="Arab-West Report (AWR)">Jabra, J.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor">al-Qimni, S.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor">Yanni, M.M.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor">Grafton, Dr. Rev. D.D.</ddi:othId>
+            <ddi:othId xml:lang="en" role="contributor">Shelley, Dr. M.</ddi:othId>
+         </ddi:rspStmt>
+         <ddi:distStmt/>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">Coptic affairs</ddi:keyword>
+            <ddi:keyword xml:lang="en">Inter-Religious Dialogue</ddi:keyword>
+            <ddi:keyword xml:lang="en">Media Criticism</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Humanities</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">This dataset consists of the articles and reports of the RNSAW content that were published in the year 2002. As previously noted that at the time the articles were published, Arab-West Report did not exist. Religious News Service from the Arab World, the organization which would ultimately become Arab-West Report, published the following documents.
+
+The dataset contains primarily the writings of Cornelis Hulsman, Drs., reporting on Christians situation in Egypt and subjects related to the Copts in the US with a number of editorials serve as a media critique of the Coptic organizations press releases issued abroad and other articles published in the local Egyptian newspapers.
+
+The reports covered the following topics:
+
+  -  A report that addressed a conflict between the Coptic Orthodox and Brethren Churches in Al- Ashmonein and described the relations between the two denomination there as “tense”.
+
+- A critique of what the authored believed as” Distorted Reporting” About Coptic Christians in Egypt. The three authors criticized a report in the Layman, an American Presbyterian publication, claiming Christians in Egypt are persecuted. They believe the author of this article was ill-informed and provided readers with wrong information.
+
+-  An overview of the contents of the three books about Coptic Orthodox ecclesiastical law, published by the Monastery of Makarios.
+
+- A List of Churches in Assiut Governorate for Which Governorate Decrees For Restoration And Presidential Decrees For Building And Renovated Were Issued.
+
+-An overview of the activities of the Coptic Catholic peace movement, Justice and Peace in Egypt
+
+Media critique:
+
+Press release of the US Copts Association about the decision of the governor of Assiut instructing to remove an illegally built section of the church which the association does not mention and thereby providing only part of the information needed to form an accurate picture of this issue. The press release is also very aggressive in the last paragraph where it calls the governor an Islamic extremist.
+
+-  Criticizing the press release of the US Copts Association. Some Copts frequently resort to claims of Islamic extremism if they are dissatisfied with the decisions made.
+
+- An Interview with Bishop Marcos about the Succession of Pope Shenouda, Father Matta Al-Meskeen, Ecommunications and Other Subjects. In Addition to that the dataset included an Interview with Father Johanna and Father Basilius of the Monastery of Makarios.
+
+-Summary of the Ph.D. thesis of Revd. Dr. Wolfram Reiss about the Sunday School movement in the Coptic Orthodox Church with a focus on the role of Pope Shenouda III and Father Matta el-Meskeen and the place of the church in a Muslim society. Reiss´ study provides an excellent insight into the contemporary history of the church and explains differences between church leaders in the past decades. 
+
+- A crisis in the Egyptian Church Resulting from an article in the Sunday School magazine requesting the pope to avoid public [political] activities.
+
+-A text of the statement of the Anglican/Al-Azhar Dialogue Commission
+
+- Egyptian TV Addresses Inter-Religious Dialogue
+
+-Egyptian Cultural TV broadcasted on October 27 a live discussion with Patrick Haenni, social researcher at the CEDEJ in Cairo and Cornelis Hulsman, Drs., on inter-religious dialogue.
+
+A report about A group of Germans belonging to the YMCA [Young Men´s Christian Association] and Evangelical Church of Saxony, Germany [Evangelische Kirche Deutschland] who discovered a very different Christian Egypt from what they had expected from press reports in their home country. The group had followed the trail of the Holy Family between Beni Suef and Assiut and met with many different people.
+
+- A report about a claimed apparition of the Holy Virgin In Giza
+
+- An analysis of the Arab and Western Press in terms of the biases of the Western media and the limits imposed on political and freedom press in Egypt.
+
+- A report about Dr. Naṣr Ḥāmid Abū Zayd, sympathizer and supporter of the RNSAW, receiving the Franklin Delano Roosevelt prize for his contribution to the Freedom of Worship
+
+- Media criticism of ‘Reckless, Anti-Islamic Statement’ of major US Christian leader.
+
+- An evaluation of the RNSAW workshop for Egyptian journalists. The report shed light on the objectives and program of a RNSAW workshop for Egyptian journalists in cooperation with the Al-Ahram Institute for Regional Journalism. The workshop was  financed by the Dutch Embassy and Friedrich Ebert Stiftung and covered human rights issues, women, Western and Arab media, freedom of expression and reporting about the Israel-Palestinian conflict.
+
+- The Dialogue Agreement between the Azhar and the Church of England
+
+The authors of this material include Cornelis Hulsman, Drs.,  Jos Strengholt, Rudolph Yanni, Peter Zarqah, Dr. Kamal Burayqa‘ ‘Abd al-Salam, Israel Shamir, Holger Jensen, Phil Reeves,  Philip Smucker, Paul Perry, Michael Fowler, Michael Sabah, Dr. Naṣr Ḥāmid Abū Zayd, Yusuf Sidhom, Nirmin Fawzi, Chris Patten, Wolfram Reiss, Otto Fridrich Augustus Meinardus, Basilius al-Maqārī, Corin Kazanjian,  Jawdat Jabrah, Sayyid al-Qimni, Majid Musá Yanni, Rev. Dr. David D. Grafton, Rev. Dr. Mikhael Shelley.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">2002</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">REQUEST_PERMISSION</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="en"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>

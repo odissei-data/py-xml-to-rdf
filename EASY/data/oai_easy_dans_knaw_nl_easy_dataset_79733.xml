@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?><record xmlns="http://www.openarchives.org/OAI/2.0/">
+  <header>
+    <identifier>oai:easy.dans.knaw.nl:easy-dataset:79733</identifier>
+    <datestamp>2021-04-15T21:07:46Z</datestamp>
+    <setSpec>D50000:D51000</setSpec>
+    <setSpec>D60000</setSpec>
+    <setSpec>easy-collection:7</setSpec>
+  </header>
+  <metadata>
+<ddi:codeBook xmlns:ddi="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xml:lang="en">
+   <ddi:docDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl/>
+         </ddi:titlStmt>
+         <ddi:prodStmt>
+            <ddi:producer xml:lang="en">DANS-KNAW</ddi:producer>
+         </ddi:prodStmt>
+         <ddi:holdings xml:lang="en" URI="http://easy.dans.knaw.nl"/>
+      </ddi:citation>
+   </ddi:docDscr>
+   <ddi:stdyDscr>
+      <ddi:citation>
+         <ddi:titlStmt>
+            <ddi:titl xml:lang="en">Dataset belonging to Participant roles of bullying in adolescence: Status characteristics, social behavior, and assignment criteria (2016)</ddi:titl>
+            <ddi:IDNo agency="DOI">https://doi.org/10.17026/dans-xbu-d29e</ddi:IDNo>
+            <ddi:IDNo agency="DANS-KNAW">oai:easy.dans.knaw.nl:easy-dataset:79733</ddi:IDNo>
+         </ddi:titlStmt>
+         <ddi:rspStmt>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University">Pouwels, dr. J.L. DAI=info:eu-repo/dai/nl/369260600</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University">Lansu, dr. T.A.M. DAI=info:eu-repo/dai/nl/316290483</ddi:AuthEnty>
+            <ddi:AuthEnty xml:lang="en" affiliation="Radboud University">Cillessen, prof. dr. A.H.N. DAI=info:eu-repo/dai/nl/083330704</ddi:AuthEnty>
+         </ddi:rspStmt>
+         <ddi:distStmt/>
+      </ddi:citation>
+      <ddi:stdyInfo>
+         <ddi:subject>
+            <ddi:keyword xml:lang="en">bullying</ddi:keyword>
+            <ddi:keyword xml:lang="en">victimization</ddi:keyword>
+            <ddi:keyword xml:lang="en">participant roles</ddi:keyword>
+            <ddi:keyword xml:lang="en">assignment criteria</ddi:keyword>
+            <ddi:keyword xml:lang="en">sociometric methods</ddi:keyword>
+            <ddi:keyword xml:lang="en">peer assessment</ddi:keyword>
+            <ddi:keyword xml:lang="en">social status</ddi:keyword>
+            <ddi:keyword xml:lang="en">Nijmegen Longitudinal Study</ddi:keyword>
+            <ddi:keyword xml:lang="en">social preference</ddi:keyword>
+            <ddi:keyword xml:lang="en">popularity</ddi:keyword>
+            <ddi:keyword xml:lang="en">social behavior</ddi:keyword>
+            <ddi:keyword xml:lang="en">development</ddi:keyword>
+            <ddi:keyword xml:lang="en">adolescents</ddi:keyword>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Psychology</ddi:topcClas>
+            <ddi:topcClas xml:lang="en" vocab="NARCIS-classification" vocabURI="http://www.narcis.nl/classification">Social sciences</ddi:topcClas>
+         </ddi:subject>
+         <ddi:abstract xml:lang="en">This study had three goals. First, we examined the prevalence of the participant roles of bullying in middle adolescence and possible gender differences therein. Second, we examined the behavioral and status characteristics associated with the participant roles in middle adolescence. Third, we compared two sets of criteria for assigning students to the participant roles of bullying. A description of the selection of the participants can found in '2016_Pouwels_Participant Roles_read me.pdf'. We conducted the final analyses based on a sample of 1,638 adolescents (50.9% boys, Mage=16.38 years, SD=.80) who completed the shortened participant role questionnaire and peer nominations for peer status and behavioral characteristics.  All information about the content of the codebook, datafiles and syntax files is described in '2016_Pouwels_Participant Roles_read me.pdf'. All information about the recruitment, participants and data collection can also be found in '2016_Pouwels_Participant Roles_read me.pdf'.  The description of data processing can be found in “2016_Pouwels_Participant Roles_Description Data Processing.pdf”.</ddi:abstract>
+         <ddi:sumDscr>
+            <ddi:collDate event="single">Collection period: start=2013-10-01; end=2014-04-30;</ddi:collDate>
+         </ddi:sumDscr>
+      </ddi:stdyInfo>
+      <ddi:dataAccs>
+         <ddi:useStmt>
+            <ddi:restrctn xml:lang="en">REQUEST_PERMISSION</ddi:restrctn>
+            <ddi:conditions xml:lang="en">License: https://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf</ddi:conditions>
+         </ddi:useStmt>
+      </ddi:dataAccs>
+   </ddi:stdyDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="Dutch"/>
+   </ddi:fileDscr>
+   <ddi:fileDscr>
+      <ddi:fileTxt xml:lang="English"/>
+   </ddi:fileDscr>
+</ddi:codeBook>
+  </metadata>
+</record>
